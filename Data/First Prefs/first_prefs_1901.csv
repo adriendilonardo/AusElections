@@ -1,0 +1,162 @@
+State,Division,Candidate,Party,Votes,Percent
+NSW,Barrier,"LONG, Benjamin",IND,670,12.6
+NSW,Barrier,"THOMAS, Josiah",ALP,4649,87.4
+NSW,Bland,"HEFFERNAN, Patrick",IND,2271,31.6
+NSW,Bland,"LUCAS, William",FT,792,11.0
+NSW,Bland,"WATSON, Chris",ALP,4132,57.4
+NSW,Canobolas,"BROWN, Thomas",ALP,4120,54.2
+NSW,Canobolas,"DALVEEN, Thomas",IND,54,0.7
+NSW,Canobolas,"MELVILLE, William",IND,153,2.0
+NSW,Canobolas,"WISE, Hon Bernhard",Prot,3278,43.1
+NSW,Cowper,"CLARKE, Francis",Prot,3267,38.3
+NSW,Cowper,"DAVIDSON, Ralph",FT,2866,33.6
+NSW,Cowper,"MCKINNON, Hugh",IND,2387,28.0
+NSW,Dalley,"COHEN, Isaiah",Prot,3081,28.4
+NSW,Dalley,"LAW, Sydney",ALP,2245,20.7
+NSW,Dalley,"WILKS, William",FT,5507,50.8
+NSW,Darling,"BERTRAM, Thomas",FT,1537,31.0
+NSW,Darling,"QUINN, Patrick",Prot,1221,24.6
+NSW,Darling,"SPENCE, William",ALP,2206,44.4
+NSW,East Sydney,"CLEARY, John",IND,517,5.7
+NSW,East Sydney,"FORAN, Harry",IND,2139,23.5
+NSW,East Sydney,"REID, Rt Hon George",FT,6191,68.0
+NSW,East Sydney,"TOOMEY, James",IND,253,2.8
+NSW,Eden-Monaro,"CHAPMAN, Austin",IND,5451,64.2
+NSW,Eden-Monaro,"WOOD, William",IND,3041,35.8
+NSW,Gwydir,"BUCHANAN, William",IND,157,2.4
+NSW,Gwydir,"CRUICKSHANK, George",Prot,3522,54.9
+NSW,Gwydir,"FOXALL, Edward",FT,871,13.6
+NSW,Gwydir,"WEBSTER, William",ALP,1869,29.1
+NSW,Hume,"GODDARD, William",FT,3359,45.9
+NSW,Hume,"LYNE, Hon Sir William",Prot,3965,54.1
+NSW,Hunter,"BARTON, Rt Hon Edmund",Prot,Unopposed,100.0
+NSW,Illawarra,"FULLER, George",FT,5788,56.9
+NSW,Illawarra,"HAY, Alexander",Prot,3693,36.3
+NSW,Illawarra,"LYSAGHT, Andrew",IND,689,6.8
+NSW,Lang,"EDWARDS, James",Prot,1801,18.0
+NSW,Lang,"MCLEAN, Francis",FT,7449,74.5
+NSW,Lang,"MITCHELL, James",IND,111,1.1
+NSW,Lang,"WATSON, James",ALP,632,6.3
+NSW,Macquarie,"FERGUSON, William",Prot,3285,46.1
+NSW,Macquarie,"SMITH, Sydney",FT,3846,53.9
+NSW,New England,"LONSDALE, Edmund",FT,3955,44.6
+NSW,New England,"SAWERS, William",Prot,4063,45.8
+NSW,New England,"SIMPSON, George",IND,845,9.5
+NSW,Newcastle,"BAILEY, John",IND,95,0.8
+NSW,Newcastle,"GILBERT, Owen",FT,4072,34.9
+NSW,Newcastle,"WATKINS, David",ALP,7495,64.3
+NSW,North Sydney,"CLARK, Edward",IND,4315,39.6
+NSW,North Sydney,"THOMSON, Dugald",FT,6584,60.4
+NSW,Parkes,"BURNS, George",IND,413,4.1
+NSW,Parkes,"SMITH, Bruce",FT,7321,73.1
+NSW,Parkes,"THOMPSON, Robert",Prot,2284,22.8
+NSW,Parramatta,"COOK, Hon Joseph",FT,5778,61.3
+NSW,Parramatta,"SANDFORD, William",Prot,3646,38.7
+NSW,Richmond,"EWING, Thomas",Prot,3646,55.3
+NSW,Richmond,"PYERS, Robert",IND,2942,44.7
+NSW,Riverina,"ASHTON, James",FT,2850,46.5
+NSW,Riverina,"CHANTER, John",Prot,3275,53.5
+NSW,Robertson,"FITZGERALD, John",Prot,3307,47.0
+NSW,Robertson,"WILLIS, Henry",FT,3735,53.0
+NSW,South Sydney,"EDWARDS, George",FT,4693,41.4
+NSW,South Sydney,"HOYLE, Henry",IND,2334,20.6
+NSW,South Sydney,"MCGOWEN, James",ALP,4314,38.0
+NSW,Wentworth,"GANNON, John",Prot,2915,31.6
+NSW,Wentworth,"MCMILLAN, Hon Sir William",FT,6315,68.4
+NSW,Werriwa,"CONROY, Alfred",FT,4025,51.9
+NSW,Werriwa,"ROSE, Thomas",Prot,3731,48.1
+NSW,West Sydney,"BEER, James",Prot,2062,22.9
+NSW,West Sydney,"HANRAHAN, James",IND,307,3.4
+NSW,West Sydney,"HUGHES, Billy",ALP,6652,73.7
+VIC,Balaclava,"TURNER, Rt Hon Sir George",Prot,Unopposed,100.0
+VIC,Ballaarat,"DEAKIN, Hon Alfred",Prot,4655,74.5
+VIC,Ballaarat,"VALE, Richard",IND,1594,25.5
+VIC,Bendigo,"QUICK, Sir John",Prot,Unopposed,100.0
+VIC,Bourke,"HUME-COOK, James",Prot,3021,34.6
+VIC,Bourke,"HANNAH, Martin",ALP,1559,17.8
+VIC,Bourke,"HICKFORD, Frederick",FT,2343,26.8
+VIC,Bourke,"MIRAMS, James",IND,676,7.7
+VIC,Bourke,"ROSE, James",IND,1138,13.0
+VIC,Corangamite,"MANIFOLD, Chester",Prot,3886,72.2
+VIC,Corangamite,"WOODS, John",IND,1495,27.8
+VIC,Corinella,"FITZGERALD, Hon Nicholas",FT,2723,41.5
+VIC,Corinella,"MCCAY, James",Prot,3836,58.5
+VIC,Corio,"BOYD, James",FT,867,13.4
+VIC,Corio,"CROUCH, Richard",Prot,2710,41.8
+VIC,Corio,"LEVIEN, Jonas",IND,1580,24.4
+VIC,Corio,"MCNAUGHTON, Angus",IND,1321,20.4
+VIC,Echuca,"HIRSCH, Max",FT,3091,46.0
+VIC,Echuca,"MCCOLL, James",Prot,3632,54.0
+VIC,Flinders,"DOWNWARD, Alfred",IND,1489,26.1
+VIC,Flinders,"GROOM, Arthur",FT,2272,39.9
+VIC,Flinders,"SMITH, Louis",Prot,1939,34.0
+VIC,Gippsland,"MCLEAN, Hon Allan",Prot,Unopposed,100.0
+VIC,Grampians,"RINDER, Alfred",Prot,1934,36.8
+VIC,Grampians,"SKENE, Thomas",FT,2576,49.0
+VIC,Grampians,"WETTENHALL, Holford",IND,745,14.2
+VIC,Indi,"ASHWORTH, Thomas",FT,2058,34.9
+VIC,Indi,"ISAACS, Hon Isaac",Prot,3839,65.1
+VIC,Kooyong,"FINK, Theodore",Prot,3026,33.5
+VIC,Kooyong,"KNOX, William",FT,5193,57.4
+VIC,Kooyong,"ROGERS, John",IND,821,9.1
+VIC,Laanecoorie,"SALMON, Dr Charles",Prot,3054,52.1
+VIC,Laanecoorie,"GROSE, Walter",IND,2810,47.9
+VIC,Melbourne,"MCEACHARN, Sir Malcolm",Prot,4985,60.8
+VIC,Melbourne,"MALONEY, Dr William",ALP,3212,39.2
+VIC,Melbourne Ports,"MAUGER, Samuel",Prot,Unopposed,100.0
+VIC,Mernda,"HARPER, Robert",Prot,2601,45.3
+VIC,Mernda,"HUNT, Thomas",IND,2110,37.8
+VIC,Mernda,"STOTT, Sydney",IND,1026,17.9
+VIC,Moira,"KENNEDY, Thomas",Prot,2883,56.2
+VIC,Moira,"WEST, John",FT,2251,43.8
+VIC,Northern Melbourne,"BARR, Robert",Prot,1767,21.0
+VIC,Northern Melbourne,"HIGGINS, Henry",IND,4958,59.0
+VIC,Northern Melbourne,"SELBY, Isaac",IND,1681,20.0
+VIC,Southern Melbourne,"GAUNSON, David",IND,513,6.5
+VIC,Southern Melbourne,"MCARTHUR, Donald",Prot,2256,28.8
+VIC,Southern Melbourne,"RONALD, James",ALP,3211,40.9
+VIC,Southern Melbourne,"SUTHERLAND, Alexander",FT,1865,23.8
+VIC,Wannon,"COOKE, Samuel",FT,3088,44.8
+VIC,Wannon,"CUSSEN, Leo",IND,1913,27.8
+VIC,Wannon,"HORWITZ, Louis",Prot,1890,27.4
+VIC,Wimmera,"IRVINE, William",FT,1832,38.0
+VIC,Wimmera,"PHILLIPS, Hon Pharez",Prot,2372,49.2
+VIC,Wimmera,"WILLIAM, Henry",IND,617,12.8
+VIC,Yarra,"GAHAN, John",IND,1043,10.9
+VIC,Yarra,"O'CONNOR, Patrick",IND,2631,27.4
+VIC,Yarra,"TUDOR, Frank",ALP,3174,33.1
+VIC,Yarra,"WILSON, William",Prot,2745,28.6
+QLD,Brisbane,"BUZACOTT, Charles",IND,1538,21.5
+QLD,Brisbane,"GUILFOYLE, D H",ALP,2273,31.7
+QLD,Brisbane,"MACDONALD-PATERSON, Thomas",IND,3351,46.8
+QLD,Capricornia,"NELSON, Wallace",ALP,3493,49.0
+QLD,Capricornia,"PATERSON, Alexander",IND,3632,51.0
+QLD,Darling Downs,"GROOM, William",IND,4685,78.5
+QLD,Darling Downs,"RANSOME, Horace",IND,1283,21.5
+QLD,Herbert,"BAMFORD, Frederick",ALP,3353,51.6
+QLD,Herbert,"BROWN, William",IND,3140,48.4
+QLD,Kennedy,"BARNETT, M",IND,2325,37.1
+QLD,Kennedy,"MCDONALD, Charles",ALP,3936,62.9
+QLD,Maranoa,"BUNNING, G E",IND,2629,46.7
+QLD,Maranoa,"PAGE, James",ALP,2998,53.3
+QLD,Moreton,"DARVALL, A W",IND,2099,32.2
+QLD,Moreton,"KELLETT, William",IND,149,2.3
+QLD,Moreton,"KRETSCHMER, E",IND,301,4.6
+QLD,Moreton,"NEILSON, R D",IND,114,1.7
+QLD,Moreton,"MAUGHAN, William Ryott",IND,1296,19.9
+QLD,Moreton,"WILKINSON, James",IND,2569,39.4
+QLD,Oxley,"EDWARDS, Richard",Prot,3753,53.2
+QLD,Oxley,"TURLEY, Henry",ALP,3299,46.8
+QLD,Wide Bay,"ANNEAR, John",IND,3955,44.6
+QLD,Wide Bay,"FISHER, Andrew",ALP,4910,55.4
+WA,Coolgardie,"ARCHIBALD, John",FT,2974,47.2
+WA,Coolgardie,"MAHON, Hugh",ALP,3329,52.8
+WA,Fremantle,"ADCOCK, W E",IND,102,2.0
+WA,Fremantle,"JONES, Charles",IND,262,5.2
+WA,Fremantle,"O'BIERNE, T",ALP,1831,36.2
+WA,Fremantle,"SOLOMON, Elias",FT,2870,56.7
+WA,Kalgoorlie,"HOPKINS, John",IND,3015,35.9
+WA,Kalgoorlie,"KIRWAN, John",FT,5374,64.1
+WA,Perth,"CAVANAGH, Michael",Prot,2310,40.9
+WA,Perth,"FOWLER, James",ALP,3334,59.1
+WA,Swan,"FORREST, Rt Hon Sir John",Prot,Unopposed,100.0

@@ -1,0 +1,200 @@
+State,Division,Candidate,Party,Votes,Percent
+NSW,Barton,"LAMOND, Hon Hector",NAT,9828,42.4
+NSW,Barton,"MCDONALD, Frederick",ALP,13349,57.6
+NSW,Calare,"HOWSE, Sir Neville",NAT,8449,34.6
+NSW,Calare,"LAVELLE, Thomas",ALP,10263,42.0
+NSW,Calare,"PIGOTT, Henry",CP,5278,21.6
+NSW,Calare,"SIGGINS, Selina",CP,421,1.7
+NSW,Cook,"CATTS, James",IND,3122,13.9
+NSW,Cook,"PRITCHARD, William",NAT,4749,21.1
+NSW,Cook,"RILEY, Edward",ALP,14644,65.0
+NSW,Cowper,"PAGE, Dr Earle",CP,13157,67.3
+NSW,Cowper,"THOMSON, John",NAT,6398,32.7
+NSW,Dalley,"MAHONY, William",ALP,16104,66.7
+NSW,Dalley,"MITCHELL, Herbert",IND,2034,8.4
+NSW,Dalley,"SIMPSON, William",NAT,6017,24.9
+NSW,Darling,"BLAKELEY, Arthur",ALP,8820,45.3
+NSW,Darling,"CONSIDINE, Michael",IND,4331,22.2
+NSW,Darling,"WRIGHT, Walter",NAT,6329,32.5
+NSW,East Sydney,"FULLER, Benjamin",NAT,7518,40.9
+NSW,East Sydney,"WEST, John",ALP,10885,59.1
+NSW,Eden-Monaro,"CHAPMAN, Hon Austin",NAT,14892,61.1
+NSW,Eden-Monaro,"WALSH, Ulric",ALP,9495,38.9
+NSW,Gwydir,"ASHFORD, William",NAT,4121,17.3
+NSW,Gwydir,"CUNNINGHAM, Lou",ALP,11056,46.3
+NSW,Gwydir,"WILKINS, Gordon",CP,8688,36.4
+NSW,Hume,"BELBRIDGE, Frederick",NAT,6518,27.6
+NSW,Hume,"JAMES, Cyril",CP,4616,19.5
+NSW,Hume,"MOLONEY, Parker",ALP,12494,52.9
+NSW,Hunter,"CHARLTON, Matthew",ALP,Unopposed,100.0
+NSW,Lang,"EVANS, Percy",IND,1974,9.0
+NSW,Lang,"JOHNSON, Hon Sir Elliot",NAT,10786,49.3
+NSW,Lang,"SMITH, George",ALP,9117,41.7
+NSW,Macquarie,"MANNING, Arthur",NAT,9595,44.3
+NSW,Macquarie,"MILLER, John",IND,1674,7.7
+NSW,Macquarie,"NICHOLLS, Samuel",ALP,10406,48.0
+NSW,Martin,"PRATTEN, Herbert",NAT,Unopposed,100.0
+NSW,New England,"HAY, Alexander",IND,6282,29.0
+NSW,New England,"KEARNEY, Sydney",ALP,7683,35.4
+NSW,New England,"THOMPSON, Victor",CP,7726,35.6
+NSW,Newcastle,"GARDINER, Arthur",IND,4695,20.7
+NSW,Newcastle,"WILLINGS, John",NAT,5580,24.6
+NSW,Newcastle,"WATKINS, Hon David",ALP,12362,54.6
+NSW,North Sydney,"HUGHES, Rt Hon Billy",NAT,16475,58.2
+NSW,North Sydney,"PIDDINGTON, Albert",IND,11812,41.8
+NSW,Parkes,"COHEN, Edward",ALP,8008,38.2
+NSW,Parkes,"MARR, Charles",NAT,12970,61.8
+NSW,Parramatta,"BOWDEN, Eric",NAT,12793,65.4
+NSW,Parramatta,"STONE, James",ALP,6776,34.6
+NSW,Reid,"COLEMAN, Percy",ALP,12316,54.5
+NSW,Reid,"FOWLES, Howard",IND,1226,5.4
+NSW,Reid,"REED, Frederick",NAT,9057,40.1
+NSW,Richmond,"GREEN, Roland",CP,9848,45.7
+NSW,Richmond,"MASSY-GREENE, Hon Walter",NAT,9660,44.8
+NSW,Richmond,"STEEL, John",IND,2039,9.5
+NSW,Riverina,"BARTRAM, William",CP,1832,8.7
+NSW,Riverina,"CHANTER, Hon John",NAT,4342,20.7
+NSW,Riverina,"HOAD, James",ALP,8609,41.1
+NSW,Riverina,"KILLEN, William",CP,5551,26.5
+NSW,Riverina,"LORIMER, John",CP,606,2.9
+NSW,Robertson,"FLEMING, William",CP,5310,27.4
+NSW,Robertson,"GARDNER, Sydney",NAT,7366,38.0
+NSW,Robertson,"ROBERTS, Alfred",ALP,6713,34.6
+NSW,South Sydney,"DEACON, Vivian",IND,870,4.7
+NSW,South Sydney,"MOORE, Robert",NAT,6752,36.5
+NSW,South Sydney,"RILEY, Edward",ALP,10902,58.9
+NSW,Warringah,"RYRIE, Hon Sir Granville",NAT,Unopposed,100.0
+NSW,Wentworth,"FITZGERALD, William",ALP,6455,32.6
+NSW,Wentworth,"MARKS, Walter",NAT,9843,49.7
+NSW,Wentworth,"MORTON, Henry",IND,3502,17.7
+NSW,Werriwa,"BATE, Henry",NAT,8881,38.0
+NSW,Werriwa,"LAZZARINI, Hubert",ALP,12397,53.1
+NSW,Werriwa,"NEWMAN, James",CP,2085,8.9
+NSW,West Sydney,"BRYDE, Thomas",IND,3631,20.1
+NSW,West Sydney,"LAMBERT, William",ALP,13359,73.9
+NSW,West Sydney,"O'DONNELL, Arthur",IND,1077,6.0
+VIC,Balaclava,"WATT, Rt Hon William",NAT,Unopposed,100.0
+VIC,Ballaarat,"COLDHAM, Francis",NAT,10098,35.8
+VIC,Ballaarat,"KING, Sydney",LP,3878,13.8
+VIC,Ballaarat,"MCGRATH, Charles",ALP,14200,50.4
+VIC,Batman,"BRENNAN, Frank",ALP,14042,51.0
+VIC,Batman,"HANNAH, Martin",IND,7174,26.1
+VIC,Batman,"MACKAY, George",NAT,6315,22.9
+VIC,Bendigo,"HURRY, Geoffry",NAT,7961,31.6
+VIC,Bendigo,"JOWETT, Edmund",CP,6348,25.2
+VIC,Bendigo,"JUDE, Thomas",ALP,10854,43.1
+VIC,Bourke,"ANSTEY, Frank",ALP,17068,70.1
+VIC,Bourke,"MARCH, John",NAT,7290,29.9
+VIC,Corangamite,"CROUCH, Hon Richard",ALP,10788,44.5
+VIC,Corangamite,"GIBSON, William",CP,6908,28.5
+VIC,Corangamite,"MCDONALD, Allan",NAT,6530,27.0
+VIC,Corio,"HAMPSON, Alfred",ALP,11646,49.2
+VIC,Corio,"LISTER, John",NAT,12046,50.8
+VIC,Echuca,"HILL, William",CP,13991,70.3
+VIC,Echuca,"STEWART, James",NAT,5914,29.7
+VIC,Fawkner,"FOSTER, Alfred",ALP,9881,41.4
+VIC,Fawkner,"MAXWELL, George",NAT,12472,52.2
+VIC,Fawkner,"MURPHY, John",LP,1533,6.4
+VIC,Flinders,"BRUCE, Hon Stanley",NAT,10689,55.6
+VIC,Flinders,"THOMPSON, Stephen",LP,8532,44.4
+VIC,Gippsland,"BERMINGHAM, James",ALP,6357,27.4
+VIC,Gippsland,"PATERSON, Thomas",CP,9132,39.4
+VIC,Gippsland,"WISE, Hon George",NAT,7682,33.2
+VIC,Henty,"BEARDSWORTH, Roy",ALP,5615,19.8
+VIC,Henty,"BOYD, James",NAT,3269,11.5
+VIC,Henty,"FRANCIS, Frederick",NAT,10794,38.1
+VIC,Henty,"GLENCROSS, Eleanor",LP,3551,12.5
+VIC,Henty,"GULLETT, Henry",LP,5082,18.0
+VIC,Indi,"COOK, Robert",CP,8723,39.3
+VIC,Indi,"MACKINNON, Donald",NAT,5695,25.7
+VIC,Indi,"MINOGUE, John",ALP,7768,35.0
+VIC,Kooyong,"BEST, Hon Sir Robert",NAT,13459,47.4
+VIC,Kooyong,"DALEY, Jean",ALP,5341,18.8
+VIC,Kooyong,"LATHAM, John",LP,9591,33.8
+VIC,Maribyrnong,"FENTON, James",ALP,17153,63.2
+VIC,Maribyrnong,"STEPHENS, James",NAT,9976,36.8
+VIC,Melbourne,"MALONEY, Dr William",ALP,16991,77.2
+VIC,Melbourne,"NICHOLLS, Ernest",NAT,5022,22.8
+VIC,Melbourne Ports,"MATHEWS, James",ALP,17628,73.1
+VIC,Melbourne Ports,"NEALE, Selwyn",NAT,6485,26.9
+VIC,Wannon,"GIBSON, David",CP,6625,25.2
+VIC,Wannon,"MCNEILL, John",ALP,10795,41.1
+VIC,Wannon,"RODGERS, Hon Arthur",NAT,8841,33.7
+VIC,Wimmera,"SHAW, Alfred",IND,5503,28.8
+VIC,Wimmera,"STEWART, Percy",CP,13614,71.2
+VIC,Yarra,"FITZGERALD, Thomas",NAT,5042,22.0
+VIC,Yarra,"SCULLIN, James",ALP,17897,78.0
+QLD,Brisbane,"BURKE, Francis",ALP,15183,48.0
+QLD,Brisbane,"CAMERON, Donald",NAT,16417,52.0
+QLD,Capricornia,"FORDE, Frank",ALP,19904,51.9
+QLD,Capricornia,"GORRIE, Albert",CP,2362,6.2
+QLD,Capricornia,"HIGGS, Hon William",NAT,16079,41.9
+QLD,Darling Downs,"GROOM, Hon Littleton",NAT,19592,58.6
+QLD,Darling Downs,"MACDOUGALL, James",ALP,13857,41.4
+QLD,Herbert,"BAMFORD, Hon Frederick",NAT,17396,51.7
+QLD,Herbert,"HYNES, Maurice",ALP,16259,48.3
+QLD,Kennedy,"NOWLAND, Robert",CP,9257,38.4
+QLD,Kennedy,"MCDONALD, Hon Charles",ALP,14824,61.6
+QLD,Lilley,"COSTELLO, Alexander",IND,10576,34.8
+QLD,Lilley,"MACKAY, George",NAT,19842,65.2
+QLD,Maranoa,"DURKIN, John",ALP,11086,45.6
+QLD,Maranoa,"HUNTER, James",CP,13207,54.4
+QLD,Moreton,"BREWER, Francis",CP,5714,17.2
+QLD,Moreton,"FRANCIS, Josiah",NAT,14762,44.5
+QLD,Moreton,"LEE, Horace",ALP,12676,38.2
+QLD,Oxley,"BAYLEY, James",NAT,19552,53.3
+QLD,Oxley,"SHARPE, James",ALP,17146,46.7
+QLD,Wide Bay,"CORSER, Edward",NAT,13069,38.4
+QLD,Wide Bay,"HEADING, James",CP,9427,27.7
+QLD,Wide Bay,"JOHNSTON, Joseph",ALP,11580,34.0
+SA,Adelaide,"BLUNDELL, Reginald",NAT,4123,19.9
+SA,Adelaide,"MCLEAY, George",LP,5872,28.4
+SA,Adelaide,"YATES, Edwin",ALP,10714,51.7
+SA,Angas,"GABB, Moses",ALP,11192,58.0
+SA,Angas,"RITCHIE, George",LP,8090,42.0
+SA,Barker,"CAMERON, Malcolm",LP,7861,42.0
+SA,Barker,"HUNT, Ronald",CP,2791,14.9
+SA,Barker,"SHEPHERD, Eric",ALP,8066,43.1
+SA,Boothby,"DUNCAN-HUGHES, John",LP,7793,39.5
+SA,Boothby,"KNEEBONE, Harry",ALP,7775,39.4
+SA,Boothby,"STORY, William",NAT,4179,21.2
+SA,Grey,"LACEY, Andrew",ALP,9778,53.7
+SA,Grey,"POYNTON, Hon Alexander",NAT,8425,46.3
+SA,Hindmarsh,"HAYTER, Charles",NAT,6925,31.4
+SA,Hindmarsh,"MAKIN, Norman",ALP,15111,68.6
+SA,Wakefield,"FOSTER, Richard",LP,8288,42.9
+SA,Wakefield,"QUEALE, Henry",CP,3941,20.4
+SA,Wakefield,"STOKES, Edward",ALP,7076,36.7
+WA,Forrest,"PROWSE, John",CP,10007,79.5
+WA,Forrest,"WEDD, Peter",NAT,2576,20.5
+WA,Fremantle,"HEDGES, William",NAT,3550,19.4
+WA,Fremantle,"HOLMAN, John",ALP,7290,39.9
+WA,Fremantle,"WATSON, William",IND,7420,40.6
+WA,Kalgoorlie,"FOLEY, George",NAT,7331,42.6
+WA,Kalgoorlie,"GREEN, Albert",ALP,9889,57.4
+WA,Perth,"BOLTON, Harry",NAT,1728,12.0
+WA,Perth,"CARSON, Alfred",NAT,2125,14.7
+WA,Perth,"CLEMENTSEN, Nils",ALP,4951,34.2
+WA,Perth,"FOWLER, Hon James",IND,2583,17.9
+WA,Perth,"MANN, Edward",NAT,3073,21.3
+WA,Swan,"GREGORY, Henry",CP,Unopposed,100.0
+TAS,Bass,"HEGARTY, John",IND,337,3.5
+TAS,Bass,"HIGGINS, Alfred",ALP,3359,35.0
+TAS,Bass,"JACKSON, Sydney",NAT,4819,50.2
+TAS,Bass,"O'MALLEY, Hon King",IND,1085,11.3
+TAS,Darwin,"BELL, George",NAT,4533,45.1
+TAS,Darwin,"CAMPBELL, James",IND,1473,14.6
+TAS,Darwin,"WHITSITT, Joshua",CP,4051,40.3
+TAS,Denison,"BLANSHARD, David",IND,170,1.5
+TAS,Denison,"BROINOWSKI, Leopold",NAT,1667,14.8
+TAS,Denison,"MULCAHY, Edward",NAT,2295,20.4
+TAS,Denison,"O'KEEFE, Hon David",ALP,5234,46.5
+TAS,Denison,"SMITH, Hon William Laird",NAT,1881,16.7
+TAS,Franklin,"SEABROOK, Alfred",NAT,2829,31.6
+TAS,Franklin,"WATKINS, Benjamin",ALP,3364,37.6
+TAS,Franklin,"MCWILLIAMS, William",CP,2762,30.8
+TAS,Wilmot,"ATKINSON, Llewellyn",CP,1826,22.7
+TAS,Wilmot,"CAMERON, Hon Donald",CP,1407,17.5
+TAS,Wilmot,"CAMPBELL, John",CP,302,3.7
+TAS,Wilmot,"PALAMOUNTAIN, John",ALP,2596,32.2
+TAS,Wilmot,"PULLEN, George",NAT,1926,23.9
