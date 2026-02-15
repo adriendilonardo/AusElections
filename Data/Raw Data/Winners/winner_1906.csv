@@ -1,0 +1,75 @@
+State,Division,Winner,Party
+NSW,Barrier,THOMAS,ALP
+NSW,Calare,BROWN,ALP
+NSW,Cook,CATTS,ALP
+NSW,Cowper,THOMSON,Prot
+NSW,Dalley,WILKS,AS
+NSW,Darling,SPENCE,ALP
+NSW,East Sydney,REID,AS
+NSW,Eden-Monaro,CHAPMAN,Prot
+NSW,Gwydir,WEBSTER,ALP
+NSW,Hume,LYNE,Prot
+NSW,Hunter,LIDDELL,AS
+NSW,Illawarra,FULLER,AS
+NSW,Lang,JOHNSON,AS
+NSW,Macquarie,CARR,ALP
+NSW,Nepean,BOWDEN,AS
+NSW,New England,FOSTER,ALP
+NSW,Newcastle,WATKINS,ALP
+NSW,North Sydney,THOMSON,AS
+NSW,Parkes,SMITH,AS
+NSW,Parramatta,COOK,AS
+NSW,Richmond,EWING,Prot
+NSW,Riverina,CHANTER,Prot
+NSW,Robertson,WILLIS,AS
+NSW,South Sydney,WATSON,ALP
+NSW,Wentworth,KELLY,AS
+NSW,Werriwa,HALL,ALP
+NSW,West Sydney,HUGHES,ALP
+VIC,Balaclava,WYNNE,AS
+VIC,Ballaarat,DEAKIN,Prot
+VIC,Batman,COON,Prot
+VIC,Bendigo,QUICK,AS
+VIC,Bourke,HUME-COOK,Prot
+VIC,Corangamite,WILSON,AS
+VIC,Corio,CROUCH,Prot
+VIC,Echuca,PALMER,AS
+VIC,Fawkner,FAIRBAIRN,AS
+VIC,Flinders,IRVINE,AS
+VIC,Gippsland,WISE,Prot
+VIC,Grampians,IRVINE,AS
+VIC,Indi,BROWN,AS
+VIC,Kooyong,KNOX,AS
+VIC,Laanecoorie,SALMON,Prot
+VIC,Maribyrnong,MAUGER,Prot
+VIC,Melbourne,MALONEY,ALP
+VIC,Melbourne Ports,MATHEWS,ALP
+VIC,Mernda,McDOUGALL,
+VIC,Wimmera,SAMPSON,AS
+VIC,Yarra,TUDOR,ALP
+QLD,Brisbane,FOXTON,AS
+QLD,Capricornia,ARCHER,AS
+QLD,Darling Downs,GROOM,Prot
+QLD,Herbert,BAMFORD,ALP
+QLD,Kennedy,McDONALD,ALP
+QLD,Maranoa,PAGE,ALP
+QLD,Moreton,SINCLAIR,AS
+QLD,Oxley,EDWARDS,AS
+QLD,Wide Bay,FISHER,ALP
+SA,Adelaide,KINGSTON,Prot
+SA,Angas,GLYNN,AS
+SA,Barker,LIVINGSTON,AS
+SA,Boothby,BATCHELOR,ALP
+SA,Grey,POYNTON,ALP
+SA,Hindmarsh,HUTCHISON,ALP
+SA,Wakefield,HOLDER,IND
+WA,Coolgardie,MAHON,ALP
+WA,Fremantle,HEDGES,WAP
+WA,Kalgoorlie,FRAZER,ALP
+WA,Perth,FOWLER,ALP
+WA,Swan,FORREST,WAP
+TAS,Bass,STORRER,Prot
+TAS,Darwin,O'MALLEY,ALP
+TAS,Denison,FYSH,AS
+TAS,Franklin,McWILLIAMS,AS
+TAS,Wilmot,ATKINSON,AS

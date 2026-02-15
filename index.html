@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AusFedPol Data Visualisation</title>
+  <style>
+    body { font-family: system-ui, sans-serif; margin: 20px; }
+    .row { display: flex; gap: 16px; align-items: center; flex-wrap: wrap; }
+    .card { max-width: 980px; padding: 16px; border: 0px solid #ddd; border-radius: 12px; }
+    #chart { width: 900px; max-width: 100%; height: auto; display: block; }
+
+    .triangle { fill: none; stroke: #999; stroke-width: 1.5px; }
+    .grid { fill: none; stroke: #00000080; stroke-width: 1px; }
+
+    .point { cursor: pointer; stroke: #000; stroke-width: 1px; }
+    .point.faded { opacity: 0.12; }
+    .point.selected { stroke: #000; stroke-width: 1px; }
+
+    .tooltip {
+      position: fixed;
+      pointer-events: none;
+      opacity: 0;
+      background: rgba(0,0,0,0.82);
+      color: white;
+      padding: 8px 10px;
+      border-radius: 8px;
+      font-size: 12px;
+      line-height: 1.25;
+      transform: translate(10px, 10px);
+      max-width: 260px;
+    }
+
+    .hint { color: #555; font-size: 13px; margin-top: 10px; }
+    select { padding: 6px 10px; border-radius: 8px; border: 1px solid #ccc; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="row">
+      <!-- <h2 style="margin:0;">Interactive Ternary Scatter (D3)</h2> -->
+
+      <div style="margin-left:auto; display: flex; align-items: center; gap: 8px;">
+        <button id="prevYear" style="padding: 6px 10px; border-radius: 8px; border: 1px solid #ccc; background: white; cursor: pointer;">‹</button>
+        <label>
+          Year:
+          <select id="yearSelect"></select>
+        </label>
+        <button id="nextYear" style="padding: 6px 10px; border-radius: 8px; border: 1px solid #ccc; background: white; cursor: pointer;">›</button>
+      </div>
+    </div>
+
+    <svg id="chart" viewBox="0 0 920 750" role="img" aria-label="Ternary scatter plot"></svg>
+    
+  </div>
+
+  <div id="tooltip" class="tooltip"></div>
+
+  <!-- D3 via CDN -->
+  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+  <script src="./app.js"></script>
+</body>
+</html>
