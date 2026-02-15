@@ -1,0 +1,758 @@
+{
+  "1977": {
+    "title": "Ballarat, VIC   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SHORT, James",
+        "Votes": 30480,
+        "Percent": 48.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BAKER, Norman",
+        "Votes": 23487,
+        "Percent": 37.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GOUGH, Graham",
+        "Votes": 6298,
+        "Percent": 9.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "GRIFFIN, William",
+        "Votes": 3202,
+        "Percent": 5.0
+      }
+    ]
+  },
+  "1980": {
+    "title": "Ballarat, VIC   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SHORT, James",
+        "Votes": 30551,
+        "Percent": 46.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MILDREN, John",
+        "Votes": 29990,
+        "Percent": 45.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GOUGH, Graham",
+        "Votes": 3736,
+        "Percent": 5.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "COTTER, John",
+        "Votes": 2099,
+        "Percent": 3.2
+      }
+    ]
+  },
+  "1983": {
+    "title": "Ballarat, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MILDREN, John",
+        "Votes": 34616,
+        "Percent": 50.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RONAN, John",
+        "Votes": 30078,
+        "Percent": 44.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GOUGH, Graham",
+        "Votes": 2123,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLOWER, John",
+        "Votes": 1148,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "IRELAND, Albert",
+        "Votes": 275,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1984": {
+    "title": "Ballarat, VIC   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MILDREN, John",
+        "Votes": 31119,
+        "Percent": 49.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RONAN, John",
+        "Votes": 27952,
+        "Percent": 44.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GOUGH, Graham",
+        "Votes": 2163,
+        "Percent": 3.4
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "STEWART, Douglas",
+        "Votes": 961,
+        "Percent": 1.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FERWERDA, John",
+        "Votes": 737,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1987": {
+    "title": "Ballarat, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MILDREN, John",
+        "Votes": 31447,
+        "Percent": 47.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RONAN, John",
+        "Votes": 24059,
+        "Percent": 36.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BOLAND, John",
+        "Votes": 8250,
+        "Percent": 12.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HENSELEIT, Phil",
+        "Votes": 2685,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GREANY, Martin",
+        "Votes": 392,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1990": {
+    "title": "Ballarat, VIC   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RONALDSON, Michael",
+        "Votes": 31273,
+        "Percent": 46.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MILDREN, John",
+        "Votes": 27609,
+        "Percent": 40.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SCETRINE, Bill",
+        "Votes": 5654,
+        "Percent": 8.4
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "RICKARD, Jodie",
+        "Votes": 2311,
+        "Percent": 3.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MAYS, Greg",
+        "Votes": 536,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HELON, George",
+        "Votes": 212,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1993": {
+    "title": "Ballarat, VIC   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "CAVEN, Veronica",
+        "Votes": "740",
+        "Percent": 1.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RONALDSON, Michael",
+        "Votes": "33478",
+        "Percent": 47.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DEVEREUX, Peter",
+        "Votes": "30470",
+        "Percent": 43.2
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "RICKARD, Jodie",
+        "Votes": "2618",
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARDY, Geoffrey",
+        "Votes": "1703",
+        "Percent": 2.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CAEN, Rob de",
+        "Votes": "1516",
+        "Percent": 2.1
+      }
+    ]
+  },
+  "1996": {
+    "title": "Ballarat, VIC   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RONALDSON, Michael",
+        "Votes": 37275,
+        "Percent": 49.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BEACHAM, Jenny",
+        "Votes": 31864,
+        "Percent": 41.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FINLAY, Trish",
+        "Votes": 3208,
+        "Percent": 4.2
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "COCKING, David",
+        "Votes": 1781,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRAY, Alan",
+        "Votes": 947,
+        "Percent": 1.3
+      },
+      {
+        "Party": "AAFI",
+        "Candidate": "NEENAN, John",
+        "Votes": 801,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCDONALD, Alan",
+        "Votes": 186,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "1998": {
+    "title": "Ballarat, VIC   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RONALDSON, Hon Michael",
+        "Votes": 34527,
+        "Percent": 45.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CARD, Margaret",
+        "Votes": 31232,
+        "Percent": 40.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BLANCHARD, John",
+        "Votes": 3738,
+        "Percent": 4.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PRICE, Peta",
+        "Votes": 2824,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILEY, John",
+        "Votes": 1569,
+        "Percent": 2.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CAMPBELL, Malcolm",
+        "Votes": 1083,
+        "Percent": 1.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "COLOSIMO, Frank",
+        "Votes": 840,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARRISON, Ian",
+        "Votes": 188,
+        "Percent": 0.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TAYLOR, Margaret",
+        "Votes": 182,
+        "Percent": 0.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRAHAM, Alex",
+        "Votes": 147,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "Ballarat, VIC   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KING, Catherine",
+        "Votes": 35558,
+        "Percent": 44.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "COLLINS, Charles",
+        "Votes": 34512,
+        "Percent": 42.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KELLY, Tony",
+        "Votes": 5126,
+        "Percent": 6.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CORIC, Danii",
+        "Votes": 3300,
+        "Percent": 4.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BLANCHARD, John",
+        "Votes": 2053,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "2004": {
+    "title": "Ballarat, VIC   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KING, Catherine",
+        "Votes": 37734,
+        "Percent": 45.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MATUSCHKA, Elizabeth",
+        "Votes": 37377,
+        "Percent": 44.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KELLY, Tony",
+        "Votes": 5641,
+        "Percent": 6.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ADAMEK, Vlad",
+        "Votes": 1799,
+        "Percent": 2.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "LINDORFF, Claire",
+        "Votes": 1109,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HALBORG, Valiant Von Thule",
+        "Votes": 192,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2007": {
+    "title": "Ballarat, VIC   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KING, Catherine",
+        "Votes": 44191,
+        "Percent": 50.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCINTOSH, Samantha",
+        "Votes": 33402,
+        "Percent": 38.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COATES, Belinda",
+        "Votes": 7008,
+        "Percent": 8.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BUTTERFIELD, Dale",
+        "Votes": 3207,
+        "Percent": 3.7
+      }
+    ]
+  },
+  "2010": {
+    "title": "Ballarat, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KING, Catherine",
+        "Votes": 46289,
+        "Percent": 51.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BANWELL, Mark",
+        "Votes": 30364,
+        "Percent": 34.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COATES, Belinda",
+        "Votes": 10140,
+        "Percent": 11.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "RAINEY, Jim",
+        "Votes": 2646,
+        "Percent": 3.0
+      }
+    ]
+  },
+  "2013": {
+    "title": "Ballarat, VIC   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KING, Hon Catherine",
+        "Votes": 39251,
+        "Percent": 41.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FITZGIBBON, John",
+        "Votes": 35592,
+        "Percent": 38.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HODGINS-MAY, Stephanie",
+        "Votes": 8911,
+        "Percent": 9.5
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "MURPHY, Gerard",
+        "Votes": 3396,
+        "Percent": 3.6
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "MATHIESON, Joshua",
+        "Votes": 2135,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FOSTER, Anne",
+        "Votes": 1139,
+        "Percent": 1.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CLARK, Shane",
+        "Votes": 1139,
+        "Percent": 1.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "VEREKER, Stephen",
+        "Votes": 1022,
+        "Percent": 1.1
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "DUNNE, Shane",
+        "Votes": 849,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROJAS, Ana",
+        "Votes": 229,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2016": {
+    "title": "Ballarat, VIC   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KING, Hon Catherine",
+        "Votes": 42275,
+        "Percent": 43.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WADE, Sarah",
+        "Votes": 33931,
+        "Percent": 34.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BARNES, Alice",
+        "Votes": 10551,
+        "Percent": 10.8
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "TATCHELL, Paul",
+        "Votes": 4108,
+        "Percent": 4.2
+      },
+      {
+        "Party": "AC",
+        "Candidate": "COLBERT, Dianne",
+        "Votes": 2023,
+        "Percent": 2.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HOWARD, Graham",
+        "Votes": 1896,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ECKEL, Bren",
+        "Votes": 1802,
+        "Percent": 1.9
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "TRAN, Tran",
+        "Votes": 1121,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2019": {
+    "title": "Ballarat, VIC   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KING, Hon Catherine",
+        "Votes": 49077,
+        "Percent": 47.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "VO, Tim",
+        "Votes": 31462,
+        "Percent": 30.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCALOON, Karen",
+        "Votes": 9077,
+        "Percent": 8.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "COZYN, Peter",
+        "Votes": 4741,
+        "Percent": 4.6
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "HILLS, Bryn",
+        "Votes": 4393,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHADY, Nick",
+        "Votes": 2288,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRAHAM, Alex",
+        "Votes": 1645,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2022": {
+    "title": "Ballarat, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KING, Hon Catherine",
+        "Votes": 43171,
+        "Percent": 44.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GREEN, Ben",
+        "Votes": 26142,
+        "Percent": 27.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BARNES, John",
+        "Votes": 14076,
+        "Percent": 14.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "PRYSE-SMITH, Terri",
+        "Votes": 3693,
+        "Percent": 3.8
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "TAXIS, Rosalie",
+        "Votes": 3476,
+        "Percent": 3.6
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MCGRATH, Julia",
+        "Votes": 3216,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRAHAM, Alex",
+        "Votes": 2044,
+        "Percent": 2.1
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "SEDGMAN, Kerryn",
+        "Votes": 682,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2025": {
+    "title": "Ballarat, VIC   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KING, Catherine",
+        "Votes": 44273,
+        "Percent": 42.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DORAN, Paula",
+        "Votes": 29883,
+        "Percent": 28.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BARNES, John",
+        "Votes": 14984,
+        "Percent": 14.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "PRYSE-SMITH, Terri",
+        "Votes": 8029,
+        "Percent": 7.7
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "HARKNESS, Ian Maxwell",
+        "Votes": 3057,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PARKER, Luke",
+        "Votes": 2934,
+        "Percent": 2.8
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "REDFERN, Ryan",
+        "Votes": 1380,
+        "Percent": 1.3
+      }
+    ]
+  }
+}

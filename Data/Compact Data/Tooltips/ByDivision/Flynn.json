@@ -1,0 +1,379 @@
+{
+  "2007": {
+    "title": "Flynn, QLD   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "TREVOR, Chris",
+        "Votes": 35892,
+        "Percent": 44.8
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "CHURCHILL, Glenn",
+        "Votes": 26907,
+        "Percent": 33.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ROSE, Jason",
+        "Votes": 11850,
+        "Percent": 14.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "DRYSDALE, Mathew",
+        "Votes": 1662,
+        "Percent": 2.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PETTINATO, Marella",
+        "Votes": 1577,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCOTT, Duncan",
+        "Votes": 807,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COSTELLO, Phillip",
+        "Votes": 761,
+        "Percent": 1.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NOBLE, Julie",
+        "Votes": 535,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JOB, Jarrah",
+        "Votes": 196,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2010": {
+    "title": "Flynn, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "O'DOWD, Ken",
+        "Votes": 37584,
+        "Percent": 47.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TREVOR, Chris",
+        "Votes": 31894,
+        "Percent": 39.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HANCOCK-MILLS, Di",
+        "Votes": 3586,
+        "Percent": 4.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GODDARD, Anne",
+        "Votes": 3163,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCOTT, Duncan",
+        "Votes": 3025,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCMAHON, John",
+        "Votes": 640,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2013": {
+    "title": "Flynn, QLD   2013",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "O'DOWD, Ken",
+        "Votes": 39362,
+        "Percent": 46.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TREVOR, Chris",
+        "Votes": 28598,
+        "Percent": 33.4
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "ENSBY, Steven",
+        "Votes": 7908,
+        "Percent": 9.3
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "LOVE, Richard",
+        "Votes": 3536,
+        "Percent": 4.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "THOMPSON, Serena",
+        "Votes": 1890,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TOMSETT, Craig",
+        "Votes": 1573,
+        "Percent": 1.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MOLDRE, Renae",
+        "Votes": 1287,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCOTT, Duncan",
+        "Votes": 792,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DICKINS, Kingsley",
+        "Votes": 584,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2016": {
+    "title": "Flynn, QLD   2016",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "O'DOWD, Ken",
+        "Votes": 32293,
+        "Percent": 37.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BEERS, Zac",
+        "Votes": 29094,
+        "Percent": 33.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BAKER, Phil",
+        "Votes": 14948,
+        "Percent": 17.2
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "LOVE, Richard",
+        "Votes": 2948,
+        "Percent": 3.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TOMSETT, Craig",
+        "Votes": 2416,
+        "Percent": 2.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BARNETT, Heather",
+        "Votes": 2173,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FLETCHER, Nathan",
+        "Votes": 1927,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCOTT, Duncan",
+        "Votes": 864,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PUKU, Jordan",
+        "Votes": 483,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2019": {
+    "title": "Flynn, QLD   2019",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "O'DOWD, Ken",
+        "Votes": 33894,
+        "Percent": 37.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BEERS, Zac",
+        "Votes": 25628,
+        "Percent": 28.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "LOHSE, Sharon",
+        "Votes": 17531,
+        "Percent": 19.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HARRIS, Nathan",
+        "Votes": 3798,
+        "Percent": 4.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BAKER, Jaiben",
+        "Votes": 2744,
+        "Percent": 3.1
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "HIELSER, Marcus",
+        "Votes": 2484,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PETERSEN, Murray",
+        "Votes": 1994,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCOTT, Duncan",
+        "Votes": 1384,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2022": {
+    "title": "Flynn, QLD   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "BOYCE, Colin",
+        "Votes": 34046,
+        "Percent": 36.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BURNETT, Matt",
+        "Votes": 30948,
+        "Percent": 33.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "LOHSE, Sharon",
+        "Votes": 11287,
+        "Percent": 12.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "WIEDEN, Tanya",
+        "Votes": 6266,
+        "Percent": 6.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BAMBRICK, Paul",
+        "Votes": 4007,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCOTT, Duncan",
+        "Votes": 3745,
+        "Percent": 4.1
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "SVENDSEN, Carla",
+        "Votes": 2012,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "2025": {
+    "title": "Flynn, QLD   2025",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "BOYCE, Colin",
+        "Votes": 36502,
+        "Percent": 37.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MADELL, Helen",
+        "Votes": 24441,
+        "Percent": 25.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HARRIS, David",
+        "Votes": 13874,
+        "Percent": 14.2
+      },
+      {
+        "Party": "GRPF",
+        "Candidate": "PRICE, Lance",
+        "Votes": 6180,
+        "Percent": 6.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BAMBRICK, Paul",
+        "Votes": 5547,
+        "Percent": 5.7
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "ZUNKER, Peter",
+        "Votes": 3720,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ANDERSON, John",
+        "Votes": 3130,
+        "Percent": 3.2
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "DORIAN, Peter",
+        "Votes": 2408,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCOTT, Duncan",
+        "Votes": 1741,
+        "Percent": 1.8
+      }
+    ]
+  }
+}

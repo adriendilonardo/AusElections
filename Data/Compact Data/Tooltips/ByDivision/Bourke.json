@@ -1,0 +1,31 @@
+{
+  "1946": {
+    "title": "Bourke, VIC   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BRYSON, William",
+        "Votes": 30620,
+        "Percent": 45.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLACKBURN, Doris",
+        "Votes": 18625,
+        "Percent": 27.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "STOKES, Russell",
+        "Votes": 16889,
+        "Percent": 25.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRAND, Henry",
+        "Votes": 1333,
+        "Percent": 2.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "2025": {
+    "title": "O'Connor, WA   2025",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Rick",
+        "Votes": 34488,
+        "Percent": 34.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MOIR, Darren",
+        "Votes": 21080,
+        "Percent": 21.1
+      },
+      {
+        "Party": "NP",
+        "Candidate": "TEMPRA, Heidi",
+        "Votes": 12812,
+        "Percent": 12.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "JOHNSTON, Gemma",
+        "Votes": 11053,
+        "Percent": 11.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WATSON, Giz",
+        "Votes": 10014,
+        "Percent": 10.0
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "ARNATT, Philip",
+        "Votes": 5394,
+        "Percent": 5.4
+      },
+      {
+        "Party": "AUC",
+        "Candidate": "KINGSFORD, Deonne",
+        "Votes": 3077,
+        "Percent": 3.1
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "CAMERON, Lindsay",
+        "Votes": 2197,
+        "Percent": 2.2
+      }
+    ]
+  }
+}

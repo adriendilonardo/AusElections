@@ -1,0 +1,737 @@
+{
+  "1984": {
+    "title": "Greenway, NSW   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GORMAN, Russell",
+        "Votes": 31384,
+        "Percent": 56.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MITCHELL, Edna",
+        "Votes": 15765,
+        "Percent": 28.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CORBIN, Michael",
+        "Votes": 5557,
+        "Percent": 10.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EADE, Ray",
+        "Votes": 2557,
+        "Percent": 4.6
+      }
+    ]
+  },
+  "1987": {
+    "title": "Greenway, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GORMAN, Russell",
+        "Votes": 35386,
+        "Percent": 59.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MUSGRAVE, Warren",
+        "Votes": 23700,
+        "Percent": 40.1
+      }
+    ]
+  },
+  "1990": {
+    "title": "Greenway, NSW   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GORMAN, Russell",
+        "Votes": 30891,
+        "Percent": 49.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PACKARD, Tony",
+        "Votes": 21824,
+        "Percent": 35.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "POSGATE, Roger",
+        "Votes": 4866,
+        "Percent": 7.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BIALA, Remi",
+        "Votes": 1531,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WORMALD, Warren",
+        "Votes": 1279,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "F, Ivor",
+        "Votes": 764,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LORD, Gail",
+        "Votes": 695,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1993": {
+    "title": "Greenway, NSW   1993",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GORMAN, Russell",
+        "Votes": "41115",
+        "Percent": 58.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CLANCY, Bill",
+        "Votes": "3215",
+        "Percent": 4.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MORRIS, Ray",
+        "Votes": "22470",
+        "Percent": 32.1
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "JERROW, John",
+        "Votes": "2091",
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ALSOP, Ray",
+        "Votes": "1002",
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1996": {
+    "title": "Greenway, NSW   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MOSSFIELD, Frank",
+        "Votes": 32297,
+        "Percent": 43.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BURAKOWSKI, Vicki",
+        "Votes": 28122,
+        "Percent": 38.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CLANCY, Bill",
+        "Votes": 6128,
+        "Percent": 8.3
+      },
+      {
+        "Party": "AAFI",
+        "Candidate": "BATES, John",
+        "Votes": 3369,
+        "Percent": 4.6
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "BAWDEN, Bob",
+        "Votes": 2408,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RYDER, J S",
+        "Votes": 1602,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1998": {
+    "title": "Greenway, NSW   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MOSSFIELD, Frank",
+        "Votes": 36010,
+        "Percent": 46.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CROSS, Mathew",
+        "Votes": 23865,
+        "Percent": 30.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "NIXON, Bill",
+        "Votes": 7774,
+        "Percent": 10.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "REDDY, Peter",
+        "Votes": 3497,
+        "Percent": 4.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BAWDEN, Bob",
+        "Votes": 3292,
+        "Percent": 4.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HOWDEN, Jocelyn",
+        "Votes": 1459,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BONUEDI, Reynolds",
+        "Votes": 1082,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DHILLON, Salvinder",
+        "Votes": 586,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2001": {
+    "title": "Greenway, NSW   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MOSSFIELD, Frank",
+        "Votes": 32380,
+        "Percent": 42.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HOLDER, Rick",
+        "Votes": 28038,
+        "Percent": 36.9
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "BAWDEN, Bob",
+        "Votes": 4272,
+        "Percent": 5.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "PETTITT, Tony",
+        "Votes": 4155,
+        "Percent": 5.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FRANCIS, Joe",
+        "Votes": 2818,
+        "Percent": 3.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "VLATKO, Tony",
+        "Votes": 2002,
+        "Percent": 2.6
+      },
+      {
+        "Party": "AFI",
+        "Candidate": "SHERWOOD, Ted",
+        "Votes": 1608,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TANDA, Amarjit",
+        "Votes": 620,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2004": {
+    "title": "Greenway, NSW   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MARKUS, Louise",
+        "Votes": 33353,
+        "Percent": 44.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HUSIC, Ed",
+        "Votes": 30389,
+        "Percent": 40.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "O'NEILL, Astrid",
+        "Votes": 2730,
+        "Percent": 3.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "TAN, Greg",
+        "Votes": 2142,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LOPEZ, Jean",
+        "Votes": 1362,
+        "Percent": 1.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "PETTITT, Tony",
+        "Votes": 1040,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOULTON, Julie",
+        "Votes": 895,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHIDIAC, Joe",
+        "Votes": 881,
+        "Percent": 1.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "DORHAUER, John",
+        "Votes": 877,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BAYLEY, Grant",
+        "Votes": 772,
+        "Percent": 1.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KING, David",
+        "Votes": 672,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "F, Ivor",
+        "Votes": 420,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TANDA, Amarjit",
+        "Votes": 267,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "REVES, Goran",
+        "Votes": 79,
+        "Percent": 0.1
+      }
+    ]
+  },
+  "2007": {
+    "title": "Greenway, NSW   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MARKUS, Louise",
+        "Votes": 40338,
+        "Percent": 50.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "VASSILI, Michael",
+        "Votes": 30973,
+        "Percent": 38.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WILLIAMS, Leigh",
+        "Votes": 4617,
+        "Percent": 5.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "PHILLIPS, John",
+        "Votes": 1711,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "IVOR, F",
+        "Votes": 1343,
+        "Percent": 1.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MULLER, Joanne",
+        "Votes": 1312,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "REVES, Goran",
+        "Votes": 228,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "Greenway, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ROWLAND, Michelle",
+        "Votes": 33567,
+        "Percent": 42.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DIAZ, Jaymes",
+        "Votes": 32788,
+        "Percent": 41.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TAYLOR, Paul",
+        "Votes": 4769,
+        "Percent": 6.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "GREEN, Allan",
+        "Votes": 2922,
+        "Percent": 3.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MULLER, Iris",
+        "Votes": 1296,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BAIADA, John",
+        "Votes": 815,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PETTITT, Tony",
+        "Votes": 780,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SANTOS, Michael",
+        "Votes": 770,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LIMA, Joaquim De",
+        "Votes": 542,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TANDA, Amarjit",
+        "Votes": 530,
+        "Percent": 0.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "VILLAVER, Ronaldo",
+        "Votes": 529,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2013": {
+    "title": "Greenway, NSW   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ROWLAND, Michelle",
+        "Votes": 38319,
+        "Percent": 44.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DIAZ, Jaymes",
+        "Votes": 34488,
+        "Percent": 40.0
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "WOOTTON, Jodie",
+        "Votes": 3483,
+        "Percent": 4.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "GREEN, Allan",
+        "Votes": 3253,
+        "Percent": 3.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BRENTIN, Chris",
+        "Votes": 3175,
+        "Percent": 3.7
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "LILLICRAP, Tom",
+        "Votes": 1516,
+        "Percent": 1.8
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "BELCASTRO, Anthony",
+        "Votes": 681,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NICHOLS, Maree",
+        "Votes": 681,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAVANOUGH, Jamie",
+        "Votes": 545,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2016": {
+    "title": "Greenway, NSW   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ROWLAND, Michelle",
+        "Votes": 43722,
+        "Percent": 49.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KEANE, Yvonne",
+        "Votes": 30657,
+        "Percent": 34.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "WRIGHT, Aaron",
+        "Votes": 4484,
+        "Percent": 5.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WINSLOW, Chris",
+        "Votes": 3351,
+        "Percent": 3.8
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MAK, Timothy",
+        "Votes": 2923,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BILLU, Avtar",
+        "Votes": 1749,
+        "Percent": 2.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SALINS, Rohan",
+        "Votes": 1273,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SINGHA, Vivek",
+        "Votes": 924,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2019": {
+    "title": "Greenway, NSW   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ROWLAND, Michelle",
+        "Votes": 43901,
+        "Percent": 46.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GREEN, Allan",
+        "Votes": 38759,
+        "Percent": 40.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ATKINS, Damien",
+        "Votes": 5256,
+        "Percent": 5.5
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "FEENEY, Scott",
+        "Votes": 2853,
+        "Percent": 3.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "RAJADURAI, Osbourn",
+        "Votes": 2666,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCFARLAND, Graham",
+        "Votes": 2072,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "2022": {
+    "title": "Greenway, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ROWLAND, Michelle",
+        "Votes": 48551,
+        "Percent": 48.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PATHI, Pradeep",
+        "Votes": 29932,
+        "Percent": 29.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ATKINS, Damien",
+        "Votes": 7086,
+        "Percent": 7.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "REX, Mark",
+        "Votes": 4359,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOSI, Riccardo",
+        "Votes": 3272,
+        "Percent": 3.3
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "KACHWALLA, Adam",
+        "Votes": 3014,
+        "Percent": 3.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "TURNER, Rick",
+        "Votes": 2710,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NANDA, Love",
+        "Votes": 1615,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2025": {
+    "title": "Greenway, NSW   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ROWLAND, Michelle",
+        "Votes": 51802,
+        "Percent": 50.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "VIRK, Rattan",
+        "Votes": 28230,
+        "Percent": 27.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SUBRAMANIAN, Palaniappan",
+        "Votes": 11018,
+        "Percent": 10.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SWANN, Edwin",
+        "Votes": 4700,
+        "Percent": 4.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STUCKEY, Robert",
+        "Votes": 2711,
+        "Percent": 2.6
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "MULLIGAN, Justin",
+        "Votes": 2663,
+        "Percent": 2.6
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "REX, Mark",
+        "Votes": 1631,
+        "Percent": 1.6
+      }
+    ]
+  }
+}

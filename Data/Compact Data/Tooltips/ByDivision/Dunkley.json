@@ -1,0 +1,695 @@
+{
+  "1984": {
+    "title": "Dunkley, VIC   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHYNOWETH, Robert",
+        "Votes": 26605,
+        "Percent": 46.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CLARK, Leonie",
+        "Votes": 25070,
+        "Percent": 43.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CHARLES, Grenville",
+        "Votes": 3519,
+        "Percent": 6.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "HALE, Judy",
+        "Votes": 1494,
+        "Percent": 2.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CASS, John",
+        "Votes": 621,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1987": {
+    "title": "Dunkley, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHYNOWETH, Robert",
+        "Votes": 28740,
+        "Percent": 46.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WARWICK, Tom",
+        "Votes": 26267,
+        "Percent": 42.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KIRBY, Robyn",
+        "Votes": 3881,
+        "Percent": 6.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LIESHOUT, Chris van",
+        "Votes": 1898,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MURRAY, Andrew",
+        "Votes": 615,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JOHNSON, Les",
+        "Votes": 193,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1990": {
+    "title": "Dunkley, VIC   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FORD, Frank",
+        "Votes": 28759,
+        "Percent": 43.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CHYNOWETH, Robert",
+        "Votes": 24724,
+        "Percent": 37.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LINDEMANN, Peter",
+        "Votes": 8695,
+        "Percent": 13.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SEITANIDIS, Peter",
+        "Votes": 1458,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EDWARDS, Keith",
+        "Votes": 910,
+        "Percent": 1.4
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "COMER, Arthur",
+        "Votes": 554,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TOLDY, Mike",
+        "Votes": 297,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COSMAVICH, Len",
+        "Votes": 294,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1993": {
+    "title": "Dunkley, VIC   1993",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHYNOWETH, Robert",
+        "Votes": "32461",
+        "Percent": 47.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FORD, Frank",
+        "Votes": "31621",
+        "Percent": 45.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROWLAND-HORNBLOW, Barrie",
+        "Votes": "2696",
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NELSON, Bev",
+        "Votes": "2056",
+        "Percent": 3.0
+      }
+    ]
+  },
+  "1996": {
+    "title": "Dunkley, VIC   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BILLSON, Bruce",
+        "Votes": 36330,
+        "Percent": 48.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CHYNOWETH, Robert",
+        "Votes": 30084,
+        "Percent": 40.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JACOBS, Reba",
+        "Votes": 5257,
+        "Percent": 7.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HIGGINS, Paul",
+        "Votes": 1817,
+        "Percent": 2.4
+      },
+      {
+        "Party": "AAFI",
+        "Candidate": "PEAK, Travis",
+        "Votes": 1144,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NELSON, Bev",
+        "Votes": 399,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1998": {
+    "title": "Dunkley, VIC   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BILLSON, Bruce",
+        "Votes": 35297,
+        "Percent": 46.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "QUAYLE, Michael",
+        "Votes": 29755,
+        "Percent": 39.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SEALS, Tony",
+        "Votes": 4392,
+        "Percent": 5.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BROWN, Robyn",
+        "Votes": 3399,
+        "Percent": 4.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KELSALL, Henry",
+        "Votes": 2971,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAVIS, Jan Chapman",
+        "Votes": 335,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MASON, Ben",
+        "Votes": 185,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "Dunkley, VIC   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BILLSON, Bruce",
+        "Votes": 39203,
+        "Percent": 49.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CONROY, Mark",
+        "Votes": 28088,
+        "Percent": 35.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KELSALL, Henry",
+        "Votes": 4486,
+        "Percent": 5.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WOODHOUSE, Ian",
+        "Votes": 4350,
+        "Percent": 5.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "CARTWRIGHT, Michael",
+        "Votes": 1438,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAVIS, Fletcher",
+        "Votes": 995,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2004": {
+    "title": "Dunkley, VIC   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BILLSON, Hon Bruce",
+        "Votes": 46067,
+        "Percent": 55.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CONSTAS, Helen",
+        "Votes": 27845,
+        "Percent": 33.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JOHNSON, Paula",
+        "Votes": 5179,
+        "Percent": 6.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "EASTMAN, Cameron",
+        "Votes": 1949,
+        "Percent": 2.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BAILEY, Karen",
+        "Votes": 1009,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAVIS, Fletcher",
+        "Votes": 722,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PEUT, Gabrielle",
+        "Votes": 178,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2007": {
+    "title": "Dunkley, VIC   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BILLSON, Hon Bruce",
+        "Votes": 43024,
+        "Percent": 49.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCBRIDE, Graham",
+        "Votes": 33055,
+        "Percent": 38.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ADAMS, Neale",
+        "Votes": 6695,
+        "Percent": 7.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ASHDOWN, Steven",
+        "Votes": 2235,
+        "Percent": 2.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BAILEY, Karen",
+        "Votes": 1395,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2010": {
+    "title": "Dunkley, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BILLSON, Hon Bruce",
+        "Votes": 40602,
+        "Percent": 47.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CONSTANS, Helen",
+        "Votes": 32889,
+        "Percent": 38.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TILLER, Simon",
+        "Votes": 10033,
+        "Percent": 11.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ZILWA, Yasmin De",
+        "Votes": 2276,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "2013": {
+    "title": "Dunkley, VIC   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BILLSON, Hon Bruce",
+        "Votes": 42869,
+        "Percent": 48.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KILKENNY, Sonya",
+        "Votes": 27155,
+        "Percent": 30.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TILLER, Simon",
+        "Votes": 8199,
+        "Percent": 9.3
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "RYDER, Kate",
+        "Votes": 3707,
+        "Percent": 4.2
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "PALMI, Eloise",
+        "Votes": 2589,
+        "Percent": 2.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "EASTMAN, Cameron",
+        "Votes": 1682,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BURT, Rod",
+        "Votes": 740,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROFF, Roy",
+        "Votes": 516,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GENTLE, Yvonne",
+        "Votes": 477,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2016": {
+    "title": "Dunkley, VIC   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CREWTHER, Chris",
+        "Votes": 38158,
+        "Percent": 42.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MURPHY, Peta",
+        "Votes": 29620,
+        "Percent": 33.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SWAIN, Jeanette",
+        "Votes": 8616,
+        "Percent": 9.7
+      },
+      {
+        "Party": "DHJP",
+        "Candidate": "STANFIELD, Ruth",
+        "Votes": 5510,
+        "Percent": 6.2
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "JACK, Tyson",
+        "Votes": 1926,
+        "Percent": 2.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "RATHBONE, Michael",
+        "Votes": 1393,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TOSCANO, Dr Joseph",
+        "Votes": 1132,
+        "Percent": 1.3
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "WILMS, Tim",
+        "Votes": 1037,
+        "Percent": 1.2
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "TREGENZA, Lin",
+        "Votes": 682,
+        "Percent": 0.8
+      },
+      {
+        "Party": "AC",
+        "Candidate": "REANEY, Jeff",
+        "Votes": 677,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BAILLIEU, Sally",
+        "Votes": 542,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2019": {
+    "title": "Dunkley, VIC   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CREWTHER, Chris",
+        "Votes": 36616,
+        "Percent": 39.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MURPHY, Peta",
+        "Votes": 35301,
+        "Percent": 38.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GREEN, Emily",
+        "Votes": 8125,
+        "Percent": 8.4
+      },
+      {
+        "Party": "DHJP",
+        "Candidate": "O'CONNELL, Lachlan",
+        "Votes": 5027,
+        "Percent": 5.2
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "JOHNSTON, Elizabeth",
+        "Votes": 2961,
+        "Percent": 3.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "JEAN, Ron",
+        "Votes": 2513,
+        "Percent": 2.6
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "JAMES, Christopher",
+        "Votes": 1337,
+        "Percent": 1.4
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "GENTLE, Yvonne",
+        "Votes": 948,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2022": {
+    "title": "Dunkley, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MURPHY, Peta",
+        "Votes": 38506,
+        "Percent": 40.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "COOMBES, Sharn",
+        "Votes": 31108,
+        "Percent": 32.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "O'BRIEN, Liam",
+        "Votes": 9898,
+        "Percent": 10.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "IRVINE, Adrian",
+        "Votes": 4846,
+        "Percent": 5.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BERGWERF, Darren",
+        "Votes": 3698,
+        "Percent": 3.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MIDDLEBROOK, Scott",
+        "Votes": 2689,
+        "Percent": 2.8
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "WILLIS, Damian",
+        "Votes": 2398,
+        "Percent": 2.5
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "JOHNSTON, Elizabeth",
+        "Votes": 2013,
+        "Percent": 2.1
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "WOODS, Kathryn",
+        "Votes": 566,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2025": {
+    "title": "Dunkley, VIC   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BELYEA, Jodie",
+        "Votes": 41792,
+        "Percent": 38.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CONROY, Nathan",
+        "Votes": 35288,
+        "Percent": 32.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MABER, Matt",
+        "Votes": 12649,
+        "Percent": 11.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "DAVIS, Jessica",
+        "Votes": 7494,
+        "Percent": 6.9
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "ABBOTT, Lisa",
+        "Votes": 5243,
+        "Percent": 4.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THURLEY, Robert",
+        "Votes": 3230,
+        "Percent": 3.0
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "NICHOLES, Peter",
+        "Votes": 2497,
+        "Percent": 2.3
+      },
+      {
+        "Party": "SOPA",
+        "Candidate": "GATLEY, Andrew",
+        "Votes": 981,
+        "Percent": 0.9
+      }
+    ]
+  }
+}

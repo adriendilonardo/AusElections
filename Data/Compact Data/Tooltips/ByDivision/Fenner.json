@@ -1,0 +1,142 @@
+{
+  "2016": {
+    "title": "Fenner, ACT   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LEIGH, Hon Dr Andrew",
+        "Votes": 54796,
+        "Percent": 45.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GUNNING, Robert",
+        "Votes": 38930,
+        "Percent": 31.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SAEEDI, Carly",
+        "Votes": 18929,
+        "Percent": 15.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WOODMAN, Andrew",
+        "Votes": 4707,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOHM, Tim",
+        "Votes": 4660,
+        "Percent": 3.8
+      }
+    ]
+  },
+  "2019": {
+    "title": "Fenner, ACT   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LEIGH, Hon Dr Andrew",
+        "Votes": 38864,
+        "Percent": 44.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CASTLEY, Leanne",
+        "Votes": 30025,
+        "Percent": 34.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BRADDOCK, Andrew",
+        "Votes": 12492,
+        "Percent": 14.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HODGSON, Glen",
+        "Votes": 3529,
+        "Percent": 4.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RATLHAGANE, Kagiso",
+        "Votes": 1723,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "2022": {
+    "title": "Fenner, ACT   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LEIGH, Hon Dr Andrew",
+        "Votes": 44100,
+        "Percent": 48.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KUSTER, Nathan",
+        "Votes": 25416,
+        "Percent": 27.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SOJIC, Natasa",
+        "Votes": 15294,
+        "Percent": 16.8
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "GRANT, Lucia",
+        "Votes": 2419,
+        "Percent": 2.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "ELTON, Timothy",
+        "Votes": 2346,
+        "Percent": 2.6
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "JAKEMAN, Guy",
+        "Votes": 1706,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "2025": {
+    "title": "Fenner, ACT   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LEIGH, Andrew",
+        "Votes": 50819,
+        "Percent": 53.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "OLATUNBOSUN, Bola",
+        "Votes": 20723,
+        "Percent": 21.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HUNTERFORD, Dani",
+        "Votes": 15492,
+        "Percent": 16.4
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "KIKKERT, Elizabeth",
+        "Votes": 7426,
+        "Percent": 7.9
+      }
+    ]
+  }
+}

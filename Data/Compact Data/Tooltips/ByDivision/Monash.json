@@ -1,0 +1,161 @@
+{
+  "2019": {
+    "title": "Monash, VIC   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BROADBENT, Russell",
+        "Votes": 46501,
+        "Percent": 46.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'DONNELL, Jessica",
+        "Votes": 29656,
+        "Percent": 29.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "WADDELL, Jeff",
+        "Votes": 7656,
+        "Percent": 7.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HORNSTRA, William",
+        "Votes": 7047,
+        "Percent": 7.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SHERRY, Matthew",
+        "Votes": 4028,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FOZARD, Michael",
+        "Votes": 2870,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VERHOEVEN, John",
+        "Votes": 2723,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "2022": {
+    "title": "Monash, VIC   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BROADBENT, Russell",
+        "Votes": 36546,
+        "Percent": 37.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'DONNELL, Jessica",
+        "Votes": 24759,
+        "Percent": 25.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LEONARD, Deb",
+        "Votes": 10372,
+        "Percent": 10.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MORGAN, Mat",
+        "Votes": 9533,
+        "Percent": 9.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "HICKEN, Allan",
+        "Votes": 7289,
+        "Percent": 7.5
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MCSHANE, Christine",
+        "Votes": 3991,
+        "Percent": 4.1
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "EDWARDS, Meg",
+        "Votes": 3548,
+        "Percent": 3.7
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "WELSH, David",
+        "Votes": 674,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2025": {
+    "title": "Monash, VIC   2025",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ALDRED, Mary",
+        "Votes": 32579,
+        "Percent": 31.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FLETCHER, Tully",
+        "Votes": 20804,
+        "Percent": 20.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LEONARD, Deb",
+        "Votes": 17529,
+        "Percent": 17.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROADBENT, Russell",
+        "Votes": 10450,
+        "Percent": 10.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "ROBINSON, Kuljeet Kaur",
+        "Votes": 8166,
+        "Percent": 8.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "STEELE, Terence",
+        "Votes": 5062,
+        "Percent": 4.9
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "O'REILLY, David",
+        "Votes": 3521,
+        "Percent": 3.4
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "WEHBE, Alex",
+        "Votes": 2608,
+        "Percent": 2.5
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "DETHLEFS, Geoff",
+        "Votes": 1801,
+        "Percent": 1.8
+      }
+    ]
+  }
+}

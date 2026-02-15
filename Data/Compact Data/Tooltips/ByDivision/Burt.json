@@ -1,0 +1,196 @@
+{
+  "2016": {
+    "title": "Burt, WA   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEOGH, Matt",
+        "Votes": 39673,
+        "Percent": 47.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "O'SULLIVAN, Matt",
+        "Votes": 29836,
+        "Percent": 35.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SALMAN, Muhammad",
+        "Votes": 6770,
+        "Percent": 8.0
+      },
+      {
+        "Party": "AC",
+        "Candidate": "SPYKER, Warnar",
+        "Votes": 4345,
+        "Percent": 5.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLEVIN, Ian",
+        "Votes": 3734,
+        "Percent": 4.4
+      }
+    ]
+  },
+  "2019": {
+    "title": "Burt, WA   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEOGH, Matt",
+        "Votes": 36058,
+        "Percent": 41.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GOODE, David",
+        "Votes": 29420,
+        "Percent": 33.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COLLINS, Simone",
+        "Votes": 8285,
+        "Percent": 9.4
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "DEVINCENTIS, Nicole",
+        "Votes": 5116,
+        "Percent": 5.8
+      },
+      {
+        "Party": "AChr",
+        "Candidate": "SPYKER, Warnar",
+        "Votes": 3298,
+        "Percent": 3.8
+      },
+      {
+        "Party": "SFF",
+        "Candidate": "RAFFAELLI, Peter",
+        "Votes": 1942,
+        "Percent": 2.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "CHAWLA, Sahil",
+        "Votes": 1871,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NATION, Naomi",
+        "Votes": 1149,
+        "Percent": 1.3
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "SAGISAKA, Sarcha",
+        "Votes": 901,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2022": {
+    "title": "Burt, WA   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEOGH, Matt",
+        "Votes": 47268,
+        "Percent": 51.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GOODE, David",
+        "Votes": 21009,
+        "Percent": 23.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GARLETT, Daniel",
+        "Votes": 9004,
+        "Percent": 9.8
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "CARTER, Travis",
+        "Votes": 4436,
+        "Percent": 4.9
+      },
+      {
+        "Party": "AC",
+        "Candidate": "SPYKER, Warnar",
+        "Votes": 3428,
+        "Percent": 3.7
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "PHELAN, Stephen",
+        "Votes": 2390,
+        "Percent": 2.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MCCURRY, Joshua",
+        "Votes": 2274,
+        "Percent": 2.5
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "CASTLE, Michele",
+        "Votes": 1741,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "2025": {
+    "title": "Burt, WA   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEOGH, Matt",
+        "Votes": 46123,
+        "Percent": 46.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "AYRES, Sean",
+        "Votes": 18879,
+        "Percent": 19.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ABDUL RAZAK, Adam",
+        "Votes": 11336,
+        "Percent": 11.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "IERARDI, Liz",
+        "Votes": 9789,
+        "Percent": 9.9
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "CARUSO, Fiona",
+        "Votes": 5784,
+        "Percent": 5.9
+      },
+      {
+        "Party": "AUC",
+        "Candidate": "VADAKKEDATHU, Alvin Mathew",
+        "Votes": 4630,
+        "Percent": 4.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TEWATIA, Ashok Kumar",
+        "Votes": 2150,
+        "Percent": 2.2
+      }
+    ]
+  }
+}

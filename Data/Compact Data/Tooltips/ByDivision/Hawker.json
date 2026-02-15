@@ -1,0 +1,298 @@
+{
+  "1969": {
+    "title": "Hawker, SA   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JACOBI, Ralph",
+        "Votes": 28305,
+        "Percent": 55.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HICKINBOTHAM, Alan",
+        "Votes": 19086,
+        "Percent": 37.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ANDERSON, Kathleen",
+        "Votes": 2020,
+        "Percent": 4.0
+      },
+      {
+        "Party": "AP",
+        "Candidate": "HAWKINS, Malcolm",
+        "Votes": 1272,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1972": {
+    "title": "Hawker, SA   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JACOBI, Ralph",
+        "Votes": 29778,
+        "Percent": 56.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ROGERS, Phyllis",
+        "Votes": 19323,
+        "Percent": 36.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STEELE, John",
+        "Votes": 1859,
+        "Percent": 3.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "KILEY, James",
+        "Votes": 1754,
+        "Percent": 3.3
+      }
+    ]
+  },
+  "1974": {
+    "title": "Hawker, SA   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JACOBI, Ralph",
+        "Votes": 31735,
+        "Percent": 55.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WINTER, Henry",
+        "Votes": 17717,
+        "Percent": 31.1
+      },
+      {
+        "Party": "LM",
+        "Candidate": "HOLDER, Peter",
+        "Votes": 6744,
+        "Percent": 11.8
+      },
+      {
+        "Party": "AP",
+        "Candidate": "VICKERY, Phillip",
+        "Votes": 849,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1975": {
+    "title": "Hawker, SA   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JACOBI, Ralph",
+        "Votes": 29036,
+        "Percent": 49.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SPEIL, Craig",
+        "Votes": 25842,
+        "Percent": 44.0
+      },
+      {
+        "Party": "LM",
+        "Candidate": "LEGGETT, Stewart",
+        "Votes": 3890,
+        "Percent": 6.6
+      }
+    ]
+  },
+  "1977": {
+    "title": "Hawker, SA   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JACOBI, Ralph",
+        "Votes": 31685,
+        "Percent": 44.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HALL, Steele",
+        "Votes": 31062,
+        "Percent": 44.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MIELS, Bruce",
+        "Votes": 7190,
+        "Percent": 10.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WALLACE, Warren",
+        "Votes": 724,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1980": {
+    "title": "Hawker, SA   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JACOBI, Ralph",
+        "Votes": 34066,
+        "Percent": 49.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HANCKEL, Mark",
+        "Votes": 29187,
+        "Percent": 42.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JOHNSON, Kenneth",
+        "Votes": 5720,
+        "Percent": 8.3
+      }
+    ]
+  },
+  "1983": {
+    "title": "Hawker, SA   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JACOBI, Ralph",
+        "Votes": 36483,
+        "Percent": 52.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HARRY, Dennis",
+        "Votes": 27211,
+        "Percent": 38.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PAMOUNT, Graham",
+        "Votes": 4792,
+        "Percent": 6.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GARCIA, John",
+        "Votes": 1568,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1984": {
+    "title": "Hawker, SA   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JACOBI, Ralph",
+        "Votes": 30956,
+        "Percent": 49.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAMPBELL, Charles",
+        "Votes": 26101,
+        "Percent": 41.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PAMOUNT, Graham",
+        "Votes": 4852,
+        "Percent": 7.7
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "CORRELL, Thomas",
+        "Votes": 1045,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "1987": {
+    "title": "Hawker, SA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HARVEY, Elizabeth",
+        "Votes": 29560,
+        "Percent": 46.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JACOBS, Kim",
+        "Votes": 28116,
+        "Percent": 43.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PAMOUNT, Graham",
+        "Votes": 4439,
+        "Percent": 6.9
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "DWYER, David",
+        "Votes": 1203,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DRAPER, Keith",
+        "Votes": 719,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1990": {
+    "title": "Hawker, SA   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GALLUS, Christine",
+        "Votes": 28348,
+        "Percent": 43.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HARVEY, Elizabeth",
+        "Votes": 26641,
+        "Percent": 40.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WILLIAMS, Elizabeth",
+        "Votes": 8362,
+        "Percent": 12.7
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "MACEY, Reg",
+        "Votes": 1266,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOTTAM, Glen",
+        "Votes": 702,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RAGLESS, Kathy",
+        "Votes": 477,
+        "Percent": 0.7
+      }
+    ]
+  }
+}

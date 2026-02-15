@@ -1,0 +1,583 @@
+{
+  "1984": {
+    "title": "Cowan, WA   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JAKOBSEN, Carolyn",
+        "Votes": 27373,
+        "Percent": 51.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ROBERTS, Jeff",
+        "Votes": 22969,
+        "Percent": 43.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NEEDHAM, Alan",
+        "Votes": 3081,
+        "Percent": 5.8
+      }
+    ]
+  },
+  "1987": {
+    "title": "Cowan, WA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JAKOBSEN, Carolyn",
+        "Votes": 32481,
+        "Percent": 52.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FILING, Paul",
+        "Votes": 27048,
+        "Percent": 43.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BAKER, Neil",
+        "Votes": 2973,
+        "Percent": 4.8
+      }
+    ]
+  },
+  "1990": {
+    "title": "Cowan, WA   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "AIREY, Diane",
+        "Votes": 26061,
+        "Percent": 42.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JAKOBSEN, Carolyn",
+        "Votes": 24368,
+        "Percent": 39.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GILFILLAN, Sarah",
+        "Votes": 5256,
+        "Percent": 8.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WARD, Sally",
+        "Votes": 3603,
+        "Percent": 5.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Barry",
+        "Votes": 785,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCLOUGHLIN, Robert",
+        "Votes": 414,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THOMAS, Deb",
+        "Votes": 321,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GUINAN, Brian",
+        "Votes": 206,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1993": {
+    "title": "Cowan, WA   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "MILES, Suzan",
+        "Votes": "398",
+        "Percent": 0.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "EVANS, Richard",
+        "Votes": "33472",
+        "Percent": 47.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DIK, Otto",
+        "Votes": "3197",
+        "Percent": 4.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JAKOBSEN, Carolyn",
+        "Votes": "30982",
+        "Percent": 44.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GODDEN, Stewart",
+        "Votes": "2113",
+        "Percent": 3.0
+      }
+    ]
+  },
+  "2001": {
+    "title": "Cowan, WA   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EDWARDS, Hon Graham",
+        "Votes": 34703,
+        "Percent": 47.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SHANNON, Andre",
+        "Votes": 26250,
+        "Percent": 36.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HOLT, Ron",
+        "Votes": 4130,
+        "Percent": 5.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CHALONER, Tracy",
+        "Votes": 3111,
+        "Percent": 4.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FORT, Dave",
+        "Votes": 2951,
+        "Percent": 4.1
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "SALMON, Paul",
+        "Votes": 1117,
+        "Percent": 1.5
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "METCALF, Sue",
+        "Votes": 410,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2004": {
+    "title": "Cowan, WA   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SIMPKINS, Luke",
+        "Votes": 33905,
+        "Percent": 44.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EDWARDS, Hon Graham",
+        "Votes": 33510,
+        "Percent": 43.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GEORGE, Glen",
+        "Votes": 4272,
+        "Percent": 5.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "LEEDER, Richard",
+        "Votes": 1873,
+        "Percent": 2.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "WINTON, Clem",
+        "Votes": 1538,
+        "Percent": 2.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GILFILLAN, Sarah",
+        "Votes": 1002,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ATKINS, Basil",
+        "Votes": 282,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2007": {
+    "title": "Cowan, WA   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SIMPKINS, Luke",
+        "Votes": 38872,
+        "Percent": 45.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PRIME, Liz",
+        "Votes": 35633,
+        "Percent": 42.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HERRMANN, Johannes",
+        "Votes": 4778,
+        "Percent": 5.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "FIRTH, Martin",
+        "Votes": 1584,
+        "Percent": 1.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HAMERSLEY, Rhonda",
+        "Votes": 1452,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LEE, Ken",
+        "Votes": 1003,
+        "Percent": 1.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "TIERNEY, Dave",
+        "Votes": 783,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RAMSAY, Norm",
+        "Votes": 558,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLAKEWAY, Roger",
+        "Votes": 195,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2010": {
+    "title": "Cowan, WA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SIMPKINS, Luke",
+        "Votes": 40077,
+        "Percent": 50.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HOPKINS, Chas",
+        "Votes": 25975,
+        "Percent": 32.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PHILLIPS, Rob",
+        "Votes": 10033,
+        "Percent": 12.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "KINGSTON, David",
+        "Votes": 2081,
+        "Percent": 2.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LEACH, Alan",
+        "Votes": 1888,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "2013": {
+    "title": "Cowan, WA   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SIMPKINS, Luke",
+        "Votes": 41849,
+        "Percent": 49.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COCKMAN, Tristan",
+        "Votes": 27248,
+        "Percent": 32.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COLLINS, Adam",
+        "Votes": 6677,
+        "Percent": 7.9
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "SHARMA, Vimal",
+        "Votes": 4501,
+        "Percent": 5.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KINGSTON, David",
+        "Votes": 1802,
+        "Percent": 2.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "NGUYEN, Che",
+        "Votes": 1442,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MUNDY, Sheila",
+        "Votes": 869,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2016": {
+    "title": "Cowan, WA   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SIMPKINS, Luke",
+        "Votes": 34405,
+        "Percent": 42.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ALY, Dr Anne",
+        "Votes": 33966,
+        "Percent": 41.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "YOUNG, Sheridan",
+        "Votes": 6193,
+        "Percent": 7.6
+      },
+      {
+        "Party": "AC",
+        "Candidate": "HOST, Rex",
+        "Votes": 2680,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHESTER, Jamie",
+        "Votes": 2288,
+        "Percent": 2.8
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "HAMILTON, Neil",
+        "Votes": 1096,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VENESS, Steve",
+        "Votes": 868,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2019": {
+    "title": "Cowan, WA   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "STEWART, Isaac",
+        "Votes": 33438,
+        "Percent": 39.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ALY, Dr Anne",
+        "Votes": 32353,
+        "Percent": 38.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COOPER, Mark",
+        "Votes": 8551,
+        "Percent": 10.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MUNDY, Sheila",
+        "Votes": 4777,
+        "Percent": 5.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "WESTCOTT, Peter",
+        "Votes": 2171,
+        "Percent": 2.6
+      },
+      {
+        "Party": "AChr",
+        "Candidate": "LEBRASSE, Andre",
+        "Votes": 1981,
+        "Percent": 2.3
+      },
+      {
+        "Party": "SFF",
+        "Candidate": "BEDFORD, Paul",
+        "Votes": 1582,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "2022": {
+    "title": "Cowan, WA   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ALY, Dr Anne",
+        "Votes": 46712,
+        "Percent": 46.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CONNELLY, Vince",
+        "Votes": 30328,
+        "Percent": 30.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TRIPP, Isabella",
+        "Votes": 9829,
+        "Percent": 9.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "WALSH, Tyler",
+        "Votes": 2839,
+        "Percent": 2.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HAND, Claire",
+        "Votes": 2423,
+        "Percent": 2.4
+      },
+      {
+        "Party": "AC",
+        "Candidate": "IRADUKUNDA, Sylvia",
+        "Votes": 1859,
+        "Percent": 1.9
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "ANAGNO, Michael",
+        "Votes": 1775,
+        "Percent": 1.8
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "LAVERACK, Roland",
+        "Votes": 1714,
+        "Percent": 1.7
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "CALAUTTI, Michael",
+        "Votes": 1125,
+        "Percent": 1.1
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "KRIEKEN, Micah Van",
+        "Votes": 1080,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2025": {
+    "title": "Cowan, WA   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ALY, Anne",
+        "Votes": 44826,
+        "Percent": 46.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ADENIYI, Felicia",
+        "Votes": 23233,
+        "Percent": 24.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COUNT, Matthew",
+        "Votes": 10367,
+        "Percent": 10.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "YATES, Bradley",
+        "Votes": 4869,
+        "Percent": 5.1
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "BELL, John",
+        "Votes": 4103,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "McDONALD, Wade",
+        "Votes": 3417,
+        "Percent": 3.6
+      },
+      {
+        "Party": "AUC",
+        "Candidate": "D'COSTA, Wesley",
+        "Votes": 3015,
+        "Percent": 3.1
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "SMITH, Charles",
+        "Votes": 2311,
+        "Percent": 2.4
+      }
+    ]
+  }
+}

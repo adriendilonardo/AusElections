@@ -1,0 +1,348 @@
+{
+  "2004": {
+    "title": "Bonner, QLD   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "VASTA, Ross",
+        "Votes": 34334,
+        "Percent": 44.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SCIACCA, Hon Con",
+        "Votes": 33261,
+        "Percent": 42.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JENKINS, Elissa",
+        "Votes": 3836,
+        "Percent": 4.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HUNT, Trevor",
+        "Votes": 3393,
+        "Percent": 4.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MYATT, Barry",
+        "Votes": 1436,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SMITH, Chad",
+        "Votes": 1090,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WHEELER, Bill",
+        "Votes": 451,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2007": {
+    "title": "Bonner, QLD   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "REA, Kerry",
+        "Votes": 40784,
+        "Percent": 48.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "VASTA, Ross",
+        "Votes": 35031,
+        "Percent": 41.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WYATT, David",
+        "Votes": 4094,
+        "Percent": 4.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "GELLATLY, Stephen",
+        "Votes": 1612,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOESE, Shane",
+        "Votes": 1010,
+        "Percent": 1.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STOCKS, Vicki",
+        "Votes": 837,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHARLES, Lisa",
+        "Votes": 212,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "Bonner, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "VASTA, Ross",
+        "Votes": 38105,
+        "Percent": 46.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "REA, Kerry",
+        "Votes": 29639,
+        "Percent": 36.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROSIN, Darryl",
+        "Votes": 9188,
+        "Percent": 11.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "FERRANDO, Carolyn",
+        "Votes": 2318,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SOWDEN, Greg",
+        "Votes": 1984,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WELLNER, Utz",
+        "Votes": 931,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2013": {
+    "title": "Bonner, QLD   2013",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "VASTA, Ross",
+        "Votes": 40186,
+        "Percent": 46.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HARDY, Laura Fraser",
+        "Votes": 30927,
+        "Percent": 36.0
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "MACANALLY, James",
+        "Votes": 6712,
+        "Percent": 7.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NELSON, Dave",
+        "Votes": 5876,
+        "Percent": 6.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "PENNY, Jeff",
+        "Votes": 1789,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WIRTH, Jarrod",
+        "Votes": 386,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2016": {
+    "title": "Bonner, QLD   2016",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "VASTA, Ross",
+        "Votes": 41756,
+        "Percent": 46.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HARDY, Laura Fraser",
+        "Votes": 31344,
+        "Percent": 35.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "AUSTIN, Ken",
+        "Votes": 8518,
+        "Percent": 9.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BROUGHTON, Andrew",
+        "Votes": 3157,
+        "Percent": 3.5
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "LINNEY, Matthew",
+        "Votes": 2738,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WIRTH, Jarrod",
+        "Votes": 2396,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "2019": {
+    "title": "Bonner, QLD   2019",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "VASTA, Ross",
+        "Votes": 46616,
+        "Percent": 49.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRISKEY, Jo",
+        "Votes": 29291,
+        "Percent": 31.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BELL, Barbara",
+        "Votes": 11010,
+        "Percent": 11.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "SYMES, Ian",
+        "Votes": 3771,
+        "Percent": 4.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "FLITCROFT, Simon",
+        "Votes": 2394,
+        "Percent": 2.5
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "MAYNARD, Alex",
+        "Votes": 1105,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2022": {
+    "title": "Bonner, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "VASTA, Ross",
+        "Votes": 43191,
+        "Percent": 44.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "YOUNG, Tabatha",
+        "Votes": 28491,
+        "Percent": 29.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LAKEY, Bernard",
+        "Votes": 16144,
+        "Percent": 16.8
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "NEIL, Amanda",
+        "Votes": 5371,
+        "Percent": 5.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "DIKLICH, Serge",
+        "Votes": 3177,
+        "Percent": 3.3
+      }
+    ]
+  },
+  "2025": {
+    "title": "Bonner, QLD   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COOK, Kara",
+        "Votes": 39154,
+        "Percent": 39.5
+      },
+      {
+        "Party": "LNP",
+        "Candidate": "VASTA, Ross",
+        "Votes": 35156,
+        "Percent": 35.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LI, Wen",
+        "Votes": 12314,
+        "Percent": 12.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "de WINTER, Christopher",
+        "Votes": 3784,
+        "Percent": 3.8
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "DOVEY, Ross",
+        "Votes": 2811,
+        "Percent": 2.8
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "HILL, Craig",
+        "Votes": 2497,
+        "Percent": 2.5
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "WRIGHT, David",
+        "Votes": 2187,
+        "Percent": 2.2
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "BHASIN, Shalini",
+        "Votes": 1203,
+        "Percent": 1.2
+      }
+    ]
+  }
+}

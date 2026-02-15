@@ -1,0 +1,1028 @@
+{
+  "1949": {
+    "title": "Fisher, QLD   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ADERMANN, Charles",
+        "Votes": 26630,
+        "Percent": 66.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROBERTS, Edmund",
+        "Votes": 9980,
+        "Percent": 24.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LOGAN, Norman",
+        "Votes": 3419,
+        "Percent": 8.5
+      }
+    ]
+  },
+  "1951": {
+    "title": "Fisher, QLD   1951",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ADERMANN, Charles",
+        "Votes": "29417",
+        "Percent": 72.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ARNELL, Geoffrey",
+        "Votes": "10952",
+        "Percent": 27.1
+      }
+    ]
+  },
+  "1954": {
+    "title": "Fisher, QLD   1954",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ADERMANN, Charles",
+        "Votes": "29202",
+        "Percent": 69.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CAMPBELL, Sydney",
+        "Votes": "12774",
+        "Percent": 30.4
+      }
+    ]
+  },
+  "1955": {
+    "title": "Fisher, QLD   1955",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ADERMANN, Charles",
+        "Votes": "Unopposed",
+        "Percent": 100.0
+      }
+    ]
+  },
+  "1958": {
+    "title": "Fisher, QLD   1958",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ADERMANN, Charles",
+        "Votes": 26953,
+        "Percent": 66.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WEIR, William",
+        "Votes": 10337,
+        "Percent": 25.4
+      },
+      {
+        "Party": "QLP",
+        "Candidate": "HUMPHRIES, James",
+        "Votes": 3465,
+        "Percent": 8.5
+      }
+    ]
+  },
+  "1961": {
+    "title": "Fisher, QLD   1961",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ADERMANN, Hon Charles",
+        "Votes": 23478,
+        "Percent": 55.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WEIR, William",
+        "Votes": 15065,
+        "Percent": 35.8
+      },
+      {
+        "Party": "QLP",
+        "Candidate": "NEWMAN, John",
+        "Votes": 3490,
+        "Percent": 8.3
+      }
+    ]
+  },
+  "1963": {
+    "title": "Fisher, QLD   1963",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ADERMANN, Hon Charles",
+        "Votes": "27512",
+        "Percent": 64.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "TRAILL, Geoffrey",
+        "Votes": "1567",
+        "Percent": 3.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WEIR, William",
+        "Votes": "13882",
+        "Percent": 32.3
+      }
+    ]
+  },
+  "1966": {
+    "title": "Fisher, QLD   1966",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ADERMANN, Rt Hon Charles",
+        "Votes": 29855,
+        "Percent": 66.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WALKER, Alfred",
+        "Votes": 12445,
+        "Percent": 27.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BARRON, Robert",
+        "Votes": 2814,
+        "Percent": 6.2
+      }
+    ]
+  },
+  "1969": {
+    "title": "Fisher, QLD   1969",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ADERMANN, Rt Hon Charles",
+        "Votes": 30581,
+        "Percent": 58.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BUDGE, Ian",
+        "Votes": 18509,
+        "Percent": 35.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BARRON, Robert",
+        "Votes": 2854,
+        "Percent": 5.5
+      }
+    ]
+  },
+  "1972": {
+    "title": "Fisher, QLD   1972",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ADERMANN, Evan",
+        "Votes": 28356,
+        "Percent": 50.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LINACRE, Hamish",
+        "Votes": 20183,
+        "Percent": 35.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PLOWMAN, John",
+        "Votes": 5494,
+        "Percent": 9.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BARRON, Robert",
+        "Votes": 2569,
+        "Percent": 4.5
+      }
+    ]
+  },
+  "1974": {
+    "title": "Fisher, QLD   1974",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ADERMANN, Evan",
+        "Votes": 44968,
+        "Percent": 68.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LINACRE, Hamish",
+        "Votes": 20472,
+        "Percent": 31.3
+      }
+    ]
+  },
+  "1975": {
+    "title": "Fisher, QLD   1975",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "ADERMANN, Evan",
+        "Votes": 49850,
+        "Percent": 70.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GUY, Ivan",
+        "Votes": 18757,
+        "Percent": 26.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MARSHALL, Dennis",
+        "Votes": 2110,
+        "Percent": 3.0
+      }
+    ]
+  },
+  "1977": {
+    "title": "Fisher, QLD   1977",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "ADERMANN, Hon Evan",
+        "Votes": 37247,
+        "Percent": 59.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PRICE, Fay",
+        "Votes": 18187,
+        "Percent": 29.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NEWMAN, Gillian",
+        "Votes": 6110,
+        "Percent": 9.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GAFFNEY, Gregory",
+        "Votes": 983,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1980": {
+    "title": "Fisher, QLD   1980",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "ADERMANN, Hon Evan",
+        "Votes": 41167,
+        "Percent": 53.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PRICE, Fay",
+        "Votes": 26865,
+        "Percent": 34.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BLACK, Gavin",
+        "Votes": 6250,
+        "Percent": 8.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PERRY, Gail",
+        "Votes": 2134,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JENNERET, Rodney",
+        "Votes": 848,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1983": {
+    "title": "Fisher, QLD   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "ADERMANN, Hon Evan",
+        "Votes": 36848,
+        "Percent": 39.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "THEO, Sol",
+        "Votes": 35220,
+        "Percent": 38.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CASWELL, Dennis",
+        "Votes": 13414,
+        "Percent": 14.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SOMERVILLE, Garry",
+        "Votes": 6764,
+        "Percent": 7.3
+      }
+    ]
+  },
+  "1984": {
+    "title": "Fisher, QLD   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HEAD, Garth",
+        "Votes": 23554,
+        "Percent": 42.4
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "SLIPPER, Peter",
+        "Votes": 20214,
+        "Percent": 36.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KILNER, Lionel",
+        "Votes": 7998,
+        "Percent": 14.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FARRELL, Kent",
+        "Votes": 3807,
+        "Percent": 6.9
+      }
+    ]
+  },
+  "1987": {
+    "title": "Fisher, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LAVARCH, Michael",
+        "Votes": 30181,
+        "Percent": 44.7
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "SLIPPER, Peter",
+        "Votes": 24522,
+        "Percent": 36.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MUTCH, Ian",
+        "Votes": 8208,
+        "Percent": 12.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SPICER, Glen",
+        "Votes": 4597,
+        "Percent": 6.8
+      }
+    ]
+  },
+  "1990": {
+    "title": "Fisher, QLD   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LAVARCH, Michael",
+        "Votes": 35004,
+        "Percent": 42.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HOLMES, Tony",
+        "Votes": 21225,
+        "Percent": 26.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "SHEAHAN, Brian",
+        "Votes": 14490,
+        "Percent": 17.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SPICER, Glen",
+        "Votes": 10981,
+        "Percent": 13.4
+      }
+    ]
+  },
+  "1993": {
+    "title": "Fisher, QLD   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "SAVAGE, Chris",
+        "Votes": "4758",
+        "Percent": 6.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WATSON, Sam",
+        "Votes": "266",
+        "Percent": 0.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BURGETT, Ian",
+        "Votes": "25638",
+        "Percent": 35.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SLIPPER, Peter",
+        "Votes": "24195",
+        "Percent": 33.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JOHNSON, Jeff",
+        "Votes": "2315",
+        "Percent": 3.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JAKEMAN, Digby",
+        "Votes": "2170",
+        "Percent": 3.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GWIN, Chris",
+        "Votes": "1824",
+        "Percent": 2.6
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "JOHNSTON, Winston",
+        "Votes": "10497",
+        "Percent": 14.7
+      }
+    ]
+  },
+  "1996": {
+    "title": "Fisher, QLD   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SLIPPER, Peter",
+        "Votes": 30902,
+        "Percent": 45.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HENDERSON, John",
+        "Votes": 15685,
+        "Percent": 22.9
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BJELKE-PETERSEN, John",
+        "Votes": 14115,
+        "Percent": 20.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KERLIN, Alan",
+        "Votes": 3625,
+        "Percent": 5.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GWIN, Chris",
+        "Votes": 1686,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARNES, Lorraine",
+        "Votes": 830,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PEACH, Louise",
+        "Votes": 826,
+        "Percent": 1.2
+      },
+      {
+        "Party": "AAFI",
+        "Candidate": "LAZARENKO, Margaret",
+        "Votes": 523,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EARNSHAW, Gordon",
+        "Votes": 257,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOND, Alex",
+        "Votes": 117,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "1998": {
+    "title": "Fisher, QLD   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SLIPPER, Peter",
+        "Votes": 33187,
+        "Percent": 48.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O]DONNELL, Ray",
+        "Votes": 19205,
+        "Percent": 27.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "JENKINS, Tim",
+        "Votes": 10132,
+        "Percent": 14.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HENMAN, Jenny",
+        "Votes": 2697,
+        "Percent": 3.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SHOTTON, Les",
+        "Votes": 1852,
+        "Percent": 2.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "URQUHART, Peter",
+        "Votes": 1348,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TAYLOR, Alexander",
+        "Votes": 396,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MUMFORD, Trevor",
+        "Votes": 289,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2001": {
+    "title": "Fisher, QLD   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SLIPPER, Hon Peter",
+        "Votes": 40173,
+        "Percent": 51.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'DONNELL, Ray",
+        "Votes": 19406,
+        "Percent": 25.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOURIGAN, Ros",
+        "Votes": 6002,
+        "Percent": 7.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "TANNOCK, Bruce",
+        "Votes": 5838,
+        "Percent": 7.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCLEOD, Tony",
+        "Votes": 3032,
+        "Percent": 3.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ARMSTRONG, Geoff",
+        "Votes": 2872,
+        "Percent": 3.7
+      }
+    ]
+  },
+  "2004": {
+    "title": "Fisher, QLD   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SLIPPER, Hon Peter",
+        "Votes": 42641,
+        "Percent": 55.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GRAY, John",
+        "Votes": 22011,
+        "Percent": 28.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MUSTON, Robert",
+        "Votes": 4617,
+        "Percent": 6.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HILL, Ronald",
+        "Votes": 3174,
+        "Percent": 4.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SAVAGE, Kevin",
+        "Votes": 1929,
+        "Percent": 2.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WILMOT, Craig",
+        "Votes": 1201,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HAYS, Liz",
+        "Votes": 748,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2007": {
+    "title": "Fisher, QLD   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SLIPPER, Hon Peter",
+        "Votes": 35182,
+        "Percent": 44.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MAIN, Darrell",
+        "Votes": 27074,
+        "Percent": 34.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HUTCHINSON, Caroline",
+        "Votes": 10596,
+        "Percent": 13.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GRAY, Matthew",
+        "Votes": 4474,
+        "Percent": 5.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CUMMING, Graeme",
+        "Votes": 1728,
+        "Percent": 2.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KERR, Carolyn",
+        "Votes": 655,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2010": {
+    "title": "Fisher, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "SLIPPER, Hon Peter",
+        "Votes": 34235,
+        "Percent": 46.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CUMMINS, Chris",
+        "Votes": 22332,
+        "Percent": 30.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CLARIDGE, Garry",
+        "Votes": 11664,
+        "Percent": 15.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ROBERTSON, Robyn",
+        "Votes": 5421,
+        "Percent": 7.4
+      }
+    ]
+  },
+  "2013": {
+    "title": "Fisher, QLD   2013",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "BROUGH, Hon Mal",
+        "Votes": 34619,
+        "Percent": 44.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GISSANE, Bill",
+        "Votes": 16297,
+        "Percent": 20.9
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "SCHOCH, William",
+        "Votes": 13559,
+        "Percent": 17.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CLARIDGE, Gerry",
+        "Votes": 5908,
+        "Percent": 7.6
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "MELDON, Mark",
+        "Votes": 2520,
+        "Percent": 3.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MOORE, Tony",
+        "Votes": 1593,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SLIPPER, Hon Peter",
+        "Votes": 1207,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TERRY, Jarreau",
+        "Votes": 957,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MAGUIRE, Mark",
+        "Votes": 890,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHRISTENSEN, Rod",
+        "Votes": 305,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2016": {
+    "title": "Fisher, QLD   2016",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "WALLACE, Andrew",
+        "Votes": 40424,
+        "Percent": 48.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GISSANE, Bill",
+        "Votes": 20670,
+        "Percent": 24.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GIBSON, Tony",
+        "Votes": 10324,
+        "Percent": 12.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SPELLMAN, John",
+        "Votes": 2952,
+        "Percent": 3.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ASHLIN, Caroline",
+        "Votes": 2927,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JESSOP, Mike",
+        "Votes": 2906,
+        "Percent": 3.5
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "BELL-HENSELIN, Tracey",
+        "Votes": 2210,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BURGESS, Jason",
+        "Votes": 914,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JOUM, L B",
+        "Votes": 438,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "2019": {
+    "title": "Fisher, QLD   2019",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "WALLACE, Andrew",
+        "Votes": 49567,
+        "Percent": 50.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PARSELL, Daniel",
+        "Votes": 22011,
+        "Percent": 22.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BURTON, Tracy",
+        "Votes": 12289,
+        "Percent": 8.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "PATERSON, Christopher",
+        "Votes": 8596,
+        "Percent": 8.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "GRAY, Trevor",
+        "Votes": 3429,
+        "Percent": 3.5
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "JESSOP, Mike",
+        "Votes": 1592,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MONAGHAN, Paul",
+        "Votes": 1564,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2022": {
+    "title": "Fisher, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WALLACE, Hon Andrew",
+        "Votes": 48013,
+        "Percent": 44.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ANDREWS, Judene",
+        "Votes": 25313,
+        "Percent": 23.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WELLS, Renay",
+        "Votes": 14981,
+        "Percent": 13.8
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "SCHRIEVER, Sam",
+        "Votes": 10102,
+        "Percent": 9.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MOORE, Tony",
+        "Votes": 7355,
+        "Percent": 6.8
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "BRECKENRIDGE, Vickie",
+        "Votes": 2730,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "2025": {
+    "title": "Fisher, QLD   2025",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "WALLACE, Andrew",
+        "Votes": 44100,
+        "Percent": 37.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LAKEY, Morrison",
+        "Votes": 26380,
+        "Percent": 22.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JONES, Keryn",
+        "Votes": 19296,
+        "Percent": 16.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WELLS, Renay",
+        "Votes": 11396,
+        "Percent": 9.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "KELLY, Benjamin",
+        "Votes": 7199,
+        "Percent": 6.1
+      },
+      {
+        "Party": "GRPF",
+        "Candidate": "PIDGEON, James",
+        "Votes": 4972,
+        "Percent": 4.2
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "FRICOT, Denis",
+        "Votes": 3050,
+        "Percent": 2.6
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "BOLITHO, Bronwen",
+        "Votes": 2079,
+        "Percent": 1.8
+      }
+    ]
+  }
+}

@@ -1,0 +1,947 @@
+{
+  "1949": {
+    "title": "Murray, VIC   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "MCEWEN, Hon John",
+        "Votes": 23778,
+        "Percent": 63.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DEVLIN, Desmond",
+        "Votes": 13650,
+        "Percent": 36.5
+      }
+    ]
+  },
+  "1951": {
+    "title": "Murray, VIC   1951",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "MCEWEN, Hon John",
+        "Votes": "23248",
+        "Percent": 61.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ANDERSON, Gordon",
+        "Votes": "14834",
+        "Percent": 39.0
+      }
+    ]
+  },
+  "1954": {
+    "title": "Murray, VIC   1954",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "MCEWEN, Rt Hon John",
+        "Votes": "Unopposed",
+        "Percent": 100.0
+      }
+    ]
+  },
+  "1955": {
+    "title": "Murray, VIC   1955",
+    "rows": [
+      {
+        "Party": "ALPAC",
+        "Candidate": "REILLY, Michael",
+        "Votes": "5383",
+        "Percent": 13.5
+      },
+      {
+        "Party": "CP",
+        "Candidate": "MCEWEN, Rt Hon John",
+        "Votes": "24192",
+        "Percent": 60.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CAMERON, James",
+        "Votes": "10269",
+        "Percent": 25.8
+      }
+    ]
+  },
+  "1958": {
+    "title": "Murray, VIC   1958",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "MCEWEN, Rt Hon John",
+        "Votes": 25710,
+        "Percent": 61.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FRANKLAND, Neil",
+        "Votes": 10560,
+        "Percent": 25.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "LACEY, Brian",
+        "Votes": 5303,
+        "Percent": 12.8
+      }
+    ]
+  },
+  "1961": {
+    "title": "Murray, VIC   1961",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "MCEWEN, Rt Hon John",
+        "Votes": 26773,
+        "Percent": 61.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FRANKLAND, Neil",
+        "Votes": 10971,
+        "Percent": 25.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "LACEY, Brian",
+        "Votes": 5784,
+        "Percent": 13.3
+      }
+    ]
+  },
+  "1963": {
+    "title": "Murray, VIC   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "LACEY, Brian",
+        "Votes": "5914",
+        "Percent": 13.0
+      },
+      {
+        "Party": "CP",
+        "Candidate": "MCEWEN, Rt Hon John",
+        "Votes": "29240",
+        "Percent": 64.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FRANKLAND, Neil",
+        "Votes": "10292",
+        "Percent": 22.6
+      }
+    ]
+  },
+  "1966": {
+    "title": "Murray, VIC   1966",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "MCEWEN, Rt Hon John",
+        "Votes": 31209,
+        "Percent": 66.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HUGGINS, Mervyn",
+        "Votes": 9848,
+        "Percent": 21.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "LACEY, Brian",
+        "Votes": 5927,
+        "Percent": 12.6
+      }
+    ]
+  },
+  "1969": {
+    "title": "Murray, VIC   1969",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "MCEWEN, Rt Hon John",
+        "Votes": 24450,
+        "Percent": 53.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FRANKLAND, Neil",
+        "Votes": 10634,
+        "Percent": 23.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HUNTER, William",
+        "Votes": 6426,
+        "Percent": 14.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "LACEY, Brian",
+        "Votes": 4405,
+        "Percent": 9.6
+      }
+    ]
+  },
+  "1972": {
+    "title": "Murray, VIC   1972",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "LLOYD, Bruce",
+        "Votes": 22532,
+        "Percent": 46.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "RIORDAN, John",
+        "Votes": 14958,
+        "Percent": 30.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HUNTER, William",
+        "Votes": 7774,
+        "Percent": 15.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "PAYNE, Patrick",
+        "Votes": 3570,
+        "Percent": 7.3
+      }
+    ]
+  },
+  "1974": {
+    "title": "Murray, VIC   1974",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "LLOYD, Bruce",
+        "Votes": 28475,
+        "Percent": 53.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DODD, Dennis",
+        "Votes": 14503,
+        "Percent": 27.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HUNTER, William",
+        "Votes": 7324,
+        "Percent": 13.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "PAYNE, Patrick",
+        "Votes": 2460,
+        "Percent": 4.6
+      },
+      {
+        "Party": "AP",
+        "Candidate": "SCHOEFFEL, Peter",
+        "Votes": 680,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DUNN, Hugh",
+        "Votes": 242,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1975": {
+    "title": "Murray, VIC   1975",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "LLOYD, Bruce",
+        "Votes": 39050,
+        "Percent": 69.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GILLIES, Marjorie",
+        "Votes": 13547,
+        "Percent": 24.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "PAYNE, Patrick",
+        "Votes": 3239,
+        "Percent": 5.8
+      }
+    ]
+  },
+  "1977": {
+    "title": "Murray, VIC   1977",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "LLOYD, Bruce",
+        "Votes": 32809,
+        "Percent": 52.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MACARTNEY, Graeme",
+        "Votes": 10573,
+        "Percent": 17.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LOVE, Robert",
+        "Votes": 9230,
+        "Percent": 14.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MURRAY, George",
+        "Votes": 6612,
+        "Percent": 10.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "PAYNE, Patrick",
+        "Votes": 2915,
+        "Percent": 4.7
+      }
+    ]
+  },
+  "1980": {
+    "title": "Murray, VIC   1980",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "LLOYD, Bruce",
+        "Votes": 30338,
+        "Percent": 46.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GROVES, Joan",
+        "Votes": 15679,
+        "Percent": 23.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HUNTER, William",
+        "Votes": 14616,
+        "Percent": 22.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LINFORD, Douglas",
+        "Votes": 3856,
+        "Percent": 5.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TEASDALE, Diane",
+        "Votes": 1171,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "1983": {
+    "title": "Murray, VIC   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "LLOYD, Bruce",
+        "Votes": 36433,
+        "Percent": 53.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ANDERSON, Mark",
+        "Votes": 16684,
+        "Percent": 24.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ADAMS, Anne",
+        "Votes": 11727,
+        "Percent": 17.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WEIR, John",
+        "Votes": 2640,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TEASDALE, Diane",
+        "Votes": 835,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1984": {
+    "title": "Murray, VIC   1984",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "LLOYD, Bruce",
+        "Votes": 35681,
+        "Percent": 58.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ANDERSON, Mark",
+        "Votes": 15034,
+        "Percent": 24.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ADAMS, Anne",
+        "Votes": 7484,
+        "Percent": 12.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WEIR, John",
+        "Votes": 2096,
+        "Percent": 3.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SEMMEL, Desmond",
+        "Votes": 887,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1987": {
+    "title": "Murray, VIC   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "LLOYD, Bruce",
+        "Votes": 32738,
+        "Percent": 50.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ANDERSON, Mark",
+        "Votes": 16919,
+        "Percent": 26.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NORDEN, Brendan",
+        "Votes": 9545,
+        "Percent": 14.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LINFORD, Ralph",
+        "Votes": 2631,
+        "Percent": 4.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARGREAVES, John",
+        "Votes": 2574,
+        "Percent": 4.0
+      }
+    ]
+  },
+  "1990": {
+    "title": "Murray, VIC   1990",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "LLOYD, Bruce",
+        "Votes": 46901,
+        "Percent": 66.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PURCELL, Frank",
+        "Votes": 14808,
+        "Percent": 21.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LEAVESLEY, Barbara",
+        "Votes": 6453,
+        "Percent": 9.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ADAMS, Anne",
+        "Votes": 2250,
+        "Percent": 3.2
+      }
+    ]
+  },
+  "1993": {
+    "title": "Murray, VIC   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "HYLAND, Sonia",
+        "Votes": "781",
+        "Percent": 1.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "LLOYD, Bruce",
+        "Votes": "49506",
+        "Percent": 67.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "THOMSON, Allan",
+        "Votes": "2027",
+        "Percent": 2.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SHEEN, John",
+        "Votes": "19555",
+        "Percent": 26.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LACEY, Dennis",
+        "Votes": "1678",
+        "Percent": 2.3
+      }
+    ]
+  },
+  "1996": {
+    "title": "Murray, VIC   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "STONE, Sharman",
+        "Votes": 33565,
+        "Percent": 43.2
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "WALKER, John",
+        "Votes": 23034,
+        "Percent": 29.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MORAN, Bernie",
+        "Votes": 16635,
+        "Percent": 21.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LACEY, Dennis",
+        "Votes": 3924,
+        "Percent": 5.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROSE, George",
+        "Votes": 497,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1998": {
+    "title": "Murray, VIC   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "STONE, Sharman",
+        "Votes": 46070,
+        "Percent": 59.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STUART, John",
+        "Votes": 16061,
+        "Percent": 20.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILSON, Geoff",
+        "Votes": 5274,
+        "Percent": 6.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HELLEMONS, Robert",
+        "Votes": 5259,
+        "Percent": 6.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CADMORE, Ray",
+        "Votes": 2276,
+        "Percent": 2.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MULLANE, Eleisha",
+        "Votes": 1243,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TEASDALE, Diane",
+        "Votes": 955,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MARCUCCI, Nino",
+        "Votes": 386,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2001": {
+    "title": "Murray, VIC   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "STONE, Hon Dr Sharman",
+        "Votes": 53498,
+        "Percent": 67.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CALDER, Alan",
+        "Votes": 16083,
+        "Percent": 20.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HELLEMONS, Robert",
+        "Votes": 3162,
+        "Percent": 4.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TAYLOR, Elizabeth",
+        "Votes": 2514,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUSH, Simon",
+        "Votes": 2483,
+        "Percent": 3.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JONES, David",
+        "Votes": 1827,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "2004": {
+    "title": "Murray, VIC   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "STONE, Hon Dr Sharman",
+        "Votes": 52697,
+        "Percent": 65.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KELLY, Norman",
+        "Votes": 15899,
+        "Percent": 19.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRYANT, Rob",
+        "Votes": 6235,
+        "Percent": 7.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MORGAN, Monica",
+        "Votes": 2449,
+        "Percent": 3.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MADILL, Janine",
+        "Votes": 1917,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TEASDALE, Diane",
+        "Votes": 1083,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARWICK, Elisa",
+        "Votes": 137,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2007": {
+    "title": "Murray, VIC   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "STONE, Hon Dr Sharman",
+        "Votes": 50021,
+        "Percent": 62.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SCATES, Bob",
+        "Votes": 19429,
+        "Percent": 24.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRYANT, Rob",
+        "Votes": 4373,
+        "Percent": 5.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MOORE, Serena",
+        "Votes": 2674,
+        "Percent": 3.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CHRISTOE, Ian",
+        "Votes": 2377,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TEASDALE, Diane",
+        "Votes": 615,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MERRIGAN, Paul",
+        "Votes": 484,
+        "Percent": 0.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ISGRO, Sarina",
+        "Votes": 416,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAVY, Jeff",
+        "Votes": 203,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "Murray, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "STONE, Hon Dr Sharman",
+        "Votes": 52337,
+        "Percent": 65.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MORTENSEN, Hugh",
+        "Votes": 18842,
+        "Percent": 23.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CHRISTOE, Ian",
+        "Votes": 4906,
+        "Percent": 6.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MOORE, Serena",
+        "Votes": 2958,
+        "Percent": 3.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "MCDONALD, Ewen",
+        "Votes": 632,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAVY, Jeff",
+        "Votes": 493,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLARKE-HANNAFORD, William",
+        "Votes": 380,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2013": {
+    "title": "Murray, VIC   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "STONE, Hon Dr Sharman",
+        "Votes": 54490,
+        "Percent": 61.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HIGGINS, Rod",
+        "Votes": 18403,
+        "Percent": 20.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "STEVENS, Damien",
+        "Votes": 3485,
+        "Percent": 3.9
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "THOOLEN, Catriona",
+        "Votes": 2964,
+        "Percent": 3.3
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "BOURKE, Michael",
+        "Votes": 2423,
+        "Percent": 2.7
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "CHELLEW, Tristram",
+        "Votes": 2337,
+        "Percent": 2.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "WALKER, Alan",
+        "Votes": 1589,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCK, Wendy",
+        "Votes": 1176,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SUMMER, Fern",
+        "Votes": 986,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HUNGERFORD, Raymond",
+        "Votes": 563,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAVY, Jeff",
+        "Votes": 316,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2016": {
+    "title": "Murray, VIC   2016",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "DRUM, Damian",
+        "Votes": 31105,
+        "Percent": 35.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCGAUCHIE, Duncan",
+        "Votes": 28194,
+        "Percent": 32.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIAMS, Alan",
+        "Votes": 13188,
+        "Percent": 15.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CHRISTOE, Ian",
+        "Votes": 3880,
+        "Percent": 4.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DANIELI, Robert",
+        "Votes": 3556,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SUMMER, Fern",
+        "Votes": 3323,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOCK, Andrew",
+        "Votes": 1467,
+        "Percent": 1.7
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "GUNASEKERA, Yasmin",
+        "Votes": 1195,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TEASDALE, Diane",
+        "Votes": 1037,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HICKS, Nigel",
+        "Votes": 844,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAVY, Jeff",
+        "Votes": 227,
+        "Percent": 0.3
+      }
+    ]
+  }
+}

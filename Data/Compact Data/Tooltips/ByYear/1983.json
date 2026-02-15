@@ -1,0 +1,3741 @@
+{
+  "Banks": {
+    "title": "Banks, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MOUNTFORD, John",
+        "Votes": 39013,
+        "Percent": 57.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FAIRBAIRN, Charles",
+        "Votes": 23962,
+        "Percent": 35.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GREENE, Montague",
+        "Votes": 3908,
+        "Percent": 5.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOLMES, David",
+        "Votes": 572,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "Barton": {
+    "title": "Barton, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PUNCH, Gary",
+        "Votes": 31308,
+        "Percent": 49.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BRADFIELD, James",
+        "Votes": 26086,
+        "Percent": 41.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARTON, Bruce",
+        "Votes": 3153,
+        "Percent": 5.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GEORGE, Ronald",
+        "Votes": 1812,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LINDSAY, Jean",
+        "Votes": 284,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WRIGHT, Peter",
+        "Votes": 172,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BELLCHAMBERS, Edwin",
+        "Votes": 166,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "Bennelong": {
+    "title": "Bennelong, NSW   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOWARD, Hon John",
+        "Votes": 33721,
+        "Percent": 50.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "VICKERS, Donald",
+        "Votes": 23799,
+        "Percent": 35.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DUNPHY, Milo",
+        "Votes": 8495,
+        "Percent": 12.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GABELL, Steve",
+        "Votes": 1000,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "Berowra": {
+    "title": "Berowra, NSW   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "EDWARDS, Dr Harold",
+        "Votes": 40676,
+        "Percent": 60.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MARSHAN, Maurice",
+        "Votes": 20943,
+        "Percent": 31.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TUCKWELL, Pamela",
+        "Votes": 6015,
+        "Percent": 8.9
+      }
+    ]
+  },
+  "Blaxland": {
+    "title": "Blaxland, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEATING, Hon Paul",
+        "Votes": 41609,
+        "Percent": 62.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROWN, David",
+        "Votes": 21604,
+        "Percent": 32.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GRATTAN, Phillip",
+        "Votes": 2504,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GOH, Siong Hoe",
+        "Votes": 388,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Bradfield": {
+    "title": "Bradfield, NSW   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CONNOLLY, David",
+        "Votes": 49566,
+        "Percent": 72.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DONOVAN, Peter",
+        "Votes": 14535,
+        "Percent": 21.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DUNNE, Anthony",
+        "Votes": 4674,
+        "Percent": 6.8
+      }
+    ]
+  },
+  "Calare": {
+    "title": "Calare, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SIMMONS, David",
+        "Votes": 35089,
+        "Percent": 50.6
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "MACKENZIE, Alexander",
+        "Votes": 31087,
+        "Percent": 44.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RITTER, Ann",
+        "Votes": 2562,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SIMPSON, George",
+        "Votes": 566,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "Chifley": {
+    "title": "Chifley, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GORMAN, Russell",
+        "Votes": 44419,
+        "Percent": 61.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MITCHELL, Edna",
+        "Votes": 16565,
+        "Percent": 22.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROI, Christine",
+        "Votes": 4557,
+        "Percent": 6.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COOPER, Jonathan",
+        "Votes": 3744,
+        "Percent": 5.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JONES, Frances",
+        "Votes": 2187,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH/NEW, Jane",
+        "Votes": 1114,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "Cook": {
+    "title": "Cook, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ADDISON, Michael",
+        "Votes": 34803,
+        "Percent": 49.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DOBIE, Hon Donald",
+        "Votes": 34666,
+        "Percent": 49.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SOPER, Henry",
+        "Votes": 1213,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "Cowper": {
+    "title": "Cowper, NSW   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "ROBINSON, Hon Ian",
+        "Votes": 38351,
+        "Percent": 48.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MORAN, Joseph",
+        "Votes": 33986,
+        "Percent": 42.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BROWN, Peter",
+        "Votes": 6962,
+        "Percent": 8.8
+      }
+    ]
+  },
+  "Cunningham": {
+    "title": "Cunningham, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WEST, Stewart",
+        "Votes": 46419,
+        "Percent": 63.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FISHER, Gary",
+        "Votes": 17874,
+        "Percent": 24.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JONES, George",
+        "Votes": 4986,
+        "Percent": 6.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COVELL, Diana",
+        "Votes": 2802,
+        "Percent": 3.8
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "RUTNAM, Romaine",
+        "Votes": 704,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PASARA, Rudolf",
+        "Votes": 689,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "Dundas": {
+    "title": "Dundas, NSW   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RUDDOCK, Philip",
+        "Votes": 33509,
+        "Percent": 50.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BLAXELL, Margaret",
+        "Votes": 29727,
+        "Percent": 44.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TUMMINELLO, John",
+        "Votes": 3712,
+        "Percent": 5.5
+      }
+    ]
+  },
+  "Eden-Monaro": {
+    "title": "Eden-Monaro, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SNOW, James",
+        "Votes": 36401,
+        "Percent": 49.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SAINSBURY, Murray",
+        "Votes": 33141,
+        "Percent": 44.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NAUGHTON, Miriam",
+        "Votes": 2333,
+        "Percent": 3.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WITT, Russell",
+        "Votes": 1977,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SARINA, Ronald",
+        "Votes": 260,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "Farrer": {
+    "title": "Farrer, NSW   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FIFE, Hon Wallace",
+        "Votes": 40060,
+        "Percent": 57.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DIFFEY, Noel",
+        "Votes": 27168,
+        "Percent": 38.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MILNE, Scott",
+        "Votes": 1872,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NATHAN, Maureen",
+        "Votes": 740,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Grayndler": {
+    "title": "Grayndler, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCLEAY, Leo",
+        "Votes": 34679,
+        "Percent": 58.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JAMES, Edward",
+        "Votes": 17508,
+        "Percent": 29.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GIBSON, David",
+        "Votes": 3434,
+        "Percent": 5.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JARMAN, Albert",
+        "Votes": 1831,
+        "Percent": 3.1
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "OWENS, Joseph",
+        "Votes": 1008,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KARADJIS, Michael",
+        "Votes": 432,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Gwydir": {
+    "title": "Gwydir, NSW   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "HUNT, Hon Ralph",
+        "Votes": 38839,
+        "Percent": 57.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HAMILTON, Robert",
+        "Votes": 25585,
+        "Percent": 37.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COLLISON, Gloria",
+        "Votes": 3711,
+        "Percent": 5.4
+      }
+    ]
+  },
+  "Hughes": {
+    "title": "Hughes, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JOHNSON, Hon Leslie",
+        "Votes": 46667,
+        "Percent": 61.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SOMERVILLE, Peter",
+        "Votes": 21467,
+        "Percent": 28.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HELLYER, Ronald",
+        "Votes": 6899,
+        "Percent": 9.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PAINTER, Stephen",
+        "Votes": 672,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "Hume": {
+    "title": "Hume, NSW   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "LUSHER, Stephen",
+        "Votes": 36217,
+        "Percent": 54.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCCORMICK, Marie",
+        "Votes": 27195,
+        "Percent": 40.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BUTLER, Gregory",
+        "Votes": 3419,
+        "Percent": 5.1
+      }
+    ]
+  },
+  "Hunter": {
+    "title": "Hunter, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BROWN, Robert",
+        "Votes": 54213,
+        "Percent": 68.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WHITE, James",
+        "Votes": 19508,
+        "Percent": 24.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WILSON, Edwina",
+        "Votes": 5942,
+        "Percent": 7.5
+      }
+    ]
+  },
+  "Kingsford-Smith": {
+    "title": "Kingsford-Smith, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BOWEN, Hon Lionel",
+        "Votes": 45168,
+        "Percent": 70.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "O'NEIL, Collin",
+        "Votes": 16090,
+        "Percent": 25.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LARKINGS, Anthony",
+        "Votes": 1987,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHANNELLS, Geoffrey",
+        "Votes": 869,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "Lowe": {
+    "title": "Lowe, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MAHER, Michael",
+        "Votes": 33619,
+        "Percent": 51.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TAYLOR, Philip",
+        "Votes": 27633,
+        "Percent": 42.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROGERS, Ralph",
+        "Votes": 2030,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JARVIS, Helen",
+        "Votes": 1572,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "Lyne": {
+    "title": "Lyne, NSW   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "COWAN, David",
+        "Votes": 40140,
+        "Percent": 50.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MURRAY, Francis",
+        "Votes": 31877,
+        "Percent": 40.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JEFFRIES, Stephen",
+        "Votes": 3953,
+        "Percent": 5.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRYANT, John",
+        "Votes": 2800,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CANNINGS, Alfred",
+        "Votes": 514,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VEENSTRA, John",
+        "Votes": 284,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "Macarthur": {
+    "title": "Macarthur, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOLLIS, Colin",
+        "Votes": 39904,
+        "Percent": 49.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BAUME, Michael",
+        "Votes": 36725,
+        "Percent": 45.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GOODFELLOW, Frederic",
+        "Votes": 3515,
+        "Percent": 4.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ESSENBERG, Martin",
+        "Votes": 510,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Mackellar": {
+    "title": "Mackellar, NSW   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CARLTON, Hon Jim",
+        "Votes": 36587,
+        "Percent": 55.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JACKSON, Keith",
+        "Votes": 24292,
+        "Percent": 36.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WILLIAMS, Robert",
+        "Votes": 4055,
+        "Percent": 6.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FOLEY, Maurice",
+        "Votes": 813,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "Macquarie": {
+    "title": "Macquarie, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FREE, Ross",
+        "Votes": 50272,
+        "Percent": 57.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SCREECH, Stephen",
+        "Votes": 30966,
+        "Percent": 35.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JACKSON-HOPE, Richard",
+        "Votes": 6573,
+        "Percent": 7.5
+      }
+    ]
+  },
+  "Mitchell": {
+    "title": "Mitchell, NSW   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CADMAN, Alan",
+        "Votes": 48797,
+        "Percent": 58.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LLEWELLYN, Arthur",
+        "Votes": 30298,
+        "Percent": 36.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SAMUELS, Rona",
+        "Votes": 4450,
+        "Percent": 5.3
+      }
+    ]
+  },
+  "New England": {
+    "title": "New England, NSW   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "SINCLAIR, Rt Hon Ian",
+        "Votes": 33335,
+        "Percent": 49.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DALY, Lawrence",
+        "Votes": 29812,
+        "Percent": 44.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DUTTON, Ian",
+        "Votes": 3814,
+        "Percent": 5.7
+      }
+    ]
+  },
+  "Newcastle": {
+    "title": "Newcastle, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Allan",
+        "Votes": 39003,
+        "Percent": 59.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HAYWARD, Stanley",
+        "Votes": 17842,
+        "Percent": 27.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JARMAN, Wayne",
+        "Votes": 2951,
+        "Percent": 4.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLEFARI, Frank",
+        "Votes": 2355,
+        "Percent": 3.6
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "DAWSON, Darrell",
+        "Votes": 1732,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCDERMOTT, Brian",
+        "Votes": 959,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PAYNE, Geoffrey",
+        "Votes": 573,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "North Sydney": {
+    "title": "North Sydney, NSW   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SPENDER, John",
+        "Votes": 35544,
+        "Percent": 57.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCKENZIE, Kirk",
+        "Votes": 21096,
+        "Percent": 34.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DOMINISH, Rodney",
+        "Votes": 5024,
+        "Percent": 8.1
+      }
+    ]
+  },
+  "Parramatta": {
+    "title": "Parramatta, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BROWN, John",
+        "Votes": 41951,
+        "Percent": 62.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HARKER-MORTLOCK, James",
+        "Votes": 20608,
+        "Percent": 30.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LAMEY, Patricia",
+        "Votes": 3361,
+        "Percent": 5.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAREY, Mark",
+        "Votes": 1519,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "Paterson": {
+    "title": "Paterson, NSW   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "O'KEEFE, Frank",
+        "Votes": 37028,
+        "Percent": 54.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIAMS, Michael",
+        "Votes": 28412,
+        "Percent": 41.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WOODHOUSE, Darrel",
+        "Votes": 3048,
+        "Percent": 4.5
+      }
+    ]
+  },
+  "Phillip": {
+    "title": "Phillip, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCHUGH, Jeannette",
+        "Votes": 29909,
+        "Percent": 49.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BIRNEY, Jack",
+        "Votes": 27903,
+        "Percent": 46.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SOWADA, Karin",
+        "Votes": 1698,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOGAN, Lawrence",
+        "Votes": 292,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DALY, Timothy",
+        "Votes": 248,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DROULERS, Julien",
+        "Votes": 146,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "Prospect": {
+    "title": "Prospect, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KLUGMAN, Dr Dick",
+        "Votes": 46793,
+        "Percent": 63.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RYERS, Alan",
+        "Votes": 25315,
+        "Percent": 34.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NICHOLS, Richard",
+        "Votes": 1320,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VIITALA, Eric",
+        "Votes": 714,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "Reid": {
+    "title": "Reid, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "UREN, Hon Tom",
+        "Votes": 37839,
+        "Percent": 61.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MAIO, Florence",
+        "Votes": 17089,
+        "Percent": 27.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BASTIAN, Stephen",
+        "Votes": 4770,
+        "Percent": 7.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOLAND, Lynda",
+        "Votes": 723,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRAY, Neville",
+        "Votes": 646,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GLUYAS, Michael",
+        "Votes": 259,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "Richmond": {
+    "title": "Richmond, NSW   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "ANTHONY, Rt Hon Doug",
+        "Votes": 42684,
+        "Percent": 53.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCGEE, Terence",
+        "Votes": 31967,
+        "Percent": 39.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NICHOLSON, Kenneth",
+        "Votes": 5906,
+        "Percent": 7.3
+      }
+    ]
+  },
+  "Riverina": {
+    "title": "Riverina, NSW   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "HICKS, Noel",
+        "Votes": 32976,
+        "Percent": 49.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ADAMS, Ronald",
+        "Votes": 32587,
+        "Percent": 48.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HOLSCHIER, Lesley",
+        "Votes": 1495,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "Robertson": {
+    "title": "Robertson, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COHEN, Barry",
+        "Votes": 46058,
+        "Percent": 55.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "AUSTIN, Beverley",
+        "Votes": 31631,
+        "Percent": 37.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WILLSHER, Trevor",
+        "Votes": 5980,
+        "Percent": 7.1
+      }
+    ]
+  },
+  "Shortland": {
+    "title": "Shortland, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Peter",
+        "Votes": 49275,
+        "Percent": 62.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Peter",
+        "Votes": 20781,
+        "Percent": 26.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GODFREY, Lyn",
+        "Votes": 4677,
+        "Percent": 6.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ABRAHAMSON, Peter",
+        "Votes": 2584,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUHLER, Robert",
+        "Votes": 1280,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "St George": {
+    "title": "St George, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORRISON, Hon Bill",
+        "Votes": 37570,
+        "Percent": 57.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JAMES, George",
+        "Votes": 23933,
+        "Percent": 36.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COMPTON, Brian",
+        "Votes": 1806,
+        "Percent": 2.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KIRKWOOD, Ronald",
+        "Votes": 1210,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TUMNEY, Dorothy",
+        "Votes": 477,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Sydney": {
+    "title": "Sydney, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BALDWIN, Peter",
+        "Votes": 40360,
+        "Percent": 67.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CIBAS, Romualdas",
+        "Votes": 12559,
+        "Percent": 20.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MACLEOD, Jennifer",
+        "Votes": 4286,
+        "Percent": 7.1
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "BEAVER, Aileen",
+        "Votes": 2066,
+        "Percent": 3.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PERCY, James",
+        "Votes": 758,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "Warringah": {
+    "title": "Warringah, NSW   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MACKELLAR, Hon Michael",
+        "Votes": 36549,
+        "Percent": 58.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COOMBS, John",
+        "Votes": 23507,
+        "Percent": 37.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DUC, Annique",
+        "Votes": 2403,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MARKEY, Stephen",
+        "Votes": 509,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "Wentworth": {
+    "title": "Wentworth, NSW   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "COLEMAN, Peter",
+        "Votes": 31759,
+        "Percent": 54.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PEARCE, Max",
+        "Votes": 20301,
+        "Percent": 34.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WENTWORTH, Katherine",
+        "Votes": 2787,
+        "Percent": 4.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HILLMAN, Brian",
+        "Votes": 2474,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WARNECKE, George",
+        "Votes": 401,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCCARTHY, Robert",
+        "Votes": 251,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROBERTS, Neil",
+        "Votes": 115,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "Werriwa": {
+    "title": "Werriwa, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KERIN, John",
+        "Votes": 52584,
+        "Percent": 63.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RUTLEDGE, Marie",
+        "Votes": 23586,
+        "Percent": 28.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRANSDON, David",
+        "Votes": 4714,
+        "Percent": 5.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROCKSOP, Dorothea",
+        "Votes": 1351,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CUMMING, Gail",
+        "Votes": 1025,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "Balaclava": {
+    "title": "Balaclava, VIC   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MACPHEE, Hon Ian",
+        "Votes": 31642,
+        "Percent": 50.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KENNEDY, Chris",
+        "Votes": 25867,
+        "Percent": 41.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FUREY, Zelma",
+        "Votes": 5004,
+        "Percent": 7.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WARNER, Timothy",
+        "Votes": 600,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "Ballarat": {
+    "title": "Ballarat, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MILDREN, John",
+        "Votes": 34616,
+        "Percent": 50.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RONAN, John",
+        "Votes": 30078,
+        "Percent": 44.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GOUGH, Graham",
+        "Votes": 2123,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLOWER, John",
+        "Votes": 1148,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "IRELAND, Albert",
+        "Votes": 275,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "Batman": {
+    "title": "Batman, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOWE, Brian",
+        "Votes": 42398,
+        "Percent": 63.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PLAYFORD, Maxwell",
+        "Votes": 19193,
+        "Percent": 28.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NAUG, Gwendoline",
+        "Votes": 2836,
+        "Percent": 4.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "L'HUILLIER, Philip",
+        "Votes": 1756,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PERCY, John",
+        "Votes": 380,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Bendigo": {
+    "title": "Bendigo, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BRUMBY, John",
+        "Votes": 34908,
+        "Percent": 49.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BOURCHIER, John",
+        "Votes": 30352,
+        "Percent": 43.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JEWELL, Neil",
+        "Votes": 3078,
+        "Percent": 4.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DENAHY, Robert",
+        "Votes": 1859,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "Bruce": {
+    "title": "Bruce, VIC   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SNEDDEN, Rt Hon Sir Billy",
+        "Votes": 36381,
+        "Percent": 47.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, Heather",
+        "Votes": 33650,
+        "Percent": 44.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JOHNSON, Michael",
+        "Votes": 5955,
+        "Percent": 7.8
+      }
+    ]
+  },
+  "Burke": {
+    "title": "Burke, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THEOPHANOUS, Dr Andrew",
+        "Votes": 46171,
+        "Percent": 60.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FINN, Bernard",
+        "Votes": 24294,
+        "Percent": 32.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HUNTER, George",
+        "Votes": 4611,
+        "Percent": 6.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROBSON, Evelyn",
+        "Votes": 788,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "Casey": {
+    "title": "Casey, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "STEEDMAN, Peter",
+        "Votes": 34810,
+        "Percent": 46.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FALCONER, Peter",
+        "Votes": 33335,
+        "Percent": 44.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NARDELLA, Michael",
+        "Votes": 5646,
+        "Percent": 7.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HETHERICH, Martin",
+        "Votes": 931,
+        "Percent": 1.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "GARRATT, John",
+        "Votes": 887,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "Chisholm": {
+    "title": "Chisholm, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MAYER, Helen",
+        "Votes": 33253,
+        "Percent": 48.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HARRIS, Graham",
+        "Votes": 29052,
+        "Percent": 42.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SWINDON, Alan",
+        "Votes": 4444,
+        "Percent": 6.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "COOPER, Kevin",
+        "Votes": 2196,
+        "Percent": 3.2
+      }
+    ]
+  },
+  "Corangamite": {
+    "title": "Corangamite, VIC   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "STREET, Hon Tony",
+        "Votes": 40694,
+        "Percent": 58.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, Gavan",
+        "Votes": 29231,
+        "Percent": 41.8
+      }
+    ]
+  },
+  "Corio": {
+    "title": "Corio, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SCHOLES, Hon Gordon",
+        "Votes": 43016,
+        "Percent": 60.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HENDERSON, Kent",
+        "Votes": 25075,
+        "Percent": 35.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SAHR, Guenter",
+        "Votes": 3452,
+        "Percent": 4.8
+      }
+    ]
+  },
+  "Deakin": {
+    "title": "Deakin, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SAUNDERSON, John",
+        "Votes": 38225,
+        "Percent": 47.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JARMAN, Alan",
+        "Votes": 33225,
+        "Percent": 41.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCALPINE, Jeffrey",
+        "Votes": 5324,
+        "Percent": 6.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FERWERDA, Peter",
+        "Votes": 2949,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THIELE, Wilfrid",
+        "Votes": 333,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "Diamond Valley": {
+    "title": "Diamond Valley, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "STAPLES, Peter",
+        "Votes": 36726,
+        "Percent": 46.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROWN, Hon Neil",
+        "Votes": 36006,
+        "Percent": 45.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KENYON, Lynden",
+        "Votes": 5162,
+        "Percent": 6.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "PETRUCCO, Anne-Marie",
+        "Votes": 1229,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "Flinders": {
+    "title": "Flinders, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHYNOWETH, Robert",
+        "Votes": 38134,
+        "Percent": 47.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "REITH, Peter",
+        "Votes": 35847,
+        "Percent": 44.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FRASER, Harold",
+        "Votes": 4861,
+        "Percent": 6.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "PAYNE, Kenneth",
+        "Votes": 1977,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "Gellibrand": {
+    "title": "Gellibrand, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIS, Ralph",
+        "Votes": 47412,
+        "Percent": 70.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GOUDGE, Peter",
+        "Votes": 14120,
+        "Percent": 21.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOUGHNEY, James",
+        "Votes": 2842,
+        "Percent": 4.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCLEOD, Barry",
+        "Votes": 2695,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TITTER, Augustus",
+        "Votes": 304,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "Gippsland": {
+    "title": "Gippsland, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PETERSON, Anthony",
+        "Votes": 24029,
+        "Percent": 35.4
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "MCGAURAN, Peter",
+        "Votes": 21360,
+        "Percent": 31.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DAVIS, Phillip",
+        "Votes": 16127,
+        "Percent": 23.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FORCIER, Pierre",
+        "Votes": 2930,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCKLEY, Pearce",
+        "Votes": 2059,
+        "Percent": 3.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "TAIG, Stewart",
+        "Votes": 659,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "INGLE, Bruce",
+        "Votes": 652,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "Henty": {
+    "title": "Henty, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHILD, Joan",
+        "Votes": 36259,
+        "Percent": 54.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BAXTER, Craig",
+        "Votes": 25709,
+        "Percent": 38.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "EICHLER, Harry",
+        "Votes": 2845,
+        "Percent": 4.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CARROLL, Paul",
+        "Votes": 1442,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "Higgins": {
+    "title": "Higgins, VIC   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SHIPTON, Roger",
+        "Votes": 35189,
+        "Percent": 55.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BUNDY, Jennifer",
+        "Votes": 24184,
+        "Percent": 37.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SIDDONS, Antony",
+        "Votes": 3880,
+        "Percent": 6.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOLMES, Maureen",
+        "Votes": 500,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "Holt": {
+    "title": "Holt, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DUFFY, Michael",
+        "Votes": 48648,
+        "Percent": 58.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MOLDRICH, Joseph",
+        "Votes": 28845,
+        "Percent": 34.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "YULE, Jean",
+        "Votes": 5639,
+        "Percent": 6.8
+      }
+    ]
+  },
+  "Hotham": {
+    "title": "Hotham, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KENT, Lewis",
+        "Votes": 43083,
+        "Percent": 56.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BOLITHO, Peter",
+        "Votes": 28656,
+        "Percent": 37.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FRENKEL, Erwin",
+        "Votes": 4683,
+        "Percent": 6.1
+      }
+    ]
+  },
+  "Indi": {
+    "title": "Indi, VIC   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CAMERON, Ewen",
+        "Votes": 27935,
+        "Percent": 41.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MARPLE, Carole",
+        "Votes": 24374,
+        "Percent": 36.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "SANDERSON, Kevin",
+        "Votes": 12892,
+        "Percent": 19.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COUTEUR, Geoffrey le",
+        "Votes": 2361,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "Isaacs": {
+    "title": "Isaacs, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHARLES, David",
+        "Votes": 38630,
+        "Percent": 55.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DUNKLEY, Ann",
+        "Votes": 26964,
+        "Percent": 38.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GOUGH, Terence",
+        "Votes": 4689,
+        "Percent": 6.7
+      }
+    ]
+  },
+  "Kooyong": {
+    "title": "Kooyong, VIC   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PEACOCK, Hon Andrew",
+        "Votes": 36297,
+        "Percent": 56.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MEDDINGS, Avis",
+        "Votes": 23081,
+        "Percent": 35.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BRUCKNER, Keith",
+        "Votes": 4635,
+        "Percent": 7.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GREAGG, David",
+        "Votes": 434,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "La Trobe": {
+    "title": "La Trobe, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MILTON, Peter",
+        "Votes": 40493,
+        "Percent": 52.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NUGENT, Peter",
+        "Votes": 26045,
+        "Percent": 34.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BLAKE, Milton",
+        "Votes": 8010,
+        "Percent": 10.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HELLEMA, Cornelis",
+        "Votes": 2085,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "Lalor": {
+    "title": "Lalor, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Barry",
+        "Votes": 55640,
+        "Percent": 68.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FAHEY, John",
+        "Votes": 21442,
+        "Percent": 26.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "POLLOCK, Ivan",
+        "Votes": 4040,
+        "Percent": 4.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SAID, Helen",
+        "Votes": 719,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "Mcmillan": {
+    "title": "Mcmillan, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CUNNINGHAM, Barry",
+        "Votes": 34099,
+        "Percent": 48.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ROSS, Alexander",
+        "Votes": 27831,
+        "Percent": 39.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "AUCHTERLONIE, Gloria",
+        "Votes": 4062,
+        "Percent": 5.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "ROBERTSON, Stewart",
+        "Votes": 3317,
+        "Percent": 4.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SELLENS, John",
+        "Votes": 1219,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "Mallee": {
+    "title": "Mallee, VIC   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "FISHER, Peter",
+        "Votes": 40063,
+        "Percent": 62.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JARRY, Graeme",
+        "Votes": 16193,
+        "Percent": 25.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "OWEN, Ross",
+        "Votes": 6139,
+        "Percent": 9.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KAVANAGH, Colin",
+        "Votes": 2130,
+        "Percent": 3.3
+      }
+    ]
+  },
+  "Maribyrnong": {
+    "title": "Maribyrnong, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRIFFITHS, Alan",
+        "Votes": 41924,
+        "Percent": 56.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "IRELAND, Geoffrey",
+        "Votes": 24400,
+        "Percent": 33.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JERSIC, Henrik",
+        "Votes": 4452,
+        "Percent": 6.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BEHARELL, Peter",
+        "Votes": 2420,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WRIGHT, Richard",
+        "Votes": 844,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Melbourne": {
+    "title": "Melbourne, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HAND, Gerry",
+        "Votes": 38694,
+        "Percent": 63.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FALLSHAW, Robert",
+        "Votes": 14370,
+        "Percent": 23.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CARTER, Chris",
+        "Votes": 6271,
+        "Percent": 10.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCILROY, James",
+        "Votes": 750,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FERRARI, James",
+        "Votes": 678,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Melbourne Ports": {
+    "title": "Melbourne Ports, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOLDING, Clyde",
+        "Votes": 36444,
+        "Percent": 59.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FLOOD, Ronald",
+        "Votes": 20488,
+        "Percent": 33.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SUTCLIFFE, John",
+        "Votes": 3556,
+        "Percent": 5.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TRENERY, Brett",
+        "Votes": 595,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "Murray": {
+    "title": "Murray, VIC   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "LLOYD, Bruce",
+        "Votes": 36433,
+        "Percent": 53.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ANDERSON, Mark",
+        "Votes": 16684,
+        "Percent": 24.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ADAMS, Anne",
+        "Votes": 11727,
+        "Percent": 17.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WEIR, John",
+        "Votes": 2640,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TEASDALE, Diane",
+        "Votes": 835,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "Scullin": {
+    "title": "Scullin, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JENKINS, Dr Harry",
+        "Votes": 51312,
+        "Percent": 66.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SAVAGE, Katheryne",
+        "Votes": 19519,
+        "Percent": 25.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PEAK, Kenneth",
+        "Votes": 3528,
+        "Percent": 4.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARKER, Joan",
+        "Votes": 2886,
+        "Percent": 3.7
+      }
+    ]
+  },
+  "Wannon": {
+    "title": "Wannon, VIC   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FRASER, Rt Hon Malcolm",
+        "Votes": 37792,
+        "Percent": 57.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GENARDINI, Nancy",
+        "Votes": 24359,
+        "Percent": 37.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JEFFREY, Harold",
+        "Votes": 3416,
+        "Percent": 5.2
+      }
+    ]
+  },
+  "Wills": {
+    "title": "Wills, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HAWKE, Bob",
+        "Votes": 45571,
+        "Percent": 67.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HOYSTED, Mark",
+        "Votes": 14773,
+        "Percent": 21.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HALLAM, John",
+        "Votes": 4225,
+        "Percent": 6.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MANTELL, Martin",
+        "Votes": 1287,
+        "Percent": 1.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "VERBERNE, Michael",
+        "Votes": 1145,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SALBY, Solomon",
+        "Votes": 206,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MURGATROYD, Cecil",
+        "Votes": 174,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "Bowman": {
+    "title": "Bowman, QLD   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEOGH, Leonard",
+        "Votes": 37666,
+        "Percent": 49.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JULL, David",
+        "Votes": 30522,
+        "Percent": 40.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BROWN, Craig",
+        "Votes": 4579,
+        "Percent": 6.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HEINDORFF, Ronald",
+        "Votes": 3040,
+        "Percent": 4.0
+      }
+    ]
+  },
+  "Brisbane": {
+    "title": "Brisbane, QLD   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CROSS, Manfred",
+        "Votes": 31596,
+        "Percent": 50.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MAGNUS, Richard",
+        "Votes": 20566,
+        "Percent": 32.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "GARRETT, Bradley",
+        "Votes": 5447,
+        "Percent": 8.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WINTER, Lance",
+        "Votes": 3462,
+        "Percent": 5.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOLTON, Susanne",
+        "Votes": 1565,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "Capricornia": {
+    "title": "Capricornia, QLD   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EVERINGHAM, Hon Dr Douglas",
+        "Votes": 36662,
+        "Percent": 54.4
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "SIMPSON, Robert",
+        "Votes": 11480,
+        "Percent": 17.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "AGNEW, Alan",
+        "Votes": 11465,
+        "Percent": 17.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "REEVES, Helen",
+        "Votes": 5620,
+        "Percent": 8.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "READ, Gregory",
+        "Votes": 1881,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RYAN, David",
+        "Votes": 226,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "Darling Downs": {
+    "title": "Darling Downs, QLD   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "MCVEIGH, Hon Tom",
+        "Votes": 42627,
+        "Percent": 61.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CULLIN, Ronald",
+        "Votes": 22524,
+        "Percent": 32.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GROVES, David",
+        "Votes": 3960,
+        "Percent": 5.7
+      }
+    ]
+  },
+  "Dawson": {
+    "title": "Dawson, QLD   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "BRAITHWAITE, Ray",
+        "Votes": 35686,
+        "Percent": 50.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HILL, Barbara",
+        "Votes": 34229,
+        "Percent": 48.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JENSEN, Raymond",
+        "Votes": 426,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GEISSMANN, Eric",
+        "Votes": 423,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CROMBIE, Kelly",
+        "Votes": 420,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Fadden": {
+    "title": "Fadden, QLD   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BEDDALL, David",
+        "Votes": 44412,
+        "Percent": 48.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAMERON, Don",
+        "Votes": 35692,
+        "Percent": 38.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "EDMUNDS, Howard",
+        "Votes": 7251,
+        "Percent": 7.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HALLAM, Murray",
+        "Votes": 3806,
+        "Percent": 4.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FERGUSON, Raymond",
+        "Votes": 505,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRAHAM, Dallas",
+        "Votes": 276,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "Fisher": {
+    "title": "Fisher, QLD   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "ADERMANN, Hon Evan",
+        "Votes": 36848,
+        "Percent": 39.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "THEO, Sol",
+        "Votes": 35220,
+        "Percent": 38.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CASWELL, Dennis",
+        "Votes": 13414,
+        "Percent": 14.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SOMERVILLE, Garry",
+        "Votes": 6764,
+        "Percent": 7.3
+      }
+    ]
+  },
+  "Griffith": {
+    "title": "Griffith, QLD   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HUMPHREYS, Ben",
+        "Votes": 32597,
+        "Percent": 57.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "YOUNG, Graham",
+        "Votes": 18545,
+        "Percent": 32.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "AMES, Carole",
+        "Votes": 3777,
+        "Percent": 6.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FULTON, Michael",
+        "Votes": 750,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WALKINGTON, Julie",
+        "Votes": 620,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Herbert": {
+    "title": "Herbert, QLD   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LINDSAY, Ted",
+        "Votes": 35368,
+        "Percent": 50.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DEAN, Gordon",
+        "Votes": 23875,
+        "Percent": 33.9
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "AUBREY, John",
+        "Votes": 9562,
+        "Percent": 13.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LAMB, John",
+        "Votes": 1597,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "Kennedy": {
+    "title": "Kennedy, QLD   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "KATTER, Hon Robert",
+        "Votes": 32871,
+        "Percent": 56.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WALSH, Brigid",
+        "Votes": 22407,
+        "Percent": 38.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HANNAFORD, George",
+        "Votes": 2757,
+        "Percent": 4.8
+      }
+    ]
+  },
+  "Leichhardt": {
+    "title": "Leichhardt, QLD   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GAYLER, John",
+        "Votes": 35071,
+        "Percent": 52.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "THOMPSON, Hon David",
+        "Votes": 32285,
+        "Percent": 47.9
+      }
+    ]
+  },
+  "Lilley": {
+    "title": "Lilley, QLD   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DARLING, Elaine",
+        "Votes": 35350,
+        "Percent": 57.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ANDERSON, Walter",
+        "Votes": 24249,
+        "Percent": 39.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PAUL, Gael",
+        "Votes": 1779,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CATIP, Anthony",
+        "Votes": 375,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Mcpherson": {
+    "title": "Mcpherson, QLD   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WHITE, Peter",
+        "Votes": 31118,
+        "Percent": 35.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCARTHUR, Darryl",
+        "Votes": 29265,
+        "Percent": 33.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "WATT, Trevor",
+        "Votes": 20328,
+        "Percent": 23.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PETERSEN, Kenneth",
+        "Votes": 4254,
+        "Percent": 4.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COURTNEY, Peter",
+        "Votes": 1687,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "Maranoa": {
+    "title": "Maranoa, QLD   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "CAMERON, Ian",
+        "Votes": 39591,
+        "Percent": 62.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KEATS, Warren",
+        "Votes": 19057,
+        "Percent": 30.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BRANNIGAN, Austin",
+        "Votes": 4300,
+        "Percent": 6.8
+      }
+    ]
+  },
+  "Moreton": {
+    "title": "Moreton, QLD   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KILLEN, Hon Sir James",
+        "Votes": 29638,
+        "Percent": 46.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROBSON, Barbara",
+        "Votes": 28854,
+        "Percent": 45.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FITZGERALD, Leonard",
+        "Votes": 4230,
+        "Percent": 6.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JONES, Helen",
+        "Votes": 712,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Oxley": {
+    "title": "Oxley, QLD   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HAYDEN, Hon Bill",
+        "Votes": 49837,
+        "Percent": 66.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WOODFORTH, Lester",
+        "Votes": 20346,
+        "Percent": 27.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MARTIN, Wayne",
+        "Votes": 3699,
+        "Percent": 5.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEIG, Juanita",
+        "Votes": 668,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "Petrie": {
+    "title": "Petrie, QLD   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WELLS, Deane",
+        "Votes": 33283,
+        "Percent": 47.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HODGES, Hon John",
+        "Votes": 31227,
+        "Percent": 44.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HOLLIS, Raymond",
+        "Votes": 4506,
+        "Percent": 6.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CALDWELL, Christopher",
+        "Votes": 1453,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRIMISON, Phillip",
+        "Votes": 411,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Ryan": {
+    "title": "Ryan, QLD   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MOORE, Hon John",
+        "Votes": 37873,
+        "Percent": 53.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FOLEY, Michael",
+        "Votes": 25386,
+        "Percent": 35.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ELFICK, John",
+        "Votes": 5975,
+        "Percent": 8.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CROOKS, Anthony",
+        "Votes": 1135,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CUSACK, Patrick",
+        "Votes": 964,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "Wide Bay": {
+    "title": "Wide Bay, QLD   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "MILLAR, Clarrie",
+        "Votes": 35472,
+        "Percent": 48.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FINEMORE, James",
+        "Votes": 32362,
+        "Percent": 44.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WORTH, Mervyn",
+        "Votes": 2850,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BIRD, Raymond",
+        "Votes": 1813,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "Adelaide": {
+    "title": "Adelaide, SA   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HURFORD, Chris",
+        "Votes": 39134,
+        "Percent": 55.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JAMES, Barry",
+        "Votes": 24156,
+        "Percent": 34.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FARMER, Eileen",
+        "Votes": 4604,
+        "Percent": 6.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUIK, John",
+        "Votes": 1894,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PETIT, Paul",
+        "Votes": 385,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "Barker": {
+    "title": "Barker, SA   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PORTER, James",
+        "Votes": 42333,
+        "Percent": 57.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "YOUNG, Valerie",
+        "Votes": 23906,
+        "Percent": 32.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LEES, Meg",
+        "Votes": 3974,
+        "Percent": 5.4
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BECK, Anthony",
+        "Votes": 3650,
+        "Percent": 4.9
+      }
+    ]
+  },
+  "Bonython": {
+    "title": "Bonython, SA   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BLEWETT, Dr Neal",
+        "Votes": 48097,
+        "Percent": 60.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JOYCE, Neville",
+        "Votes": 24391,
+        "Percent": 30.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LONGHURST, John",
+        "Votes": 7006,
+        "Percent": 8.8
+      }
+    ]
+  },
+  "Boothby": {
+    "title": "Boothby, SA   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HALL, Steele",
+        "Votes": 42676,
+        "Percent": 55.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WHYATT, Bruce",
+        "Votes": 26343,
+        "Percent": 34.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COULTER, Dr John",
+        "Votes": 8424,
+        "Percent": 10.9
+      }
+    ]
+  },
+  "Grey": {
+    "title": "Grey, SA   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'NEIL, Lloyd",
+        "Votes": 35276,
+        "Percent": 51.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BALUCH, Joy",
+        "Votes": 24114,
+        "Percent": 34.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BABBAGE, Jack",
+        "Votes": 3981,
+        "Percent": 5.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "HASKETT, Anthony",
+        "Votes": 3454,
+        "Percent": 5.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CRONIN, James",
+        "Votes": 1556,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HAWKES, Kerry",
+        "Votes": 732,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Hawker": {
+    "title": "Hawker, SA   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JACOBI, Ralph",
+        "Votes": 36483,
+        "Percent": 52.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HARRY, Dennis",
+        "Votes": 27211,
+        "Percent": 38.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PAMOUNT, Graham",
+        "Votes": 4792,
+        "Percent": 6.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GARCIA, John",
+        "Votes": 1568,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "Hindmarsh": {
+    "title": "Hindmarsh, SA   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SCOTT, John",
+        "Votes": 39496,
+        "Percent": 53.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LEWIS, Barry",
+        "Votes": 26280,
+        "Percent": 35.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MITCHELL, Jim",
+        "Votes": 5592,
+        "Percent": 7.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAVAGNINO, Lotus",
+        "Votes": 2139,
+        "Percent": 2.9
+      }
+    ]
+  },
+  "Kingston": {
+    "title": "Kingston, SA   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BILNEY, Gordon",
+        "Votes": 40019,
+        "Percent": 50.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CHAPMAN, Grant",
+        "Votes": 35057,
+        "Percent": 43.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RALPH, Robert",
+        "Votes": 5038,
+        "Percent": 6.3
+      }
+    ]
+  },
+  "Port Adelaide": {
+    "title": "Port Adelaide, SA   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "YOUNG, Mick",
+        "Votes": 48865,
+        "Percent": 68.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RICKARDS, Robin",
+        "Votes": 16567,
+        "Percent": 22.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FISHER, Robert",
+        "Votes": 3093,
+        "Percent": 4.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MICHAEL, Benjamin",
+        "Votes": 2484,
+        "Percent": 3.5
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "SUTHERLAND, Donald",
+        "Votes": 888,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "Sturt": {
+    "title": "Sturt, SA   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Hon Ian",
+        "Votes": 36656,
+        "Percent": 48.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "UBALDI, Sergio",
+        "Votes": 32350,
+        "Percent": 42.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DOLLING, Alison",
+        "Votes": 6764,
+        "Percent": 8.9
+      }
+    ]
+  },
+  "Wakefield": {
+    "title": "Wakefield, SA   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ANDREW, Neil",
+        "Votes": 43380,
+        "Percent": 59.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "OWENS, Suzanne",
+        "Votes": 24002,
+        "Percent": 32.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CHISHOLM, Donald",
+        "Votes": 3851,
+        "Percent": 5.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "CAVANAGH, Roger",
+        "Votes": 1658,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "Canning": {
+    "title": "Canning, WA   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FATIN, Wendy",
+        "Votes": 40740,
+        "Percent": 54.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BUNGEY, Melville",
+        "Votes": 30410,
+        "Percent": 40.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RITTER, Jean",
+        "Votes": 3164,
+        "Percent": 4.3
+      }
+    ]
+  },
+  "Curtin": {
+    "title": "Curtin, WA   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ROCHER, Allan",
+        "Votes": 30404,
+        "Percent": 51.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KITTSON, Clive",
+        "Votes": 24337,
+        "Percent": 41.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCKERCHER, Marjorie",
+        "Votes": 4046,
+        "Percent": 6.9
+      }
+    ]
+  },
+  "Forrest": {
+    "title": "Forrest, WA   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DRUMMOND, Peter",
+        "Votes": 32076,
+        "Percent": 48.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CHURCHES, David",
+        "Votes": 29643,
+        "Percent": 45.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STEWART, Donald",
+        "Votes": 2416,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUSSELL, Alfred",
+        "Votes": 1485,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "Fremantle": {
+    "title": "Fremantle, WA   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DAWKINS, John",
+        "Votes": 43326,
+        "Percent": 63.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ADAMS, Maxwell",
+        "Votes": 22025,
+        "Percent": 32.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HULL, Colin",
+        "Votes": 1733,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PEACH, Timothy",
+        "Votes": 970,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CONDOLEON, Margo",
+        "Votes": 360,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "Kalgoorlie": {
+    "title": "Kalgoorlie, WA   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CAMPBELL, Graeme",
+        "Votes": 34843,
+        "Percent": 56.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KREPP, Douglas",
+        "Votes": 23069,
+        "Percent": 37.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NANCARROW, Blair",
+        "Votes": 1856,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOSCHETTI, Joseph",
+        "Votes": 1778,
+        "Percent": 2.9
+      }
+    ]
+  },
+  "Moore": {
+    "title": "Moore, WA   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BLANCHARD, Allen",
+        "Votes": 42557,
+        "Percent": 54.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HYDE, John",
+        "Votes": 31952,
+        "Percent": 40.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NEEDHAM, Alan",
+        "Votes": 4120,
+        "Percent": 5.2
+      }
+    ]
+  },
+  "O'connor": {
+    "title": "O'connor, WA   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TUCKEY, Wilson",
+        "Votes": 29414,
+        "Percent": 48.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CHANCE, Kimberley",
+        "Votes": 19356,
+        "Percent": 32.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "PEARCE, Brian",
+        "Votes": 5999,
+        "Percent": 9.9
+      },
+      {
+        "Party": "NPW",
+        "Candidate": "FERGUSON, James",
+        "Votes": 3686,
+        "Percent": 6.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KIDBY, Denis",
+        "Votes": 2105,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "Perth": {
+    "title": "Perth, WA   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHARLESWORTH, Dr Richard",
+        "Votes": 34108,
+        "Percent": 54.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCLEAN, Ross",
+        "Votes": 26510,
+        "Percent": 42.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SYME, Geoffrey",
+        "Votes": 1770,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "Stirling": {
+    "title": "Stirling, WA   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EDWARDS, Ronald",
+        "Votes": 35828,
+        "Percent": 54.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "VINER, Hon Ian",
+        "Votes": 27181,
+        "Percent": 41.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PHILLIPS, Maria",
+        "Votes": 2695,
+        "Percent": 4.1
+      }
+    ]
+  },
+  "Swan": {
+    "title": "Swan, WA   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BEAZLEY, Kim",
+        "Votes": 38908,
+        "Percent": 62.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ROBERTS, Jeffrey",
+        "Votes": 19825,
+        "Percent": 32.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TRENT, Kevin",
+        "Votes": 2662,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MERE, Linda",
+        "Votes": 621,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "Tangney": {
+    "title": "Tangney, WA   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GEAR, George",
+        "Votes": 34899,
+        "Percent": 49.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SHACK, Peter",
+        "Votes": 31811,
+        "Percent": 45.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MURRAY, Ronald",
+        "Votes": 2706,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BEACHEY, Bronwen",
+        "Votes": 1236,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "Bass": {
+    "title": "Bass, TAS   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "NEWMAN, Hon Kevin",
+        "Votes": 28448,
+        "Percent": 53.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCDONALD, John",
+        "Votes": 19590,
+        "Percent": 36.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GOLDIE, Nick",
+        "Votes": 3291,
+        "Percent": 6.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HUTCHISON, Richard",
+        "Votes": 1884,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "Braddon": {
+    "title": "Braddon, TAS   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GROOM, Hon Ray",
+        "Votes": 31143,
+        "Percent": 61.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FEE, Lance",
+        "Votes": 18016,
+        "Percent": 35.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SARGENT, Greg",
+        "Votes": 1731,
+        "Percent": 3.4
+      }
+    ]
+  },
+  "Denison": {
+    "title": "Denison, TAS   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HODGMAN, Hon Michael",
+        "Votes": 28468,
+        "Percent": 54.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Kathy",
+        "Votes": 21680,
+        "Percent": 41.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WALLACE-WILLIAMS, Harvey",
+        "Votes": 1743,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WAGNER, Leica",
+        "Votes": 406,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "Franklin": {
+    "title": "Franklin, TAS   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GOODLUCK, Bruce",
+        "Votes": 28814,
+        "Percent": 52.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BLADEL, Fran",
+        "Votes": 24578,
+        "Percent": 44.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "THOMPSON, John",
+        "Votes": 1357,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MAZENGARB, David",
+        "Votes": 278,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "Wilmot": {
+    "title": "Wilmot, TAS   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BURR, Max",
+        "Votes": 28520,
+        "Percent": 53.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LLEWELLYN, David",
+        "Votes": 22783,
+        "Percent": 42.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HOLLOWAY, Liz",
+        "Votes": 1336,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHUGG, Bill",
+        "Votes": 702,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "Northern Territory": {
+    "title": "Northern Territory, NT   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "REEVES, John",
+        "Votes": 20764,
+        "Percent": 46.6
+      },
+      {
+        "Party": "CLP",
+        "Candidate": "TAMBLING, Grant",
+        "Votes": 20479,
+        "Percent": 45.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KING, Joy",
+        "Votes": 1571,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAIN, Bill",
+        "Votes": 1132,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GARDINER, Pamela",
+        "Votes": 395,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STRIDER, ",
+        "Votes": 252,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Canberra": {
+    "title": "Canberra, ACT   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KELLY, Roslyn",
+        "Votes": 40434,
+        "Percent": 62.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BRENNAN, Gerard",
+        "Votes": 22365,
+        "Percent": 34.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HANSEN, Joanne",
+        "Votes": 2191,
+        "Percent": 3.4
+      }
+    ]
+  },
+  "Fraser": {
+    "title": "Fraser, ACT   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FRY, Kenneth",
+        "Votes": 41755,
+        "Percent": 65.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GRANT, Elizabeth",
+        "Votes": 18848,
+        "Percent": 29.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GREENLAND, Rohan",
+        "Votes": 1619,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WISE, Kevin",
+        "Votes": 1419,
+        "Percent": 2.2
+      }
+    ]
+  }
+}

@@ -1,0 +1,1040 @@
+{
+  "1949": {
+    "title": "Banks, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COSTA, Dominic",
+        "Votes": 24537,
+        "Percent": 58.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FLETCHER, Howard",
+        "Votes": 15371,
+        "Percent": 36.5
+      },
+      {
+        "Party": "ALPN",
+        "Candidate": "FOY, Francis",
+        "Votes": 2202,
+        "Percent": 5.2
+      }
+    ]
+  },
+  "1951": {
+    "title": "Banks, NSW   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COSTA, Dominic",
+        "Votes": "28219",
+        "Percent": 61.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ROFFEY, George",
+        "Votes": "17536",
+        "Percent": 38.3
+      }
+    ]
+  },
+  "1954": {
+    "title": "Banks, NSW   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COSTA, Dominic",
+        "Votes": "34241",
+        "Percent": 61.4
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "CLANCY, Patrick",
+        "Votes": "2908",
+        "Percent": 5.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "STALKER, Harold",
+        "Votes": "18589",
+        "Percent": 33.4
+      }
+    ]
+  },
+  "1955": {
+    "title": "Banks, NSW   1955",
+    "rows": [
+      {
+        "Party": "CPA",
+        "Candidate": "CLANCY, Patrick",
+        "Votes": "3356",
+        "Percent": 8.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COSTA, Dominic",
+        "Votes": "23431",
+        "Percent": 56.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "STALKER, Harold",
+        "Votes": "15088",
+        "Percent": 36.0
+      }
+    ]
+  },
+  "1958": {
+    "title": "Banks, NSW   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COSTA, Dominic",
+        "Votes": 28338,
+        "Percent": 58.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BOOTH, Edgar",
+        "Votes": 16322,
+        "Percent": 33.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "LLOYD, John",
+        "Votes": 2407,
+        "Percent": 4.9
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "CLANCY, Patrick",
+        "Votes": 1634,
+        "Percent": 3.4
+      }
+    ]
+  },
+  "1961": {
+    "title": "Banks, NSW   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COSTA, Dominic",
+        "Votes": 31755,
+        "Percent": 58.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MANNING, Jack",
+        "Votes": 14244,
+        "Percent": 26.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DUNCAN, Russell",
+        "Votes": 5190,
+        "Percent": 9.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ANTILL, John",
+        "Votes": 2476,
+        "Percent": 4.5
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "BOLLINS, Francis",
+        "Votes": 945,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "1963": {
+    "title": "Banks, NSW   1963",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COSTA, Dominic",
+        "Votes": "33175",
+        "Percent": 56.2
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "CLANCY, Patrick",
+        "Votes": "2885",
+        "Percent": 4.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KOVJANIC, Milovan",
+        "Votes": "23014",
+        "Percent": 39.0
+      }
+    ]
+  },
+  "1966": {
+    "title": "Banks, NSW   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COSTA, Dominic",
+        "Votes": 28748,
+        "Percent": 47.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TIBBEN, Herman",
+        "Votes": 27349,
+        "Percent": 45.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BOYLE, Norma",
+        "Votes": 2866,
+        "Percent": 4.7
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "HATFIELD, Henry",
+        "Votes": 1563,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "1969": {
+    "title": "Banks, NSW   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MARTIN, Vincent",
+        "Votes": 25485,
+        "Percent": 51.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TIBBEN, Herman",
+        "Votes": 15102,
+        "Percent": 30.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ALLEN, Peter",
+        "Votes": 5949,
+        "Percent": 12.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JONES, Reginald",
+        "Votes": 1805,
+        "Percent": 3.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ANDREW, Annette",
+        "Votes": 1030,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WATT, Kevin",
+        "Votes": 363,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1972": {
+    "title": "Banks, NSW   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MARTIN, Vincent",
+        "Votes": 31620,
+        "Percent": 58.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GREEN, Randall",
+        "Votes": 17756,
+        "Percent": 33.0
+      },
+      {
+        "Party": "AP",
+        "Candidate": "NASMYTH, Charles",
+        "Votes": 2392,
+        "Percent": 4.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ANDERSON, John",
+        "Votes": 2114,
+        "Percent": 3.9
+      }
+    ]
+  },
+  "1974": {
+    "title": "Banks, NSW   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MARTIN, Vincent",
+        "Votes": 35850,
+        "Percent": 60.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KINTOMINAS, Peter",
+        "Votes": 19828,
+        "Percent": 33.7
+      },
+      {
+        "Party": "AP",
+        "Candidate": "BENNETT, Garry",
+        "Votes": 3203,
+        "Percent": 5.4
+      }
+    ]
+  },
+  "1975": {
+    "title": "Banks, NSW   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MARTIN, Vincent",
+        "Votes": 30617,
+        "Percent": 51.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GIBSON, Maxwell",
+        "Votes": 26035,
+        "Percent": 43.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ARROW, Denise",
+        "Votes": 1939,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SKELTON, Ralph",
+        "Votes": 681,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1977": {
+    "title": "Banks, NSW   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MARTIN, Vincent",
+        "Votes": 33452,
+        "Percent": 48.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HINTON, Paul",
+        "Votes": 25942,
+        "Percent": 37.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GREENE, Montague",
+        "Votes": 9453,
+        "Percent": 13.7
+      }
+    ]
+  },
+  "1980": {
+    "title": "Banks, NSW   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MOUNTFORD, John",
+        "Votes": 36842,
+        "Percent": 53.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCCONNELL, Donald",
+        "Votes": 25316,
+        "Percent": 36.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GREENE, Montague",
+        "Votes": 6600,
+        "Percent": 9.6
+      }
+    ]
+  },
+  "1983": {
+    "title": "Banks, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MOUNTFORD, John",
+        "Votes": 39013,
+        "Percent": 57.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FAIRBAIRN, Charles",
+        "Votes": 23962,
+        "Percent": 35.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GREENE, Montague",
+        "Votes": 3908,
+        "Percent": 5.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOLMES, David",
+        "Votes": 572,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1984": {
+    "title": "Banks, NSW   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MOUNTFORD, John",
+        "Votes": 35473,
+        "Percent": 57.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PARKER, Max",
+        "Votes": 21705,
+        "Percent": 35.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GREEN, Montague",
+        "Votes": 4590,
+        "Percent": 7.4
+      }
+    ]
+  },
+  "1987": {
+    "title": "Banks, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MOUNTFORD, John",
+        "Votes": 32687,
+        "Percent": 52.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PARKER, Max",
+        "Votes": 24430,
+        "Percent": 39.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GREEN, Monty",
+        "Votes": 4819,
+        "Percent": 7.8
+      }
+    ]
+  },
+  "1990": {
+    "title": "Banks, NSW   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MELHAM, Daryl",
+        "Votes": 30484,
+        "Percent": 48.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PRATT, Stephen",
+        "Votes": 21957,
+        "Percent": 35.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TERRETT, Paul",
+        "Votes": 7400,
+        "Percent": 11.8
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "CLIPSHAM, Ian",
+        "Votes": 1415,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HAY, John",
+        "Votes": 671,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MEYER, Brian",
+        "Votes": 483,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROBINSON, Graeme",
+        "Votes": 354,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1993": {
+    "title": "Banks, NSW   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "HAY, John",
+        "Votes": "846",
+        "Percent": 1.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MELHAM, Daryl",
+        "Votes": "40460",
+        "Percent": 54.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FARLEIGH, Peter",
+        "Votes": "2642",
+        "Percent": 3.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TAYLOR, Clive",
+        "Votes": "25634",
+        "Percent": 34.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KIRKMAN, Deborah",
+        "Votes": "2522",
+        "Percent": 3.4
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "DAVARIS, Paul",
+        "Votes": "1726",
+        "Percent": 2.3
+      }
+    ]
+  },
+  "1996": {
+    "title": "Banks, NSW   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MELHAM, Daryl",
+        "Votes": 31878,
+        "Percent": 43.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SPARKES, David",
+        "Votes": 28903,
+        "Percent": 39.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BAILEY, Alison",
+        "Votes": 5566,
+        "Percent": 7.6
+      },
+      {
+        "Party": "AAFI",
+        "Candidate": "WEST, Gregg",
+        "Votes": 3797,
+        "Percent": 5.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THOMPSON, Don",
+        "Votes": 2076,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KAYES, John",
+        "Votes": 970,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "1998": {
+    "title": "Banks, NSW   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MELHAM, Daryl",
+        "Votes": 32599,
+        "Percent": 44.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "IACONO, Stephen",
+        "Votes": 24744,
+        "Percent": 33.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MADDISON, Phillip",
+        "Votes": 8010,
+        "Percent": 10.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BAILEY, Alison",
+        "Votes": 3128,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHEN, Bill",
+        "Votes": 2250,
+        "Percent": 3.1
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "GRIGG, Brian",
+        "Votes": 1422,
+        "Percent": 1.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ARCHER, Greg",
+        "Votes": 1075,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "2001": {
+    "title": "Banks, NSW   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MELHAM, Daryl",
+        "Votes": 32592,
+        "Percent": 44.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WATZLAFF, Marcus",
+        "Votes": 26358,
+        "Percent": 35.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "ABRAHAMS, Lynn",
+        "Votes": 4649,
+        "Percent": 6.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'LEARY, Ken",
+        "Votes": 2522,
+        "Percent": 3.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COLE, Stephen",
+        "Votes": 2350,
+        "Percent": 3.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WILCOX, David",
+        "Votes": 2066,
+        "Percent": 2.8
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "BAISSARI, Sam",
+        "Votes": 1968,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MURPHY, Lynne",
+        "Votes": 731,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HANNOUN, Nazim",
+        "Votes": 418,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2004": {
+    "title": "Banks, NSW   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MELHAM, Daryl",
+        "Votes": 32736,
+        "Percent": 44.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GRAY, Roger",
+        "Votes": 30927,
+        "Percent": 42.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MAKIN, Stephen",
+        "Votes": 3433,
+        "Percent": 4.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "PETERSON, Janne",
+        "Votes": 2654,
+        "Percent": 3.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "STAVRINOS, Harry",
+        "Votes": 2302,
+        "Percent": 3.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CLYBURN, Mark",
+        "Votes": 676,
+        "Percent": 0.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BRISCOE-HOUGH, Greg",
+        "Votes": 655,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2007": {
+    "title": "Banks, NSW   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MELHAM, Daryl",
+        "Votes": 45059,
+        "Percent": 54.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MORROW, Bruce",
+        "Votes": 27728,
+        "Percent": 33.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROBERTS, Susan",
+        "Votes": 4612,
+        "Percent": 5.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "CHAVURA, Stephen",
+        "Votes": 3180,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NGUYEN, Huu Khoa",
+        "Votes": 1430,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NGUYEN, Don",
+        "Votes": 492,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2010": {
+    "title": "Banks, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DELEZIO, Ron",
+        "Votes": 38178,
+        "Percent": 45.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MELHAM, Daryl",
+        "Votes": 36034,
+        "Percent": 43.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SPIGHT, Paul",
+        "Votes": 8062,
+        "Percent": 9.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "PARSONS, Michael",
+        "Votes": 1595,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "2013": {
+    "title": "Banks, NSW   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "COLEMAN, David",
+        "Votes": 39899,
+        "Percent": 47.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MELHAM, Daryl",
+        "Votes": 34835,
+        "Percent": 41.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SPIGHT, Paul",
+        "Votes": 4242,
+        "Percent": 5.0
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "WELLHAM, Jake",
+        "Votes": 2125,
+        "Percent": 2.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "FALANGA, Mark",
+        "Votes": 1983,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KHEDR, Sayed",
+        "Votes": 768,
+        "Percent": 0.9
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "RICHARDSON, Ross",
+        "Votes": 553,
+        "Percent": 0.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HADDAD, Robert",
+        "Votes": 470,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2016": {
+    "title": "Banks, NSW   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "COLEMAN, David",
+        "Votes": 39423,
+        "Percent": 43.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GAMBIAN, Chris",
+        "Votes": 35890,
+        "Percent": 40.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CLARK, Philippa",
+        "Votes": 5225,
+        "Percent": 5.8
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BONDAR, Greg",
+        "Votes": 4777,
+        "Percent": 5.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "WU, Sharon",
+        "Votes": 1621,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "BARNES, Roy",
+        "Votes": 1555,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SPANSWICK, Bob",
+        "Votes": 1341,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "2019": {
+    "title": "Banks, NSW   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "COLEMAN, Hon David",
+        "Votes": 46709,
+        "Percent": 50.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GAMBIAN, Chris",
+        "Votes": 33341,
+        "Percent": 36.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DRAGONE, Gianluca",
+        "Votes": 5339,
+        "Percent": 5.8
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "HO, Ki Man",
+        "Votes": 2624,
+        "Percent": 2.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "WRIGHT, Reginald",
+        "Votes": 2029,
+        "Percent": 2.2
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "THAKUR, Anjali",
+        "Votes": 1688,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "2022": {
+    "title": "Banks, NSW   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "COLEMAN, Hon David",
+        "Votes": 41622,
+        "Percent": 45.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SOON, Zhi",
+        "Votes": 32459,
+        "Percent": 35.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HANNA, Natalie",
+        "Votes": 8063,
+        "Percent": 8.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MOMIRCEVSKI, Marika",
+        "Votes": 5048,
+        "Percent": 5.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "HEFFERNAN, Malcolm",
+        "Votes": 2628,
+        "Percent": 2.9
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "COCKER, Elouise",
+        "Votes": 1264,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KHOUW, Steve",
+        "Votes": 961,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2025": {
+    "title": "Banks, NSW   2025",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "COLEMAN, David",
+        "Votes": 38683,
+        "Percent": 39.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SOON, Zhi",
+        "Votes": 36039,
+        "Percent": 36.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HANNA, Natalie",
+        "Votes": 11756,
+        "Percent": 11.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "NICOL, Todd",
+        "Votes": 3666,
+        "Percent": 3.7
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "TARUSTE, Allan",
+        "Votes": 3430,
+        "Percent": 3.5
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "MOMIRCEVSKI, Marika",
+        "Votes": 2678,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COYNE, John",
+        "Votes": 1995,
+        "Percent": 2.0
+      },
+      {
+        "Party": "AUD",
+        "Candidate": "PEARCE, Phillip",
+        "Votes": 688,
+        "Percent": 0.7
+      }
+    ]
+  }
+}

@@ -1,0 +1,1016 @@
+{
+  "1949": {
+    "title": "Mallee, VIC   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "TURNBULL, Winton",
+        "Votes": 22658,
+        "Percent": 64.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, Alfred",
+        "Votes": 12410,
+        "Percent": 35.4
+      }
+    ]
+  },
+  "1951": {
+    "title": "Mallee, VIC   1951",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "TURNBULL, Winton",
+        "Votes": "21784",
+        "Percent": 61.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, Alfred",
+        "Votes": "13542",
+        "Percent": 38.3
+      }
+    ]
+  },
+  "1954": {
+    "title": "Mallee, VIC   1954",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "TURNBULL, Winton",
+        "Votes": "Unopposed",
+        "Percent": 100.0
+      }
+    ]
+  },
+  "1955": {
+    "title": "Mallee, VIC   1955",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "NICHOLAS, William",
+        "Votes": "7933",
+        "Percent": 21.4
+      },
+      {
+        "Party": "ALPAC",
+        "Candidate": "LEYDEN, Edwin",
+        "Votes": "4837",
+        "Percent": 13.0
+      },
+      {
+        "Party": "CP",
+        "Candidate": "TURNBULL, Winton",
+        "Votes": "24303",
+        "Percent": 65.6
+      }
+    ]
+  },
+  "1958": {
+    "title": "Mallee, VIC   1958",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "TURNBULL, Winton",
+        "Votes": 24356,
+        "Percent": 63.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "XEROS, George",
+        "Votes": 8313,
+        "Percent": 21.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "COTTER, John",
+        "Votes": 5470,
+        "Percent": 14.3
+      }
+    ]
+  },
+  "1961": {
+    "title": "Mallee, VIC   1961",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "TURNBULL, Winton",
+        "Votes": 24086,
+        "Percent": 62.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HOMES, Murray",
+        "Votes": 10144,
+        "Percent": 26.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HOWLEY, Michael",
+        "Votes": 4338,
+        "Percent": 11.2
+      }
+    ]
+  },
+  "1963": {
+    "title": "Mallee, VIC   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "HOWLEY, Michael",
+        "Votes": "4004",
+        "Percent": 10.2
+      },
+      {
+        "Party": "CP",
+        "Candidate": "TURNBULL, Winton",
+        "Votes": "24805",
+        "Percent": 63.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HINTON, Maurice",
+        "Votes": "10489",
+        "Percent": 26.7
+      }
+    ]
+  },
+  "1966": {
+    "title": "Mallee, VIC   1966",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "TURNBULL, Winton",
+        "Votes": 26041,
+        "Percent": 66.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DRAAISMA, Hibbe",
+        "Votes": 6857,
+        "Percent": 17.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CARTY, John",
+        "Votes": 6034,
+        "Percent": 15.5
+      }
+    ]
+  },
+  "1969": {
+    "title": "Mallee, VIC   1969",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "TURNBULL, Winton",
+        "Votes": 19914,
+        "Percent": 46.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DAVIES, Ronald",
+        "Votes": 13420,
+        "Percent": 31.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCFARLANE, James",
+        "Votes": 5543,
+        "Percent": 13.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "LAWRENCE, Peter",
+        "Votes": 3791,
+        "Percent": 8.9
+      }
+    ]
+  },
+  "1972": {
+    "title": "Mallee, VIC   1972",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "FISHER, Peter",
+        "Votes": 24140,
+        "Percent": 55.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DAVIES, Ronald",
+        "Votes": 14593,
+        "Percent": 33.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CROUGHNAN, Stanley",
+        "Votes": 4930,
+        "Percent": 11.3
+      }
+    ]
+  },
+  "1974": {
+    "title": "Mallee, VIC   1974",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "FISHER, Peter",
+        "Votes": 29642,
+        "Percent": 63.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Brian",
+        "Votes": 12740,
+        "Percent": 27.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CROUGHNAN, Stanley",
+        "Votes": 3560,
+        "Percent": 7.6
+      },
+      {
+        "Party": "AP",
+        "Candidate": "GRIGG, John",
+        "Votes": 1035,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1975": {
+    "title": "Mallee, VIC   1975",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "FISHER, Peter",
+        "Votes": 33663,
+        "Percent": 70.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DAVIES, Ronald",
+        "Votes": 11256,
+        "Percent": 23.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CROUGHAN, Stanley",
+        "Votes": 3116,
+        "Percent": 6.5
+      }
+    ]
+  },
+  "1977": {
+    "title": "Mallee, VIC   1977",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "FISHER, Peter",
+        "Votes": 29613,
+        "Percent": 48.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HINCKSMAN, Warwick",
+        "Votes": 14581,
+        "Percent": 23.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FERNS, Geoffrey",
+        "Votes": 13362,
+        "Percent": 21.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "COTTER, John",
+        "Votes": 3707,
+        "Percent": 6.1
+      }
+    ]
+  },
+  "1980": {
+    "title": "Mallee, VIC   1980",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "FISHER, Peter",
+        "Votes": 29502,
+        "Percent": 47.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FERNS, Geoffrey",
+        "Votes": 14967,
+        "Percent": 23.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GOODWIN, Neville",
+        "Votes": 13393,
+        "Percent": 21.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KAVANAGH, Colin",
+        "Votes": 2736,
+        "Percent": 4.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CONNOLLY, Leslie",
+        "Votes": 1592,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NICHOLSON, Ronald",
+        "Votes": 362,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1983": {
+    "title": "Mallee, VIC   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "FISHER, Peter",
+        "Votes": 40063,
+        "Percent": 62.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JARRY, Graeme",
+        "Votes": 16193,
+        "Percent": 25.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "OWEN, Ross",
+        "Votes": 6139,
+        "Percent": 9.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KAVANAGH, Colin",
+        "Votes": 2130,
+        "Percent": 3.3
+      }
+    ]
+  },
+  "1984": {
+    "title": "Mallee, VIC   1984",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "FISHER, Peter",
+        "Votes": 33173,
+        "Percent": 53.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LEAKE, Lindsay",
+        "Votes": 15584,
+        "Percent": 25.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TRESEDER, Murray",
+        "Votes": 9506,
+        "Percent": 15.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HOGARTH, Robert",
+        "Votes": 1776,
+        "Percent": 2.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CAVANAGH, Colin",
+        "Votes": 1318,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STOUTJESDIJK, Albertus",
+        "Votes": 613,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1987": {
+    "title": "Mallee, VIC   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "FISHER, Peter",
+        "Votes": 31192,
+        "Percent": 48.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FREEDMAN, Linda",
+        "Votes": 18461,
+        "Percent": 28.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KIDD, Adrian",
+        "Votes": 12151,
+        "Percent": 18.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LEHMANN, Neil",
+        "Votes": 3208,
+        "Percent": 4.9
+      }
+    ]
+  },
+  "1990": {
+    "title": "Mallee, VIC   1990",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "FISHER, Peter",
+        "Votes": 49618,
+        "Percent": 69.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MITCHELL, Peter",
+        "Votes": 15952,
+        "Percent": 22.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCCRACKEN, Ian",
+        "Votes": 6006,
+        "Percent": 8.4
+      }
+    ]
+  },
+  "1993": {
+    "title": "Mallee, VIC   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "KERR, Andrew Lawson",
+        "Votes": "617",
+        "Percent": 0.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "FORREST, John",
+        "Votes": "27708",
+        "Percent": 37.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KIDD, Adrian",
+        "Votes": "23894",
+        "Percent": 32.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ZIGOURAS, John",
+        "Votes": "19510",
+        "Percent": 26.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STEAR, Christopher",
+        "Votes": "1840",
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1996": {
+    "title": "Mallee, VIC   1996",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "FORREST, John",
+        "Votes": 52671,
+        "Percent": 69.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PALMER, Col",
+        "Votes": 17832,
+        "Percent": 23.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DAVIES, Colin",
+        "Votes": 4447,
+        "Percent": 5.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KERR, Andrew Lawson",
+        "Votes": 890,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1998": {
+    "title": "Mallee, VIC   1998",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "FORREST, John",
+        "Votes": 43132,
+        "Percent": 57.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ZIGOURAS, John",
+        "Votes": 16471,
+        "Percent": 21.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "CROFT, Bill",
+        "Votes": 9516,
+        "Percent": 12.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JOYCE, Tom",
+        "Votes": 3440,
+        "Percent": 4.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCKENZIE, Lionel",
+        "Votes": 2278,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CUBIT, Lee",
+        "Votes": 600,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2001": {
+    "title": "Mallee, VIC   2001",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "FORREST, John",
+        "Votes": 44769,
+        "Percent": 59.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ZIGOURAS, John",
+        "Votes": 15440,
+        "Percent": 20.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MACKLEY, Bob",
+        "Votes": 6550,
+        "Percent": 8.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOUGLASS, Ross",
+        "Votes": 3704,
+        "Percent": 4.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KELLY, Tim",
+        "Votes": 3532,
+        "Percent": 4.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RIVENDELL, Julie",
+        "Votes": 1809,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "2004": {
+    "title": "Mallee, VIC   2004",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "FORREST, John",
+        "Votes": 57370,
+        "Percent": 68.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ZIGOURAS, John",
+        "Votes": 17034,
+        "Percent": 20.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SMITH, Kevin",
+        "Votes": 3787,
+        "Percent": 4.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROBERTS, Simon",
+        "Votes": 3166,
+        "Percent": 3.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PARR, Stephen",
+        "Votes": 1301,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAMPBELL, Trudy",
+        "Votes": 1197,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2007": {
+    "title": "Mallee, VIC   2007",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "FORREST, John",
+        "Votes": 53227,
+        "Percent": 64.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ZIGOURAS, John",
+        "Votes": 18187,
+        "Percent": 21.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "COULTHARD, Glenn",
+        "Votes": 5435,
+        "Percent": 6.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FARRELLY, Liam",
+        "Votes": 3468,
+        "Percent": 4.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCLEOD, Vikki",
+        "Votes": 2323,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAHY, Chris",
+        "Votes": 600,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2010": {
+    "title": "Mallee, VIC   2010",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "FORREST, John",
+        "Votes": 54399,
+        "Percent": 66.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SCATES, Bob",
+        "Votes": 16198,
+        "Percent": 19.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HEALY, Helen",
+        "Votes": 6400,
+        "Percent": 7.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CARTER, Carl",
+        "Votes": 4456,
+        "Percent": 5.5
+      }
+    ]
+  },
+  "2013": {
+    "title": "Mallee, VIC   2013",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "BROAD, Andrew",
+        "Votes": 33270,
+        "Percent": 38.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CREWTHER, Chris",
+        "Votes": 23363,
+        "Percent": 27.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SENIOR, Lydia",
+        "Votes": 15020,
+        "Percent": 17.5
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "CRILLO, Vince",
+        "Votes": 3195,
+        "Percent": 3.7
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "CORY, Mark",
+        "Votes": 2883,
+        "Percent": 3.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MACALLISTER, Jane",
+        "Votes": 2637,
+        "Percent": 3.1
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "MULCAHY, Amy",
+        "Votes": 2118,
+        "Percent": 2.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BULLER, Neil",
+        "Votes": 1356,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MIDDLETON, Tim",
+        "Votes": 772,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RIDGEWAY, Allen",
+        "Votes": 595,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COLDHAM, Michael",
+        "Votes": 384,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAHY, Chris",
+        "Votes": 241,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2016": {
+    "title": "Mallee, VIC   2016",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "BROAD, Andrew",
+        "Votes": 56251,
+        "Percent": 64.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SENIOR, Lydia",
+        "Votes": 18742,
+        "Percent": 21.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HEALY, Helen",
+        "Votes": 6222,
+        "Percent": 7.1
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "MIDDLETON, Tim",
+        "Votes": 4536,
+        "Percent": 5.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAHY, Chris",
+        "Votes": 1715,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "2019": {
+    "title": "Mallee, VIC   2019",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "WEBSTER, Dr Anne",
+        "Votes": 26142,
+        "Percent": 27.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PETROVICH, Serge",
+        "Votes": 17665,
+        "Percent": 18.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HART, Carole",
+        "Votes": 14722,
+        "Percent": 15.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MODICA, Jason",
+        "Votes": 8795,
+        "Percent": 9.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KINGSTON, Ray",
+        "Votes": 8621,
+        "Percent": 9.2
+      },
+      {
+        "Party": "SFF",
+        "Candidate": "STRAUB, Dan",
+        "Votes": 5512,
+        "Percent": 5.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROWAN, Nicole",
+        "Votes": 3297,
+        "Percent": 3.5
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MILLAR, Rick",
+        "Votes": 3171,
+        "Percent": 3.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MOAR, Cecilia",
+        "Votes": 2761,
+        "Percent": 2.9
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "GROSVENOR, Rick",
+        "Votes": 1309,
+        "Percent": 1.4
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "MOLLISON, Philip",
+        "Votes": 919,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FIRMAN, Leigh",
+        "Votes": 497,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAHY, Chris",
+        "Votes": 416,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2022": {
+    "title": "Mallee, VIC   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "WEBSTER, Dr Anne",
+        "Votes": 50187,
+        "Percent": 49.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HART, Carole",
+        "Votes": 17133,
+        "Percent": 16.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BALDWIN, Sophie",
+        "Votes": 10256,
+        "Percent": 10.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "KING, Stuart",
+        "Votes": 9271,
+        "Percent": 9.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "ATKINSON, Vanessa",
+        "Votes": 6901,
+        "Percent": 6.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCCOLL, Sam",
+        "Votes": 5463,
+        "Percent": 5.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HAENEL, Claudia",
+        "Votes": 2196,
+        "Percent": 2.2
+      },
+      {
+        "Party": "ACP",
+        "Candidate": "LAHY, Chris",
+        "Votes": 822,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2025": {
+    "title": "Mallee, VIC   2025",
+    "rows": [
+      {
+        "Party": "NP",
+        "Candidate": "WEBSTER, Anne",
+        "Votes": 51553,
+        "Percent": 49.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "OLSEN, Greg",
+        "Votes": 19839,
+        "Percent": 19.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "WILLIAMS, Vaughan",
+        "Votes": 11414,
+        "Percent": 11.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROWAN, Nicole",
+        "Votes": 9477,
+        "Percent": 9.1
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "GRAY, Ashleigh",
+        "Votes": 3960,
+        "Percent": 3.8
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "VEITCH, Adam Troy",
+        "Votes": 3810,
+        "Percent": 3.7
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "BARRY, Jeff",
+        "Votes": 2671,
+        "Percent": 2.6
+      },
+      {
+        "Party": "CEC",
+        "Candidate": "LAHY, Chris",
+        "Votes": 983,
+        "Percent": 0.9
+      }
+    ]
+  }
+}

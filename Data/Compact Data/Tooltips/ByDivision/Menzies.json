@@ -1,0 +1,587 @@
+{
+  "1984": {
+    "title": "Menzies, VIC   1984",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BROWN, Hon Neil",
+        "Votes": 28395,
+        "Percent": 50.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCKENZIE, David",
+        "Votes": 22901,
+        "Percent": 40.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KENYON, Lynden",
+        "Votes": 3519,
+        "Percent": 6.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CONSIDINE, Vin",
+        "Votes": 1306,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "1987": {
+    "title": "Menzies, VIC   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BROWN, Hon Neil",
+        "Votes": 32401,
+        "Percent": 53.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CSAR, Ivana",
+        "Votes": 22505,
+        "Percent": 36.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WHITE, Marjorie",
+        "Votes": 5266,
+        "Percent": 8.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PLAIN, Bruce",
+        "Votes": 972,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1990": {
+    "title": "Menzies, VIC   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BROWN, Hon Neil",
+        "Votes": 38844,
+        "Percent": 58.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CSAR, Ivana",
+        "Votes": 18521,
+        "Percent": 27.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PIPER-JOHNSON, Elizabeth",
+        "Votes": 7710,
+        "Percent": 11.6
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "SUTER, Ron",
+        "Votes": 1384,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "1993": {
+    "title": "Menzies, VIC   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "QUINLAN, Dennis",
+        "Votes": "762",
+        "Percent": 1.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ANDREWS, Kevin",
+        "Votes": "40200",
+        "Percent": 57.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DOBINSON, Joan",
+        "Votes": "2955",
+        "Percent": 4.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ANGELIS, Peter De",
+        "Votes": "26154",
+        "Percent": 37.3
+      }
+    ]
+  },
+  "1996": {
+    "title": "Menzies, VIC   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ANDREWS, Kevin",
+        "Votes": 41479,
+        "Percent": 55.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ANGELIS, Peter de",
+        "Votes": 25307,
+        "Percent": 33.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CARTER, Angela",
+        "Votes": 6602,
+        "Percent": 8.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, Susan",
+        "Votes": 1328,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "1998": {
+    "title": "Menzies, VIC   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ANDREWS, Kevin",
+        "Votes": 35415,
+        "Percent": 46.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ALLAN, Peter",
+        "Votes": 24812,
+        "Percent": 32.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NITSCHKE, Dr Phillip",
+        "Votes": 6843,
+        "Percent": 9.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WISE, Damian",
+        "Votes": 4395,
+        "Percent": 5.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MORSY, Mohamed",
+        "Votes": 1383,
+        "Percent": 1.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "CASLEY, John",
+        "Votes": 1383,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RIORDAN, Marcia",
+        "Votes": 1060,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUNN, Mark",
+        "Votes": 240,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2001": {
+    "title": "Menzies, VIC   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ANDREWS, Kevin",
+        "Votes": 41565,
+        "Percent": 53.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "VASILOPOULOS, Olga",
+        "Votes": 25895,
+        "Percent": 33.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RYAN, Michael",
+        "Votes": 5113,
+        "Percent": 6.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WATSON, Barry",
+        "Votes": 4301,
+        "Percent": 5.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRIFFIN, Brendan",
+        "Votes": 1135,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2004": {
+    "title": "Menzies, VIC   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ANDREWS, Hon Kevin",
+        "Votes": 46132,
+        "Percent": 56.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Brian",
+        "Votes": 26635,
+        "Percent": 32.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WRIGHT, Matthew",
+        "Votes": 5251,
+        "Percent": 6.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BRIDGE, John",
+        "Votes": 1739,
+        "Percent": 2.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PAGE, Anne",
+        "Votes": 1226,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAVIDSON, Jordon",
+        "Votes": 256,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2007": {
+    "title": "Menzies, VIC   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ANDREWS, Hon Kevin",
+        "Votes": 43393,
+        "Percent": 51.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CAMPBELL, Andrew",
+        "Votes": 29249,
+        "Percent": 34.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ELLIS, David",
+        "Votes": 5291,
+        "Percent": 6.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NITSCHKE, Dr Philip",
+        "Votes": 3297,
+        "Percent": 3.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SMITHIES, Ken",
+        "Votes": 2036,
+        "Percent": 2.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WISE, Damian",
+        "Votes": 822,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2010": {
+    "title": "Menzies, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ANDREWS, Hon Kevin",
+        "Votes": 43932,
+        "Percent": 53.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BANERJI, Joy",
+        "Votes": 26287,
+        "Percent": 32.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PADGHAM, Chris",
+        "Votes": 8802,
+        "Percent": 10.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SMITHIES, Ken",
+        "Votes": 2892,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "2013": {
+    "title": "Menzies, VIC   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ANDREWS, Hon Kevin",
+        "Votes": 52290,
+        "Percent": 58.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KUMAR, Manoj",
+        "Votes": 22788,
+        "Percent": 25.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CRANSTON, Richard",
+        "Votes": 7663,
+        "Percent": 8.6
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "GUARDIANI, Agostino",
+        "Votes": 2353,
+        "Percent": 2.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CONLON, Andrew",
+        "Votes": 1917,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROBINSON, Ramon",
+        "Votes": 1287,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BAKER, Phil",
+        "Votes": 508,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2016": {
+    "title": "Menzies, VIC   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ANDREWS, Hon Kevin",
+        "Votes": 45133,
+        "Percent": 51.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "RUNDELL, Adam",
+        "Votes": 21468,
+        "Percent": 24.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CRANSTON, Richard",
+        "Votes": 7921,
+        "Percent": 9.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MAYNE, Stephen",
+        "Votes": 5863,
+        "Percent": 6.7
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "CLARK, David",
+        "Votes": 2842,
+        "Percent": 3.3
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "HULBERT, Antony",
+        "Votes": 2327,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FRANKLIN, Jay",
+        "Votes": 973,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROBINSON, Ramon",
+        "Votes": 730,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2019": {
+    "title": "Menzies, VIC   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ANDREWS, Hon Kevin",
+        "Votes": 50863,
+        "Percent": 51.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "YEE, Stella",
+        "Votes": 29539,
+        "Percent": 30.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HUMPHREYS, Robert",
+        "Votes": 10263,
+        "Percent": 10.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "KELLEHER, Teresa",
+        "Votes": 3026,
+        "Percent": 3.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "FULLER, Brett",
+        "Votes": 2605,
+        "Percent": 2.7
+      },
+      {
+        "Party": "Reason",
+        "Candidate": "PAYNE, Rachel",
+        "Votes": 2029,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "2022": {
+    "title": "Menzies, VIC   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WOLAHAN, Keith",
+        "Votes": 42526,
+        "Percent": 42.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "OAKLEY, Naomi",
+        "Votes": 33635,
+        "Percent": 33.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PHEASANT, Bill",
+        "Votes": 14289,
+        "Percent": 14.2
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "CHEESMAN, Greg",
+        "Votes": 3646,
+        "Percent": 3.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SCAGLIONE, Nathan",
+        "Votes": 3643,
+        "Percent": 3.6
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "HAYES, John",
+        "Votes": 2312,
+        "Percent": 2.3
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "SABHLOK, Sanjeev",
+        "Votes": 968,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2025": {
+    "title": "Menzies, VIC   2025",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WOLAHAN, Keith",
+        "Votes": 44473,
+        "Percent": 40.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NG, Gabriel",
+        "Votes": 38012,
+        "Percent": 34.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PHEASANT, Bill",
+        "Votes": 11998,
+        "Percent": 11.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "YEE, Stella",
+        "Votes": 6966,
+        "Percent": 6.4
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "PALIOURAS, Amanda",
+        "Votes": 2708,
+        "Percent": 2.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "EDWARDS-SCOTT, Jhett",
+        "Votes": 2152,
+        "Percent": 2.0
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "SEELEY, Ann",
+        "Votes": 1759,
+        "Percent": 1.6
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "UTOYO, Joshua",
+        "Votes": 1362,
+        "Percent": 1.2
+      }
+    ]
+  }
+}

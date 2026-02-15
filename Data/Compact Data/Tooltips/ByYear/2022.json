@@ -1,0 +1,7975 @@
+{
+  "Banks": {
+    "title": "Banks, NSW   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "COLEMAN, Hon David",
+        "Votes": 41622,
+        "Percent": 45.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SOON, Zhi",
+        "Votes": 32459,
+        "Percent": 35.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HANNA, Natalie",
+        "Votes": 8063,
+        "Percent": 8.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MOMIRCEVSKI, Marika",
+        "Votes": 5048,
+        "Percent": 5.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "HEFFERNAN, Malcolm",
+        "Votes": 2628,
+        "Percent": 2.9
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "COCKER, Elouise",
+        "Votes": 1264,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KHOUW, Steve",
+        "Votes": 961,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "Barton": {
+    "title": "Barton, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BURNEY, Hon Linda",
+        "Votes": 46206,
+        "Percent": 50.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GOODY, John",
+        "Votes": 23992,
+        "Percent": 26.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "VANDIJK, Taylor",
+        "Votes": 11441,
+        "Percent": 12.5
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HONOS, Dimitri",
+        "Votes": 5611,
+        "Percent": 6.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "POLLARD, Phillip",
+        "Votes": 4373,
+        "Percent": 4.8
+      }
+    ]
+  },
+  "Bennelong": {
+    "title": "Bennelong, NSW   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KENNEDY, Simon",
+        "Votes": 41206,
+        "Percent": 41.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LAXALE, Jerome",
+        "Votes": 37596,
+        "Percent": 37.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ADAMS, Tony",
+        "Votes": 11395,
+        "Percent": 11.5
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "COLLYER, Rhys",
+        "Votes": 2915,
+        "Percent": 2.9
+      },
+      {
+        "Party": "Fus",
+        "Candidate": "AUGUST, John",
+        "Votes": 2125,
+        "Percent": 2.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "WATERSON, Victor",
+        "Votes": 1664,
+        "Percent": 1.7
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "CAMERON, Dougal",
+        "Votes": 1539,
+        "Percent": 1.5
+      },
+      {
+        "Party": "DPDA",
+        "Candidate": "DHONGDUE, Kyinzom",
+        "Votes": 1208,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "Berowra": {
+    "title": "Berowra, NSW   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LEESER, Julian",
+        "Votes": 45797,
+        "Percent": 49.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KOSCHINSKI, Benson",
+        "Votes": 20746,
+        "Percent": 22.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SALITRA, Tania",
+        "Votes": 14536,
+        "Percent": 15.6
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "BOSMA, Rhiannon",
+        "Votes": 2972,
+        "Percent": 3.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MARTINIC, Christopher",
+        "Votes": 2315,
+        "Percent": 2.5
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "SAMIOS, Nicholas",
+        "Votes": 2307,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CASWELL, Benjamin",
+        "Votes": 1802,
+        "Percent": 1.9
+      },
+      {
+        "Party": "Fus",
+        "Candidate": "CLARKE, Brendan",
+        "Votes": 1418,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WOODWARD, Roger",
+        "Votes": 904,
+        "Percent": 1.0
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "LOUIE, David",
+        "Votes": 509,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "Blaxland": {
+    "title": "Blaxland, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLARE, Hon Jason",
+        "Votes": 44905,
+        "Percent": 55.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GUNEY, Oz",
+        "Votes": 22059,
+        "Percent": 27.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "EISLER, Linda",
+        "Votes": 5187,
+        "Percent": 6.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SINOSIC, Elvis",
+        "Votes": 5105,
+        "Percent": 6.3
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "STEPANOFF, Adam",
+        "Votes": 4421,
+        "Percent": 5.4
+      }
+    ]
+  },
+  "Bradfield": {
+    "title": "Bradfield, NSW   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FLETCHER, Hon Paul",
+        "Votes": 43562,
+        "Percent": 45.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOELE, Nicolette",
+        "Votes": 20198,
+        "Percent": 20.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRIGDEN, David",
+        "Votes": 16902,
+        "Percent": 17.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COUSINS, Martin",
+        "Votes": 8960,
+        "Percent": 9.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KITSON, Janine",
+        "Votes": 3018,
+        "Percent": 3.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "FLETCHER, Rob",
+        "Votes": 2496,
+        "Percent": 2.6
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "LOWE, Michael",
+        "Votes": 1568,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "Calare": {
+    "title": "Calare, NSW   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "GEE, Hon Andrew",
+        "Votes": 51161,
+        "Percent": 47.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOOK, Kate",
+        "Votes": 21891,
+        "Percent": 20.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIOTT, Sarah",
+        "Votes": 16252,
+        "Percent": 15.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "WHITTAKER, Stacey",
+        "Votes": 9057,
+        "Percent": 8.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NANKERVIS, Kay",
+        "Votes": 4891,
+        "Percent": 4.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "JANNIS, Adam",
+        "Votes": 4067,
+        "Percent": 3.8
+      }
+    ]
+  },
+  "Chifley": {
+    "title": "Chifley, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HUSIC, Hon Ed",
+        "Votes": 51236,
+        "Percent": 52.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SINGH, Jugandeep",
+        "Votes": 24046,
+        "Percent": 24.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "BATISH, Amit",
+        "Votes": 6034,
+        "Percent": 6.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SELVENTHIRAN, Sujan",
+        "Votes": 5622,
+        "Percent": 5.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "RASKOV, Zvetanka",
+        "Votes": 5149,
+        "Percent": 5.3
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "ROUGHLEY, Ben",
+        "Votes": 3263,
+        "Percent": 3.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KHAN, Ammar",
+        "Votes": 1839,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "Cook": {
+    "title": "Cook, NSW   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MORRISON, Hon Scott",
+        "Votes": 54322,
+        "Percent": 55.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EARLE, Simon",
+        "Votes": 24444,
+        "Percent": 25.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DYSON, Catherine",
+        "Votes": 9685,
+        "Percent": 9.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "CAMERON, Gaye",
+        "Votes": 4985,
+        "Percent": 5.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "GUINANE, Jacqueline",
+        "Votes": 4381,
+        "Percent": 4.5
+      }
+    ]
+  },
+  "Cowper": {
+    "title": "Cowper, NSW   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "CONAGHAN, Pat",
+        "Votes": 43909,
+        "Percent": 39.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HEISE, Caz",
+        "Votes": 29206,
+        "Percent": 26.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCMULLEN, Keith",
+        "Votes": 15566,
+        "Percent": 14.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "ASPIOTIS, Faye",
+        "Votes": 9047,
+        "Percent": 8.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NOTT, Timothy",
+        "Votes": 6518,
+        "Percent": 5.9
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "CHASELING, Simon",
+        "Votes": 4316,
+        "Percent": 3.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "FAIRHALL, Joshua",
+        "Votes": 2674,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "Cunningham": {
+    "title": "Cunningham, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BYRNES, Alison",
+        "Votes": 40783,
+        "Percent": 40.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "UREN, Marcus",
+        "Votes": 25418,
+        "Percent": 25.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GREEN, Dylan",
+        "Votes": 22011,
+        "Percent": 21.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "GROGAN, Thomas",
+        "Votes": 5218,
+        "Percent": 5.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "BRITTON, Ben",
+        "Votes": 4936,
+        "Percent": 4.9
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "GLOVER, Michael",
+        "Votes": 2207,
+        "Percent": 2.2
+      },
+      {
+        "Party": "ACP",
+        "Candidate": "GARNAUT-MILLER, Alexis",
+        "Votes": 1098,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Dobell": {
+    "title": "Dobell, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCBRIDE, Emma",
+        "Votes": 43595,
+        "Percent": 42.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FENELEY, Dr Michael",
+        "Votes": 34276,
+        "Percent": 33.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CONNOR, Cath",
+        "Votes": 8700,
+        "Percent": 8.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "STEVENSON, Martin",
+        "Votes": 7583,
+        "Percent": 7.5
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MACKIN, Dean",
+        "Votes": 3818,
+        "Percent": 3.8
+      },
+      {
+        "Party": "Fus",
+        "Candidate": "BARNES, Geoff",
+        "Votes": 2202,
+        "Percent": 2.2
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "METHERELL, Eliot",
+        "Votes": 1543,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "Eden-Monaro": {
+    "title": "Eden-Monaro, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCBAIN, Kristy",
+        "Votes": 43215,
+        "Percent": 42.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NOCKLES, Dr Jerry",
+        "Votes": 33520,
+        "Percent": 33.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HARRIS, Vivian",
+        "Votes": 9376,
+        "Percent": 9.2
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "SHANNON, Boyd",
+        "Votes": 4351,
+        "Percent": 4.3
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "HOLMES, Maxwell",
+        "Votes": 2625,
+        "Percent": 2.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "GARNON, Darren",
+        "Votes": 2566,
+        "Percent": 2.5
+      },
+      {
+        "Party": "Sust",
+        "Candidate": "HOLGATE, James",
+        "Votes": 2260,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THALER, Andrew",
+        "Votes": 2044,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "MCLENNAN, Toni",
+        "Votes": 909,
+        "Percent": 0.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BUTLER, Greg",
+        "Votes": 651,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Farrer": {
+    "title": "Farrer, NSW   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LEY, Hon Sussan",
+        "Votes": 52566,
+        "Percent": 52.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CAMERON, Darren",
+        "Votes": 19097,
+        "Percent": 19.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DAVERN, Eli",
+        "Votes": 9163,
+        "Percent": 9.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "FRANCIS, Richard",
+        "Votes": 6363,
+        "Percent": 6.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SF&F, Paul Britton",
+        "Votes": 5339,
+        "Percent": 5.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "RAMOS, Julie",
+        "Votes": 3270,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DUNCAN-STRELEC, Amanda",
+        "Votes": 3189,
+        "Percent": 3.2
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "ROWORTH, Ian",
+        "Votes": 1595,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "Fowler": {
+    "title": "Fowler, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KENEALLY, Hon Kristina",
+        "Votes": 30973,
+        "Percent": 36.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LE, Dai",
+        "Votes": 25346,
+        "Percent": 29.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NGUYEN, Courtney",
+        "Votes": 14740,
+        "Percent": 17.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "PANICH, Lela",
+        "Votes": 5512,
+        "Percent": 6.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HOWARD, Avery",
+        "Votes": 4191,
+        "Percent": 4.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MARGOS, Tony",
+        "Votes": 3047,
+        "Percent": 3.6
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "RUNGE, Peter",
+        "Votes": 2094,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "Gilmore": {
+    "title": "Gilmore, NSW   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CONSTANCE, Andrew",
+        "Votes": 46941,
+        "Percent": 42.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PHILLIPS, Fiona",
+        "Votes": 40175,
+        "Percent": 36.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCCALLUM, Carmel",
+        "Votes": 11417,
+        "Percent": 10.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DIGIGLIO, Nina",
+        "Votes": 4721,
+        "Percent": 4.2
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "EID, Jerremy",
+        "Votes": 4453,
+        "Percent": 4.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MALONEY, Jordan",
+        "Votes": 3108,
+        "Percent": 2.8
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "FADINI, Adrian",
+        "Votes": 890,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "Grayndler": {
+    "title": "Grayndler, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ALBANESE, Hon Anthony",
+        "Votes": 50723,
+        "Percent": 53.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JACOBS, Rachael",
+        "Votes": 20846,
+        "Percent": 22.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ZHANG, Ben",
+        "Votes": 15111,
+        "Percent": 16.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SMITH, David",
+        "Votes": 2101,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KILHAM, Sarina",
+        "Votes": 1973,
+        "Percent": 2.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "HENSELIN, Paul",
+        "Votes": 1449,
+        "Percent": 1.5
+      },
+      {
+        "Party": "Fus",
+        "Candidate": "HAGGERTY, James",
+        "Votes": 1222,
+        "Percent": 1.3
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "DELLO-IACOVO, Michael",
+        "Votes": 1148,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "Greenway": {
+    "title": "Greenway, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ROWLAND, Michelle",
+        "Votes": 48551,
+        "Percent": 48.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PATHI, Pradeep",
+        "Votes": 29932,
+        "Percent": 29.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ATKINS, Damien",
+        "Votes": 7086,
+        "Percent": 7.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "REX, Mark",
+        "Votes": 4359,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOSI, Riccardo",
+        "Votes": 3272,
+        "Percent": 3.3
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "KACHWALLA, Adam",
+        "Votes": 3014,
+        "Percent": 3.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "TURNER, Rick",
+        "Votes": 2710,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NANDA, Love",
+        "Votes": 1615,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "Hughes": {
+    "title": "Hughes, NSW   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WARE, Jenny",
+        "Votes": 42148,
+        "Percent": 43.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CAMPBELL, Riley",
+        "Votes": 21828,
+        "Percent": 22.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STEELE, Georgia",
+        "Votes": 13891,
+        "Percent": 14.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "KELLY, Craig",
+        "Votes": 7186,
+        "Percent": 7.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "THOMPSON, Pete",
+        "Votes": 6118,
+        "Percent": 6.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SEYMOUR, Linda",
+        "Votes": 3138,
+        "Percent": 3.2
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "SEYMOUR, Narelle",
+        "Votes": 2600,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "Hume": {
+    "title": "Hume, NSW   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TAYLOR, Hon Angus",
+        "Votes": 45177,
+        "Percent": 43.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BAINES, Greg",
+        "Votes": 20864,
+        "Percent": 19.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ACKERY, Penny",
+        "Votes": 16045,
+        "Percent": 15.3
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "THOMPSON, Rebecca",
+        "Votes": 7700,
+        "Percent": 7.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "STEWART, Karen",
+        "Votes": 5194,
+        "Percent": 5.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "DOLLIN, Garry",
+        "Votes": 4780,
+        "Percent": 4.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SF&F, Ross Seller",
+        "Votes": 3108,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DONA, Sheneli Meneripitiyage",
+        "Votes": 1124,
+        "Percent": 1.1
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "LIMA, Joaquim De",
+        "Votes": 770,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Hunter": {
+    "title": "Hunter, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "REPACHOLI, Dan",
+        "Votes": 41514,
+        "Percent": 38.5
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "THOMSON, James",
+        "Votes": 29540,
+        "Percent": 27.4
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MCNAMARA, Dale",
+        "Votes": 10759,
+        "Percent": 10.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MURRAY, Janet",
+        "Votes": 9562,
+        "Percent": 8.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BONDS, Stuart",
+        "Votes": 6126,
+        "Percent": 5.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "PASSFIELD, Geoff",
+        "Votes": 4370,
+        "Percent": 4.1
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "DAVIES, Victoria",
+        "Votes": 2469,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LARUFFA, Scott",
+        "Votes": 1929,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "TOWNSEND, Cathy",
+        "Votes": 1458,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "Kingsford Smith": {
+    "title": "Kingsford Smith, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THISTLETHWAITE, Hon Matt",
+        "Votes": 46697,
+        "Percent": 47.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TAN, Grace",
+        "Votes": 27929,
+        "Percent": 28.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DAVIS, Stuart",
+        "Votes": 16401,
+        "Percent": 16.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "TAWAF, Anthony",
+        "Votes": 3388,
+        "Percent": 3.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MARR, Darrin",
+        "Votes": 3051,
+        "Percent": 3.1
+      }
+    ]
+  },
+  "Lindsay": {
+    "title": "Lindsay, NSW   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCINTOSH, Melissa",
+        "Votes": 48939,
+        "Percent": 46.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROSS, Trevor",
+        "Votes": 33206,
+        "Percent": 31.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MORSSINK, Pieter",
+        "Votes": 8404,
+        "Percent": 8.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "JAGO, Max",
+        "Votes": 6203,
+        "Percent": 5.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "O'CONNOR, Joseph",
+        "Votes": 4272,
+        "Percent": 4.1
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "RAY, Rebekah",
+        "Votes": 2075,
+        "Percent": 2.0
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MCCLURE, Gareth",
+        "Votes": 1627,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "Lyne": {
+    "title": "Lyne, NSW   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "GILLESPIE, Hon Dr David",
+        "Votes": 46661,
+        "Percent": 43.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SIMPSON, Alex",
+        "Votes": 23024,
+        "Percent": 21.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "CASHMAN, Josephine",
+        "Votes": 8502,
+        "Percent": 7.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ATTENBOROUGH, Karl",
+        "Votes": 8422,
+        "Percent": 7.9
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "HORNSHAW, Mark",
+        "Votes": 6824,
+        "Percent": 6.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ATTKINS, Steve",
+        "Votes": 5574,
+        "Percent": 5.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "PUTLAND, Joel",
+        "Votes": 4421,
+        "Percent": 4.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PEARCE, Joanne",
+        "Votes": 3820,
+        "Percent": 3.6
+      }
+    ]
+  },
+  "Macarthur": {
+    "title": "Macarthur, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FREELANDER, Dr Mike",
+        "Votes": 51001,
+        "Percent": 45.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PAUDEL, Binod",
+        "Votes": 33867,
+        "Percent": 30.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "ZAHRA, Adam",
+        "Votes": 8876,
+        "Percent": 8.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RIVERA, Jayden",
+        "Votes": 8584,
+        "Percent": 7.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SICARI, Rosa",
+        "Votes": 6602,
+        "Percent": 5.9
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "KORMAN, Scott",
+        "Votes": 2197,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "Mackellar": {
+    "title": "Mackellar, NSW   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FALINSKI, Jason",
+        "Votes": 40993,
+        "Percent": 41.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCAMPS, Dr Sophie",
+        "Votes": 37724,
+        "Percent": 38.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GOODMAN, Paula",
+        "Votes": 8162,
+        "Percent": 8.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HRNJAK, Ethan",
+        "Votes": 6032,
+        "Percent": 6.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "BALL, Christopher",
+        "Votes": 2881,
+        "Percent": 2.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "DICKSON, Darren",
+        "Votes": 2624,
+        "Percent": 2.7
+      },
+      {
+        "Party": "TNL",
+        "Candidate": "STEELE, Barry",
+        "Votes": 575,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Mcmahon": {
+    "title": "Mcmahon, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BOWEN, Hon Chris",
+        "Votes": 40657,
+        "Percent": 48.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SINGHA, Vivek",
+        "Votes": 24006,
+        "Percent": 28.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SALIBA, Marie",
+        "Votes": 7723,
+        "Percent": 9.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "O'NEILL, Astrid",
+        "Votes": 4922,
+        "Percent": 5.8
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "FORD, Scott",
+        "Votes": 4612,
+        "Percent": 5.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "SHAMSABAD, Cameron",
+        "Votes": 2822,
+        "Percent": 3.3
+      }
+    ]
+  },
+  "Macquarie": {
+    "title": "Macquarie, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "TEMPLEMAN, Susan",
+        "Votes": 41025,
+        "Percent": 43.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RICHARDS, Sarah",
+        "Votes": 32980,
+        "Percent": 34.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HICKEY, Tony",
+        "Votes": 9115,
+        "Percent": 9.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "PETTITT, Tony",
+        "Votes": 4955,
+        "Percent": 5.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "EVANS, Nicole",
+        "Votes": 2774,
+        "Percent": 2.9
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "KEIGHTLEY, Greg",
+        "Votes": 2013,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "PALMER, Michelle",
+        "Votes": 1318,
+        "Percent": 1.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "JACKSON, James",
+        "Votes": 1272,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "Mitchell": {
+    "title": "Mitchell, NSW   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAWKE, Hon Alex",
+        "Votes": 56918,
+        "Percent": 52.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SELVARAJ, Immanuel",
+        "Votes": 27597,
+        "Percent": 25.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COX, Matt",
+        "Votes": 12796,
+        "Percent": 11.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "DANIEL, Linda",
+        "Votes": 3916,
+        "Percent": 3.6
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MEAD, Clinton",
+        "Votes": 3708,
+        "Percent": 3.4
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MCKENZIE, Donald",
+        "Votes": 3258,
+        "Percent": 3.0
+      }
+    ]
+  },
+  "New England": {
+    "title": "New England, NSW   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "JOYCE, Hon Barnaby",
+        "Votes": 51036,
+        "Percent": 52.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HUGHES, Laura",
+        "Votes": 18056,
+        "Percent": 18.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHARPHAM, Matt",
+        "Votes": 7659,
+        "Percent": 7.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SPARKS, Carol",
+        "Votes": 7524,
+        "Percent": 7.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "THOMAS, Richard",
+        "Votes": 4570,
+        "Percent": 4.7
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "SAMIOS, Pavlo",
+        "Votes": 3174,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LEDGER, Natasha",
+        "Votes": 2708,
+        "Percent": 2.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "DUNCAN, Cindy",
+        "Votes": 2545,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "Newcastle": {
+    "title": "Newcastle, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLAYDON, Sharon",
+        "Votes": 46551,
+        "Percent": 44.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WARK, Katrina",
+        "Votes": 25816,
+        "Percent": 24.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCCABE, Charlotte",
+        "Votes": 21195,
+        "Percent": 20.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "WATSON, Mark",
+        "Votes": 4757,
+        "Percent": 4.5
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "BROLLO, Emily",
+        "Votes": 2549,
+        "Percent": 2.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "COOK, Amanda",
+        "Votes": 2517,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "HUSSEY, William",
+        "Votes": 1140,
+        "Percent": 1.1
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "PYWELL, Garth",
+        "Votes": 1102,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "North Sydney": {
+    "title": "North Sydney, NSW   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ZIMMERMAN, Trent",
+        "Votes": 36956,
+        "Percent": 38.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TINK, Kylea",
+        "Votes": 24477,
+        "Percent": 25.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "RENSHAW, Dr Catherine",
+        "Votes": 20835,
+        "Percent": 21.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ARMSTRONG, Heather",
+        "Votes": 8308,
+        "Percent": 8.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "NALBANDIAN, Robert",
+        "Votes": 1730,
+        "Percent": 1.8
+      },
+      {
+        "Party": "Sust",
+        "Candidate": "BOURKE, William",
+        "Votes": 1163,
+        "Percent": 1.2
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "WALLS, Michael",
+        "Votes": 1149,
+        "Percent": 1.2
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "TINKLER, Dajen",
+        "Votes": 1123,
+        "Percent": 1.2
+      },
+      {
+        "Party": "TNL",
+        "Candidate": "KLINE, Victor",
+        "Votes": 886,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "KINNEY, Lesley",
+        "Votes": 491,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "Page": {
+    "title": "Page, NSW   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "HOGAN, Hon Kevin",
+        "Votes": 47701,
+        "Percent": 45.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DEEGAN, Patrick",
+        "Votes": 19531,
+        "Percent": 18.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LUKE, Dr Hanabeth",
+        "Votes": 13734,
+        "Percent": 13.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MILLER, Kashmir",
+        "Votes": 8863,
+        "Percent": 8.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "PIKE, Donna",
+        "Votes": 5621,
+        "Percent": 5.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "SEARLES, Thomas",
+        "Votes": 3896,
+        "Percent": 3.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "WILLIAMSON, Ian",
+        "Votes": 2431,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IAPA",
+        "Candidate": "DUROUX, Brett",
+        "Votes": 1733,
+        "Percent": 1.7
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "SMITH, Heather",
+        "Votes": 816,
+        "Percent": 0.8
+      },
+      {
+        "Party": "TNL",
+        "Candidate": "KILLINGBECK, Serge",
+        "Votes": 243,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "Parkes": {
+    "title": "Parkes, NSW   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "COULTON, Hon Mark",
+        "Votes": 43931,
+        "Percent": 49.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "AYOUB, Jack",
+        "Votes": 18009,
+        "Percent": 20.2
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "SWINBOURN, Deborah",
+        "Votes": 6662,
+        "Percent": 7.5
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "ROTHWELL, Peter",
+        "Votes": 5723,
+        "Percent": 6.4
+      },
+      {
+        "Party": "IAPA",
+        "Candidate": "HARDMAN, Derek",
+        "Votes": 4466,
+        "Percent": 5.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FRAIL, Trish",
+        "Votes": 4214,
+        "Percent": 4.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "STEEN, Petrus Van Der",
+        "Votes": 2372,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOWE, Stuart",
+        "Votes": 2191,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "FOX, Benjamin",
+        "Votes": 1512,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "Parramatta": {
+    "title": "Parramatta, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHARLTON, Dr Andrew",
+        "Votes": 34258,
+        "Percent": 40.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KOVACIC, Maria",
+        "Votes": 29492,
+        "Percent": 35.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BRADLEY, Phil",
+        "Votes": 7546,
+        "Percent": 9.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "FAYAD, Julian",
+        "Votes": 4269,
+        "Percent": 5.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHRISTOU, Steve",
+        "Votes": 2982,
+        "Percent": 3.6
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "LAXMANALAL, Rohan",
+        "Votes": 2397,
+        "Percent": 2.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "FREEMAN, Heather",
+        "Votes": 2011,
+        "Percent": 2.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "TAZEWELL, Liza",
+        "Votes": 1310,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "Paterson": {
+    "title": "Paterson, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SWANSON, Meryl",
+        "Votes": 46725,
+        "Percent": 40.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "VITNELL, Brooke",
+        "Votes": 42142,
+        "Percent": 36.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "TURNER, Neil",
+        "Votes": 9363,
+        "Percent": 8.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "IHLEIN, Louise",
+        "Votes": 8677,
+        "Percent": 7.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "OLBOURNE, Jason",
+        "Votes": 4474,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "KETAS, Angela",
+        "Votes": 1883,
+        "Percent": 1.6
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "BAILEY, Sonia",
+        "Votes": 1621,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "Reid": {
+    "title": "Reid, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SITOU, Sally",
+        "Votes": 40768,
+        "Percent": 41.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MARTIN, Dr Fiona",
+        "Votes": 37126,
+        "Percent": 37.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JAGO, Charles",
+        "Votes": 9184,
+        "Percent": 9.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BAINI, Natalie",
+        "Votes": 2994,
+        "Percent": 3.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "DAOUD, Jamal",
+        "Votes": 2530,
+        "Percent": 2.6
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "WALTERS, Edward",
+        "Votes": 1997,
+        "Percent": 2.1
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "CAMERON, Andrew",
+        "Votes": 1824,
+        "Percent": 1.9
+      },
+      {
+        "Party": "Fus",
+        "Candidate": "KHALILI-NAGHADEH, Sahar",
+        "Votes": 1553,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "Richmond": {
+    "title": "Richmond, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIOT, Hon Justine",
+        "Votes": 28733,
+        "Percent": 28.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NOLAN, Mandy",
+        "Votes": 25216,
+        "Percent": 25.3
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "HONE, Kimberly",
+        "Votes": 23299,
+        "Percent": 23.3
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "BIGGS, Gary",
+        "Votes": 7681,
+        "Percent": 7.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "BELL-HENSELIN, Tracey",
+        "Votes": 4073,
+        "Percent": 4.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MARKS, Robert",
+        "Votes": 2922,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WARTH, David",
+        "Votes": 2341,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "SHEPHERD, Monica",
+        "Votes": 2271,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JONES, Nathan",
+        "Votes": 1974,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHARPLES, Terry",
+        "Votes": 1274,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "Riverina": {
+    "title": "Riverina, NSW   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "MCCORMACK, Hon Michael",
+        "Votes": 45951,
+        "Percent": 46.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JEFFRESON, Mark",
+        "Votes": 20193,
+        "Percent": 20.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "ORCHARD, Richard",
+        "Votes": 8042,
+        "Percent": 8.2
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MCCRAE, Dean",
+        "Votes": 6563,
+        "Percent": 6.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ORGAN, Michael",
+        "Votes": 6349,
+        "Percent": 6.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SF&F, Steve Karaitiana",
+        "Votes": 6280,
+        "Percent": 6.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CIAVARELLA, Darren",
+        "Votes": 2701,
+        "Percent": 2.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MARTELOZZO, Daniel",
+        "Votes": 2585,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "Robertson": {
+    "title": "Robertson, NSW   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WICKS, Lucy",
+        "Votes": 38448,
+        "Percent": 39.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "REID, Dr Gordon",
+        "Votes": 36231,
+        "Percent": 37.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCGRATH, Shelly",
+        "Votes": 9642,
+        "Percent": 10.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "O'GRADY, Billy",
+        "Votes": 3679,
+        "Percent": 3.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MURRAY, Barbara-Jane",
+        "Votes": 2792,
+        "Percent": 2.9
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "MURPHY, Patrick",
+        "Votes": 1949,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IAPA",
+        "Candidate": "LAWSON, Jeffrey",
+        "Votes": 1127,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "MASON, Kate",
+        "Votes": 1114,
+        "Percent": 1.2
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "LOGAN, Dr Bentley",
+        "Votes": 736,
+        "Percent": 0.8
+      },
+      {
+        "Party": "ACP",
+        "Candidate": "BORTHWICK, Paul",
+        "Votes": 272,
+        "Percent": 0.3
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "HAFNER, Alexandra",
+        "Votes": 220,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "Shortland": {
+    "title": "Shortland, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CONROY, Pat",
+        "Votes": 40135,
+        "Percent": 40.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCGILL, Nell",
+        "Votes": 32215,
+        "Percent": 32.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GRIERSON, Kim",
+        "Votes": 9910,
+        "Percent": 9.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "KING, Quintin",
+        "Votes": 6397,
+        "Percent": 6.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MAXWELL, Kenneth",
+        "Votes": 3125,
+        "Percent": 3.1
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "REED, Barry",
+        "Votes": 2984,
+        "Percent": 3.0
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "ROBERTS, Bree",
+        "Votes": 2979,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PAYNTER, Basil",
+        "Votes": 2554,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "Sydney": {
+    "title": "Sydney, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PLIBERSEK, Hon Tanya",
+        "Votes": 52410,
+        "Percent": 50.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SAHAI, Chetan",
+        "Votes": 23732,
+        "Percent": 23.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ANDRUSKA, Alexander",
+        "Votes": 20276,
+        "Percent": 19.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MCALISTER, Ryan",
+        "Votes": 2298,
+        "Percent": 2.3
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "FERGUSON, Ben",
+        "Votes": 1889,
+        "Percent": 1.8
+      },
+      {
+        "Party": "SAll",
+        "Candidate": "CHUTER, Andrew",
+        "Votes": 1518,
+        "Percent": 1.5
+      },
+      {
+        "Party": "ACP",
+        "Candidate": "ZHOU, Wen",
+        "Votes": 1002,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "Warringah": {
+    "title": "Warringah, NSW   2022",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "STEGGALL, Zali",
+        "Votes": 41832,
+        "Percent": 44.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DEVES, Katherine",
+        "Votes": 31129,
+        "Percent": 33.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MICKLEBURGH, David",
+        "Votes": 7806,
+        "Percent": 8.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GLANVILLE, Kristyn",
+        "Votes": 6910,
+        "Percent": 7.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "ROBERTSON, Andrew",
+        "Votes": 2202,
+        "Percent": 2.4
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "TRIPP, Steven",
+        "Votes": 1980,
+        "Percent": 2.1
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "PATERSON, Kate",
+        "Votes": 1475,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "Watson": {
+    "title": "Watson, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BURKE, Hon Tony",
+        "Votes": 44464,
+        "Percent": 51.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "AKTER, Sazeda",
+        "Votes": 22759,
+        "Percent": 26.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SCHOTT, Bradley",
+        "Votes": 8200,
+        "Percent": 9.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "KOUKOULIS, John",
+        "Votes": 6126,
+        "Percent": 7.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "JORGENSEN, Alan",
+        "Votes": 4178,
+        "Percent": 4.9
+      }
+    ]
+  },
+  "Wentworth": {
+    "title": "Wentworth, NSW   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SHARMA, Dave",
+        "Votes": 35995,
+        "Percent": 40.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SPENDER, Allegra",
+        "Votes": 31810,
+        "Percent": 35.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MURRAY, Tim",
+        "Votes": 9654,
+        "Percent": 10.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KANAK, Dominic Wy",
+        "Votes": 7410,
+        "Percent": 8.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "DUMER, Natalie",
+        "Votes": 1813,
+        "Percent": 2.0
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "LEWKOVITZ, Daniel",
+        "Votes": 1346,
+        "Percent": 1.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "FISHER, Dean",
+        "Votes": 895,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "Werriwa": {
+    "title": "Werriwa, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "STANLEY, Anne",
+        "Votes": 40108,
+        "Percent": 39.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KAYAL, Sam",
+        "Votes": 30864,
+        "Percent": 30.7
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "TEY, Victor",
+        "Votes": 8978,
+        "Percent": 8.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "NIKOLIC, Tony",
+        "Votes": 8813,
+        "Percent": 8.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SHUKLA, Apurva",
+        "Votes": 6772,
+        "Percent": 6.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "BOOKE, Adam",
+        "Votes": 5096,
+        "Percent": 5.1
+      }
+    ]
+  },
+  "Whitlam": {
+    "title": "Whitlam, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Stephen",
+        "Votes": 49218,
+        "Percent": 45.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAINS, Mike",
+        "Votes": 30849,
+        "Percent": 28.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DIXON, Jamie",
+        "Votes": 11779,
+        "Percent": 10.8
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "HUGHES, Colin",
+        "Votes": 7543,
+        "Percent": 6.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "WODE, Allan",
+        "Votes": 5886,
+        "Percent": 5.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "WHEELER, Michael",
+        "Votes": 4062,
+        "Percent": 3.7
+      }
+    ]
+  },
+  "Aston": {
+    "title": "Aston, VIC   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TUDGE, Hon Alan",
+        "Votes": 42260,
+        "Percent": 43.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DOYLE, Mary",
+        "Votes": 31949,
+        "Percent": 32.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COOKSON, Asher",
+        "Votes": 11855,
+        "Percent": 12.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SPELMAN, Rebekah",
+        "Votes": 5990,
+        "Percent": 6.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "IBBOTSON, Craig",
+        "Votes": 3022,
+        "Percent": 3.1
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "ROCHE, Liam",
+        "Votes": 2111,
+        "Percent": 2.2
+      },
+      {
+        "Party": "TNL",
+        "Candidate": "BRUCE, Ryan",
+        "Votes": 973,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "Ballarat": {
+    "title": "Ballarat, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KING, Hon Catherine",
+        "Votes": 43171,
+        "Percent": 44.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GREEN, Ben",
+        "Votes": 26142,
+        "Percent": 27.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BARNES, John",
+        "Votes": 14076,
+        "Percent": 14.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "PRYSE-SMITH, Terri",
+        "Votes": 3693,
+        "Percent": 3.8
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "TAXIS, Rosalie",
+        "Votes": 3476,
+        "Percent": 3.6
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MCGRATH, Julia",
+        "Votes": 3216,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRAHAM, Alex",
+        "Votes": 2044,
+        "Percent": 2.1
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "SEDGMAN, Kerryn",
+        "Votes": 682,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Bendigo": {
+    "title": "Bendigo, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHESTERS, Lisa",
+        "Votes": 42883,
+        "Percent": 43.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SCHADE, Darin",
+        "Votes": 26576,
+        "Percent": 26.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SINCLAIR, Cate",
+        "Votes": 14026,
+        "Percent": 14.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MIHAIL, Ben",
+        "Votes": 5508,
+        "Percent": 5.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAURIE, James",
+        "Votes": 4319,
+        "Percent": 4.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SUARES, Elijah",
+        "Votes": 3579,
+        "Percent": 3.6
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "BANSEMER, Matt",
+        "Votes": 2888,
+        "Percent": 2.9
+      }
+    ]
+  },
+  "Bruce": {
+    "title": "Bruce, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HILL, Julian",
+        "Votes": 39516,
+        "Percent": 41.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MOODY, James",
+        "Votes": 28837,
+        "Percent": 30.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KIRWAN, Matthew",
+        "Votes": 9273,
+        "Percent": 9.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "BABET, Matt",
+        "Votes": 8299,
+        "Percent": 8.7
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "SKROBO, Christine",
+        "Votes": 4821,
+        "Percent": 5.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "DEANS, Hayley",
+        "Votes": 4544,
+        "Percent": 4.8
+      }
+    ]
+  },
+  "Calwell": {
+    "title": "Calwell, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "VAMVAKINOU, Maria",
+        "Votes": 38127,
+        "Percent": 44.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "STAKER-GUNN, Tim",
+        "Votes": 20111,
+        "Percent": 23.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ABBOUD, Natalie",
+        "Votes": 8277,
+        "Percent": 9.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "NAIM, Joshua",
+        "Votes": 7578,
+        "Percent": 8.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "PRESTON, Mark",
+        "Votes": 5957,
+        "Percent": 7.0
+      },
+      {
+        "Party": "VS",
+        "Candidate": "SMALL, Jerome",
+        "Votes": 3433,
+        "Percent": 4.0
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "BENGTSSON, Maria",
+        "Votes": 1512,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "Casey": {
+    "title": "Casey, VIC   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "VIOLI, Aaron",
+        "Votes": 36347,
+        "Percent": 36.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRINDLE, Bill",
+        "Votes": 24779,
+        "Percent": 24.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GAME, Jenny",
+        "Votes": 12894,
+        "Percent": 12.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MILES, Claire Ferres",
+        "Votes": 8307,
+        "Percent": 8.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "BELLVE, Anthony",
+        "Votes": 4834,
+        "Percent": 4.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COLE, Craig",
+        "Votes": 3455,
+        "Percent": 3.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MURPHY, Paul",
+        "Votes": 3260,
+        "Percent": 3.3
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "SMITH, Trevor",
+        "Votes": 2008,
+        "Percent": 2.0
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "KLOP, Andrew",
+        "Votes": 1844,
+        "Percent": 1.9
+      },
+      {
+        "Party": "DHJP",
+        "Candidate": "SULLIVAN, Peter",
+        "Votes": 1207,
+        "Percent": 1.2
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "FIELD, Chris",
+        "Votes": 687,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Chisholm": {
+    "title": "Chisholm, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GARLAND, Dr Carina",
+        "Votes": 38692,
+        "Percent": 40.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LIU, Gladys",
+        "Votes": 35038,
+        "Percent": 36.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NEWMAN, Sarah",
+        "Votes": 12130,
+        "Percent": 12.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "KEMPSON, Melanie",
+        "Votes": 2295,
+        "Percent": 2.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "KING, Ethelyn",
+        "Votes": 1620,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MURPHY, Dominique",
+        "Votes": 1590,
+        "Percent": 1.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "TYRRELL, Aaron",
+        "Votes": 1377,
+        "Percent": 1.4
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "WHITFIELD, Rod",
+        "Votes": 1122,
+        "Percent": 1.2
+      },
+      {
+        "Party": "DHJP",
+        "Candidate": "STANFIELD, Thomas",
+        "Votes": 946,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TSENG, Wayne",
+        "Votes": 757,
+        "Percent": 0.8
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "ANTONIE, Anthea",
+        "Votes": 567,
+        "Percent": 0.6
+      },
+      {
+        "Party": "ACP",
+        "Candidate": "DARE, Ryan",
+        "Votes": 384,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "Cooper": {
+    "title": "Cooper, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEARNEY, Ged",
+        "Votes": 38754,
+        "Percent": 41.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LIDDLE, Celeste",
+        "Votes": 25648,
+        "Percent": 27.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ATKINSON, Jadon",
+        "Votes": 15329,
+        "Percent": 16.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "ROSA, Adam La",
+        "Votes": 4170,
+        "Percent": 4.5
+      },
+      {
+        "Party": "VS",
+        "Candidate": "LARKIN, Kath",
+        "Votes": 3250,
+        "Percent": 3.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "TURNER, William",
+        "Votes": 2807,
+        "Percent": 3.0
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "BANGAAR, Rabin",
+        "Votes": 2207,
+        "Percent": 2.4
+      },
+      {
+        "Party": "Fus",
+        "Candidate": "WHITEHEAD, Adrian",
+        "Votes": 1585,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "Corangamite": {
+    "title": "Corangamite, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COKER, Libby",
+        "Votes": 38573,
+        "Percent": 38.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ASHER, Stephanie",
+        "Votes": 34463,
+        "Percent": 34.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MARSHALL, Alex",
+        "Votes": 15349,
+        "Percent": 15.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "ABOU-ZEID, Daniel",
+        "Votes": 3233,
+        "Percent": 3.2
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "SORENSEN, Luke",
+        "Votes": 2548,
+        "Percent": 2.5
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "BARKER, Paul",
+        "Votes": 2526,
+        "Percent": 2.5
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "WATKINS, Meg",
+        "Votes": 1986,
+        "Percent": 2.0
+      },
+      {
+        "Party": "DHJP",
+        "Candidate": "D'ARGENT, Jean-Marie",
+        "Votes": 1421,
+        "Percent": 1.4
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "JUHASZ, Stephen",
+        "Votes": 868,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "Corio": {
+    "title": "Corio, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MARLES, Hon Richard",
+        "Votes": 40846,
+        "Percent": 42.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PATEL, Manish",
+        "Votes": 23822,
+        "Percent": 24.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NORTHEAST, Simon",
+        "Votes": 14450,
+        "Percent": 14.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MURDOCK, Shane",
+        "Votes": 4781,
+        "Percent": 4.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "JONES, Robert",
+        "Votes": 3788,
+        "Percent": 3.9
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "PAYNE, Max",
+        "Votes": 3383,
+        "Percent": 3.5
+      },
+      {
+        "Party": "SAll",
+        "Candidate": "BULL, Sue",
+        "Votes": 2444,
+        "Percent": 2.5
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "ADAMS, Naomi",
+        "Votes": 2350,
+        "Percent": 2.4
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "TAYLOR, Jessica",
+        "Votes": 1080,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Deakin": {
+    "title": "Deakin, VIC   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SUKKAR, Hon Michael",
+        "Votes": 41626,
+        "Percent": 41.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GREGG, Matt",
+        "Votes": 32844,
+        "Percent": 32.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HUMPHREYS, Rob",
+        "Votes": 13904,
+        "Percent": 13.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "GIDLEY, Bianca",
+        "Votes": 2836,
+        "Percent": 2.8
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "COUGHLAN, Natasha",
+        "Votes": 2306,
+        "Percent": 2.3
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "CARR, Harrison",
+        "Votes": 1843,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "DOLHEGUY, Katherine",
+        "Votes": 1650,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LIU, Qian",
+        "Votes": 1271,
+        "Percent": 1.3
+      },
+      {
+        "Party": "DHJP",
+        "Candidate": "THOMPSON, Judith",
+        "Votes": 1080,
+        "Percent": 1.1
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "BASTIN, Samantha",
+        "Votes": 909,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "Dunkley": {
+    "title": "Dunkley, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MURPHY, Peta",
+        "Votes": 38506,
+        "Percent": 40.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "COOMBES, Sharn",
+        "Votes": 31108,
+        "Percent": 32.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "O'BRIEN, Liam",
+        "Votes": 9898,
+        "Percent": 10.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "IRVINE, Adrian",
+        "Votes": 4846,
+        "Percent": 5.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BERGWERF, Darren",
+        "Votes": 3698,
+        "Percent": 3.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MIDDLEBROOK, Scott",
+        "Votes": 2689,
+        "Percent": 2.8
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "WILLIS, Damian",
+        "Votes": 2398,
+        "Percent": 2.5
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "JOHNSTON, Elizabeth",
+        "Votes": 2013,
+        "Percent": 2.1
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "WOODS, Kathryn",
+        "Votes": 566,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Flinders": {
+    "title": "Flinders, VIC   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCKENZIE, Zoe",
+        "Votes": 43013,
+        "Percent": 43.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SNOWBALL, Surbhi",
+        "Votes": 21487,
+        "Percent": 21.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LANE, Colin",
+        "Votes": 9293,
+        "Percent": 9.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'CONNOR, Despi",
+        "Votes": 7163,
+        "Percent": 7.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RUSSELL, Sarah",
+        "Votes": 5189,
+        "Percent": 5.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "END, Alex Van Der",
+        "Votes": 4472,
+        "Percent": 4.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MARR, Cyndi",
+        "Votes": 3373,
+        "Percent": 3.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "ABRAHAM, Chrysten",
+        "Votes": 2366,
+        "Percent": 2.4
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "ENGELANDER, Pamela",
+        "Votes": 2060,
+        "Percent": 2.1
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "EARL, Jefferson",
+        "Votes": 486,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "Fraser": {
+    "title": "Fraser, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MULINO, Dr Daniel",
+        "Votes": 38732,
+        "Percent": 42.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WOOD, David",
+        "Votes": 22730,
+        "Percent": 24.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MITCHELL-SEARS, Bella",
+        "Votes": 17078,
+        "Percent": 18.6
+      },
+      {
+        "Party": "VS",
+        "Candidate": "ROBERTSON, Catherine",
+        "Votes": 4429,
+        "Percent": 4.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "RAYMOND, Keith",
+        "Votes": 4088,
+        "Percent": 4.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "PYLE, Sabine De",
+        "Votes": 2695,
+        "Percent": 3.0
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "CURSIO, Anthony",
+        "Votes": 2349,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "Gellibrand": {
+    "title": "Gellibrand, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WATTS, Tim",
+        "Votes": 39382,
+        "Percent": 42.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CLARK, Monica",
+        "Votes": 24869,
+        "Percent": 27.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RODOREDA, Suzette",
+        "Votes": 15251,
+        "Percent": 16.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "ISAC, Abraham",
+        "Votes": 5080,
+        "Percent": 5.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "BRADDOCK, Rob",
+        "Votes": 2802,
+        "Percent": 3.0
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "GLASSON, Chloe",
+        "Votes": 2185,
+        "Percent": 3.0
+      },
+      {
+        "Party": "VS",
+        "Candidate": "CHARLES, Andrew",
+        "Votes": 1503,
+        "Percent": 1.6
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "MOORS, Sharynn",
+        "Votes": 1135,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "Gippsland": {
+    "title": "Gippsland, VIC   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "CHESTER, Hon Darren",
+        "Votes": 54635,
+        "Percent": 54.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LANGLEY, Jannette",
+        "Votes": 19404,
+        "Percent": 19.2
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "HANSFORD, Greg",
+        "Votes": 9443,
+        "Percent": 9.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "THORPE, Marjorie",
+        "Votes": 8545,
+        "Percent": 8.5
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "FORSTER, Gregory",
+        "Votes": 4593,
+        "Percent": 4.6
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MCDONALD, Jim",
+        "Votes": 4286,
+        "Percent": 4.3
+      }
+    ]
+  },
+  "Goldstein": {
+    "title": "Goldstein, VIC   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Hon Tim",
+        "Votes": 39607,
+        "Percent": 40.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DANIEL, Zoe",
+        "Votes": 33815,
+        "Percent": 34.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ABBOTT, Martyn",
+        "Votes": 10799,
+        "Percent": 11.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GALLI-MCROSTIE, Alana",
+        "Votes": 7683,
+        "Percent": 7.8
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "SEGAL, David",
+        "Votes": 2072,
+        "Percent": 2.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "REYNOLDS, Catherine",
+        "Votes": 1840,
+        "Percent": 1.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "STARK, Lisa",
+        "Votes": 1239,
+        "Percent": 1.3
+      },
+      {
+        "Party": "DHJP",
+        "Candidate": "SULLIVAN, Ellie",
+        "Votes": 589,
+        "Percent": 0.6
+      },
+      {
+        "Party": "Sust",
+        "Candidate": "HOULT, Brandon",
+        "Votes": 443,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "Gorton": {
+    "title": "Gorton, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, Hon Brendan",
+        "Votes": 38178,
+        "Percent": 41.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FLETCHER, John",
+        "Votes": 25350,
+        "Percent": 27.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MORRIS, Praise",
+        "Votes": 8325,
+        "Percent": 9.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "VIRAG, Michael",
+        "Votes": 7082,
+        "Percent": 7.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "CONNOR, Daniel",
+        "Votes": 6719,
+        "Percent": 7.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LONCAR, Steven",
+        "Votes": 2341,
+        "Percent": 2.5
+      },
+      {
+        "Party": "VS",
+        "Candidate": "GIBSON, Belle",
+        "Votes": 2064,
+        "Percent": 2.2
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "DOBRAN, Tony",
+        "Votes": 1312,
+        "Percent": 1.4
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "LASSIG, Paul",
+        "Votes": 1063,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "Hawke": {
+    "title": "Hawke, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RAE, Sam",
+        "Votes": 32020,
+        "Percent": 36.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HAQUE, Dr Enamul",
+        "Votes": 22960,
+        "Percent": 26.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WHEELOCK, Lynda",
+        "Votes": 7785,
+        "Percent": 8.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BINGHAM, Jarrod",
+        "Votes": 6908,
+        "Percent": 7.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "CUTHBERTSON, Andrew",
+        "Votes": 6131,
+        "Percent": 7.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "SUDUK, Nick",
+        "Votes": 4872,
+        "Percent": 5.6
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "WILLIAMS, Michael",
+        "Votes": 1926,
+        "Percent": 2.2
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "LACEY, Michael",
+        "Votes": 1827,
+        "Percent": 2.1
+      },
+      {
+        "Party": "TNL",
+        "Candidate": "MARTUCCI, Max",
+        "Votes": 1432,
+        "Percent": 1.6
+      },
+      {
+        "Party": "VS",
+        "Candidate": "HYNES, Jack",
+        "Votes": 889,
+        "Percent": 1.0
+      },
+      {
+        "Party": "ACP",
+        "Candidate": "VESSEY, Glenn",
+        "Votes": 434,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "Higgins": {
+    "title": "Higgins, VIC   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ALLEN, Dr Katie",
+        "Votes": 38859,
+        "Percent": 40.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ANANDA-RAJAH, Dr Michelle",
+        "Votes": 27187,
+        "Percent": 28.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SEMMENS, Sonya",
+        "Votes": 21632,
+        "Percent": 22.7
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "FORD, Matthew",
+        "Votes": 2648,
+        "Percent": 2.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SPENCER, Ingram",
+        "Votes": 1917,
+        "Percent": 2.0
+      },
+      {
+        "Party": "Reas",
+        "Candidate": "JOHNSON, Andrew",
+        "Votes": 1458,
+        "Percent": 1.5
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "WALKER, Alicia",
+        "Votes": 1295,
+        "Percent": 1.4
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "MENOUDAKIS, Suzie",
+        "Votes": 515,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "Holt": {
+    "title": "Holt, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FERNANDO, Cassandra",
+        "Votes": 36326,
+        "Percent": 40.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PERERA, Ranj",
+        "Votes": 26274,
+        "Percent": 29.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HANSEN, Gerardine",
+        "Votes": 8592,
+        "Percent": 9.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MATHEW, Sujit",
+        "Votes": 7583,
+        "Percent": 8.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "AMBARD, Sandy",
+        "Votes": 4295,
+        "Percent": 4.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RAGUPATHY, Ravi",
+        "Votes": 2673,
+        "Percent": 3.0
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "NUNEZ-SILVA, Matthew",
+        "Votes": 2423,
+        "Percent": 2.7
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "SALDANHA, Gregory",
+        "Votes": 730,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "Hotham": {
+    "title": "Hotham, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'NEIL, Clare",
+        "Votes": 47135,
+        "Percent": 47.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BEVINAKOPPA, Savitri",
+        "Votes": 25273,
+        "Percent": 25.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WILLOUGHBY, Louisa",
+        "Votes": 12408,
+        "Percent": 12.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "SOK, Edward",
+        "Votes": 6591,
+        "Percent": 6.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "RIDGWAY, Bruce",
+        "Votes": 5869,
+        "Percent": 5.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "TULL, Roger",
+        "Votes": 2926,
+        "Percent": 2.9
+      }
+    ]
+  },
+  "Indi": {
+    "title": "Indi, VIC   2022",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "HAINES, Dr Helen",
+        "Votes": 41319,
+        "Percent": 40.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LYMAN, Ross",
+        "Votes": 30995,
+        "Percent": 30.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DAVID, Nadia",
+        "Votes": 8723,
+        "Percent": 8.6
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "STEVENS, Beth",
+        "Votes": 5366,
+        "Percent": 5.3
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "FISHER, Liz",
+        "Votes": 3854,
+        "Percent": 3.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GILBERT, Benjamin",
+        "Votes": 3626,
+        "Percent": 3.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "WILLIAMS, Stephen",
+        "Votes": 2558,
+        "Percent": 2.5
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "FIDGE, Julian",
+        "Votes": 2300,
+        "Percent": 2.3
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "ALEKSOV, Angel",
+        "Votes": 1749,
+        "Percent": 1.7
+      },
+      {
+        "Party": "DHJP",
+        "Candidate": "O'CONNELL, Lachlan",
+        "Votes": 1074,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Isaacs": {
+    "title": "Isaacs, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DREYFUS, Hon Mark",
+        "Votes": 39228,
+        "Percent": 40.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BEATON, Robbie",
+        "Votes": 31306,
+        "Percent": 31.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BRESKIN, Alex",
+        "Votes": 12621,
+        "Percent": 12.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MCCAMISH, Scott",
+        "Votes": 4855,
+        "Percent": 4.9
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "O'DONNELL, Sarah",
+        "Votes": 4785,
+        "Percent": 4.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "SOKIRANSKY, Boris",
+        "Votes": 3130,
+        "Percent": 3.2
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "LIVINGSTONE, Alix",
+        "Votes": 2259,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "Jagajaga": {
+    "title": "Jagajaga, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THWAITES, Kate",
+        "Votes": 41412,
+        "Percent": 40.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TOMAR, Sahil",
+        "Votes": 29535,
+        "Percent": 29.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CHASE, Liz",
+        "Votes": 16855,
+        "Percent": 16.7
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "TESA, Maya",
+        "Votes": 3760,
+        "Percent": 3.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "ZELINKA, Allison",
+        "Votes": 3493,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MUSTAF, Zahra",
+        "Votes": 3150,
+        "Percent": 3.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "BOOKER, John",
+        "Votes": 2274,
+        "Percent": 2.3
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "PALMARINI, Brendan",
+        "Votes": 764,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "Kooyong": {
+    "title": "Kooyong, VIC   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FRYDENBERG, Hon Josh",
+        "Votes": 43736,
+        "Percent": 42.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RYAN, Dr Monique",
+        "Votes": 41303,
+        "Percent": 40.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LYNCH, Peter",
+        "Votes": 7091,
+        "Percent": 6.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MITCHEM, Piers",
+        "Votes": 6461,
+        "Percent": 6.3
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "THOM, Alexandra",
+        "Votes": 1080,
+        "Percent": 1.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HARDIMAN, Scott",
+        "Votes": 1011,
+        "Percent": 1.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "COYNE, Josh",
+        "Votes": 741,
+        "Percent": 0.7
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "NEHMER, Rachael",
+        "Votes": 500,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ANDERSON, Will",
+        "Votes": 265,
+        "Percent": 0.3
+      },
+      {
+        "Party": "DHJP",
+        "Candidate": "DALE, Michele",
+        "Votes": 177,
+        "Percent": 0.2
+      },
+      {
+        "Party": "AVP",
+        "Candidate": "CONNOLLY, David",
+        "Votes": 152,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "La Trobe": {
+    "title": "La Trobe, VIC   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WOOD, Hon Jason",
+        "Votes": 41786,
+        "Percent": 45.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KUMAR, Abhimanyu",
+        "Votes": 23918,
+        "Percent": 26.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SCHILLING, Michael",
+        "Votes": 9980,
+        "Percent": 10.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MOTT, Merryn",
+        "Votes": 6182,
+        "Percent": 6.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "ERVIN, Hadden",
+        "Votes": 4555,
+        "Percent": 5.0
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "JEGES, Helen",
+        "Votes": 2450,
+        "Percent": 2.7
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "ABELMAN, Michael",
+        "Votes": 1911,
+        "Percent": 2.1
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "SKINNER, Rebecca",
+        "Votes": 890,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "Lalor": {
+    "title": "Lalor, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RYAN, Joanne",
+        "Votes": 39047,
+        "Percent": 44.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GADDIPATI, Ravi",
+        "Votes": 22083,
+        "Percent": 24.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BODDEKE, Jack",
+        "Votes": 9192,
+        "Percent": 10.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "PATERSON, Juanita",
+        "Votes": 6340,
+        "Percent": 7.2
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "INGARFILL, James",
+        "Votes": 3489,
+        "Percent": 3.9
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "BARCATTA, Patrizia",
+        "Votes": 3403,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MOINUDDIN, Aijaz",
+        "Votes": 2535,
+        "Percent": 2.9
+      },
+      {
+        "Party": "VS",
+        "Candidate": "URIBE, Claudio",
+        "Votes": 1482,
+        "Percent": 1.7
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "MALLIAROS, Peter",
+        "Votes": 951,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Mcewen": {
+    "title": "Mcewen, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MITCHELL, Rob",
+        "Votes": 35238,
+        "Percent": 36.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WELCH, Richard",
+        "Votes": 31796,
+        "Percent": 33.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BARKER, Neil",
+        "Votes": 13524,
+        "Percent": 14.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MCRAE, Paul",
+        "Votes": 5474,
+        "Percent": 5.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "BRADBURY, Chris",
+        "Votes": 5387,
+        "Percent": 5.6
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "HERRON, John",
+        "Votes": 2579,
+        "Percent": 2.7
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "NEIL, Christopher",
+        "Votes": 1721,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "Macnamara": {
+    "title": "Macnamara, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BURNS, Josh",
+        "Votes": 29552,
+        "Percent": 31.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HODGINS-MAY, Steph",
+        "Votes": 27587,
+        "Percent": 29.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HARKIN, Colleen",
+        "Votes": 26976,
+        "Percent": 29.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HICKEY, Jane",
+        "Votes": 2062,
+        "Percent": 2.2
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MCCATHIE, Rob",
+        "Votes": 1946,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MYERS, John",
+        "Votes": 1835,
+        "Percent": 2.0
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "SCHULTZ, Ben",
+        "Votes": 1724,
+        "Percent": 1.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "ANNE, Debera",
+        "Votes": 1349,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "Mallee": {
+    "title": "Mallee, VIC   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "WEBSTER, Dr Anne",
+        "Votes": 50187,
+        "Percent": 49.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HART, Carole",
+        "Votes": 17133,
+        "Percent": 16.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BALDWIN, Sophie",
+        "Votes": 10256,
+        "Percent": 10.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "KING, Stuart",
+        "Votes": 9271,
+        "Percent": 9.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "ATKINSON, Vanessa",
+        "Votes": 6901,
+        "Percent": 6.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCCOLL, Sam",
+        "Votes": 5463,
+        "Percent": 5.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HAENEL, Claudia",
+        "Votes": 2196,
+        "Percent": 2.2
+      },
+      {
+        "Party": "ACP",
+        "Candidate": "LAHY, Chris",
+        "Votes": 822,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "Maribyrnong": {
+    "title": "Maribyrnong, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SHORTEN, Hon Bill",
+        "Votes": 39792,
+        "Percent": 42.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "D'SILVA, Mira",
+        "Votes": 25493,
+        "Percent": 27.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PRYOR, Rhonda",
+        "Votes": 15278,
+        "Percent": 16.3
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "SMITH, Cameron",
+        "Votes": 3577,
+        "Percent": 3.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "BESANKO, Darren",
+        "Votes": 3433,
+        "Percent": 3.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "TINDAL, Jodie",
+        "Votes": 2227,
+        "Percent": 2.4
+      },
+      {
+        "Party": "VS",
+        "Candidate": "DADICH, Daniel",
+        "Votes": 1837,
+        "Percent": 2.0
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "HOBART, Mark",
+        "Votes": 1741,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "ANSALONE, Alexander",
+        "Votes": 590,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Melbourne": {
+    "title": "Melbourne, VIC   2022",
+    "rows": [
+      {
+        "Party": "GRN",
+        "Candidate": "BANDT, Dr Adam",
+        "Votes": 47883,
+        "Percent": 49.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PATERSON, Keir",
+        "Votes": 24155,
+        "Percent": 25.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DAMCHES, James",
+        "Votes": 14660,
+        "Percent": 15.2
+      },
+      {
+        "Party": "VS",
+        "Candidate": "BOLGER, Colleen",
+        "Votes": 3156,
+        "Percent": 3.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "BORG, Justin",
+        "Votes": 1709,
+        "Percent": 1.8
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "PEPPARD, Richard",
+        "Votes": 1596,
+        "Percent": 1.7
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "POON, Bruce",
+        "Votes": 1316,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROBSON, Scott",
+        "Votes": 1094,
+        "Percent": 1.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "STRAGAN, Walter",
+        "Votes": 937,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "Menzies": {
+    "title": "Menzies, VIC   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WOLAHAN, Keith",
+        "Votes": 42526,
+        "Percent": 42.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "OAKLEY, Naomi",
+        "Votes": 33635,
+        "Percent": 33.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PHEASANT, Bill",
+        "Votes": 14289,
+        "Percent": 14.2
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "CHEESMAN, Greg",
+        "Votes": 3646,
+        "Percent": 3.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SCAGLIONE, Nathan",
+        "Votes": 3643,
+        "Percent": 3.6
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "HAYES, John",
+        "Votes": 2312,
+        "Percent": 2.3
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "SABHLOK, Sanjeev",
+        "Votes": 968,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "Monash": {
+    "title": "Monash, VIC   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BROADBENT, Russell",
+        "Votes": 36546,
+        "Percent": 37.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'DONNELL, Jessica",
+        "Votes": 24759,
+        "Percent": 25.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LEONARD, Deb",
+        "Votes": 10372,
+        "Percent": 10.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MORGAN, Mat",
+        "Votes": 9533,
+        "Percent": 9.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "HICKEN, Allan",
+        "Votes": 7289,
+        "Percent": 7.5
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MCSHANE, Christine",
+        "Votes": 3991,
+        "Percent": 4.1
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "EDWARDS, Meg",
+        "Votes": 3548,
+        "Percent": 3.7
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "WELSH, David",
+        "Votes": 674,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Nicholls": {
+    "title": "Nicholls, VIC   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "BIRRELL, Sam",
+        "Votes": 24886,
+        "Percent": 26.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PRIESTLY, Rob",
+        "Votes": 24287,
+        "Percent": 25.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROOKS, Steve",
+        "Votes": 17187,
+        "Percent": 18.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LODWICK, Bill",
+        "Votes": 10970,
+        "Percent": 11.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "TYRRELL, Rikkie-Lee",
+        "Votes": 6219,
+        "Percent": 6.5
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "PETERSON, Robert",
+        "Votes": 3821,
+        "Percent": 4.0
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "LAIRD, Tim",
+        "Votes": 3366,
+        "Percent": 3.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CHRISTOE, Ian",
+        "Votes": 3058,
+        "Percent": 3.2
+      },
+      {
+        "Party": "Fus",
+        "Candidate": "OTTO, Andrea",
+        "Votes": 653,
+        "Percent": 0.7
+      },
+      {
+        "Party": "ACP",
+        "Candidate": "DAVY, Jeff",
+        "Votes": 377,
+        "Percent": 0.4
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "TABONE, Eleonor",
+        "Votes": 367,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "Scullin": {
+    "title": "Scullin, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GILES, Andrew",
+        "Votes": 42147,
+        "Percent": 46.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PERERA, Virosh",
+        "Votes": 19780,
+        "Percent": 21.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PATERSON, Patchouli",
+        "Votes": 9953,
+        "Percent": 10.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "ALBARRI, Yassin",
+        "Votes": 7444,
+        "Percent": 8.2
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "BREE, Ursula Van",
+        "Votes": 5907,
+        "Percent": 6.5
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "KOELMEYER, Eric",
+        "Votes": 3422,
+        "Percent": 3.8
+      },
+      {
+        "Party": "VS",
+        "Candidate": "ROWE, Cameron",
+        "Votes": 2469,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "Wannon": {
+    "title": "Wannon, VIC   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TEHAN, Hon Dan",
+        "Votes": 44948,
+        "Percent": 44.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DYSON, Alex",
+        "Votes": 19504,
+        "Percent": 19.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILSON, Gilbert",
+        "Votes": 19303,
+        "Percent": 19.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCALLISTER, Hilary",
+        "Votes": 6444,
+        "Percent": 6.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "KENSEN, Craige",
+        "Votes": 3308,
+        "Percent": 3.3
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "GRAHAM, Ronnie",
+        "Votes": 3275,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GARNER, Graham",
+        "Votes": 2346,
+        "Percent": 2.3
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MEAD, Amanda",
+        "Votes": 1973,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "Wills": {
+    "title": "Wills, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KHALIL, Peter",
+        "Votes": 35449,
+        "Percent": 38.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JEFFORD, Sarah",
+        "Votes": 25793,
+        "Percent": 28.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WRIGHT, Tom",
+        "Votes": 15771,
+        "Percent": 17.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "ZIVKOVIC, Irene",
+        "Votes": 3352,
+        "Percent": 3.7
+      },
+      {
+        "Party": "SAll",
+        "Candidate": "BOLTON, Sue",
+        "Votes": 3096,
+        "Percent": 3.4
+      },
+      {
+        "Party": "VS",
+        "Candidate": "BLACK, Emma",
+        "Votes": 2714,
+        "Percent": 3.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "TINDAL, Jill",
+        "Votes": 2554,
+        "Percent": 2.8
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "HORSFALL, Leah",
+        "Votes": 1680,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "SERGI, Sam",
+        "Votes": 789,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "Blair": {
+    "title": "Blair, QLD   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "NEUMANN, Hon Shayne",
+        "Votes": 36494,
+        "Percent": 35.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BIGGINS, Sam",
+        "Votes": 30122,
+        "Percent": 28.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MUTTON, Danielle",
+        "Votes": 13113,
+        "Percent": 12.6
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "SUDUK, Liz",
+        "Votes": 10419,
+        "Percent": 10.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "CUNNINGHAM, Quinton",
+        "Votes": 6353,
+        "Percent": 6.1
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "JAQUES, Michelle",
+        "Votes": 3080,
+        "Percent": 3.0
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "LOWERY, Angela",
+        "Votes": 2563,
+        "Percent": 2.5
+      },
+      {
+        "Party": "AVP",
+        "Candidate": "PITMAN, Maria",
+        "Votes": 2103,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "Bonner": {
+    "title": "Bonner, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "VASTA, Ross",
+        "Votes": 43191,
+        "Percent": 44.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "YOUNG, Tabatha",
+        "Votes": 28491,
+        "Percent": 29.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LAKEY, Bernard",
+        "Votes": 16144,
+        "Percent": 16.8
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "NEIL, Amanda",
+        "Votes": 5371,
+        "Percent": 5.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "DIKLICH, Serge",
+        "Votes": 3177,
+        "Percent": 3.3
+      }
+    ]
+  },
+  "Bowman": {
+    "title": "Bowman, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PIKE, Henry",
+        "Votes": 43088,
+        "Percent": 42.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DUFF, Donisha",
+        "Votes": 29694,
+        "Percent": 29.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MAZLIN, Ian",
+        "Votes": 13241,
+        "Percent": 13.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "TODD, Walter",
+        "Votes": 7825,
+        "Percent": 7.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "STEVENS, Mary-Jane",
+        "Votes": 6601,
+        "Percent": 6.5
+      },
+      {
+        "Party": "TNL",
+        "Candidate": "JOHNSON, Phil",
+        "Votes": 1243,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "Brisbane": {
+    "title": "Brisbane, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "EVANS, Hon Trevor",
+        "Votes": 41032,
+        "Percent": 37.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JARRETT, Madonna",
+        "Votes": 29652,
+        "Percent": 27.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BATES, Stephen",
+        "Votes": 29641,
+        "Percent": 27.2
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "HOLD, Trevor",
+        "Votes": 2429,
+        "Percent": 2.2
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "KENNEDY, Tiana",
+        "Votes": 2135,
+        "Percent": 2.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "KNUDSON, Justin",
+        "Votes": 2102,
+        "Percent": 1.9
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "BULL, Anthony",
+        "Votes": 1807,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "Capricornia": {
+    "title": "Capricornia, QLD   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "LANDRY, Hon Michelle",
+        "Votes": 35613,
+        "Percent": 39.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROBERTSON, Russell",
+        "Votes": 25330,
+        "Percent": 28.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "STANTON, Kylee",
+        "Votes": 13179,
+        "Percent": 14.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JONES, Mick",
+        "Votes": 5302,
+        "Percent": 5.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HARDING, Nathan",
+        "Votes": 3555,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MURRAY, Ken",
+        "Votes": 3048,
+        "Percent": 3.9
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "WHITTY, Zteven",
+        "Votes": 1747,
+        "Percent": 1.9
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MURPHY, Steve",
+        "Votes": 1392,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "GANFIELD, Paula",
+        "Votes": 1126,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "Dawson": {
+    "title": "Dawson, QLD   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "WILLCOX, Andrew",
+        "Votes": 40109,
+        "Percent": 43.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HAMILTON, Shane",
+        "Votes": 22650,
+        "Percent": 24.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "HALL, Julie",
+        "Votes": 12289,
+        "Percent": 13.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CREEN, Paula",
+        "Votes": 6675,
+        "Percent": 7.2
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "PATERSON, Ciaron",
+        "Votes": 5189,
+        "Percent": 5.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "YOUNG, Christian",
+        "Votes": 3713,
+        "Percent": 4.0
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "JACKSON, Jim",
+        "Votes": 1948,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "Dickson": {
+    "title": "Dickson, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DUTTON, Hon Peter",
+        "Votes": 41657,
+        "Percent": 42.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FRANCE, Ali",
+        "Votes": 31396,
+        "Percent": 31.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BATTEN, Vinnie",
+        "Votes": 12871,
+        "Percent": 13.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "GIBSON, Tamera",
+        "Votes": 5312,
+        "Percent": 5.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "WARD, Alina",
+        "Votes": 2717,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCHBACH, Alan",
+        "Votes": 2222,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PROHASKA, Thor",
+        "Votes": 1618,
+        "Percent": 1.6
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "RUSSELL, Lloyd",
+        "Votes": 1236,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "Fadden": {
+    "title": "Fadden, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ROBERT, Hon Stuart",
+        "Votes": 47190,
+        "Percent": 44.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FABBRO, Letitia Del",
+        "Votes": 23638,
+        "Percent": 22.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SPAIN, Sally",
+        "Votes": 11353,
+        "Percent": 10.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "ROACH, Sandy",
+        "Votes": 9177,
+        "Percent": 8.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "O'BRIEN, Nathan",
+        "Votes": 7014,
+        "Percent": 6.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROOKER, Stewart",
+        "Votes": 4407,
+        "Percent": 4.2
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "FORBES, Alex",
+        "Votes": 2992,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "Fairfax": {
+    "title": "Fairfax, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "O'BRIEN, Ted",
+        "Votes": 46551,
+        "Percent": 44.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FERGUSON, Sue",
+        "Votes": 22662,
+        "Percent": 21.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ETHERIDGE, Sue",
+        "Votes": 13862,
+        "Percent": 13.4
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "CIVITARESE, Nikki",
+        "Votes": 6798,
+        "Percent": 6.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "KHOURY, Lisa",
+        "Votes": 6132,
+        "Percent": 5.9
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "POOLE, Tash",
+        "Votes": 2182,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "HAZELTON, Wendy",
+        "Votes": 1997,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Barry",
+        "Votes": 1423,
+        "Percent": 1.4
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "WHITE, Craig",
+        "Votes": 1319,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "AUSTRALIE, Sinim",
+        "Votes": 733,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Fisher": {
+    "title": "Fisher, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WALLACE, Hon Andrew",
+        "Votes": 48013,
+        "Percent": 44.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ANDREWS, Judene",
+        "Votes": 25313,
+        "Percent": 23.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WELLS, Renay",
+        "Votes": 14981,
+        "Percent": 13.8
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "SCHRIEVER, Sam",
+        "Votes": 10102,
+        "Percent": 9.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MOORE, Tony",
+        "Votes": 7355,
+        "Percent": 6.8
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "BRECKENRIDGE, Vickie",
+        "Votes": 2730,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "Flynn": {
+    "title": "Flynn, QLD   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "BOYCE, Colin",
+        "Votes": 34046,
+        "Percent": 36.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BURNETT, Matt",
+        "Votes": 30948,
+        "Percent": 33.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "LOHSE, Sharon",
+        "Votes": 11287,
+        "Percent": 12.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "WIEDEN, Tanya",
+        "Votes": 6266,
+        "Percent": 6.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BAMBRICK, Paul",
+        "Votes": 4007,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCOTT, Duncan",
+        "Votes": 3745,
+        "Percent": 4.1
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "SVENDSEN, Carla",
+        "Votes": 2012,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "Forde": {
+    "title": "Forde, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MANEN, Bert Van",
+        "Votes": 34920,
+        "Percent": 36.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HOLZBERGER, Rowan",
+        "Votes": 26497,
+        "Percent": 28.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HALL, Jordan",
+        "Votes": 9319,
+        "Percent": 9.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MATTERSON, Seschelle",
+        "Votes": 7578,
+        "Percent": 8.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "O'HALLORAN, Roxanne",
+        "Votes": 7485,
+        "Percent": 7.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GREAVES, Christopher",
+        "Votes": 2973,
+        "Percent": 3.1
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "SUTHERLAND, Tobby",
+        "Votes": 2668,
+        "Percent": 2.8
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "MCCARTHY, Linda",
+        "Votes": 2444,
+        "Percent": 2.6
+      },
+      {
+        "Party": "TNL",
+        "Candidate": "HOLLAND, Samuel",
+        "Votes": 728,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "Griffith": {
+    "title": "Griffith, QLD   2022",
+    "rows": [
+      {
+        "Party": "GRN",
+        "Candidate": "CHANDLER-MATHER, Max",
+        "Votes": 36771,
+        "Percent": 34.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ROBERTS, Olivia",
+        "Votes": 32685,
+        "Percent": 30.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BUTLER, Terri",
+        "Votes": 30769,
+        "Percent": 28.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "WARE, Shari",
+        "Votes": 3504,
+        "Percent": 3.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MCMULLAN, Robert",
+        "Votes": 2581,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "Groom": {
+    "title": "Groom, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAMILTON, Garth",
+        "Votes": 41971,
+        "Percent": 43.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ALLPASS, Gen",
+        "Votes": 17985,
+        "Percent": 18.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "ABRAHAM, Grant",
+        "Votes": 9181,
+        "Percent": 9.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOLT, Suzie",
+        "Votes": 7932,
+        "Percent": 8.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMOLENSKI, Kirstie",
+        "Votes": 6858,
+        "Percent": 7.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BERRY, Mickey",
+        "Votes": 5616,
+        "Percent": 5.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "BANNISTER, Melissa",
+        "Votes": 4922,
+        "Percent": 5.1
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "OTTO, Ryan",
+        "Votes": 1539,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "Herbert": {
+    "title": "Herbert, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "THOMPSON, Phillip",
+        "Votes": 43453,
+        "Percent": 47.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "RING, John",
+        "Votes": 19971,
+        "Percent": 21.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HUMPHREYS, Scott",
+        "Votes": 7596,
+        "Percent": 8.2
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "HAWKS, Clynton",
+        "Votes": 6472,
+        "Percent": 7.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "PEPE, Diane",
+        "Votes": 4874,
+        "Percent": 5.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EGAN, Angela",
+        "Votes": 2983,
+        "Percent": 3.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "DOWLING, Greg",
+        "Votes": 2383,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "MCMAHON, Toni",
+        "Votes": 1658,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "MCCORMACK, Toni",
+        "Votes": 1359,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLARE, Steven",
+        "Votes": 942,
+        "Percent": 1.0
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "BALLARD, Larna",
+        "Votes": 749,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "Hinkler": {
+    "title": "Hinkler, QLD   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "PITT, Hon Keith",
+        "Votes": 42720,
+        "Percent": 42.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SCANES, Jason",
+        "Votes": 23634,
+        "Percent": 23.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DEMPSEY, Jack",
+        "Votes": 13236,
+        "Percent": 13.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MENHENNETT, Zak",
+        "Votes": 8837,
+        "Percent": 8.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "NASH, Kristie",
+        "Votes": 7417,
+        "Percent": 7.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCLEAN, Andrew",
+        "Votes": 5562,
+        "Percent": 5.5
+      }
+    ]
+  },
+  "Kennedy": {
+    "title": "Kennedy, QLD   2022",
+    "rows": [
+      {
+        "Party": "KAP",
+        "Candidate": "KATTER, Hon Bob",
+        "Votes": 39036,
+        "Percent": 41.7
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "MACDONALD, Bryce",
+        "Votes": 26387,
+        "Percent": 28.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRANDON, Jason",
+        "Votes": 15033,
+        "Percent": 16.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COX, Jennifer",
+        "Votes": 6013,
+        "Percent": 6.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "CAMPION, Peter",
+        "Votes": 4154,
+        "Percent": 4.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SACKLEY, Jen",
+        "Votes": 2981,
+        "Percent": 3.2
+      }
+    ]
+  },
+  "Leichhardt": {
+    "title": "Leichhardt, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ENTSCH, Hon Warren",
+        "Votes": 33652,
+        "Percent": 36.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FAITH, Elida",
+        "Votes": 25312,
+        "Percent": 27.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MUSUMECI, Phillip",
+        "Votes": 9143,
+        "Percent": 10.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "COURT, Geena",
+        "Votes": 6822,
+        "Percent": 7.4
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "JENSEN, Rod",
+        "Votes": 5166,
+        "Percent": 5.6
+      },
+      {
+        "Party": "SAll",
+        "Candidate": "O'SHANE, Pat",
+        "Votes": 3729,
+        "Percent": 4.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HANNAGAN, Daniel",
+        "Votes": 3593,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "MOGOROVICH, Silvia",
+        "Votes": 1641,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "BAYLY, Susanne",
+        "Votes": 1253,
+        "Percent": 1.4
+      },
+      {
+        "Party": "Fus",
+        "Candidate": "CROPP, Adam",
+        "Votes": 930,
+        "Percent": 1.0
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "ROE, Paul",
+        "Votes": 466,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "Lilley": {
+    "title": "Lilley, QLD   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WELLS, Anika",
+        "Votes": 41424,
+        "Percent": 41.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LOBO, Vivian",
+        "Votes": 29530,
+        "Percent": 29.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "STEVENS, Melissa",
+        "Votes": 16916,
+        "Percent": 17.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "WILDE, Michelle",
+        "Votes": 4027,
+        "Percent": 4.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HOOGLAND, Gerardine",
+        "Votes": 3320,
+        "Percent": 3.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "FRESHWATER, Daniel",
+        "Votes": 2412,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "MCGRATH, Stephen",
+        "Votes": 1378,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "Longman": {
+    "title": "Longman, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "YOUNG, Terry",
+        "Votes": 41253,
+        "Percent": 38.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FANNING, Rebecca",
+        "Votes": 34036,
+        "Percent": 31.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "TAYLOR, Ross",
+        "Votes": 8917,
+        "Percent": 8.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SNIJDERS, Earl",
+        "Votes": 7814,
+        "Percent": 7.2
+      },
+      {
+        "Party": "LCA",
+        "Candidate": "QUINLAN, Nigel",
+        "Votes": 6025,
+        "Percent": 5.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SUTHERLAND, Stefanie",
+        "Votes": 5949,
+        "Percent": 5.5
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "GILBARD, Paula",
+        "Votes": 2060,
+        "Percent": 1.9
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "LIPPONER, Jens",
+        "Votes": 2011,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "Mcpherson": {
+    "title": "Mcpherson, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ANDREWS, Hon Karen",
+        "Votes": 42288,
+        "Percent": 43.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "UNGERER, Dr Carl",
+        "Votes": 21354,
+        "Percent": 22.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TURNER, Scott",
+        "Votes": 14971,
+        "Percent": 15.4
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "HARGRAVES, Kevin",
+        "Votes": 7013,
+        "Percent": 7.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "BERRIGAN, Joshua",
+        "Votes": 6490,
+        "Percent": 6.7
+      },
+      {
+        "Party": "AVP",
+        "Candidate": "CULLEN, Andy",
+        "Votes": 2310,
+        "Percent": 2.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "PYNE, Glenn",
+        "Votes": 2063,
+        "Percent": 2.1
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "PEAD, Gary",
+        "Votes": 594,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Maranoa": {
+    "title": "Maranoa, QLD   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "LITTLEPROUD, Hon David",
+        "Votes": 52382,
+        "Percent": 56.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KERRIGAN, Dave",
+        "Votes": 14236,
+        "Percent": 15.3
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "KELLY, Mike",
+        "Votes": 11070,
+        "Percent": 11.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MCDONALD, Nathan",
+        "Votes": 6202,
+        "Percent": 6.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PARKER, Ellisa",
+        "Votes": 4533,
+        "Percent": 4.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SF&F, Malcolm Richardson",
+        "Votes": 3695,
+        "Percent": 4.0
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "TUNBRIDGE, Brett",
+        "Votes": 997,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Moncrieff": {
+    "title": "Moncrieff, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BELL, Angie",
+        "Votes": 45104,
+        "Percent": 45.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PALMER, Glen",
+        "Votes": 20430,
+        "Percent": 20.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BROADBENT, April",
+        "Votes": 11850,
+        "Percent": 12.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "SCHULTZ, Leeanne",
+        "Votes": 6981,
+        "Percent": 7.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HAPP, Diane",
+        "Votes": 5482,
+        "Percent": 5.6
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "DEMETRE, Diane",
+        "Votes": 4305,
+        "Percent": 4.4
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "BERRY-LAW, Sonia",
+        "Votes": 2384,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "CUDMORE, Timothy",
+        "Votes": 997,
+        "Percent": 1.0
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "TAYLER, James",
+        "Votes": 645,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Moreton": {
+    "title": "Moreton, QLD   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PERRETT, Graham",
+        "Votes": 34633,
+        "Percent": 37.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HUANG, Steven",
+        "Votes": 30777,
+        "Percent": 33.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GARTON, Claire",
+        "Votes": 19250,
+        "Percent": 20.8
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "SWANN, Neil",
+        "Votes": 3364,
+        "Percent": 3.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "FOLLETT, Chelsea",
+        "Votes": 3064,
+        "Percent": 3.3
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "POWER, Peter",
+        "Votes": 1468,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "Oxley": {
+    "title": "Oxley, QLD   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DICK, Milton",
+        "Votes": 43785,
+        "Percent": 45.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCMILLEN, Kyle",
+        "Votes": 27395,
+        "Percent": 28.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WORSTELING, Asha",
+        "Votes": 13595,
+        "Percent": 14.3
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "KOZLOWSKI, Dylan",
+        "Votes": 5568,
+        "Percent": 5.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "COOMBES, Timothy",
+        "Votes": 5079,
+        "Percent": 5.3
+      }
+    ]
+  },
+  "Petrie": {
+    "title": "Petrie, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOWARTH, Hon Luke",
+        "Votes": 46325,
+        "Percent": 43.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DENTON, Mick",
+        "Votes": 31972,
+        "Percent": 30.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SIMON, Will",
+        "Votes": 12169,
+        "Percent": 11.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "GUENOUN, Kelly",
+        "Votes": 5914,
+        "Percent": 5.6
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MITCHELL, Marcus",
+        "Votes": 5613,
+        "Percent": 5.3
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "CICCHITTI, Chris",
+        "Votes": 2331,
+        "Percent": 2.2
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "WILSON, Anneke",
+        "Votes": 2189,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "Rankin": {
+    "title": "Rankin, QLD   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHALMERS, Dr Jim",
+        "Votes": 38596,
+        "Percent": 44.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DARWEN, Paul",
+        "Votes": 25478,
+        "Percent": 29.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COTTER, Neil",
+        "Votes": 9394,
+        "Percent": 10.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "COOKSON, Glen",
+        "Votes": 7006,
+        "Percent": 8.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "CRANK, Jeff",
+        "Votes": 5064,
+        "Percent": 5.8
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "CLARKE, Suzanne",
+        "Votes": 2284,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "Ryan": {
+    "title": "Ryan, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SIMMONDS, Julian",
+        "Votes": 38239,
+        "Percent": 38.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WATSON-BROWN, Elizabeth",
+        "Votes": 30003,
+        "Percent": 30.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COSSAR, Peter",
+        "Votes": 22146,
+        "Percent": 22.3
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "COORY, Damian",
+        "Votes": 2582,
+        "Percent": 2.6
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "LOVE, Joel",
+        "Votes": 2237,
+        "Percent": 2.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "POLLARD, Kathryn",
+        "Votes": 2062,
+        "Percent": 2.1
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "LIPMAN, Jina",
+        "Votes": 1088,
+        "Percent": 1.1
+      },
+      {
+        "Party": "Prog",
+        "Candidate": "REES, Janine",
+        "Votes": 606,
+        "Percent": 0.6
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "DANCOISNE, Axel",
+        "Votes": 353,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "Wide Bay": {
+    "title": "Wide Bay, QLD   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "O'BRIEN, Llew",
+        "Votes": 41601,
+        "Percent": 43.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIAMS, Geoff",
+        "Votes": 20345,
+        "Percent": 21.3
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "BUCKLEY, Nathan",
+        "Votes": 9765,
+        "Percent": 10.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ARMSTRONG, Craig",
+        "Votes": 9088,
+        "Percent": 9.5
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "BENNETT, Tracy",
+        "Votes": 4406,
+        "Percent": 4.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JACOBI, Kelli",
+        "Votes": 4106,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JEROME, Tim",
+        "Votes": 2737,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "NEWLAND, Andrea",
+        "Votes": 2097,
+        "Percent": 2.2
+      },
+      {
+        "Party": "AVP",
+        "Candidate": "WILLIAMS, Daniel",
+        "Votes": 1057,
+        "Percent": 1.1
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "WOODWARD, John",
+        "Votes": 501,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "Wright": {
+    "title": "Wright, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BUCHHOLZ, Hon Scott",
+        "Votes": 45753,
+        "Percent": 43.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCCREADIE, Pam",
+        "Votes": 22643,
+        "Percent": 21.4
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "HICKS, Keith",
+        "Votes": 15095,
+        "Percent": 14.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "THOMPSON, Nicole",
+        "Votes": 12107,
+        "Percent": 11.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "DUFFILL, Cassandra",
+        "Votes": 8703,
+        "Percent": 8.2
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "BANASIAK, Shonna-Lee",
+        "Votes": 1632,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "Adelaide": {
+    "title": "Adelaide, SA   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GEORGANAS, Steve",
+        "Votes": 45086,
+        "Percent": 40.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GRANTHAM, Amy",
+        "Votes": 36080,
+        "Percent": 32.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GALDIES, Rebecca",
+        "Votes": 22666,
+        "Percent": 20.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "ALLWOOD, Gayle",
+        "Votes": 3376,
+        "Percent": 3.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "ALLWOOD, Sean",
+        "Votes": 3055,
+        "Percent": 2.7
+      },
+      {
+        "Party": "Fus",
+        "Candidate": "MCMILLAN, Matthew",
+        "Votes": 1631,
+        "Percent": 1.5
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "GERHARD, Faith",
+        "Votes": 870,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "Barker": {
+    "title": "Barker, SA   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PASIN, Tony",
+        "Votes": 56328,
+        "Percent": 53.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRAES, Mark",
+        "Votes": 22050,
+        "Percent": 20.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HILLAM, Rosa",
+        "Votes": 7853,
+        "Percent": 7.4
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "QUAREMBA, Carlos",
+        "Votes": 6958,
+        "Percent": 6.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SWIGGS, David",
+        "Votes": 4221,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FRY, Maddy",
+        "Votes": 3192,
+        "Percent": 3.0
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "PIETZSCH, Jonathan",
+        "Votes": 2530,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PANNELL, Vince",
+        "Votes": 1915,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "HANTON, Kym",
+        "Votes": 760,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Boothby": {
+    "title": "Boothby, SA   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SWIFT, Dr Rachel",
+        "Votes": 43196,
+        "Percent": 38.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MILLER-FROST, Louise",
+        "Votes": 36746,
+        "Percent": 32.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CARTER, Jeremy",
+        "Votes": 17285,
+        "Percent": 15.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DYER, Jo",
+        "Votes": 7441,
+        "Percent": 6.5
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "CLARK, Graeme",
+        "Votes": 2520,
+        "Percent": 2.2
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "COUCH, Bob",
+        "Votes": 2320,
+        "Percent": 2.0
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "BRAY, Frankie",
+        "Votes": 1358,
+        "Percent": 1.2
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "NIKOLIC, Aleksandra",
+        "Votes": 1250,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUSUTTIL, Paul",
+        "Votes": 1048,
+        "Percent": 0.9
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "HARRIS, Peter",
+        "Votes": 543,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "Grey": {
+    "title": "Grey, SA   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RAMSEY, Rowan",
+        "Votes": 46730,
+        "Percent": 45.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WATSON, Julie",
+        "Votes": 22068,
+        "Percent": 21.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HABERMANN, Liz",
+        "Votes": 11613,
+        "Percent": 11.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WHITE, Tim",
+        "Votes": 6994,
+        "Percent": 6.8
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "WHITE, Kerry Ann",
+        "Votes": 6542,
+        "Percent": 6.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "WATERS, Suzanne",
+        "Votes": 5781,
+        "Percent": 5.6
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MILLER, Peter",
+        "Votes": 1427,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CARMODY, Richard",
+        "Votes": 1332,
+        "Percent": 1.3
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "DEMPSEY, Tracey",
+        "Votes": 721,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Hindmarsh": {
+    "title": "Hindmarsh, SA   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BUTLER, Hon Mark",
+        "Votes": 46547,
+        "Percent": 42.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FINIZIO, Anna",
+        "Votes": 36072,
+        "Percent": 32.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "O'SULLIVAN, Patrick",
+        "Votes": 15310,
+        "Percent": 13.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "JOHNSON, Walter",
+        "Votes": 4341,
+        "Percent": 3.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MELISSOURGOS, George",
+        "Votes": 3896,
+        "Percent": 3.5
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "PASTRO, Matt",
+        "Votes": 2340,
+        "Percent": 2.1
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "WITT, Jamie",
+        "Votes": 1184,
+        "Percent": 1.1
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "RICHARDS, Dianne",
+        "Votes": 653,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Kingston": {
+    "title": "Kingston, SA   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RISHWORTH, Hon Amanda",
+        "Votes": 53810,
+        "Percent": 49.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BOURNE, Kathleen",
+        "Votes": 28273,
+        "Percent": 25.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PHOTAKIS, John",
+        "Votes": 13603,
+        "Percent": 12.4
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "GODFREY-BROWN, Robert",
+        "Votes": 5313,
+        "Percent": 4.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "JACKSON, Russell",
+        "Votes": 4321,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JONGE, Rob De",
+        "Votes": 2963,
+        "Percent": 2.7
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "ENRIGHT, Sam",
+        "Votes": 1079,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "Makin": {
+    "title": "Makin, SA   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ZAPPIA, Tony",
+        "Votes": 49843,
+        "Percent": 46.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HOWARD-JONES, Alan",
+        "Votes": 33840,
+        "Percent": 31.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MUSTACA, Emma",
+        "Votes": 12317,
+        "Percent": 11.4
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "VAID, Rajan",
+        "Votes": 5097,
+        "Percent": 4.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "DROZDOFF, Kimberley",
+        "Votes": 4639,
+        "Percent": 4.3
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "LAZOOTIN, Abram",
+        "Votes": 1907,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "Mayo": {
+    "title": "Mayo, SA   2022",
+    "rows": [
+      {
+        "Party": "CA",
+        "Candidate": "SHARKIE, Rebekha",
+        "Votes": 36500,
+        "Percent": 31.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BLUCK, Allison",
+        "Votes": 31411,
+        "Percent": 27.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BELL, Marisa",
+        "Votes": 21051,
+        "Percent": 18.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ELLIOTT, Greg",
+        "Votes": 13705,
+        "Percent": 11.8
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "SCOTT, Tonya",
+        "Votes": 4775,
+        "Percent": 4.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MCGRAIL, Samantha",
+        "Votes": 4089,
+        "Percent": 3.5
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "CHAPLIN, Padma",
+        "Votes": 1929,
+        "Percent": 1.7
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "RAALTE, Jacob Van",
+        "Votes": 1424,
+        "Percent": 1.2
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "NEUGEBAUER, Mark",
+        "Votes": 1330,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Spence": {
+    "title": "Spence, SA   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BURNELL, Matt",
+        "Votes": 46596,
+        "Percent": 43.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LOCK, Shawn",
+        "Votes": 27153,
+        "Percent": 25.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DEEX, David",
+        "Votes": 12052,
+        "Percent": 11.4
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "CHAMPION, Linda",
+        "Votes": 11532,
+        "Percent": 10.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "WARREN, Alvin",
+        "Votes": 7158,
+        "Percent": 6.7
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "BAWDEN, Matilda",
+        "Votes": 1736,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "Sturt": {
+    "title": "Sturt, SA   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "STEVENS, James",
+        "Votes": 48579,
+        "Percent": 43.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BARAM, Sonja",
+        "Votes": 34528,
+        "Percent": 30.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCCUSKER, Katie",
+        "Votes": 18454,
+        "Percent": 16.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "GRANT, Stephen",
+        "Votes": 3008,
+        "Percent": 2.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "ALLWOOD, Alexander",
+        "Votes": 2893,
+        "Percent": 2.6
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "SHERLOCK, David",
+        "Votes": 1531,
+        "Percent": 1.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MCMAHON, Thomas",
+        "Votes": 1147,
+        "Percent": 1.0
+      },
+      {
+        "Party": "DPDA",
+        "Candidate": "ELHAM, Inty",
+        "Votes": 1007,
+        "Percent": 0.9
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "SCARBOROUGH, Kathy",
+        "Votes": 755,
+        "Percent": 0.7
+      },
+      {
+        "Party": "Prog",
+        "Candidate": "FULCO, Angela",
+        "Votes": 457,
+        "Percent": 0.4
+      },
+      {
+        "Party": "TNL",
+        "Candidate": "SCHMIDT, Chris",
+        "Votes": 251,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "Brand": {
+    "title": "Brand, WA   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KING, Madeleine",
+        "Votes": 48031,
+        "Percent": 50.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HUDSON, Peter",
+        "Votes": 21056,
+        "Percent": 22.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LONSDALE, Heather",
+        "Votes": 10900,
+        "Percent": 11.4
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "TAYLOR, Jake",
+        "Votes": 5139,
+        "Percent": 5.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "PIKE, David",
+        "Votes": 2711,
+        "Percent": 2.8
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "O'LOGHLEN, Michael",
+        "Votes": 2592,
+        "Percent": 2.7
+      },
+      {
+        "Party": "AC",
+        "Candidate": "CRICHTON, Jayne",
+        "Votes": 2090,
+        "Percent": 2.2
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "GLEESON, Andrew",
+        "Votes": 1490,
+        "Percent": 1.6
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MARSHALL, Alison",
+        "Votes": 1074,
+        "Percent": 1.1
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "HEFFERNAN, Malcolm",
+        "Votes": 598,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Burt": {
+    "title": "Burt, WA   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEOGH, Matt",
+        "Votes": 47268,
+        "Percent": 51.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GOODE, David",
+        "Votes": 21009,
+        "Percent": 23.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GARLETT, Daniel",
+        "Votes": 9004,
+        "Percent": 9.8
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "CARTER, Travis",
+        "Votes": 4436,
+        "Percent": 4.9
+      },
+      {
+        "Party": "AC",
+        "Candidate": "SPYKER, Warnar",
+        "Votes": 3428,
+        "Percent": 3.7
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "PHELAN, Stephen",
+        "Votes": 2390,
+        "Percent": 2.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MCCURRY, Joshua",
+        "Votes": 2274,
+        "Percent": 2.5
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "CASTLE, Michele",
+        "Votes": 1741,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "Canning": {
+    "title": "Canning, WA   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HASTIE, Hon Andrew",
+        "Votes": 41294,
+        "Percent": 43.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HUNT, Amanda",
+        "Votes": 30897,
+        "Percent": 32.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MOFFAT, Jodie",
+        "Votes": 7659,
+        "Percent": 8.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "SIWES, Tammi",
+        "Votes": 4215,
+        "Percent": 4.5
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "WALDECK, James",
+        "Votes": 2438,
+        "Percent": 2.6
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "BEDFORD, Brad",
+        "Votes": 2202,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILLIAMS, Ashley",
+        "Votes": 1708,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AC",
+        "Candidate": "PLESSIS, Andriette Du",
+        "Votes": 1689,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "CONGRENE, Judith",
+        "Votes": 785,
+        "Percent": 0.8
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "GARDINER, David",
+        "Votes": 749,
+        "Percent": 0.8
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "GARDYNE, Anthony",
+        "Votes": 628,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Cowan": {
+    "title": "Cowan, WA   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ALY, Dr Anne",
+        "Votes": 46712,
+        "Percent": 46.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CONNELLY, Vince",
+        "Votes": 30328,
+        "Percent": 30.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TRIPP, Isabella",
+        "Votes": 9829,
+        "Percent": 9.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "WALSH, Tyler",
+        "Votes": 2839,
+        "Percent": 2.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HAND, Claire",
+        "Votes": 2423,
+        "Percent": 2.4
+      },
+      {
+        "Party": "AC",
+        "Candidate": "IRADUKUNDA, Sylvia",
+        "Votes": 1859,
+        "Percent": 1.9
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "ANAGNO, Michael",
+        "Votes": 1775,
+        "Percent": 1.8
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "LAVERACK, Roland",
+        "Votes": 1714,
+        "Percent": 1.7
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "CALAUTTI, Michael",
+        "Votes": 1125,
+        "Percent": 1.1
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "KRIEKEN, Micah Van",
+        "Votes": 1080,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Curtin": {
+    "title": "Curtin, WA   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAMMOND, Celia",
+        "Votes": 43408,
+        "Percent": 41.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHANEY, Kate",
+        "Votes": 30942,
+        "Percent": 29.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SPENCER, Yannick",
+        "Votes": 14654,
+        "Percent": 14.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PIDGEON, Cameron",
+        "Votes": 10889,
+        "Percent": 10.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "VERHOEFF, Ladeisha",
+        "Votes": 1828,
+        "Percent": 1.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "GRILLO, Dale",
+        "Votes": 1310,
+        "Percent": 1.3
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "BURN, Bill",
+        "Votes": 1243,
+        "Percent": 1.2
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "CULLITY, Judith",
+        "Votes": 763,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Durack": {
+    "title": "Durack, WA   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PRICE, Hon Melissa",
+        "Votes": 30736,
+        "Percent": 34.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "RILEY, Jeremiah",
+        "Votes": 26093,
+        "Percent": 29.2
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "BLAYNEY, Ian",
+        "Votes": 9160,
+        "Percent": 6.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCNEAIR, Bianca",
+        "Votes": 8457,
+        "Percent": 9.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "JOHANNSEN, Brenton",
+        "Votes": 6174,
+        "Percent": 6.9
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "MCRAE, Adrian",
+        "Votes": 2738,
+        "Percent": 3.1
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "FELS, Anthony",
+        "Votes": 2483,
+        "Percent": 2.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MIDDLETON, Andrew",
+        "Votes": 2229,
+        "Percent": 2.5
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "SHORE, Craig",
+        "Votes": 1453,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "Forrest": {
+    "title": "Forrest, WA   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MARINO, Hon Nola",
+        "Votes": 41006,
+        "Percent": 43.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ENGLISH, Bronwen",
+        "Votes": 26092,
+        "Percent": 27.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TERRANTROY, Christine",
+        "Votes": 12780,
+        "Percent": 13.4
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MEZGER, Shane",
+        "Votes": 5020,
+        "Percent": 5.3
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "AITKEN, Tracy",
+        "Votes": 2907,
+        "Percent": 3.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "ALLAN, Helen",
+        "Votes": 2426,
+        "Percent": 2.6
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "STEPHENS, Greg",
+        "Votes": 2130,
+        "Percent": 2.2
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MARKHAM, Paul",
+        "Votes": 1577,
+        "Percent": 1.7
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "DUNN, Mailee",
+        "Votes": 1152,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "Fremantle": {
+    "title": "Fremantle, WA   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WILSON, Josh",
+        "Votes": 43111,
+        "Percent": 44.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KOUL, Bill",
+        "Votes": 23749,
+        "Percent": 24.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TOWNSEND, Felicity",
+        "Votes": 17790,
+        "Percent": 18.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "EDGAR, William",
+        "Votes": 3060,
+        "Percent": 3.1
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "TILBURY, Ben",
+        "Votes": 2293,
+        "Percent": 2.3
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "KNAPP, Janetia",
+        "Votes": 2248,
+        "Percent": 2.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "JINMAN, Stella",
+        "Votes": 2000,
+        "Percent": 2.0
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "GAVRANICH, Cathy",
+        "Votes": 1367,
+        "Percent": 1.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "LOH, Yan",
+        "Votes": 1251,
+        "Percent": 1.3
+      },
+      {
+        "Party": "SAll",
+        "Candidate": "WAINWRIGHT, Sam",
+        "Votes": 1184,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "Hasluck": {
+    "title": "Hasluck, WA   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LAWRENCE, Tania",
+        "Votes": 39144,
+        "Percent": 39.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WYATT, Hon Ken",
+        "Votes": 32889,
+        "Percent": 33.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "STURCKE, Brendan",
+        "Votes": 10826,
+        "Percent": 11.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MONCK, Ian",
+        "Votes": 3783,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILLIAMS, Jeanene",
+        "Votes": 3318,
+        "Percent": 3.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SCOTT, Will",
+        "Votes": 2973,
+        "Percent": 3.0
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "CLARK, Pauline",
+        "Votes": 2561,
+        "Percent": 2.6
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "SMITH, Marijanna",
+        "Votes": 1739,
+        "Percent": 1.8
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MCCREANOR, Steven",
+        "Votes": 1280,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "Moore": {
+    "title": "Moore, WA   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GOODENOUGH, Ian",
+        "Votes": 43706,
+        "Percent": 41.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FRENCH, Tom",
+        "Votes": 34227,
+        "Percent": 32.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COOPER, Mark",
+        "Votes": 14902,
+        "Percent": 14.3
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "BRIGHTMAN, Brian",
+        "Votes": 3541,
+        "Percent": 3.4
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "GUNNESS, Peter",
+        "Votes": 3095,
+        "Percent": 3.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "WATKINSON, Helen",
+        "Votes": 2342,
+        "Percent": 2.2
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "ANDERSSON, Sue",
+        "Votes": 1926,
+        "Percent": 1.9
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "SUTER, Martin",
+        "Votes": 792,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "O'connor": {
+    "title": "O'connor, WA   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Rick",
+        "Votes": 43295,
+        "Percent": 44.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WELDON, Shaneane",
+        "Votes": 25754,
+        "Percent": 26.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WATSON, Giz",
+        "Votes": 10284,
+        "Percent": 10.6
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "KUSTRIN, Stan",
+        "Votes": 6833,
+        "Percent": 7.1
+      },
+      {
+        "Party": "AC",
+        "Candidate": "MOSELEY, Justin",
+        "Votes": 2779,
+        "Percent": 2.9
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "BESSANT, Morris",
+        "Votes": 2366,
+        "Percent": 2.5
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "BARBER, Brenden",
+        "Votes": 2337,
+        "Percent": 2.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "TIRRONEN, Tracy",
+        "Votes": 1722,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "MIDDLE, Isaac",
+        "Votes": 1348,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "Pearce": {
+    "title": "Pearce, WA   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ROBERTS, Tracey",
+        "Votes": 40596,
+        "Percent": 42.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "AITKEN, Linda",
+        "Votes": 28380,
+        "Percent": 29.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NELSON, Donna",
+        "Votes": 10416,
+        "Percent": 11.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MALLOY, Aaron",
+        "Votes": 4295,
+        "Percent": 4.5
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "DALBY, Trevor",
+        "Votes": 2534,
+        "Percent": 2.7
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "PAICE, Jim",
+        "Votes": 2206,
+        "Percent": 2.3
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "STEWART, Roslyn",
+        "Votes": 2160,
+        "Percent": 2.3
+      },
+      {
+        "Party": "AC",
+        "Candidate": "MONTGOMERY, Vanessa",
+        "Votes": 2097,
+        "Percent": 2.2
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MARSHALL, David",
+        "Votes": 1548,
+        "Percent": 1.6
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "MARCH, Nigel",
+        "Votes": 684,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Perth": {
+    "title": "Perth, WA   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GORMAN, Patrick",
+        "Votes": 40066,
+        "Percent": 39.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DWYER, David",
+        "Votes": 27294,
+        "Percent": 26.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PERKS, Caroline",
+        "Votes": 22621,
+        "Percent": 22.2
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "BAILEY, Cameron",
+        "Votes": 2749,
+        "Percent": 2.7
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "VOS, Dave",
+        "Votes": 1878,
+        "Percent": 1.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "EBERHART, Sonya",
+        "Votes": 1605,
+        "Percent": 1.6
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "SZMEKURA-MOOR, Sarah",
+        "Votes": 1535,
+        "Percent": 1.5
+      },
+      {
+        "Party": "AC",
+        "Candidate": "POWELL, Dean",
+        "Votes": 1514,
+        "Percent": 1.5
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "NICKOLS, Evan",
+        "Votes": 1407,
+        "Percent": 1.4
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "GYURU, Aiden",
+        "Votes": 710,
+        "Percent": 0.7
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "CONNOR, Sean",
+        "Votes": 702,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Swan": {
+    "title": "Swan, WA   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MASCARENHAS, Zaneta",
+        "Votes": 39082,
+        "Percent": 39.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCSWEENEY, Kristy",
+        "Votes": 32096,
+        "Percent": 32.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "UINK, Clint",
+        "Votes": 14861,
+        "Percent": 14.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HILTON, Paul",
+        "Votes": 2637,
+        "Percent": 2.6
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "HALLIFAX, Peter",
+        "Votes": 2544,
+        "Percent": 2.6
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "GREEN, Timothy",
+        "Votes": 2214,
+        "Percent": 2.2
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "BRADLEY, Rod",
+        "Votes": 2059,
+        "Percent": 2.1
+      },
+      {
+        "Party": "AC",
+        "Candidate": "GOWER, Dena",
+        "Votes": 1930,
+        "Percent": 1.9
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "THOMPSON, Matthew",
+        "Votes": 1821,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "PALLIER, Carl",
+        "Votes": 792,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "Tangney": {
+    "title": "Tangney, WA   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MORTON, Hon Ben",
+        "Votes": 43008,
+        "Percent": 40.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LIM, Sam",
+        "Votes": 40940,
+        "Percent": 38.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RAZAK, Adam Abdul",
+        "Votes": 12876,
+        "Percent": 12.0
+      },
+      {
+        "Party": "AC",
+        "Candidate": "STAER, Mark",
+        "Votes": 2481,
+        "Percent": 2.3
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "CHANG, Tshung-Hui",
+        "Votes": 2288,
+        "Percent": 2.1
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "GILLETT, Jay",
+        "Votes": 2096,
+        "Percent": 2.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MARK, Travis",
+        "Votes": 1721,
+        "Percent": 1.6
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "HOLROYD, Jacqueline",
+        "Votes": 1110,
+        "Percent": 1.0
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "FOWLER, Brent",
+        "Votes": 1028,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "Bass": {
+    "title": "Bass, TAS   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ARCHER, Bridget",
+        "Votes": 27257,
+        "Percent": 39.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HART, Ross",
+        "Votes": 19630,
+        "Percent": 28.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROSOL, Cecily",
+        "Votes": 7614,
+        "Percent": 11.1
+      },
+      {
+        "Party": "JLN",
+        "Candidate": "SALT, Bob",
+        "Votes": 4587,
+        "Percent": 6.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RAZAY, George",
+        "Votes": 3450,
+        "Percent": 5.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "DAVY, Melanie",
+        "Votes": 3230,
+        "Percent": 4.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SQUIBB, Kyle",
+        "Votes": 1140,
+        "Percent": 1.7
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "BAKER, Alison",
+        "Votes": 969,
+        "Percent": 1.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "HUMBLE, Stephen",
+        "Votes": 732,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Braddon": {
+    "title": "Braddon, TAS   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PEARCE, Gavin",
+        "Votes": 31142,
+        "Percent": 44.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LYNCH, Chris",
+        "Votes": 15886,
+        "Percent": 22.5
+      },
+      {
+        "Party": "JLN",
+        "Candidate": "LEHMANN, Sophie",
+        "Votes": 6966,
+        "Percent": 9.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GARLAND, Craig",
+        "Votes": 5538,
+        "Percent": 7.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BRIGGS, Darren",
+        "Votes": 4745,
+        "Percent": 6.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MINEUR, Ludo",
+        "Votes": 3065,
+        "Percent": 4.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "BOBBERMIEN, Darren",
+        "Votes": 1000,
+        "Percent": 1.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "WHITE, Duncan",
+        "Votes": 971,
+        "Percent": 1.4
+      },
+      {
+        "Party": "Local",
+        "Candidate": "RANKIN, Scott",
+        "Votes": 719,
+        "Percent": 1.0
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "MARTIN, Keone",
+        "Votes": 566,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "Clark": {
+    "title": "Clark, TAS   2022",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "WILKIE, Andrew",
+        "Votes": 30005,
+        "Percent": 45.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DAVIS, Simon",
+        "Votes": 12364,
+        "Percent": 18.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "COATS, Will",
+        "Votes": 10441,
+        "Percent": 15.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SHELLEY, Janet",
+        "Votes": 8861,
+        "Percent": 13.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "CAMERON, Michelle",
+        "Votes": 1715,
+        "Percent": 2.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "GALLOWAY, Sandra",
+        "Votes": 941,
+        "Percent": 1.4
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "DAVIES, Casey",
+        "Votes": 828,
+        "Percent": 1.3
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "RAMSDEN, Ian",
+        "Votes": 739,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Franklin": {
+    "title": "Franklin, TAS   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COLLINS, Hon Julie",
+        "Votes": 26147,
+        "Percent": 36.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JOHNSON, Kristy",
+        "Votes": 19048,
+        "Percent": 26.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DARKO, Jade",
+        "Votes": 12370,
+        "Percent": 17.4
+      },
+      {
+        "Party": "JLN",
+        "Candidate": "HANNAN, Chris",
+        "Votes": 4215,
+        "Percent": 5.9
+      },
+      {
+        "Party": "Local",
+        "Candidate": "BATEMAN, Anna",
+        "Votes": 3535,
+        "Percent": 5.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "HINDLEY, Steve",
+        "Votes": 2033,
+        "Percent": 2.9
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "PITT, Duane",
+        "Votes": 1434,
+        "Percent": 2.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MATTHEWS, Lisa",
+        "Votes": 1380,
+        "Percent": 1.9
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "LOVE, Katrina",
+        "Votes": 1097,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "Lyons": {
+    "title": "Lyons, TAS   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BOWER, Susie",
+        "Votes": 27296,
+        "Percent": 37.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MITCHELL, Brian",
+        "Votes": 21295,
+        "Percent": 29.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JOHNSTONE, Liz",
+        "Votes": 8382,
+        "Percent": 11.4
+      },
+      {
+        "Party": "JLN",
+        "Candidate": "PFITZNER, Troy",
+        "Votes": 7962,
+        "Percent": 10.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "GOYNE, Emma",
+        "Votes": 3927,
+        "Percent": 5.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "EVANS, Jason",
+        "Votes": 1976,
+        "Percent": 2.7
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "GRALTON, Dr Anna",
+        "Votes": 1312,
+        "Percent": 1.8
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "GRIFFITHS, Rhys",
+        "Votes": 1188,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "Lingiari": {
+    "title": "Lingiari, NT   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SCRYMGOUR, Marion",
+        "Votes": 16747,
+        "Percent": 36.6
+      },
+      {
+        "Party": "CLP",
+        "Candidate": "RYAN, Damien",
+        "Votes": 15893,
+        "Percent": 34.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCFARLAND, Blair",
+        "Votes": 5018,
+        "Percent": 11.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "GALLARD, Tim",
+        "Votes": 2470,
+        "Percent": 5.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "KASPAREK, George",
+        "Votes": 1948,
+        "Percent": 4.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MCLEOD, Allan",
+        "Votes": 1882,
+        "Percent": 4.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRAVENER, Michael",
+        "Votes": 948,
+        "Percent": 2.1
+      },
+      {
+        "Party": "ACP",
+        "Candidate": "LEE, Thong Sum",
+        "Votes": 497,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "AGARS, Imelda Adamson",
+        "Votes": 409,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "Solomon": {
+    "title": "Solomon, NT   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GOSLING, Luke",
+        "Votes": 21775,
+        "Percent": 39.5
+      },
+      {
+        "Party": "CLP",
+        "Candidate": "MACFARLANE, Tina",
+        "Votes": 13771,
+        "Percent": 25.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CARTTLING, Aiya Goodrich",
+        "Votes": 8164,
+        "Percent": 14.8
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "BONANNI, Kylie",
+        "Votes": 5839,
+        "Percent": 10.6
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "LOHSE, Emily",
+        "Votes": 2948,
+        "Percent": 5.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SELFE, Tayla",
+        "Votes": 2628,
+        "Percent": 4.8
+      }
+    ]
+  },
+  "Bean": {
+    "title": "Bean, ACT   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, David",
+        "Votes": 41009,
+        "Percent": 41.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HIATT, Jane",
+        "Votes": 29239,
+        "Percent": 29.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SAVERY, Kathryn",
+        "Votes": 14566,
+        "Percent": 14.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHRISTIE, Jamie",
+        "Votes": 8029,
+        "Percent": 8.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "CONWAY, Sean",
+        "Votes": 2831,
+        "Percent": 2.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "AMBARD, Benjamin",
+        "Votes": 2680,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "Canberra": {
+    "title": "Canberra, ACT   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PAYNE, Alicia",
+        "Votes": 41435,
+        "Percent": 44.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HOLLO, Tim",
+        "Votes": 22795,
+        "Percent": 24.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MINSON, Slade",
+        "Votes": 20102,
+        "Percent": 21.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOHM, Tim",
+        "Votes": 4772,
+        "Percent": 5.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SMITH, Catherine",
+        "Votes": 1687,
+        "Percent": 1.8
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MILES, James",
+        "Votes": 1531,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "Fenner": {
+    "title": "Fenner, ACT   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LEIGH, Hon Dr Andrew",
+        "Votes": 44100,
+        "Percent": 48.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KUSTER, Nathan",
+        "Votes": 25416,
+        "Percent": 27.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SOJIC, Natasa",
+        "Votes": 15294,
+        "Percent": 16.8
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "GRANT, Lucia",
+        "Votes": 2419,
+        "Percent": 2.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "ELTON, Timothy",
+        "Votes": 2346,
+        "Percent": 2.6
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "JAKEMAN, Guy",
+        "Votes": 1706,
+        "Percent": 1.9
+      }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "2019": {
+    "title": "Clark, TAS   2019",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "WILKIE, Andrew",
+        "Votes": 33761,
+        "Percent": 50.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCGREGOR, Ben",
+        "Votes": 13641,
+        "Percent": 20.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MARKHAM, Amanda-Sue",
+        "Votes": 11719,
+        "Percent": 17.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SHAW, Juniper",
+        "Votes": 6458,
+        "Percent": 9.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "STARKEY, Jim",
+        "Votes": 1882,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "2022": {
+    "title": "Clark, TAS   2022",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "WILKIE, Andrew",
+        "Votes": 30005,
+        "Percent": 45.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DAVIS, Simon",
+        "Votes": 12364,
+        "Percent": 18.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "COATS, Will",
+        "Votes": 10441,
+        "Percent": 15.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SHELLEY, Janet",
+        "Votes": 8861,
+        "Percent": 13.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "CAMERON, Michelle",
+        "Votes": 1715,
+        "Percent": 2.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "GALLOWAY, Sandra",
+        "Votes": 941,
+        "Percent": 1.4
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "DAVIES, Casey",
+        "Votes": 828,
+        "Percent": 1.3
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "RAMSDEN, Ian",
+        "Votes": 739,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2025": {
+    "title": "Clark, TAS   2025",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "WILKIE, Andrew",
+        "Votes": 33011,
+        "Percent": 48.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HECK, Heidi",
+        "Votes": 13539,
+        "Percent": 20.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DI FLORIO, Marilena",
+        "Votes": 9239,
+        "Percent": 13.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SHELLEY, Janet",
+        "Votes": 8908,
+        "Percent": 13.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "GRIGGS, Cathy",
+        "Votes": 2834,
+        "Percent": 4.2
+      }
+    ]
+  }
+}

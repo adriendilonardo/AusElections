@@ -1,0 +1,447 @@
+{
+  "1984": {
+    "title": "Charlton, NSW   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BROWN, Robert",
+        "Votes": 36860,
+        "Percent": 62.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HARRIS, Don",
+        "Votes": 16216,
+        "Percent": 27.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GODFREY, Lyn",
+        "Votes": 6105,
+        "Percent": 10.3
+      }
+    ]
+  },
+  "1987": {
+    "title": "Charlton, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BROWN, Robert",
+        "Votes": 36113,
+        "Percent": 57.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BLAKE, Mollie",
+        "Votes": 17084,
+        "Percent": 27.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GODFREY, Lyn",
+        "Votes": 7252,
+        "Percent": 11.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHAUDHARY, Vishnu",
+        "Votes": 2110,
+        "Percent": 3.4
+      }
+    ]
+  },
+  "1990": {
+    "title": "Charlton, NSW   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BROWN, Hon Robert",
+        "Votes": 36750,
+        "Percent": 54.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BLAKE, Mollie",
+        "Votes": 13950,
+        "Percent": 20.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GODFREY, Lyn",
+        "Votes": 9299,
+        "Percent": 13.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PENDLEBURY, Geoff",
+        "Votes": 7510,
+        "Percent": 11.1
+      }
+    ]
+  },
+  "1993": {
+    "title": "Charlton, NSW   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "WILSON, Ryan",
+        "Votes": "780",
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SIEVERS, Charley",
+        "Votes": "516",
+        "Percent": 0.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BROWN, Hon Robert",
+        "Votes": "44680",
+        "Percent": 60.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GODFREY, Lyn",
+        "Votes": "3976",
+        "Percent": 5.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KVIZ, Zdenek",
+        "Votes": "239",
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BALDWIN, John",
+        "Votes": "2216",
+        "Percent": 3.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BREWSTER, Laurence",
+        "Votes": "19681",
+        "Percent": 26.8
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "SANDFORD, Mick",
+        "Votes": "1273",
+        "Percent": 1.7
+      }
+    ]
+  },
+  "1996": {
+    "title": "Charlton, NSW   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BROWN, Hon Robert",
+        "Votes": 38665,
+        "Percent": 50.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CRAIG, Peter",
+        "Votes": 25884,
+        "Percent": 33.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GODFREY, Lyn",
+        "Votes": 6494,
+        "Percent": 8.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BRUGMAN, Bernadette",
+        "Votes": 3863,
+        "Percent": 5.0
+      },
+      {
+        "Party": "AAFI",
+        "Candidate": "FRANKS, Ron",
+        "Votes": 2428,
+        "Percent": 3.0
+      }
+    ]
+  },
+  "1998": {
+    "title": "Charlton, NSW   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOARE, Kelly",
+        "Votes": 39604,
+        "Percent": 49.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GATGENS, Bruce",
+        "Votes": 22175,
+        "Percent": 27.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "YOUNG, Pamela",
+        "Votes": 9664,
+        "Percent": 12.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BISGROVE, Stephen",
+        "Votes": 3689,
+        "Percent": 4.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROSS, Nathan",
+        "Votes": 2679,
+        "Percent": 3.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "GOURLAY, Ralph",
+        "Votes": 2494,
+        "Percent": 3.1
+      }
+    ]
+  },
+  "2001": {
+    "title": "Charlton, NSW   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOARE, Kelly",
+        "Votes": 35079,
+        "Percent": 46.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PATERSON, Lindsay",
+        "Votes": 25371,
+        "Percent": 33.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "JOHNSON, Bob",
+        "Votes": 5884,
+        "Percent": 7.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BELL, Joshua",
+        "Votes": 3865,
+        "Percent": 5.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BLYTH, David",
+        "Votes": 3765,
+        "Percent": 4.9
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "KENDALL, Jim",
+        "Votes": 1859,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THORPE, John",
+        "Votes": 339,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2004": {
+    "title": "Charlton, NSW   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOARE, Kelly",
+        "Votes": 35765,
+        "Percent": 45.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DARCEY, Kurt",
+        "Votes": 27480,
+        "Percent": 35.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PRITCHARD, Suzanne",
+        "Votes": 6964,
+        "Percent": 8.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SCARFE, Paul",
+        "Votes": 3317,
+        "Percent": 4.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "JOHNSON, Bob",
+        "Votes": 2416,
+        "Percent": 3.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROFFEY, Ben",
+        "Votes": 1513,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STOW, David",
+        "Votes": 380,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2007": {
+    "title": "Charlton, NSW   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COMBET, Greg",
+        "Votes": 44156,
+        "Percent": 53.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PATERSON, Lindsay",
+        "Votes": 26353,
+        "Percent": 31.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PRITCHARD, Suzanne",
+        "Votes": 6708,
+        "Percent": 8.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ULRICH, Stuart",
+        "Votes": 2008,
+        "Percent": 2.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "KENDALL, Jim",
+        "Votes": 2007,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARRY, Patrick",
+        "Votes": 1253,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COOK, Terry",
+        "Votes": 404,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STOW, David",
+        "Votes": 294,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2010": {
+    "title": "Charlton, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COMBET, Hon Greg",
+        "Votes": 44159,
+        "Percent": 53.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCDONALD, John",
+        "Votes": 25514,
+        "Percent": 30.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCKENZIE, Ian",
+        "Votes": 7339,
+        "Percent": 8.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARRY, Patrick",
+        "Votes": 2846,
+        "Percent": 3.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "PICKSTONE, Mitchell",
+        "Votes": 2341,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAWLER, Ann",
+        "Votes": 881,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2013": {
+    "title": "Charlton, NSW   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CONROY, Pat",
+        "Votes": 40125,
+        "Percent": 46.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BAKER, Kevin",
+        "Votes": 24646,
+        "Percent": 28.5
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "REID, Bronwyn",
+        "Votes": 9412,
+        "Percent": 10.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KOCHER, Dessie",
+        "Votes": 5820,
+        "Percent": 6.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "CAMILLERI, Steve",
+        "Votes": 2671,
+        "Percent": 3.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BURSTON, Brian",
+        "Votes": 2266,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ANTHONEY, Trevor",
+        "Votes": 1460,
+        "Percent": 1.7
+      }
+    ]
+  }
+}

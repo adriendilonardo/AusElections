@@ -1,0 +1,555 @@
+{
+  "1996": {
+    "title": "Longman, QLD   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BROUGH, Malcolm",
+        "Votes": 27704,
+        "Percent": 39.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BONNICE, Pat",
+        "Votes": 21943,
+        "Percent": 30.7
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BRADLEY, Tom",
+        "Votes": 12611,
+        "Percent": 17.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HOLLIS, Greg",
+        "Votes": 5276,
+        "Percent": 7.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DIMO, Jim",
+        "Votes": 2145,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MADDEN, Terence",
+        "Votes": 966,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ABNETT, Geoffrey",
+        "Votes": 673,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HEGARTY, Norman",
+        "Votes": 187,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1998": {
+    "title": "Longman, QLD   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BROUGH, Malcolm",
+        "Votes": 27161,
+        "Percent": 38.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BURGETT, Ian",
+        "Votes": 24252,
+        "Percent": 34.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BADKE, Gavin",
+        "Votes": 12663,
+        "Percent": 18.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BARNES, Paul",
+        "Votes": 3477,
+        "Percent": 5.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LANGFORD, John",
+        "Votes": 2206,
+        "Percent": 3.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "Longman, QLD   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BROUGH, Hon Malcolm",
+        "Votes": 34229,
+        "Percent": 45.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BECKETT, Stephen",
+        "Votes": 27629,
+        "Percent": 36.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BOWDEN, Bert",
+        "Votes": 6223,
+        "Percent": 8.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PATRICK, Bronwyn",
+        "Votes": 2992,
+        "Percent": 4.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SCOPES, Eve",
+        "Votes": 2556,
+        "Percent": 3.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HALLAM, Brian",
+        "Votes": 1666,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARDWICK, Leslie",
+        "Votes": 148,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2004": {
+    "title": "Longman, QLD   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BROUGH, Hon Malcolm",
+        "Votes": 40345,
+        "Percent": 51.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BECKETT, Stephen",
+        "Votes": 27790,
+        "Percent": 35.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KIMMET, Philip",
+        "Votes": 3096,
+        "Percent": 4.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MEREDITH, Susan",
+        "Votes": 3017,
+        "Percent": 3.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LEW, Tom",
+        "Votes": 2187,
+        "Percent": 2.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KENNEDY, Jacqueline",
+        "Votes": 1339,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "2007": {
+    "title": "Longman, QLD   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BROUGH, Hon Mal",
+        "Votes": 39434,
+        "Percent": 43.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SULLIVAN, Jon",
+        "Votes": 38434,
+        "Percent": 48.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COSTIN, Paul",
+        "Votes": 3486,
+        "Percent": 4.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "URQUHART, Peter",
+        "Votes": 1525,
+        "Percent": 1.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "OSS-EMER, Liz",
+        "Votes": 1153,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MACDONALD, Trent",
+        "Votes": 410,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WINNIAK, Dan",
+        "Votes": 166,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2010": {
+    "title": "Longman, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "ROY, Wyatt",
+        "Votes": 33011,
+        "Percent": 43.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SULLIVAN, Jon",
+        "Votes": 28396,
+        "Percent": 37.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BLAIR, Rod",
+        "Votes": 6878,
+        "Percent": 9.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MCERLANE, Claire",
+        "Votes": 3206,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "REECE, John",
+        "Votes": 1042,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FOX, Bob",
+        "Votes": 872,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOECKEL, Michael van",
+        "Votes": 856,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VEEN, Joshua van",
+        "Votes": 671,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JACKSON, Andrew",
+        "Votes": 518,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2013": {
+    "title": "Longman, QLD   2013",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "ROY, Wyatt",
+        "Votes": 37570,
+        "Percent": 44.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CAISLEY, Michael",
+        "Votes": 25683,
+        "Percent": 30.7
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "WEEGEN, Clemens van der",
+        "Votes": 10714,
+        "Percent": 12.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FAIRWEATHER, Helen",
+        "Votes": 3304,
+        "Percent": 3.9
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "KENNEDY, Brad",
+        "Votes": 2364,
+        "Percent": 2.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SMITH, Will",
+        "Votes": 1977,
+        "Percent": 2.4
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "GOEYTES, Alya",
+        "Votes": 1283,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WELLS, Caleb",
+        "Votes": 895,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2016": {
+    "title": "Longman, QLD   2016",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "ROY, Hon Wyatt",
+        "Votes": 34359,
+        "Percent": 39.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LAMB, Susan",
+        "Votes": 31161,
+        "Percent": 35.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "PEDERSEN, Michelle",
+        "Votes": 8293,
+        "Percent": 9.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BELL, Ian",
+        "Votes": 3865,
+        "Percent": 4.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SMITH, Will",
+        "Votes": 3002,
+        "Percent": 3.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCDONALD, Frances",
+        "Votes": 2677,
+        "Percent": 3.0
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "KENNEDY, Brad",
+        "Votes": 1597,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RIDDELL, Greg",
+        "Votes": 1111,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAW, Rob",
+        "Votes": 945,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WELLS, Caleb",
+        "Votes": 830,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BECK, Stephen",
+        "Votes": 228,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2019": {
+    "title": "Longman, QLD   2019",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "YOUNG, Terry",
+        "Votes": 38411,
+        "Percent": 38.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LAMB, Susan",
+        "Votes": 33949,
+        "Percent": 34.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "THOMSON, Matthew",
+        "Votes": 13160,
+        "Percent": 13.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DEJUN, Simone",
+        "Votes": 6684,
+        "Percent": 6.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MAHER, Bailey",
+        "Votes": 3344,
+        "Percent": 3.4
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "PAULKE, Dave",
+        "Votes": 1967,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCHUBACK, Peter",
+        "Votes": 1069,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "YOUNG, Jono",
+        "Votes": 965,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2022": {
+    "title": "Longman, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "YOUNG, Terry",
+        "Votes": 41253,
+        "Percent": 38.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FANNING, Rebecca",
+        "Votes": 34036,
+        "Percent": 31.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "TAYLOR, Ross",
+        "Votes": 8917,
+        "Percent": 8.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SNIJDERS, Earl",
+        "Votes": 7814,
+        "Percent": 7.2
+      },
+      {
+        "Party": "LCA",
+        "Candidate": "QUINLAN, Nigel",
+        "Votes": 6025,
+        "Percent": 5.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SUTHERLAND, Stefanie",
+        "Votes": 5949,
+        "Percent": 5.5
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "GILBARD, Paula",
+        "Votes": 2060,
+        "Percent": 1.9
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "LIPPONER, Jens",
+        "Votes": 2011,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "2025": {
+    "title": "Longman, QLD   2025",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "YOUNG, Terry",
+        "Votes": 43960,
+        "Percent": 36.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DOUGLAS, Rhiannyn",
+        "Votes": 43238,
+        "Percent": 35.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "McCASKER, Peter",
+        "Votes": 12062,
+        "Percent": 9.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "UNVERZAGT, Gabrielle",
+        "Votes": 12014,
+        "Percent": 9.9
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "WOOD, Benjamin",
+        "Votes": 5985,
+        "Percent": 4.9
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "HEARNE, Malachi Brogden",
+        "Votes": 4670,
+        "Percent": 3.8
+      }
+    ]
+  }
+}

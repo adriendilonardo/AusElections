@@ -1,0 +1,495 @@
+{
+  "1949": {
+    "title": "Burke, VIC   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PETERS, Edward",
+        "Votes": 24362,
+        "Percent": 62.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WALL, Alfred",
+        "Votes": 9865,
+        "Percent": 25.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HODGES, Henry",
+        "Votes": 4720,
+        "Percent": 12.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WHITWORTH, James",
+        "Votes": 271,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1951": {
+    "title": "Burke, VIC   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PETERS, Edward",
+        "Votes": "27422",
+        "Percent": 72.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WALL, Alfred",
+        "Votes": "10446",
+        "Percent": 27.6
+      }
+    ]
+  },
+  "1954": {
+    "title": "Burke, VIC   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WALL, Alfred",
+        "Votes": "9260",
+        "Percent": 27.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PETERS, Edward",
+        "Votes": "23510",
+        "Percent": 68.7
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "LITTLE, Vida",
+        "Votes": "1467",
+        "Percent": 4.3
+      }
+    ]
+  },
+  "1969": {
+    "title": "Burke, VIC   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JOHNSON, Keith",
+        "Votes": 26798,
+        "Percent": 56.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WILLIAMS, John",
+        "Votes": 14230,
+        "Percent": 30.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SCULLY, Terence",
+        "Votes": 5003,
+        "Percent": 10.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAHERTY, Kathleen",
+        "Votes": 633,
+        "Percent": 1.3
+      },
+      {
+        "Party": "AP",
+        "Candidate": "SMITH, Richard",
+        "Votes": 506,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1972": {
+    "title": "Burke, VIC   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JOHNSON, Keith",
+        "Votes": 39510,
+        "Percent": 63.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "THAIN, Howard",
+        "Votes": 16143,
+        "Percent": 26.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "WALSH, Colin",
+        "Votes": 6502,
+        "Percent": 10.5
+      }
+    ]
+  },
+  "1974": {
+    "title": "Burke, VIC   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JOHNSON, Keith",
+        "Votes": 46977,
+        "Percent": 61.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SALGER, Claus",
+        "Votes": 21411,
+        "Percent": 27.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "WALSH, Colin",
+        "Votes": 4328,
+        "Percent": 5.6
+      },
+      {
+        "Party": "AP",
+        "Candidate": "GEROCS, Alexander",
+        "Votes": 4017,
+        "Percent": 5.2
+      }
+    ]
+  },
+  "1975": {
+    "title": "Burke, VIC   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JOHNSON, Keith",
+        "Votes": 45634,
+        "Percent": 54.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SALGER, Claus",
+        "Votes": 31103,
+        "Percent": 37.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "WALSH, Colin",
+        "Votes": 4442,
+        "Percent": 5.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DUPLA, Michael",
+        "Votes": 2949,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "1977": {
+    "title": "Burke, VIC   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JOHNSON, Keith",
+        "Votes": 32248,
+        "Percent": 50.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LENGYEL, Mihaly",
+        "Votes": 20680,
+        "Percent": 32.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SPENCER, Eric",
+        "Votes": 7122,
+        "Percent": 11.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "WALSH, Colin",
+        "Votes": 3963,
+        "Percent": 6.2
+      }
+    ]
+  },
+  "1980": {
+    "title": "Burke, VIC   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THEOPHANOUS, Dr Andrew",
+        "Votes": 37984,
+        "Percent": 54.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ROSS, Alexander",
+        "Votes": 26803,
+        "Percent": 38.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SPENCER, Eric",
+        "Votes": 5413,
+        "Percent": 7.7
+      }
+    ]
+  },
+  "1983": {
+    "title": "Burke, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THEOPHANOUS, Dr Andrew",
+        "Votes": 46171,
+        "Percent": 60.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FINN, Bernard",
+        "Votes": 24294,
+        "Percent": 32.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HUNTER, George",
+        "Votes": 4611,
+        "Percent": 6.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROBSON, Evelyn",
+        "Votes": 788,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1984": {
+    "title": "Burke, VIC   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'KEEFE, Neil",
+        "Votes": 27446,
+        "Percent": 48.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "D'AGOSTINO, Marisa",
+        "Votes": 23273,
+        "Percent": 41.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HUNTER, George",
+        "Votes": 2985,
+        "Percent": 5.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "VIDLER, Leslie",
+        "Votes": 1823,
+        "Percent": 3.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CORMICK, Genevieve",
+        "Votes": 862,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1987": {
+    "title": "Burke, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'KEEFE, Neil",
+        "Votes": 32738,
+        "Percent": 49.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DALE, Peter",
+        "Votes": 25534,
+        "Percent": 38.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MULLINGTON, Susan",
+        "Votes": 4793,
+        "Percent": 7.2
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "MCLEOD, Barry",
+        "Votes": 3278,
+        "Percent": 4.9
+      }
+    ]
+  },
+  "1990": {
+    "title": "Burke, VIC   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'KEEFE, Neil",
+        "Votes": 27102,
+        "Percent": 42.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LINDSAY, Ian",
+        "Votes": 26114,
+        "Percent": 41.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCCURRY, Patrick",
+        "Votes": 9996,
+        "Percent": 15.8
+      }
+    ]
+  },
+  "1993": {
+    "title": "Burke, VIC   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "DICKENS, Michael",
+        "Votes": "552",
+        "Percent": 0.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'KEEFE, Neil",
+        "Votes": "40067",
+        "Percent": 55.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RALPH, Iain",
+        "Votes": "3180",
+        "Percent": 4.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MITCHELL, Stephen",
+        "Votes": "27047",
+        "Percent": 37.4
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "BURROWES, Ian",
+        "Votes": "1491",
+        "Percent": 2.1
+      }
+    ]
+  },
+  "1996": {
+    "title": "Burke, VIC   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'KEEFE, Hon Neil",
+        "Votes": 35949,
+        "Percent": 51.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MOORE, Anthony",
+        "Votes": 27122,
+        "Percent": 38.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KAYE, Victor",
+        "Votes": 6782,
+        "Percent": 9.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DICKINS, Michael",
+        "Votes": 705,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1998": {
+    "title": "Burke, VIC   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'KEEFE, Hon Neil",
+        "Votes": 36516,
+        "Percent": 50.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PETROVICH, Serge",
+        "Votes": 26317,
+        "Percent": 36.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WILLIAMS, Vaughan",
+        "Votes": 4365,
+        "Percent": 6.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "PRESTON, Frank",
+        "Votes": 3319,
+        "Percent": 4.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FYFFE, Paul",
+        "Votes": 1397,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARDY, Rod",
+        "Votes": 957,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MASON, Ngaire",
+        "Votes": 163,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "Burke, VIC   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, Brendan",
+        "Votes": 39138,
+        "Percent": 47.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DAWE, Chris",
+        "Votes": 31282,
+        "Percent": 38.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WARD, Marcus",
+        "Votes": 6062,
+        "Percent": 7.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LUTZ, Geoff",
+        "Votes": 5493,
+        "Percent": 6.7
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "2019": {
+    "title": "Nicholls, VIC   2019",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "DRUM, Hon Damian",
+        "Votes": 48855,
+        "Percent": 51.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LODWICK, Bill",
+        "Votes": 18493,
+        "Percent": 19.4
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "TYRRELL, Rikkie-Lee",
+        "Votes": 10754,
+        "Percent": 11.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HINE, Stewart",
+        "Votes": 5077,
+        "Percent": 5.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOCK, Andrew",
+        "Votes": 4581,
+        "Percent": 4.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FREEMAN, Nickee",
+        "Votes": 4011,
+        "Percent": 4.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PARKER, Jeremy",
+        "Votes": 1772,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HICKS, Nigel",
+        "Votes": 1749,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "2022": {
+    "title": "Nicholls, VIC   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "BIRRELL, Sam",
+        "Votes": 24886,
+        "Percent": 26.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PRIESTLY, Rob",
+        "Votes": 24287,
+        "Percent": 25.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROOKS, Steve",
+        "Votes": 17187,
+        "Percent": 18.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LODWICK, Bill",
+        "Votes": 10970,
+        "Percent": 11.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "TYRRELL, Rikkie-Lee",
+        "Votes": 6219,
+        "Percent": 6.5
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "PETERSON, Robert",
+        "Votes": 3821,
+        "Percent": 4.0
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "LAIRD, Tim",
+        "Votes": 3366,
+        "Percent": 3.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CHRISTOE, Ian",
+        "Votes": 3058,
+        "Percent": 3.2
+      },
+      {
+        "Party": "Fus",
+        "Candidate": "OTTO, Andrea",
+        "Votes": 653,
+        "Percent": 0.7
+      },
+      {
+        "Party": "ACP",
+        "Candidate": "DAVY, Jeff",
+        "Votes": 377,
+        "Percent": 0.4
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "TABONE, Eleonor",
+        "Votes": 367,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2025": {
+    "title": "Nicholls, VIC   2025",
+    "rows": [
+      {
+        "Party": "NP",
+        "Candidate": "BIRRELL, Sam",
+        "Votes": 48762,
+        "Percent": 46.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TRAVERS, Kim",
+        "Votes": 25560,
+        "Percent": 24.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "TYRRELL, Aaron",
+        "Votes": 12095,
+        "Percent": 11.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "EADE, Shelby",
+        "Votes": 8235,
+        "Percent": 7.8
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "FLOYD, Glenn Francis",
+        "Votes": 4999,
+        "Percent": 4.7
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "BACHELOR, Paul Edward",
+        "Votes": 4717,
+        "Percent": 4.5
+      },
+      {
+        "Party": "CEC",
+        "Candidate": "DAVY, Jeff",
+        "Votes": 1082,
+        "Percent": 1.0
+      }
+    ]
+  }
+}

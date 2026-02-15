@@ -1,0 +1,626 @@
+{
+  "1993": {
+    "title": "Dickson, QLD   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "DARBY, Michael",
+        "Votes": "939",
+        "Percent": 1.4
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BAKER, Trevor St",
+        "Votes": "6921",
+        "Percent": 10.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MAHONEY, Desiree",
+        "Votes": "3746",
+        "Percent": 5.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BAWDEN, Alan",
+        "Votes": "333",
+        "Percent": 0.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LAVARCH, Michael",
+        "Votes": "29515",
+        "Percent": 43.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FLEGG, Dr Bruce",
+        "Votes": "22738",
+        "Percent": 33.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BEARD, Mal",
+        "Votes": "1883",
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MATTHEWS, Leonard",
+        "Votes": "174",
+        "Percent": 0.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SPICER, Glen",
+        "Votes": "1508",
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1996": {
+    "title": "Dickson, QLD   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SMITH, Tony",
+        "Votes": 32418,
+        "Percent": 42.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LAVARCH, Hon Michael",
+        "Votes": 30800,
+        "Percent": 39.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SPENCER, Tom",
+        "Votes": 4653,
+        "Percent": 6.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "SAUNDERS, John",
+        "Votes": 4615,
+        "Percent": 6.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PANTANO, Kim",
+        "Votes": 2240,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JOYNER, Rona",
+        "Votes": 1154,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ATKINSON, Geoffrey",
+        "Votes": 470,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TOON, Theorin",
+        "Votes": 462,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILSON, Geoff",
+        "Votes": 190,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CONSANDINE, Peter",
+        "Votes": 156,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "1998": {
+    "title": "Dickson, QLD   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KERNOT, Cheryl",
+        "Votes": 29899,
+        "Percent": 40.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HENSHAW, Rod",
+        "Votes": 25622,
+        "Percent": 34.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Tony",
+        "Votes": 6595,
+        "Percent": 9.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "CAMFIELD, Bruce",
+        "Votes": 6271,
+        "Percent": 8.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MANKTELOW, Lia",
+        "Votes": 3008,
+        "Percent": 4.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PANTANO, Kim",
+        "Votes": 1536,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KELLY, Mark",
+        "Votes": 264,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HALLIDAY, Robert",
+        "Votes": 227,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DUNNE, Eddie",
+        "Votes": 224,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2001": {
+    "title": "Dickson, QLD   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DUTTON, Peter",
+        "Votes": 36390,
+        "Percent": 45.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KERNOT, Cheryl",
+        "Votes": 26557,
+        "Percent": 33.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KESSELS, Colin",
+        "Votes": 5203,
+        "Percent": 6.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TURNER, Shayne",
+        "Votes": 4296,
+        "Percent": 5.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KRAMER, Paul",
+        "Votes": 2812,
+        "Percent": 3.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "WHITNEY, Wayne",
+        "Votes": 2575,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HYLAND, Terry",
+        "Votes": 1220,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KIMLIN, Gary",
+        "Votes": 485,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARNES, J F",
+        "Votes": 305,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2004": {
+    "title": "Dickson, QLD   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DUTTON, Peter",
+        "Votes": 39810,
+        "Percent": 52.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCCONNELL, Craig",
+        "Votes": 27036,
+        "Percent": 35.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NIELSEN, Howard",
+        "Votes": 4485,
+        "Percent": 5.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SHUTTLEWORTH, Dale",
+        "Votes": 3454,
+        "Percent": 4.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "REYE, Kirsty",
+        "Votes": 1270,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HYLAND, Terry",
+        "Votes": 373,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2007": {
+    "title": "Dickson, QLD   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DUTTON, Hon Peter",
+        "Votes": 38507,
+        "Percent": 46.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCNAMARA, Fiona",
+        "Votes": 36438,
+        "Percent": 43.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NIELSEN, Howard",
+        "Votes": 5006,
+        "Percent": 6.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SHUTTLEWORTH, Dale",
+        "Votes": 2118,
+        "Percent": 2.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KERIN, Peter",
+        "Votes": 797,
+        "Percent": 1.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "WOOD, Connie",
+        "Votes": 323,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CORNWELL, Brad",
+        "Votes": 258,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "Dickson, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "DUTTON, Hon Peter",
+        "Votes": 39880,
+        "Percent": 49.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCNAMARA, Fiona",
+        "Votes": 27264,
+        "Percent": 33.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COLBERT, David",
+        "Votes": 8888,
+        "Percent": 10.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JENKINSON, Rebecca",
+        "Votes": 2558,
+        "Percent": 3.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "REVIE, Alan",
+        "Votes": 2340,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HUNTER, Bob",
+        "Votes": 521,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2013": {
+    "title": "Dickson, QLD   2013",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "DUTTON, Hon Peter",
+        "Votes": 41163,
+        "Percent": 48.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GILLIVER, Michael",
+        "Votes": 26848,
+        "Percent": 31.3
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "TAVERNER, Mark",
+        "Votes": 8390,
+        "Percent": 9.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "D\u0092LISLE, Tyrone",
+        "Votes": 5507,
+        "Percent": 6.4
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "CORNWELL, Jim",
+        "Votes": 1697,
+        "Percent": 2.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MCDOWELL, Michael",
+        "Votes": 1542,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TAYLOR, Geoffrey",
+        "Votes": 585,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2016": {
+    "title": "Dickson, QLD   2016",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "DUTTON, Hon Peter",
+        "Votes": 40519,
+        "Percent": 44.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LAVARCH, Linda",
+        "Votes": 31769,
+        "Percent": 35.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BERKMAN, Michael",
+        "Votes": 8971,
+        "Percent": 9.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HUTCHINSON, Ray",
+        "Votes": 3868,
+        "Percent": 4.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PROHASKA, Thor",
+        "Votes": 3217,
+        "Percent": 3.5
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "NICHOLSON, Doug",
+        "Votes": 2589,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "2019": {
+    "title": "Dickson, QLD   2019",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "DUTTON, Hon Peter",
+        "Votes": 44528,
+        "Percent": 45.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FRANCE, Ali",
+        "Votes": 30370,
+        "Percent": 31.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COYNE, Benedict",
+        "Votes": 9675,
+        "Percent": 10.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "HALLIWELL, Carrol",
+        "Votes": 5022,
+        "Percent": 5.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PROHASKA, Thor",
+        "Votes": 2302,
+        "Percent": 2.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "AUSTIN, Steve",
+        "Votes": 2176,
+        "Percent": 2.2
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "BROHMAN, Maureen",
+        "Votes": 1831,
+        "Percent": 1.9
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "SIMPSON, Richelle",
+        "Votes": 1044,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2022": {
+    "title": "Dickson, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DUTTON, Hon Peter",
+        "Votes": 41657,
+        "Percent": 42.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FRANCE, Ali",
+        "Votes": 31396,
+        "Percent": 31.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BATTEN, Vinnie",
+        "Votes": 12871,
+        "Percent": 13.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "GIBSON, Tamera",
+        "Votes": 5312,
+        "Percent": 5.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "WARD, Alina",
+        "Votes": 2717,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCHBACH, Alan",
+        "Votes": 2222,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PROHASKA, Thor",
+        "Votes": 1618,
+        "Percent": 1.6
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "RUSSELL, Lloyd",
+        "Votes": 1236,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2025": {
+    "title": "Dickson, QLD   2025",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "DUTTON, Peter",
+        "Votes": 36628,
+        "Percent": 34.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FRANCE, Ali",
+        "Votes": 35502,
+        "Percent": 33.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Ellie",
+        "Votes": 12874,
+        "Percent": 12.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BATTEN, Vinnie",
+        "Votes": 8061,
+        "Percent": 7.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "STEVENSON, Joel",
+        "Votes": 4429,
+        "Percent": 4.2
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "ZALOUDEK, David",
+        "Votes": 2950,
+        "Percent": 2.8
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "HEWETT, Suniti",
+        "Votes": 2299,
+        "Percent": 2.2
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "JESSOP, Michael",
+        "Votes": 1900,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "BROHMAN, Maureen",
+        "Votes": 936,
+        "Percent": 0.9
+      }
+    ]
+  }
+}

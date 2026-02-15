@@ -1,0 +1,320 @@
+{
+  "1949": {
+    "title": "Evans, NSW   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "OSBORNE, Frederick",
+        "Votes": 21616,
+        "Percent": 56.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NICHOLLS, Ronald",
+        "Votes": 16588,
+        "Percent": 43.4
+      }
+    ]
+  },
+  "1951": {
+    "title": "Evans, NSW   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "OSBORNE, Frederick",
+        "Votes": "21936",
+        "Percent": 58.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BAILEY, Robert",
+        "Votes": "15467",
+        "Percent": 41.4
+      }
+    ]
+  },
+  "1954": {
+    "title": "Evans, NSW   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "OSBORNE, Frederick",
+        "Votes": "19413",
+        "Percent": 55.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BAILEY, Robert",
+        "Votes": "15876",
+        "Percent": 45.0
+      }
+    ]
+  },
+  "1955": {
+    "title": "Evans, NSW   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "OSBORNE, Frederick",
+        "Votes": "25236",
+        "Percent": 60.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "POLLARD, Sidney",
+        "Votes": "16179",
+        "Percent": 39.1
+      }
+    ]
+  },
+  "1958": {
+    "title": "Evans, NSW   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "OSBORNE, Hon Frederick",
+        "Votes": 20488,
+        "Percent": 52.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MONAGHAN, James",
+        "Votes": 16482,
+        "Percent": 41.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "PEDEMONT, Lawrence",
+        "Votes": 2440,
+        "Percent": 6.2
+      }
+    ]
+  },
+  "1961": {
+    "title": "Evans, NSW   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "OSBORNE, Hon Frederick",
+        "Votes": 17623,
+        "Percent": 46.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MONAGHAN, James",
+        "Votes": 17305,
+        "Percent": 45.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "COLLINS, Francis",
+        "Votes": 2580,
+        "Percent": 6.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'REILLY, Harold",
+        "Votes": 702,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "1963": {
+    "title": "Evans, NSW   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "KANE, Jack",
+        "Votes": "2263",
+        "Percent": 6.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MACKAY, Dr Malcolm",
+        "Votes": "19306",
+        "Percent": 51.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'REILLY, Harold",
+        "Votes": "187",
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KELLY, Stanislaus",
+        "Votes": "177",
+        "Percent": 0.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MONAGHAN, James",
+        "Votes": "15863",
+        "Percent": 42.0
+      }
+    ]
+  },
+  "1966": {
+    "title": "Evans, NSW   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MACKAY, Dr Malcolm",
+        "Votes": 20342,
+        "Percent": 55.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MONAGHAN, James",
+        "Votes": 12857,
+        "Percent": 34.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "COLLINS, Francis",
+        "Votes": 2071,
+        "Percent": 5.6
+      },
+      {
+        "Party": "LRG",
+        "Candidate": "GUNN, John",
+        "Votes": 1619,
+        "Percent": 4.4
+      }
+    ]
+  },
+  "1969": {
+    "title": "Evans, NSW   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MONAGHAN, James",
+        "Votes": 24054,
+        "Percent": 45.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MACKAY, Dr Malcolm",
+        "Votes": 23527,
+        "Percent": 44.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DAVIS, Kevin",
+        "Votes": 2798,
+        "Percent": 5.3
+      },
+      {
+        "Party": "AP",
+        "Candidate": "FISHER, John",
+        "Votes": 1550,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SAUNDERS, James",
+        "Votes": 1010,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "1972": {
+    "title": "Evans, NSW   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MULDER, Allan",
+        "Votes": 25623,
+        "Percent": 48.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MACKAY, Hon Dr Malcolm",
+        "Votes": 21453,
+        "Percent": 40.4
+      },
+      {
+        "Party": "AP",
+        "Candidate": "DEASE, John",
+        "Votes": 2644,
+        "Percent": 5.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MACDONALD, Noel",
+        "Votes": 1714,
+        "Percent": 3.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DOHERTY, Gary",
+        "Votes": 1705,
+        "Percent": 3.2
+      }
+    ]
+  },
+  "1974": {
+    "title": "Evans, NSW   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MULDER, Allan",
+        "Votes": 29502,
+        "Percent": 52.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ABEL, John",
+        "Votes": 24299,
+        "Percent": 43.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCGARITY, John",
+        "Votes": 991,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AP",
+        "Candidate": "FLOTTMANN, Paul",
+        "Votes": 977,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "1975": {
+    "title": "Evans, NSW   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ABEL, John",
+        "Votes": 29762,
+        "Percent": 51.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MULDER, Allan",
+        "Votes": 27357,
+        "Percent": 46.9
+      },
+      {
+        "Party": "AP",
+        "Candidate": "ROLL, Graham",
+        "Votes": 489,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILSON, Warren",
+        "Votes": 421,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEOGHAN, Frederick",
+        "Votes": 254,
+        "Percent": 0.4
+      }
+    ]
+  }
+}

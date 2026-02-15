@@ -1,0 +1,1057 @@
+{
+  "1946": {
+    "title": "Wide Bay, QLD   1946",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "CORSER, Bernard",
+        "Votes": 31027,
+        "Percent": 54.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WATSON, George",
+        "Votes": 16071,
+        "Percent": 28.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PATERSON, Eric",
+        "Votes": 7866,
+        "Percent": 13.8
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "JULIUS, Max",
+        "Votes": 2142,
+        "Percent": 3.8
+      }
+    ]
+  },
+  "1949": {
+    "title": "Wide Bay, QLD   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "CORSER, Bernard",
+        "Votes": 22037,
+        "Percent": 56.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROUND, Samuel",
+        "Votes": 10941,
+        "Percent": 28.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCDOWELL, Robert",
+        "Votes": 6037,
+        "Percent": 15.5
+      }
+    ]
+  },
+  "1951": {
+    "title": "Wide Bay, QLD   1951",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "CORSER, Bernard",
+        "Votes": "22895",
+        "Percent": 56.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WALLACE, Thomas",
+        "Votes": "17337",
+        "Percent": 43.1
+      }
+    ]
+  },
+  "1954": {
+    "title": "Wide Bay, QLD   1954",
+    "rows": [
+      {
+        "Party": "CPA",
+        "Candidate": "FALLS, William",
+        "Votes": "442",
+        "Percent": 1.1
+      },
+      {
+        "Party": "CP",
+        "Candidate": "BRAND, William",
+        "Votes": "22493",
+        "Percent": 54.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FORDE, Rt Hon Frank",
+        "Votes": "18648",
+        "Percent": 44.8
+      }
+    ]
+  },
+  "1955": {
+    "title": "Wide Bay, QLD   1955",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "BRAND, William",
+        "Votes": "21859",
+        "Percent": 55.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TALLON, Matthew",
+        "Votes": "17724",
+        "Percent": 44.8
+      }
+    ]
+  },
+  "1958": {
+    "title": "Wide Bay, QLD   1958",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "BANDIDT, Henry",
+        "Votes": 19184,
+        "Percent": 47.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HANSEN, Brendan",
+        "Votes": 16498,
+        "Percent": 41.0
+      },
+      {
+        "Party": "QLP",
+        "Candidate": "MCDONNELL, Edward",
+        "Votes": 4526,
+        "Percent": 11.3
+      }
+    ]
+  },
+  "1961": {
+    "title": "Wide Bay, QLD   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HANSEN, Brendan",
+        "Votes": 21808,
+        "Percent": 53.4
+      },
+      {
+        "Party": "CP",
+        "Candidate": "BANDIDT, Henry",
+        "Votes": 16578,
+        "Percent": 40.6
+      },
+      {
+        "Party": "QLP",
+        "Candidate": "MCDONNELL, Edward",
+        "Votes": 1747,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DUNN, James",
+        "Votes": 730,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "1963": {
+    "title": "Wide Bay, QLD   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "JUDGE, Rogers",
+        "Votes": "935",
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NICHOLS, Geoffrey",
+        "Votes": "700",
+        "Percent": 1.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HANSEN, Brendan",
+        "Votes": "23182",
+        "Percent": 56.0
+      },
+      {
+        "Party": "CP",
+        "Candidate": "WHITE, Albert",
+        "Votes": "16568",
+        "Percent": 40.0
+      }
+    ]
+  },
+  "1966": {
+    "title": "Wide Bay, QLD   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HANSEN, Brendan",
+        "Votes": 23459,
+        "Percent": 54.9
+      },
+      {
+        "Party": "CP",
+        "Candidate": "WHITE, Albert",
+        "Votes": 16936,
+        "Percent": 39.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HUTCHINSON, William",
+        "Votes": 2347,
+        "Percent": 5.5
+      }
+    ]
+  },
+  "1969": {
+    "title": "Wide Bay, QLD   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HANSEN, Brendan",
+        "Votes": 27962,
+        "Percent": 55.1
+      },
+      {
+        "Party": "CP",
+        "Candidate": "NEVILLE, Paul",
+        "Votes": 20935,
+        "Percent": 41.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "KEHOE, Laurence",
+        "Votes": 1865,
+        "Percent": 3.7
+      }
+    ]
+  },
+  "1972": {
+    "title": "Wide Bay, QLD   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HANSEN, Brendan",
+        "Votes": 26572,
+        "Percent": 52.2
+      },
+      {
+        "Party": "CP",
+        "Candidate": "CRAWFORD, George",
+        "Votes": 21336,
+        "Percent": 41.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BIRCHLEY, Alan",
+        "Votes": 2751,
+        "Percent": 5.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LEISEMANN, Leslie",
+        "Votes": 203,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1974": {
+    "title": "Wide Bay, QLD   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HANSEN, Brendan",
+        "Votes": 26127,
+        "Percent": 45.9
+      },
+      {
+        "Party": "CP",
+        "Candidate": "MILLAR, Clarrie",
+        "Votes": 24875,
+        "Percent": 43.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "THEODORE, Ian",
+        "Votes": 5920,
+        "Percent": 10.4
+      }
+    ]
+  },
+  "1975": {
+    "title": "Wide Bay, QLD   1975",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "MILLAR, Clarrie",
+        "Votes": 34143,
+        "Percent": 57.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HANSEN, Brendan",
+        "Votes": 23286,
+        "Percent": 39.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ALBERTS, Gerrit",
+        "Votes": 1759,
+        "Percent": 3.0
+      }
+    ]
+  },
+  "1977": {
+    "title": "Wide Bay, QLD   1977",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "MILLAR, Clarrie",
+        "Votes": 33655,
+        "Percent": 53.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FAIRCLOTH, Frederick",
+        "Votes": 23276,
+        "Percent": 36.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MACKENZIE, Douglas",
+        "Votes": 6321,
+        "Percent": 10.0
+      }
+    ]
+  },
+  "1980": {
+    "title": "Wide Bay, QLD   1980",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "MILLAR, Clarrie",
+        "Votes": 33377,
+        "Percent": 50.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FINEMORE, James",
+        "Votes": 26708,
+        "Percent": 40.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SCHUH, Geoffrey",
+        "Votes": 4414,
+        "Percent": 6.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BIRD, Raymond",
+        "Votes": 1675,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1983": {
+    "title": "Wide Bay, QLD   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "MILLAR, Clarrie",
+        "Votes": 35472,
+        "Percent": 48.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FINEMORE, James",
+        "Votes": 32362,
+        "Percent": 44.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WORTH, Mervyn",
+        "Votes": 2850,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BIRD, Raymond",
+        "Votes": 1813,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1984": {
+    "title": "Wide Bay, QLD   1984",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "MILLAR, Clarrie",
+        "Votes": 32656,
+        "Percent": 59.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HOBERG, Fred",
+        "Votes": 19833,
+        "Percent": 35.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SPICER, Glen",
+        "Votes": 2745,
+        "Percent": 5.0
+      }
+    ]
+  },
+  "1987": {
+    "title": "Wide Bay, QLD   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "MILLAR, Clarrie",
+        "Votes": 30699,
+        "Percent": 50.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FOLEY, Andrew",
+        "Votes": 22815,
+        "Percent": 37.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PRIMAVERA, Cam",
+        "Votes": 4616,
+        "Percent": 7.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BARRY, Ray",
+        "Votes": 2714,
+        "Percent": 4.5
+      }
+    ]
+  },
+  "1990": {
+    "title": "Wide Bay, QLD   1990",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "TRUSS, Warren",
+        "Votes": 32498,
+        "Percent": 47.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FOLEY, Andrew",
+        "Votes": 25347,
+        "Percent": 36.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SANDALL, Bryan",
+        "Votes": 9108,
+        "Percent": 13.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ZSCHECH, John",
+        "Votes": 1695,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1993": {
+    "title": "Wide Bay, QLD   1993",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HARTSHORNE, Trevor",
+        "Votes": "6519",
+        "Percent": 8.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BAKER, Andrew",
+        "Votes": "4279",
+        "Percent": 5.7
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "TRUSS, Warren",
+        "Votes": "33255",
+        "Percent": 44.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WOODLEY, Marie",
+        "Votes": "2700",
+        "Percent": 3.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CAPLICK, Judy",
+        "Votes": "24861",
+        "Percent": 32.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PODGER, Lily",
+        "Votes": "2083",
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Ray",
+        "Votes": "1770",
+        "Percent": 2.4
+      }
+    ]
+  },
+  "1996": {
+    "title": "Wide Bay, QLD   1996",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "TRUSS, Warren",
+        "Votes": 43670,
+        "Percent": 59.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HOLMES, Alan",
+        "Votes": 19390,
+        "Percent": 26.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SOUTH, Pamela",
+        "Votes": 5415,
+        "Percent": 7.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FRANCIS, John",
+        "Votes": 2891,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WATSON, Charlie",
+        "Votes": 1064,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SKILTON, Wayne",
+        "Votes": 908,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1998": {
+    "title": "Wide Bay, QLD   1998",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "TRUSS, Hon Warren",
+        "Votes": 22569,
+        "Percent": 31.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TREMLIN, Russ",
+        "Votes": 20391,
+        "Percent": 28.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "WICKS, Graham",
+        "Votes": 18891,
+        "Percent": 26.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FRASER, Desley",
+        "Votes": 5937,
+        "Percent": 8.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RODHOUSE, Phil",
+        "Votes": 1552,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POSTLE, Bob",
+        "Votes": 1480,
+        "Percent": 2.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NIELSEN, Richard",
+        "Votes": 917,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2001": {
+    "title": "Wide Bay, QLD   2001",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "TRUSS, Hon Warren",
+        "Votes": 33124,
+        "Percent": 45.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TREMLIN, Russell",
+        "Votes": 19733,
+        "Percent": 26.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "DWYER, Jim",
+        "Votes": 8176,
+        "Percent": 11.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WICKS, Graeme",
+        "Votes": 3380,
+        "Percent": 4.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DALGLEISH, David",
+        "Votes": 3192,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PITT, A R",
+        "Votes": 2650,
+        "Percent": 3.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JANSEN, Paul",
+        "Votes": 1385,
+        "Percent": 1.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SMITH, Althea",
+        "Votes": 1230,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HETHERINGTON, Maurice",
+        "Votes": 489,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2004": {
+    "title": "Wide Bay, QLD   2004",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "TRUSS, Hon Warren",
+        "Votes": 38544,
+        "Percent": 47.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "AMBROSE, Sean",
+        "Votes": 21031,
+        "Percent": 25.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HEDBERG, Lars",
+        "Votes": 9980,
+        "Percent": 12.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "ROBINSON, Wesley",
+        "Votes": 4048,
+        "Percent": 4.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RICHARDS, Ian",
+        "Votes": 3624,
+        "Percent": 4.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "WILSON, Glen",
+        "Votes": 2899,
+        "Percent": 3.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WEIR, Darryl",
+        "Votes": 935,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "D\u0092OLIVEIRA, Cy",
+        "Votes": 816,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2007": {
+    "title": "Wide Bay, QLD   2007",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "TRUSS, Hon Warren",
+        "Votes": 39177,
+        "Percent": 48.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LAWRENCE, Tony",
+        "Votes": 24758,
+        "Percent": 30.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WEBB, Katherine",
+        "Votes": 6615,
+        "Percent": 8.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MOLLOY, Cate",
+        "Votes": 5576,
+        "Percent": 6.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CHAPMAN, John",
+        "Votes": 2792,
+        "Percent": 3.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "ESSENBERG, Martin",
+        "Votes": 996,
+        "Percent": 1.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SHAW, Terry",
+        "Votes": 719,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2010": {
+    "title": "Wide Bay, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "TRUSS, Hon Warren",
+        "Votes": 47977,
+        "Percent": 58.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ANSELL, Nikolee",
+        "Votes": 19645,
+        "Percent": 24.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCDONALD, Jim",
+        "Votes": 8967,
+        "Percent": 11.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HERSCHELL, Ken",
+        "Votes": 3049,
+        "Percent": 3.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "FERRARO, Santo",
+        "Votes": 1875,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "2013": {
+    "title": "Wide Bay, QLD   2013",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "TRUSS, Hon Warren",
+        "Votes": 41767,
+        "Percent": 48.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STANTON, Lucy",
+        "Votes": 17697,
+        "Percent": 20.7
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "ANDERSON, Stephen",
+        "Votes": 13574,
+        "Percent": 15.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RINGROSE, Joy",
+        "Votes": 5596,
+        "Percent": 6.5
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "DALE, Gordon",
+        "Votes": 5022,
+        "Percent": 5.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CHAPMAN, John",
+        "Votes": 1286,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DICKINS, Grace",
+        "Votes": 517,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2016": {
+    "title": "Wide Bay, QLD   2016",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "O'BRIEN, Llew",
+        "Votes": 39373,
+        "Percent": 43.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STANTON, Lucy",
+        "Votes": 20301,
+        "Percent": 22.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "COTTAM, Elise",
+        "Votes": 14022,
+        "Percent": 15.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MARSH, Bron",
+        "Votes": 7355,
+        "Percent": 8.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DEAN, Jannean",
+        "Votes": 4082,
+        "Percent": 4.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MAYER, Bruce",
+        "Votes": 2399,
+        "Percent": 2.6
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "COOK, Barry",
+        "Votes": 2357,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "2019": {
+    "title": "Wide Bay, QLD   2019",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "O'BRIEN, Llew",
+        "Votes": 44204,
+        "Percent": 47.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SCANES, Jason",
+        "Votes": 20418,
+        "Percent": 21.8
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "VICO, Aaron",
+        "Votes": 10166,
+        "Percent": 10.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BRYAR, Daniel",
+        "Votes": 9330,
+        "Percent": 9.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JEROME, Tim",
+        "Votes": 4220,
+        "Percent": 4.5
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SCHEBELLA, Andrew",
+        "Votes": 3385,
+        "Percent": 3.6
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "SMITH, Jasmine",
+        "Votes": 2149,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "2022": {
+    "title": "Wide Bay, QLD   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "O'BRIEN, Llew",
+        "Votes": 41601,
+        "Percent": 43.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIAMS, Geoff",
+        "Votes": 20345,
+        "Percent": 21.3
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "BUCKLEY, Nathan",
+        "Votes": 9765,
+        "Percent": 10.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ARMSTRONG, Craig",
+        "Votes": 9088,
+        "Percent": 9.5
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "BENNETT, Tracy",
+        "Votes": 4406,
+        "Percent": 4.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JACOBI, Kelli",
+        "Votes": 4106,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JEROME, Tim",
+        "Votes": 2737,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "NEWLAND, Andrea",
+        "Votes": 2097,
+        "Percent": 2.2
+      },
+      {
+        "Party": "AVP",
+        "Candidate": "WILLIAMS, Daniel",
+        "Votes": 1057,
+        "Percent": 1.1
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "WOODWARD, John",
+        "Votes": 501,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2025": {
+    "title": "Wide Bay, QLD   2025",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "O'BRIEN, Llew",
+        "Votes": 41055,
+        "Percent": 39.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CHALMERS, Elliott",
+        "Votes": 27271,
+        "Percent": 26.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BURGESS, Chad",
+        "Votes": 12646,
+        "Percent": 12.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BUHSE, Emma",
+        "Votes": 9080,
+        "Percent": 8.6
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "KENNINGALE, Kirsti",
+        "Votes": 5394,
+        "Percent": 5.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "IDDON, Casey",
+        "Votes": 5090,
+        "Percent": 4.8
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "PENNICOTT, Gabrial",
+        "Votes": 4522,
+        "Percent": 4.3
+      }
+    ]
+  }
+}

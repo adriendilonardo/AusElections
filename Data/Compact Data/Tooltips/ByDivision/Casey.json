@@ -1,0 +1,964 @@
+{
+  "1969": {
+    "title": "Casey, VIC   1969",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOWSON, Hon Peter",
+        "Votes": 21517,
+        "Percent": 43.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WATERSON, Duncan",
+        "Votes": 20420,
+        "Percent": 41.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ADAMSON, Kevin",
+        "Votes": 5656,
+        "Percent": 11.4
+      },
+      {
+        "Party": "AP",
+        "Candidate": "WEBER, Leonard",
+        "Votes": 1852,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCHILLANI, Joe",
+        "Votes": 320,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1972": {
+    "title": "Casey, VIC   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MATHEWS, Race",
+        "Votes": 27845,
+        "Percent": 46.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HOWSON, Hon Peter",
+        "Votes": 23079,
+        "Percent": 38.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ADAMSON, Kevin",
+        "Votes": 4242,
+        "Percent": 7.1
+      },
+      {
+        "Party": "AP",
+        "Candidate": "CHAMPION, Clive",
+        "Votes": 2277,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRIGGS, Margaret",
+        "Votes": 749,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ANDREWS, Alfred",
+        "Votes": 727,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MATTHEWS, Roderick",
+        "Votes": 416,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1974": {
+    "title": "Casey, VIC   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MATHEWS, Race",
+        "Votes": 34409,
+        "Percent": 49.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FALCONER, Peter",
+        "Votes": 30191,
+        "Percent": 43.3
+      },
+      {
+        "Party": "AP",
+        "Candidate": "CHAMPION, Clive",
+        "Votes": 2552,
+        "Percent": 3.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MCKENNA, John",
+        "Votes": 2411,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCHILLANI, Joe",
+        "Votes": 161,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "1975": {
+    "title": "Casey, VIC   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FALCONER, Peter",
+        "Votes": 39597,
+        "Percent": 53.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MATHEWS, Race",
+        "Votes": 30611,
+        "Percent": 40.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MCKENNA, John",
+        "Votes": 2289,
+        "Percent": 3.1
+      },
+      {
+        "Party": "AP",
+        "Candidate": "DEERBON, Murray",
+        "Votes": 1340,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "AUSSIE-STONE, Marc",
+        "Votes": 923,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1977": {
+    "title": "Casey, VIC   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FALCONER, Peter",
+        "Votes": 29896,
+        "Percent": 48.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WATSON, Peter",
+        "Votes": 18772,
+        "Percent": 30.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WHITTLE, Malcolm",
+        "Votes": 10314,
+        "Percent": 16.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FELTHAM, Francis",
+        "Votes": 1761,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HETHERICH, Martin",
+        "Votes": 694,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HILLMAN, Stanley",
+        "Votes": 343,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LEGGETT, Henry",
+        "Votes": 151,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "1980": {
+    "title": "Casey, VIC   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FALCONER, Peter",
+        "Votes": 31107,
+        "Percent": 45.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WATSON, Peter",
+        "Votes": 26841,
+        "Percent": 39.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SMITH, Basil",
+        "Votes": 7032,
+        "Percent": 10.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WAINER, Dr Bertram",
+        "Votes": 2720,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HETHERICH, Martin",
+        "Votes": 563,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THIELE, Wilfrid",
+        "Votes": 193,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1983": {
+    "title": "Casey, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "STEEDMAN, Peter",
+        "Votes": 34810,
+        "Percent": 46.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FALCONER, Peter",
+        "Votes": 33335,
+        "Percent": 44.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NARDELLA, Michael",
+        "Votes": 5646,
+        "Percent": 7.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HETHERICH, Martin",
+        "Votes": 931,
+        "Percent": 1.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "GARRATT, John",
+        "Votes": 887,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1984": {
+    "title": "Casey, VIC   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "STEEDMAN, Peter",
+        "Votes": 25240,
+        "Percent": 44.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HALVERSON, Robert",
+        "Votes": 25070,
+        "Percent": 43.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NARDELLA, Michael",
+        "Votes": 3709,
+        "Percent": 6.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "GARRATT, John",
+        "Votes": 1744,
+        "Percent": 3.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "GRAY, Robert",
+        "Votes": 729,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EWAN, Rosamund",
+        "Votes": 564,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1987": {
+    "title": "Casey, VIC   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HALVERSON, Robert",
+        "Votes": 30225,
+        "Percent": 46.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCKENZIE, David",
+        "Votes": 27891,
+        "Percent": 43.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MAR, Chris",
+        "Votes": 5071,
+        "Percent": 7.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "HAFFENDEN, Roy",
+        "Votes": 861,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MADDEN, Flo",
+        "Votes": 617,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1990": {
+    "title": "Casey, VIC   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HALVERSON, Robert",
+        "Votes": 33006,
+        "Percent": 48.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LINEHAN, Jon",
+        "Votes": 20270,
+        "Percent": 29.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "REES, Paul",
+        "Votes": 10124,
+        "Percent": 14.9
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "DUBBELD, John",
+        "Votes": 3718,
+        "Percent": 5.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEEGEL, Earle",
+        "Votes": 531,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Basil",
+        "Votes": 361,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1993": {
+    "title": "Casey, VIC   1993",
+    "rows": [
+      {
+        "Party": "AD",
+        "Candidate": "GINSBERG, Sam",
+        "Votes": "4574",
+        "Percent": 6.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HALVERSON, Robert",
+        "Votes": "38716",
+        "Percent": 52.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WARREN, Julie",
+        "Votes": "29277",
+        "Percent": 39.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KENDI, Robert",
+        "Votes": "1104",
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1996": {
+    "title": "Casey, VIC   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HALVERSON, Robert",
+        "Votes": 35943,
+        "Percent": 50.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BURNS, Des",
+        "Votes": 25722,
+        "Percent": 35.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MADDOCK, Glen",
+        "Votes": 7140,
+        "Percent": 9.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KEANE, Chanel",
+        "Votes": 2360,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KENCI, Robert",
+        "Votes": 350,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Basil",
+        "Votes": 332,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1998": {
+    "title": "Casey, VIC   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WOOLDRIDGE, Hon Dr Michael",
+        "Votes": 34322,
+        "Percent": 46.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ARMENIO, Frank",
+        "Votes": 24732,
+        "Percent": 33.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCLAREN, John",
+        "Votes": 5481,
+        "Percent": 7.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BECK, Stephen",
+        "Votes": 2412,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MACKELLAR, John",
+        "Votes": 2067,
+        "Percent": 2.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JAMES, Chris",
+        "Votes": 1634,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WARWICK, Judy",
+        "Votes": 1070,
+        "Percent": 1.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "SMIDT, Basil",
+        "Votes": 917,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KENDI, Robert",
+        "Votes": 557,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMART, Gary",
+        "Votes": 405,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RASKOVY, Steve",
+        "Votes": 396,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2001": {
+    "title": "Casey, VIC   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SMITH, Tony",
+        "Votes": 40354,
+        "Percent": 51.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCKENZIE, David",
+        "Votes": 26211,
+        "Percent": 33.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JOYCE, Tom",
+        "Votes": 6738,
+        "Percent": 8.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LEACH, Lorraine",
+        "Votes": 5424,
+        "Percent": 6.9
+      }
+    ]
+  },
+  "2004": {
+    "title": "Casey, VIC   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SMITH, Tony",
+        "Votes": 45050,
+        "Percent": 56.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DIB, Tony",
+        "Votes": 23762,
+        "Percent": 29.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RINGROSE, Joy",
+        "Votes": 6302,
+        "Percent": 7.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "RUSHTON, Andrew",
+        "Votes": 3243,
+        "Percent": 4.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "VANDERSMAN, Jos",
+        "Votes": 1002,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHAPMAN, Daniel",
+        "Votes": 531,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BECK, Jeremy",
+        "Votes": 167,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2007": {
+    "title": "Casey, VIC   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SMITH, Hon Tony",
+        "Votes": 41897,
+        "Percent": 50.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BEARD, Dympna",
+        "Votes": 29949,
+        "Percent": 35.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CRAIG, Salore",
+        "Votes": 6112,
+        "Percent": 7.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HARRISON, Daniel",
+        "Votes": 3501,
+        "Percent": 4.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "INGLESE, Tony",
+        "Votes": 1546,
+        "Percent": 1.9
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "MORAN, George",
+        "Votes": 533,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2010": {
+    "title": "Casey, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SMITH, Hon Tony",
+        "Votes": 40588,
+        "Percent": 48.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HISHEH, Sami",
+        "Votes": 29565,
+        "Percent": 35.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "POWELL, Brendan",
+        "Votes": 9661,
+        "Percent": 11.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HARRISON, Daniel",
+        "Votes": 4083,
+        "Percent": 4.9
+      }
+    ]
+  },
+  "2013": {
+    "title": "Casey, VIC   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SMITH, Hon Tony",
+        "Votes": 43538,
+        "Percent": 49.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FARRELL, Cathy",
+        "Votes": 24651,
+        "Percent": 27.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MEACHER, Steve",
+        "Votes": 9641,
+        "Percent": 10.9
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "WILDE, Milton",
+        "Votes": 4413,
+        "Percent": 5.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "COOMBES, Gary",
+        "Votes": 2370,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCRAE, Jeanette",
+        "Votes": 1358,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, Mike",
+        "Votes": 1126,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LEAKE, Jeffrey",
+        "Votes": 986,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARBIERI, Paul",
+        "Votes": 446,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2016": {
+    "title": "Casey, VIC   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SMITH, Hon Tony",
+        "Votes": 45680,
+        "Percent": 49.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MELKONIAN, Hovig",
+        "Votes": 26165,
+        "Percent": 28.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SUTHERLAND, Elissa",
+        "Votes": 10781,
+        "Percent": 11.7
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "BACON, Kristin",
+        "Votes": 4176,
+        "Percent": 4.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHARLETON, Peter",
+        "Votes": 2878,
+        "Percent": 3.1
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "DORIAN, Angela",
+        "Votes": 2551,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "2019": {
+    "title": "Casey, VIC   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SMITH, Hon Tony",
+        "Votes": 45168,
+        "Percent": 45.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRINDLE, Bill",
+        "Votes": 28551,
+        "Percent": 28.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GAME-LOPATA, Jenny",
+        "Votes": 10919,
+        "Percent": 10.9
+      },
+      {
+        "Party": "DHJP",
+        "Candidate": "CLARK, Ryan",
+        "Votes": 3309,
+        "Percent": 3.3
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "BARKER, Travis",
+        "Votes": 3105,
+        "Percent": 3.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "STARKEY, Wendy",
+        "Votes": 2607,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHARLETON, Peter",
+        "Votes": 2302,
+        "Percent": 2.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MCPHEE, Ross",
+        "Votes": 2246,
+        "Percent": 2.3
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "CALABRO, Antony",
+        "Votes": 820,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2022": {
+    "title": "Casey, VIC   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "VIOLI, Aaron",
+        "Votes": 36347,
+        "Percent": 36.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRINDLE, Bill",
+        "Votes": 24779,
+        "Percent": 24.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GAME, Jenny",
+        "Votes": 12894,
+        "Percent": 12.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MILES, Claire Ferres",
+        "Votes": 8307,
+        "Percent": 8.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "BELLVE, Anthony",
+        "Votes": 4834,
+        "Percent": 4.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COLE, Craig",
+        "Votes": 3455,
+        "Percent": 3.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MURPHY, Paul",
+        "Votes": 3260,
+        "Percent": 3.3
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "SMITH, Trevor",
+        "Votes": 2008,
+        "Percent": 2.0
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "KLOP, Andrew",
+        "Votes": 1844,
+        "Percent": 1.9
+      },
+      {
+        "Party": "DHJP",
+        "Candidate": "SULLIVAN, Peter",
+        "Votes": 1207,
+        "Percent": 1.2
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "FIELD, Chris",
+        "Votes": 687,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2025": {
+    "title": "Casey, VIC   2025",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "VIOLI, Aaron",
+        "Votes": 45194,
+        "Percent": 40.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "OAKLEY, Naomi",
+        "Votes": 26820,
+        "Percent": 24.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BLAIR, Merran",
+        "Votes": 12107,
+        "Percent": 11.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FERRES MILES, Claire",
+        "Votes": 11590,
+        "Percent": 10.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "LIVORI, Ambere",
+        "Votes": 5603,
+        "Percent": 5.1
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "COURTIS, Phillip",
+        "Votes": 3716,
+        "Percent": 3.4
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "NEBAUER, Dan",
+        "Votes": 3154,
+        "Percent": 2.9
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "BOND, Chloe",
+        "Votes": 2379,
+        "Percent": 2.2
+      }
+    ]
+  }
+}

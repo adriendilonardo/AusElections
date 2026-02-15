@@ -1,0 +1,1027 @@
+{
+  "1946": {
+    "title": "Hunter, NSW   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JAMES, Rowland",
+        "Votes": 45366,
+        "Percent": 76.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FLETCHER, Edward",
+        "Votes": 10208,
+        "Percent": 17.3
+      },
+      {
+        "Party": "ALPN",
+        "Candidate": "CAIN, John",
+        "Votes": 3392,
+        "Percent": 5.8
+      }
+    ]
+  },
+  "1949": {
+    "title": "Hunter, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JAMES, Rowland",
+        "Votes": 26704,
+        "Percent": 68.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FLETCHER, Edward",
+        "Votes": 8502,
+        "Percent": 21.8
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "PHILLIPS, Evan",
+        "Votes": 3729,
+        "Percent": 9.6
+      }
+    ]
+  },
+  "1951": {
+    "title": "Hunter, NSW   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FLETCHER, Edward",
+        "Votes": "6810",
+        "Percent": 16.9
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "PHILLIPS, Evan",
+        "Votes": "2927",
+        "Percent": 7.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JAMES, Rowland",
+        "Votes": "28595",
+        "Percent": 70.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ENGLISH, Arthur",
+        "Votes": "2075",
+        "Percent": 5.1
+      }
+    ]
+  },
+  "1954": {
+    "title": "Hunter, NSW   1954",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "WHITE, John",
+        "Votes": "875",
+        "Percent": 2.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FARRELL, Edward",
+        "Votes": "8380",
+        "Percent": 19.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JAMES, Rowland",
+        "Votes": "29637",
+        "Percent": 67.1
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "PHILLIPS, Evan",
+        "Votes": "2710",
+        "Percent": 6.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCCROAREY, John",
+        "Votes": "2594",
+        "Percent": 5.9
+      }
+    ]
+  },
+  "1955": {
+    "title": "Hunter, NSW   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FARRELL, Edward",
+        "Votes": "8604",
+        "Percent": 21.3
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "PHILLIPS, Evan",
+        "Votes": "3158",
+        "Percent": 7.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JAMES, Rowland",
+        "Votes": "28566",
+        "Percent": 70.8
+      }
+    ]
+  },
+  "1958": {
+    "title": "Hunter, NSW   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EVATT, Rt Hon Dr Herbert",
+        "Votes": 31740,
+        "Percent": 74.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MARSDEN, John",
+        "Votes": 6036,
+        "Percent": 14.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BURKE, William",
+        "Votes": 4884,
+        "Percent": 11.4
+      }
+    ]
+  },
+  "1961": {
+    "title": "Hunter, NSW   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JAMES, Bert",
+        "Votes": 33435,
+        "Percent": 75.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FARRELL, Edward",
+        "Votes": 8337,
+        "Percent": 18.8
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "TAPP, John",
+        "Votes": 2527,
+        "Percent": 5.7
+      }
+    ]
+  },
+  "1963": {
+    "title": "Hunter, NSW   1963",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WASSELL, John",
+        "Votes": "7555",
+        "Percent": 16.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BARR, Aubrey",
+        "Votes": "3389",
+        "Percent": 7.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JAMES, Bert",
+        "Votes": "32132",
+        "Percent": 71.1
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "PHILLIPS, Evan",
+        "Votes": "2103",
+        "Percent": 4.7
+      }
+    ]
+  },
+  "1966": {
+    "title": "Hunter, NSW   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JAMES, Bert",
+        "Votes": 33037,
+        "Percent": 71.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GILCHRIST, William",
+        "Votes": 9044,
+        "Percent": 19.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "RICHARDS, Donald",
+        "Votes": 3839,
+        "Percent": 8.4
+      }
+    ]
+  },
+  "1969": {
+    "title": "Hunter, NSW   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JAMES, Bert",
+        "Votes": 36504,
+        "Percent": 73.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HUGHES, Raymond",
+        "Votes": 13159,
+        "Percent": 26.5
+      }
+    ]
+  },
+  "1972": {
+    "title": "Hunter, NSW   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JAMES, Bert",
+        "Votes": 40631,
+        "Percent": 75.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GUMBLETON, Stanley",
+        "Votes": 13436,
+        "Percent": 24.9
+      }
+    ]
+  },
+  "1974": {
+    "title": "Hunter, NSW   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JAMES, Bert",
+        "Votes": 44987,
+        "Percent": 72.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BEVAN, Richard",
+        "Votes": 15442,
+        "Percent": 24.9
+      },
+      {
+        "Party": "AP",
+        "Candidate": "KYNASTON, Desmond",
+        "Votes": 1501,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "1975": {
+    "title": "Hunter, NSW   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JAMES, Bert",
+        "Votes": 43590,
+        "Percent": 68.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WALKER, Stephen",
+        "Votes": 20100,
+        "Percent": 31.6
+      }
+    ]
+  },
+  "1977": {
+    "title": "Hunter, NSW   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JAMES, Bert",
+        "Votes": 42076,
+        "Percent": 60.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FENNELL, Oliver",
+        "Votes": 19299,
+        "Percent": 27.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KIRKBY, Elisabeth",
+        "Votes": 7944,
+        "Percent": 11.5
+      }
+    ]
+  },
+  "1980": {
+    "title": "Hunter, NSW   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BROWN, Robert",
+        "Votes": 51061,
+        "Percent": 67.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SAUNDERS, Ashley",
+        "Votes": 19896,
+        "Percent": 26.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WILSON, Edwina",
+        "Votes": 4227,
+        "Percent": 5.6
+      }
+    ]
+  },
+  "1983": {
+    "title": "Hunter, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BROWN, Robert",
+        "Votes": 54213,
+        "Percent": 68.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WHITE, James",
+        "Votes": 19508,
+        "Percent": 24.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WILSON, Edwina",
+        "Votes": 5942,
+        "Percent": 7.5
+      }
+    ]
+  },
+  "1984": {
+    "title": "Hunter, NSW   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FITZGIBBON, Eric",
+        "Votes": 28589,
+        "Percent": 47.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DOLTON, Ron",
+        "Votes": 16483,
+        "Percent": 27.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "TURNER, John",
+        "Votes": 12420,
+        "Percent": 20.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "REID, Warren",
+        "Votes": 2952,
+        "Percent": 4.9
+      }
+    ]
+  },
+  "1987": {
+    "title": "Hunter, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FITZGIBBON, Eric",
+        "Votes": 31656,
+        "Percent": 48.9
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "TURNER, John",
+        "Votes": 16067,
+        "Percent": 24.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DUNKLEY, Graham",
+        "Votes": 13053,
+        "Percent": 20.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SIMPSON, Maureen",
+        "Votes": 3902,
+        "Percent": 6.0
+      }
+    ]
+  },
+  "1990": {
+    "title": "Hunter, NSW   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FITZGIBBON, Eric",
+        "Votes": 34099,
+        "Percent": 49.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SAUNDERS, Ashley",
+        "Votes": 19145,
+        "Percent": 27.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RICHARDS, Chris",
+        "Votes": 8717,
+        "Percent": 12.6
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "DAVEY, Alison",
+        "Votes": 7312,
+        "Percent": 10.6
+      }
+    ]
+  },
+  "1993": {
+    "title": "Hunter, NSW   1993",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FITZGIBBON, Eric",
+        "Votes": "43068",
+        "Percent": 60.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WALKER, Robert",
+        "Votes": "2004",
+        "Percent": 2.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BARNES, Chris",
+        "Votes": "13637",
+        "Percent": 19.2
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "CROSSING, Bruce",
+        "Votes": "12366",
+        "Percent": 17.4
+      }
+    ]
+  },
+  "1996": {
+    "title": "Hunter, NSW   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FITZGIBBON, Joel",
+        "Votes": 36674,
+        "Percent": 50.7
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "JOHNSEN, Michael",
+        "Votes": 26767,
+        "Percent": 37.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BENNINSON, Rod",
+        "Votes": 3672,
+        "Percent": 5.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "VAUGHAN, Jenny",
+        "Votes": 3000,
+        "Percent": 4.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BURKE, Bernard",
+        "Votes": 2160,
+        "Percent": 3.0
+      }
+    ]
+  },
+  "1998": {
+    "title": "Hunter, NSW   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FITZGIBBON, Joel",
+        "Votes": 39187,
+        "Percent": 54.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCLEAN, Cherrilyn",
+        "Votes": 11919,
+        "Percent": 16.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "CULLEY, Darren",
+        "Votes": 8131,
+        "Percent": 11.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "MACAULAY, Rob",
+        "Votes": 7976,
+        "Percent": 11.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BENNISON, Rod",
+        "Votes": 2278,
+        "Percent": 3.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RYAN, James",
+        "Votes": 1433,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAWLER, Ann",
+        "Votes": 363,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MEDDOWS, Peter",
+        "Votes": 296,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COOK, Terry",
+        "Votes": 152,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "Hunter, NSW   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FITZGIBBON, Joel",
+        "Votes": 41123,
+        "Percent": 52.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "MACAULAY, Rob",
+        "Votes": 21613,
+        "Percent": 27.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "FOX, Bill",
+        "Votes": 8100,
+        "Percent": 10.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "O'BRIEN, Larry",
+        "Votes": 3553,
+        "Percent": 4.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BENNISON, Rod",
+        "Votes": 3071,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAWLER, Ann",
+        "Votes": 1137,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2004": {
+    "title": "Hunter, NSW   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FITZGIBBON, Joel",
+        "Votes": 43216,
+        "Percent": 53.6
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BLACK, Beth",
+        "Votes": 21621,
+        "Percent": 26.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SUWALD, Kerry",
+        "Votes": 5195,
+        "Percent": 6.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FOX, Bill",
+        "Votes": 2618,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAWLER, Ann",
+        "Votes": 2590,
+        "Percent": 3.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SCHOLES, Neil",
+        "Votes": 2543,
+        "Percent": 3.1
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "MELBOURNE, Adrian",
+        "Votes": 1673,
+        "Percent": 2.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "WOODS, Michael",
+        "Votes": 1176,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "2007": {
+    "title": "Hunter, NSW   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FITZGIBBON, Joel",
+        "Votes": 49561,
+        "Percent": 60.0
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "BLACK, Beth",
+        "Votes": 22328,
+        "Percent": 27.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DAVIS, Jan",
+        "Votes": 5265,
+        "Percent": 6.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARVEY, John",
+        "Votes": 2500,
+        "Percent": 3.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "NEVILLE, Bernie",
+        "Votes": 1736,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ALBURY, Daniel",
+        "Votes": 1287,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2010": {
+    "title": "Hunter, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FITZGIBBON, Hon Joel",
+        "Votes": 44159,
+        "Percent": 54.3
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "JOHNSON, Michael",
+        "Votes": 25245,
+        "Percent": 31.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PARKER, Chris",
+        "Votes": 7251,
+        "Percent": 8.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "LEAYR, Jennifer",
+        "Votes": 2721,
+        "Percent": 3.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "RILEY, Wayne",
+        "Votes": 1938,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "2013": {
+    "title": "Hunter, NSW   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FITZGIBBON, Hon Joel",
+        "Votes": 38241,
+        "Percent": 44.5
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "JOHNSEN, Michael",
+        "Votes": 30170,
+        "Percent": 35.1
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "STEFANAC, Jennifer",
+        "Votes": 6552,
+        "Percent": 7.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ATWELL, David",
+        "Votes": 5066,
+        "Percent": 5.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "FOX, Bill",
+        "Votes": 3245,
+        "Percent": 3.8
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "STRETTON, Richard",
+        "Votes": 1834,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAWLER, Ann",
+        "Votes": 833,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2016": {
+    "title": "Hunter, NSW   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FITZGIBBON, Hon Joel",
+        "Votes": 49962,
+        "Percent": 51.2
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "ROGERS, Ruth",
+        "Votes": 25409,
+        "Percent": 26.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MORRIS, Peter",
+        "Votes": 6842,
+        "Percent": 7.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARVEY, John",
+        "Votes": 4740,
+        "Percent": 4.9
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "STRETTON, Richard",
+        "Votes": 3260,
+        "Percent": 3.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TROY, Cordelia",
+        "Votes": 3216,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WARHAM, John",
+        "Votes": 1934,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MARTIN, Arjay",
+        "Votes": 1103,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2019": {
+    "title": "Hunter, NSW   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FITZGIBBON, Hon Joel",
+        "Votes": 38331,
+        "Percent": 37.6
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "ANGUS, Josh",
+        "Votes": 23942,
+        "Percent": 23.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "BONDS, Stuart",
+        "Votes": 22029,
+        "Percent": 21.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MURRAY, Janet",
+        "Votes": 7007,
+        "Percent": 6.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "DAVIES, Paul",
+        "Votes": 4407,
+        "Percent": 4.3
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "MURPHY, James",
+        "Votes": 3267,
+        "Percent": 3.2
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "STRETTON, Richard",
+        "Votes": 2356,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BODDY, Max",
+        "Votes": 687,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2022": {
+    "title": "Hunter, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "REPACHOLI, Dan",
+        "Votes": 41514,
+        "Percent": 38.5
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "THOMSON, James",
+        "Votes": 29540,
+        "Percent": 27.4
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MCNAMARA, Dale",
+        "Votes": 10759,
+        "Percent": 10.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MURRAY, Janet",
+        "Votes": 9562,
+        "Percent": 8.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BONDS, Stuart",
+        "Votes": 6126,
+        "Percent": 5.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "PASSFIELD, Geoff",
+        "Votes": 4370,
+        "Percent": 4.1
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "DAVIES, Victoria",
+        "Votes": 2469,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LARUFFA, Scott",
+        "Votes": 1929,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "TOWNSEND, Cathy",
+        "Votes": 1458,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2025": {
+    "title": "Hunter, NSW   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "REPACHOLI, Dan",
+        "Votes": 48582,
+        "Percent": 43.5
+      },
+      {
+        "Party": "NP",
+        "Candidate": "GILROY, Sue",
+        "Votes": 20290,
+        "Percent": 18.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BONDS, Stuart",
+        "Votes": 18011,
+        "Percent": 16.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "STOKES, Louise",
+        "Votes": 8286,
+        "Percent": 7.4
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "FENWICK, Andrew David",
+        "Votes": 5655,
+        "Percent": 5.1
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "WRIGHTSON, Suellen",
+        "Votes": 4068,
+        "Percent": 3.6
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "FARRELLY, Paul",
+        "Votes": 2644,
+        "Percent": 2.4
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "BODDAN, Kyle",
+        "Votes": 2507,
+        "Percent": 2.2
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "DAVIES, Victoria",
+        "Votes": 1629,
+        "Percent": 1.5
+      }
+    ]
+  }
+}

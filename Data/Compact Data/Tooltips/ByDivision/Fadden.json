@@ -1,0 +1,758 @@
+{
+  "1977": {
+    "title": "Fadden, QLD   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Clem",
+        "Votes": 23869,
+        "Percent": 38.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAMERON, Donald",
+        "Votes": 20909,
+        "Percent": 33.6
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "SHAPCOTT, James",
+        "Votes": 10910,
+        "Percent": 17.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BARBER, Janice",
+        "Votes": 5559,
+        "Percent": 8.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOND, Melody",
+        "Votes": 717,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GAUTREY, Peter",
+        "Votes": 206,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1980": {
+    "title": "Fadden, QLD   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CAMERON, Donald",
+        "Votes": 37170,
+        "Percent": 48.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BEDDALL, David",
+        "Votes": 33736,
+        "Percent": 43.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BARBER, Janice",
+        "Votes": 5812,
+        "Percent": 7.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRAHAM, Dallas",
+        "Votes": 648,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1983": {
+    "title": "Fadden, QLD   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BEDDALL, David",
+        "Votes": 44412,
+        "Percent": 48.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAMERON, Don",
+        "Votes": 35692,
+        "Percent": 38.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "EDMUNDS, Howard",
+        "Votes": 7251,
+        "Percent": 7.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HALLAM, Murray",
+        "Votes": 3806,
+        "Percent": 4.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FERGUSON, Raymond",
+        "Votes": 505,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRAHAM, Dallas",
+        "Votes": 276,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1984": {
+    "title": "Fadden, QLD   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WILSON, Peter",
+        "Votes": 21335,
+        "Percent": 40.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JULL, David",
+        "Votes": 18938,
+        "Percent": 36.2
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "PREECE, Alun",
+        "Votes": 8738,
+        "Percent": 16.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BARBER, Janice",
+        "Votes": 3354,
+        "Percent": 6.4
+      }
+    ]
+  },
+  "1987": {
+    "title": "Fadden, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WILSON, Peter",
+        "Votes": 24481,
+        "Percent": 41.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JULL, David",
+        "Votes": 21258,
+        "Percent": 35.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "ROBINSON, Peter",
+        "Votes": 9581,
+        "Percent": 16.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DAVIES, Kenneth",
+        "Votes": 4065,
+        "Percent": 6.8
+      }
+    ]
+  },
+  "1990": {
+    "title": "Fadden, QLD   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JULL, David",
+        "Votes": 28361,
+        "Percent": 43.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILKINSON, Marie",
+        "Votes": 24388,
+        "Percent": 37.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CROSS, Eugene",
+        "Votes": 8641,
+        "Percent": 13.4
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "FRECKLETON, Peter",
+        "Votes": 2354,
+        "Percent": 3.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HEYMANN, Richard",
+        "Votes": 794,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1993": {
+    "title": "Fadden, QLD   1993",
+    "rows": [
+      {
+        "Party": "AD",
+        "Candidate": "SANDERS, Leonie",
+        "Votes": "3381",
+        "Percent": 5.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "ABRAHAMSON, Iona",
+        "Votes": "3200",
+        "Percent": 4.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JULL, David",
+        "Votes": "30581",
+        "Percent": 45.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DARVILLE, Harry",
+        "Votes": "3020",
+        "Percent": 4.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ELDON, Peter",
+        "Votes": "25973",
+        "Percent": 38.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MATHESON, Shaun",
+        "Votes": "212",
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KUHNE, Otto",
+        "Votes": "177",
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROSS, Joe",
+        "Votes": "1010",
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1996": {
+    "title": "Fadden, QLD   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JULL, David",
+        "Votes": 42977,
+        "Percent": 60.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NERLEHAN, Ray",
+        "Votes": 18349,
+        "Percent": 26.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JOHNSTON, Betty",
+        "Votes": 6937,
+        "Percent": 9.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GABRIEL, William",
+        "Votes": 1729,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRONSCH, Dulcie",
+        "Votes": 642,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1998": {
+    "title": "Fadden, QLD   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JULL, Hon David",
+        "Votes": 34195,
+        "Percent": 47.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Mike",
+        "Votes": 22460,
+        "Percent": 31.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "PITT, Neil",
+        "Votes": 9213,
+        "Percent": 12.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COTTER, Neil",
+        "Votes": 3248,
+        "Percent": 4.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SMITH, Fay",
+        "Votes": 1472,
+        "Percent": 2.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "MCGUIGAN, John",
+        "Votes": 1418,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "2001": {
+    "title": "Fadden, QLD   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JULL, Hon David",
+        "Votes": 42856,
+        "Percent": 55.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MERLEHAN, Ray",
+        "Votes": 23434,
+        "Percent": 30.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "COYLE, Chris",
+        "Votes": 4897,
+        "Percent": 6.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COTTER, Neil",
+        "Votes": 3308,
+        "Percent": 4.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WOOLFORD, Julian",
+        "Votes": 2305,
+        "Percent": 3.0
+      }
+    ]
+  },
+  "2004": {
+    "title": "Fadden, QLD   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JULL, Hon David",
+        "Votes": 42328,
+        "Percent": 59.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EATHER, Peter",
+        "Votes": 19919,
+        "Percent": 28.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BACH, Willy",
+        "Votes": 3011,
+        "Percent": 4.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "REES, Lyn",
+        "Votes": 2680,
+        "Percent": 3.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "WALTER, John",
+        "Votes": 1428,
+        "Percent": 2.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WILSON, Suzanne",
+        "Votes": 1109,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MARTIN, Ken",
+        "Votes": 598,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2007": {
+    "title": "Fadden, QLD   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ROBERT, Stuart",
+        "Votes": 40813,
+        "Percent": 48.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WATSON, Rana",
+        "Votes": 28106,
+        "Percent": 33.7
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "DOUGLAS, Alex",
+        "Votes": 6177,
+        "Percent": 7.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BEALE, Michael",
+        "Votes": 3748,
+        "Percent": 4.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "WILSON, Ross",
+        "Votes": 1743,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MONTGOMERY, David",
+        "Votes": 1065,
+        "Percent": 1.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "WALTER, John",
+        "Votes": 695,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MARTIN, Ken",
+        "Votes": 582,
+        "Percent": 0.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FAINT, Chris",
+        "Votes": 504,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2010": {
+    "title": "Fadden, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "ROBERT, Stuart",
+        "Votes": 42925,
+        "Percent": 58.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WATSON, Rana",
+        "Votes": 20110,
+        "Percent": 27.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MAIZEY, Graeme",
+        "Votes": 6863,
+        "Percent": 9.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "NICHOLSON, Barrie",
+        "Votes": 2513,
+        "Percent": 3.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "ROSSITER, Ian",
+        "Votes": 1181,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2013": {
+    "title": "Fadden, QLD   2013",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "ROBERT, Stuart",
+        "Votes": 42962,
+        "Percent": 53.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LESSIO, Nicole",
+        "Votes": 17804,
+        "Percent": 22.2
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "MACANALLY, James",
+        "Votes": 11759,
+        "Percent": 14.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MAIZEY, Petrina",
+        "Votes": 3995,
+        "Percent": 5.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "FREDERICKS, Jeremy",
+        "Votes": 1305,
+        "Percent": 1.6
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "LAWRENCE, Billy",
+        "Votes": 1088,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CARROLL, Maurie",
+        "Votes": 712,
+        "Percent": 0.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BOYD, Stewart",
+        "Votes": 510,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2016": {
+    "title": "Fadden, QLD   2016",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "ROBERT, Hon Stuart",
+        "Votes": 43938,
+        "Percent": 49.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SCANLON, Meaghan",
+        "Votes": 23369,
+        "Percent": 26.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BALL, Brendan",
+        "Votes": 10693,
+        "Percent": 12.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KWON, Daniel",
+        "Votes": 6871,
+        "Percent": 7.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "REES, Lyn",
+        "Votes": 3450,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MACNAMARA, Sean",
+        "Votes": 1083,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2019": {
+    "title": "Fadden, QLD   2019",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "ROBERT, Hon Stuart",
+        "Votes": 47359,
+        "Percent": 48.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STANTON, Luz",
+        "Votes": 21882,
+        "Percent": 22.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TURNER, Scott",
+        "Votes": 8747,
+        "Percent": 9.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "EATHER, Darren",
+        "Votes": 8334,
+        "Percent": 8.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "KRISCHKER, Mara",
+        "Votes": 4968,
+        "Percent": 5.1
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "WELCH, Jake",
+        "Votes": 4391,
+        "Percent": 4.5
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "BARBER, Allan",
+        "Votes": 1531,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2022": {
+    "title": "Fadden, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ROBERT, Hon Stuart",
+        "Votes": 47190,
+        "Percent": 44.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FABBRO, Letitia Del",
+        "Votes": 23638,
+        "Percent": 22.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SPAIN, Sally",
+        "Votes": 11353,
+        "Percent": 10.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "ROACH, Sandy",
+        "Votes": 9177,
+        "Percent": 8.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "O'BRIEN, Nathan",
+        "Votes": 7014,
+        "Percent": 6.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROOKER, Stewart",
+        "Votes": 4407,
+        "Percent": 4.2
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "FORBES, Alex",
+        "Votes": 2992,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "2025": {
+    "title": "Fadden, QLD   2025",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "CALDWELL, Cameron",
+        "Votes": 45627,
+        "Percent": 41.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DEL FABBRO, Letitia",
+        "Votes": 30526,
+        "Percent": 27.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "STIMSON, Andrew",
+        "Votes": 10359,
+        "Percent": 9.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MUIR, Nick",
+        "Votes": 8896,
+        "Percent": 8.0
+      },
+      {
+        "Party": "GRPF",
+        "Candidate": "ARMFIELD, John",
+        "Votes": 4938,
+        "Percent": 4.4
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "O'BRIEN, Nathan",
+        "Votes": 4561,
+        "Percent": 4.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROOKER, Stewart",
+        "Votes": 3124,
+        "Percent": 2.8
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "MARTIN, Patricia",
+        "Votes": 2198,
+        "Percent": 2.0
+      },
+      {
+        "Party": "CEC",
+        "Candidate": "PUKALLUS, Dennis",
+        "Votes": 1169,
+        "Percent": 1.0
+      }
+    ]
+  }
+}

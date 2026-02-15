@@ -1,0 +1,665 @@
+{
+  "1984": {
+    "title": "Makin, SA   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DUNCAN, Hon Peter",
+        "Votes": 27282,
+        "Percent": 48.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JOYCE, Neville",
+        "Votes": 22073,
+        "Percent": 39.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COVENTRY, Andrew",
+        "Votes": 5401,
+        "Percent": 9.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUECHNER, Bernhard",
+        "Votes": 1442,
+        "Percent": 2.5
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "HENDERSON, John",
+        "Votes": 412,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1987": {
+    "title": "Makin, SA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DUNCAN, Hon Peter",
+        "Votes": 29361,
+        "Percent": 47.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JOYCE, Neville",
+        "Votes": 24465,
+        "Percent": 39.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KANCK, Sandra",
+        "Votes": 5606,
+        "Percent": 9.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "RICHARDSON, Natalie",
+        "Votes": 1505,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TAPLIN, Kenneth",
+        "Votes": 671,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WUNDERLICH, A",
+        "Votes": 441,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1990": {
+    "title": "Makin, SA   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DUNCAN, Hon Peter",
+        "Votes": 28529,
+        "Percent": 40.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HICKS, Daryl",
+        "Votes": 27462,
+        "Percent": 39.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BARTHOLOMEW, Steve",
+        "Votes": 10619,
+        "Percent": 15.2
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "PENNY, Jeff",
+        "Votes": 2320,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROBERTS, Geoff",
+        "Votes": 639,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOWARD, David",
+        "Votes": 309,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1993": {
+    "title": "Makin, SA   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "DOBSON, Eva",
+        "Votes": "986",
+        "Percent": 1.3
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "DURLAND, Dorothy",
+        "Votes": "986",
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, Susan",
+        "Votes": "844",
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TAYLOR, Alf",
+        "Votes": "745",
+        "Percent": 1.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SMITH, Angela",
+        "Votes": "5585",
+        "Percent": 7.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DUNCAN, Hon Peter",
+        "Votes": "36748",
+        "Percent": 46.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "IRVING, Alan",
+        "Votes": "32353",
+        "Percent": 41.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BATTEN, Stan",
+        "Votes": "294",
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1996": {
+    "title": "Makin, SA   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DRAPER, Trish",
+        "Votes": 35762,
+        "Percent": 44.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DUNCAN, Hon Peter",
+        "Votes": 32709,
+        "Percent": 40.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HILL, Tony",
+        "Votes": 7404,
+        "Percent": 9.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MUELLER, Henri",
+        "Votes": 1914,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NEWCOMBE, Mary",
+        "Votes": 757,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCOTT, Andrew",
+        "Votes": 731,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BAKER, Tony",
+        "Votes": 726,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ILLERT, Barry",
+        "Votes": 267,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1998": {
+    "title": "Makin, SA   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DRAPER, Trish",
+        "Votes": 33702,
+        "Percent": 40.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GAGO, Gail",
+        "Votes": 31194,
+        "Percent": 37.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "POSTA, Christine",
+        "Votes": 8502,
+        "Percent": 10.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "KOWALD, Rodney",
+        "Votes": 8009,
+        "Percent": 9.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WOHLTMANN, Mike",
+        "Votes": 1002,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WELLS, Geoffrey",
+        "Votes": 391,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2001": {
+    "title": "Makin, SA   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DRAPER, Trish",
+        "Votes": 36979,
+        "Percent": 45.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WOODMAN, Julie",
+        "Votes": 29539,
+        "Percent": 36.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "POSTA, Christine",
+        "Votes": 8343,
+        "Percent": 10.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "KOWALD, Rod",
+        "Votes": 3779,
+        "Percent": 4.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "REEVES, Allon",
+        "Votes": 1850,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "2004": {
+    "title": "Makin, SA   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DRAPER, Trish",
+        "Votes": 37912,
+        "Percent": 44.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ZAPPIA, Tony",
+        "Votes": 36486,
+        "Percent": 43.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "PILLAR, Rob",
+        "Votes": 4172,
+        "Percent": 4.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MOORE, Jon",
+        "Votes": 3213,
+        "Percent": 3.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "OPITZ, Catherine",
+        "Votes": 1484,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WALKER, Jeanie",
+        "Votes": 820,
+        "Percent": 1.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HORVAT, Victor",
+        "Votes": 715,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2007": {
+    "title": "Makin, SA   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ZAPPIA, Tony",
+        "Votes": 44890,
+        "Percent": 51.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DAY, Bob",
+        "Votes": 33390,
+        "Percent": 38.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SMITH, Graham",
+        "Votes": 3751,
+        "Percent": 4.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "GRAHAM, Andrew",
+        "Votes": 3096,
+        "Percent": 3.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BROWN, Aleisha",
+        "Votes": 1198,
+        "Percent": 1.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "FECHNER, Robert",
+        "Votes": 502,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VANDERSLUIS, Gary",
+        "Votes": 428,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2010": {
+    "title": "Makin, SA   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ZAPPIA, Tony",
+        "Votes": 43114,
+        "Percent": 50.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DAVIES, Liz",
+        "Votes": 25740,
+        "Percent": 30.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROSE, Jasemin",
+        "Votes": 8604,
+        "Percent": 10.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "POTTER, Mark",
+        "Votes": 5089,
+        "Percent": 6.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GAMEAU, Michael",
+        "Votes": 1081,
+        "Percent": 1.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HORVAT, Anton",
+        "Votes": 662,
+        "Percent": 0.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RICH, Wayne",
+        "Votes": 534,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STEWART, Robert",
+        "Votes": 409,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2013": {
+    "title": "Makin, SA   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ZAPPIA, Tony",
+        "Votes": 41873,
+        "Percent": 45.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LAWRIE, Sue",
+        "Votes": 34192,
+        "Percent": 37.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "POTTER, Mark",
+        "Votes": 5891,
+        "Percent": 6.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HARRISON, Ami",
+        "Votes": 5429,
+        "Percent": 5.9
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "GRAHAM, Andrew",
+        "Votes": 3818,
+        "Percent": 4.2
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "JAMESON, Robert",
+        "Votes": 705,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2016": {
+    "title": "Makin, SA   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ZAPPIA, Tony",
+        "Votes": 39358,
+        "Percent": 41.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "REYNOLDS, Graham",
+        "Votes": 26847,
+        "Percent": 28.7
+      },
+      {
+        "Party": "NXT",
+        "Candidate": "BOSSIE, Craig",
+        "Votes": 15614,
+        "Percent": 16.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SNAPE, Keiran",
+        "Votes": 4373,
+        "Percent": 4.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "COOMBE, Paul",
+        "Votes": 4273,
+        "Percent": 4.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ALDRIDGE, Mark",
+        "Votes": 2126,
+        "Percent": 2.2
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "GREENBERG, Zarina",
+        "Votes": 1479,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "2019": {
+    "title": "Makin, SA   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ZAPPIA, Tony",
+        "Votes": 51666,
+        "Percent": 48.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DAVE, Hemant",
+        "Votes": 35087,
+        "Percent": 32.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "STEWART, Stephanie",
+        "Votes": 9211,
+        "Percent": 8.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "COLLIS, Rachel",
+        "Votes": 6874,
+        "Percent": 6.4
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "GASTON, Lyn",
+        "Votes": 3866,
+        "Percent": 3.6
+      }
+    ]
+  },
+  "2022": {
+    "title": "Makin, SA   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ZAPPIA, Tony",
+        "Votes": 49843,
+        "Percent": 46.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HOWARD-JONES, Alan",
+        "Votes": 33840,
+        "Percent": 31.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MUSTACA, Emma",
+        "Votes": 12317,
+        "Percent": 11.4
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "VAID, Rajan",
+        "Votes": 5097,
+        "Percent": 4.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "DROZDOFF, Kimberley",
+        "Votes": 4639,
+        "Percent": 4.3
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "LAZOOTIN, Abram",
+        "Votes": 1907,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "2025": {
+    "title": "Makin, SA   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ZAPPIA, Tony",
+        "Votes": 50764,
+        "Percent": 47.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ZAGLADOV, Irena",
+        "Votes": 23871,
+        "Percent": 22.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MOORE, Samuel",
+        "Votes": 13134,
+        "Percent": 12.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "DEW-FENNELL, Alison",
+        "Votes": 7152,
+        "Percent": 6.7
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "ALDRIDGE, Mark",
+        "Votes": 4263,
+        "Percent": 4.0
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "NANCARROW, Sue",
+        "Votes": 3521,
+        "Percent": 3.3
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "RUSSELL, Geoff",
+        "Votes": 2524,
+        "Percent": 2.4
+      },
+      {
+        "Party": "SOPA",
+        "Candidate": "HANNA, Amelie",
+        "Votes": 919,
+        "Percent": 0.9
+      }
+    ]
+  }
+}

@@ -1,0 +1,889 @@
+{
+  "1955": {
+    "title": "Stirling, WA   1955",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WEBB, Harry",
+        "Votes": "19257",
+        "Percent": 52.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PAYNE, Frederick",
+        "Votes": "17206",
+        "Percent": 47.2
+      }
+    ]
+  },
+  "1958": {
+    "title": "Stirling, WA   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WEBB, Harry",
+        "Votes": 20936,
+        "Percent": 47.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CASH, Doug",
+        "Votes": 17881,
+        "Percent": 40.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "PEACHEY, Brian",
+        "Votes": 4668,
+        "Percent": 10.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COLLINS, James",
+        "Votes": 713,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1961": {
+    "title": "Stirling, WA   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WEBB, Harry",
+        "Votes": 25262,
+        "Percent": 48.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CASH, Doug",
+        "Votes": 19818,
+        "Percent": 37.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BRIFFA, Adrian",
+        "Votes": 6704,
+        "Percent": 12.8
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MARKS, Albert",
+        "Votes": 649,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1963": {
+    "title": "Stirling, WA   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "PEACHEY, Brian",
+        "Votes": "4044",
+        "Percent": 6.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WEBB, Harry",
+        "Votes": "29806",
+        "Percent": 50.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CASH, Doug",
+        "Votes": "25641",
+        "Percent": 43.1
+      }
+    ]
+  },
+  "1966": {
+    "title": "Stirling, WA   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WEBB, Harry",
+        "Votes": 33089,
+        "Percent": 49.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CASH, Earl",
+        "Votes": 27403,
+        "Percent": 41.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "POWNALL, Francis",
+        "Votes": 5836,
+        "Percent": 8.8
+      }
+    ]
+  },
+  "1969": {
+    "title": "Stirling, WA   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WEBB, Harry",
+        "Votes": 28468,
+        "Percent": 53.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "VINER, Ian",
+        "Votes": 20146,
+        "Percent": 37.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "PEACHEY, Brian",
+        "Votes": 3422,
+        "Percent": 6.4
+      },
+      {
+        "Party": "AP",
+        "Candidate": "COOKE, Allan",
+        "Votes": 1540,
+        "Percent": 2.9
+      }
+    ]
+  },
+  "1972": {
+    "title": "Stirling, WA   1972",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "VINER, Ian",
+        "Votes": 30446,
+        "Percent": 47.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WEBB, Harry",
+        "Votes": 29686,
+        "Percent": 46.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "PEACHEY, Brian",
+        "Votes": 4243,
+        "Percent": 6.6
+      }
+    ]
+  },
+  "1974": {
+    "title": "Stirling, WA   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "REECE, Graham",
+        "Votes": 25648,
+        "Percent": 47.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "VINER, Ian",
+        "Votes": 24942,
+        "Percent": 46.3
+      },
+      {
+        "Party": NaN,
+        "Candidate": "CLARK, Marie",
+        "Votes": 2797,
+        "Percent": 5.2
+      },
+      {
+        "Party": "AP",
+        "Candidate": "TONGE, Carolyn",
+        "Votes": 471,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1975": {
+    "title": "Stirling, WA   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "VINER, Ian",
+        "Votes": 34021,
+        "Percent": 57.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "REECE, Graham",
+        "Votes": 23073,
+        "Percent": 39.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUTTERWORTH, Brian",
+        "Votes": 1643,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "1977": {
+    "title": "Stirling, WA   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "VINER, Hon Ian",
+        "Votes": 32558,
+        "Percent": 50.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "REECE, Graham",
+        "Votes": 20786,
+        "Percent": 32.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CHRISTIE, Scott",
+        "Votes": 9591,
+        "Percent": 14.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JAMIESON, James",
+        "Votes": 1876,
+        "Percent": 2.9
+      }
+    ]
+  },
+  "1980": {
+    "title": "Stirling, WA   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "VINER, Hon Ian",
+        "Votes": 30307,
+        "Percent": 48.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PITTS, Richard",
+        "Votes": 26135,
+        "Percent": 42.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JENKINS, Jean",
+        "Votes": 4242,
+        "Percent": 6.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROINOWSKI, Roger",
+        "Votes": 1301,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "1983": {
+    "title": "Stirling, WA   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EDWARDS, Ronald",
+        "Votes": 35828,
+        "Percent": 54.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "VINER, Hon Ian",
+        "Votes": 27181,
+        "Percent": 41.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PHILLIPS, Maria",
+        "Votes": 2695,
+        "Percent": 4.1
+      }
+    ]
+  },
+  "1984": {
+    "title": "Stirling, WA   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EDWARDS, Ronald",
+        "Votes": 29736,
+        "Percent": 49.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HANCOCK, Greg",
+        "Votes": 26994,
+        "Percent": 45.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BARRETT, Terence",
+        "Votes": 2421,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MARTIN, Eric",
+        "Votes": 675,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1987": {
+    "title": "Stirling, WA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EDWARDS, Ronald",
+        "Votes": 29342,
+        "Percent": 49.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROWN, Bill",
+        "Votes": 24544,
+        "Percent": 41.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BARCLAY, Harvard",
+        "Votes": 2799,
+        "Percent": 4.7
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BEVERIDGE, Malcolm",
+        "Votes": 2345,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUSSELL, Alf",
+        "Votes": 594,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1990": {
+    "title": "Stirling, WA   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BARKER, Jock",
+        "Votes": 28257,
+        "Percent": 43.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EDWARDS, Ronald",
+        "Votes": 26120,
+        "Percent": 39.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "IRVINE, Lachlan",
+        "Votes": 4884,
+        "Percent": 7.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HERBERT, Kim",
+        "Votes": 4511,
+        "Percent": 6.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHARDLOW, Barry",
+        "Votes": 813,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HANDS, Eugene",
+        "Votes": 723,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STRAUSS, Jonathan",
+        "Votes": 313,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1993": {
+    "title": "Stirling, WA   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "ECONOMOU, Dean",
+        "Votes": "640",
+        "Percent": 0.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BOLAND, Kate",
+        "Votes": "3350",
+        "Percent": 4.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "D'CRUZ, Cathryn",
+        "Votes": "329",
+        "Percent": 0.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAMERON, Eoin",
+        "Votes": "32337",
+        "Percent": 47.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EDWARDS, Ronald",
+        "Votes": "29804",
+        "Percent": 43.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JEFFREYS, Richard",
+        "Votes": "2152",
+        "Percent": 3.1
+      }
+    ]
+  },
+  "1996": {
+    "title": "Stirling, WA   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CAMERON, Eoin",
+        "Votes": 33778,
+        "Percent": 50.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CARBERRY, Kareen",
+        "Votes": 25917,
+        "Percent": 38.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HERBERT, Kim",
+        "Votes": 3790,
+        "Percent": 5.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WAPNAH, Lawrence",
+        "Votes": 3525,
+        "Percent": 5.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "D'CRUZ, Cathryn",
+        "Votes": 429,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1998": {
+    "title": "Stirling, WA   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CAMERON, Eoin",
+        "Votes": 32015,
+        "Percent": 41.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCFARLANE, Jann",
+        "Votes": 30994,
+        "Percent": 40.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "EVANS, John",
+        "Votes": 5096,
+        "Percent": 6.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LOCKETT, Mark",
+        "Votes": 3820,
+        "Percent": 5.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MARKHAM, Peter",
+        "Votes": 3303,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCNEILL, Elaine",
+        "Votes": 996,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TABACZYNSKI, Bronislaw",
+        "Votes": 321,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HILLEL, Leanne",
+        "Votes": 213,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2001": {
+    "title": "Stirling, WA   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCFARLANE, Jann",
+        "Votes": 31774,
+        "Percent": 41.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CRONIN, Bob",
+        "Votes": 30963,
+        "Percent": 40.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "AQUILINA, Heather",
+        "Votes": 4608,
+        "Percent": 6.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "OLVER, Pat",
+        "Votes": 4572,
+        "Percent": 5.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "THOROGOOD, Keith",
+        "Votes": 3041,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JASPER, Perry",
+        "Votes": 1071,
+        "Percent": 1.4
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "MCENCROE, Keith",
+        "Votes": 1022,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2004": {
+    "title": "Stirling, WA   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KEENAN, Michael",
+        "Votes": 35938,
+        "Percent": 47.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCFARLANE, Jann",
+        "Votes": 29616,
+        "Percent": 38.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BERCOV, Katrina",
+        "Votes": 5438,
+        "Percent": 7.1
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "MORAN, Ray",
+        "Votes": 1472,
+        "Percent": 1.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "PATRICK, Alex",
+        "Votes": 1119,
+        "Percent": 1.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COLETTI, Giuseppe",
+        "Votes": 1108,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PEARSON, Leone",
+        "Votes": 691,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ANDERSON, Marcus",
+        "Votes": 664,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2007": {
+    "title": "Stirling, WA   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KEENAN, Michael",
+        "Votes": 38220,
+        "Percent": 47.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TINLEY, Peter",
+        "Votes": 32737,
+        "Percent": 40.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DESIATOV, Tamara",
+        "Votes": 6123,
+        "Percent": 7.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "MORAN, Ray",
+        "Votes": 1407,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WARD, Sam",
+        "Votes": 666,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HYND, Denise",
+        "Votes": 590,
+        "Percent": 0.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HOPKINSON, Symia",
+        "Votes": 524,
+        "Percent": 0.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "PATRICK, Alex",
+        "Votes": 524,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HALLAM, Keith",
+        "Votes": 160,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2010": {
+    "title": "Stirling, WA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KEENAN, Michael",
+        "Votes": 40228,
+        "Percent": 49.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DURACK, Louise",
+        "Votes": 25688,
+        "Percent": 31.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MARTIN, Chris",
+        "Votes": 10399,
+        "Percent": 12.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RE, Elizabeth",
+        "Votes": 1824,
+        "Percent": 2.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "WHATELY, Jenny",
+        "Votes": 1630,
+        "Percent": 2.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CLIFFORD, Peter",
+        "Votes": 838,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2013": {
+    "title": "Stirling, WA   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KEENAN, Michael",
+        "Votes": 43039,
+        "Percent": 51.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CADDY, Dan",
+        "Votes": 23531,
+        "Percent": 28.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CLIFFORD, Tim",
+        "Votes": 9359,
+        "Percent": 11.3
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "THOMPSON, Wayne",
+        "Votes": 3342,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOST, Kevin",
+        "Votes": 1704,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MUBARAK, Kim",
+        "Votes": 901,
+        "Percent": 1.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LUKE, Matueny",
+        "Votes": 686,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROWE, Alison",
+        "Votes": 498,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2016": {
+    "title": "Stirling, WA   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KEENAN, Hon Michael",
+        "Votes": 40991,
+        "Percent": 49.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PEARSON, Robert",
+        "Votes": 26669,
+        "Percent": 32.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WEBSTER, Tom",
+        "Votes": 9679,
+        "Percent": 11.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MUBARAK, Kim",
+        "Votes": 2172,
+        "Percent": 2.6
+      },
+      {
+        "Party": "AC",
+        "Candidate": "HOST, Kevin",
+        "Votes": 2019,
+        "Percent": 2.4
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "ROWE, Alison",
+        "Votes": 1361,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2019": {
+    "title": "Stirling, WA   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CONNELLY, Vince",
+        "Votes": 40757,
+        "Percent": 47.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MARKEY, Melita",
+        "Votes": 27623,
+        "Percent": 31.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CULLITY, Judith",
+        "Votes": 10439,
+        "Percent": 12.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "YOUNG, Angus",
+        "Votes": 3129,
+        "Percent": 3.6
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "RE, Elizabeth",
+        "Votes": 1750,
+        "Percent": 2.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HUTTON, Dorothy",
+        "Votes": 1577,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AChr",
+        "Candidate": "HOST, Kevin",
+        "Votes": 1504,
+        "Percent": 1.7
+      }
+    ]
+  }
+}

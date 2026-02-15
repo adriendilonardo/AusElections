@@ -1,0 +1,37 @@
+{
+  "2025": {
+    "title": "McMahon, NSW   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BOWEN, Chris",
+        "Votes": 44537,
+        "Percent": 45.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LAZAR, Carmen",
+        "Votes": 26218,
+        "Percent": 26.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAMENZULI, Matthew",
+        "Votes": 9613,
+        "Percent": 9.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HAMMOND, Ben",
+        "Votes": 8923,
+        "Percent": 9.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "JANICSKA, Melissa",
+        "Votes": 8544,
+        "Percent": 8.7
+      }
+    ]
+  }
+}

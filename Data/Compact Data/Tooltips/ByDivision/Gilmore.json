@@ -1,0 +1,647 @@
+{
+  "1984": {
+    "title": "Gilmore, NSW   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "STEPHENS, Bob",
+        "Votes": 25812,
+        "Percent": 44.4
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "SHARP, John",
+        "Votes": 16463,
+        "Percent": 28.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ANDERSON, Noel",
+        "Votes": 12213,
+        "Percent": 21.0
+      },
+      {
+        "Party": "NDP",
+        "Candidate": "LANDER, Rodney",
+        "Votes": 2003,
+        "Percent": 3.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SANDERS, John",
+        "Votes": 1595,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SARINA, Ronald",
+        "Votes": 114,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "1987": {
+    "title": "Gilmore, NSW   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "SHARP, John",
+        "Votes": 32216,
+        "Percent": 52.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WRIGHT, John",
+        "Votes": 25207,
+        "Percent": 40.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BLACKSHAW, Alan",
+        "Votes": 2849,
+        "Percent": 4.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DIXON, Reen",
+        "Votes": 1356,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1990": {
+    "title": "Gilmore, NSW   1990",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "SHARP, John",
+        "Votes": 32819,
+        "Percent": 48.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SHEA, Mick",
+        "Votes": 26677,
+        "Percent": 39.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NAGY, Susan",
+        "Votes": 7935,
+        "Percent": 11.8
+      }
+    ]
+  },
+  "1993": {
+    "title": "Gilmore, NSW   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "STANBOROUGH, Jeff",
+        "Votes": "925",
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DEVENNEY, Ruth",
+        "Votes": "475",
+        "Percent": 0.7
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "ATKINS, Max",
+        "Votes": "3380",
+        "Percent": 5.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LEATCH, May",
+        "Votes": "3160",
+        "Percent": 4.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KNOTT, Peter",
+        "Votes": "28559",
+        "Percent": 42.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "EDDY, Bill",
+        "Votes": "27932",
+        "Percent": 41.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BUTLER, Greg",
+        "Votes": "2312",
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEIGHLEY, Rosemary",
+        "Votes": "151",
+        "Percent": 0.2
+      }
+    ]
+  },
+  "1996": {
+    "title": "Gilmore, NSW   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GASH, Joanna",
+        "Votes": 36261,
+        "Percent": 50.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KNOTT, Peter",
+        "Votes": 27503,
+        "Percent": 38.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCGRATH, Joanne",
+        "Votes": 3449,
+        "Percent": 4.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROTHSCHILD, David",
+        "Votes": 2039,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DELL, Tom",
+        "Votes": 1195,
+        "Percent": 1.7
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "CHAPPELL, Charles",
+        "Votes": 1117,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEIGHLEY, Rosemary",
+        "Votes": 220,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1998": {
+    "title": "Gilmore, NSW   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GASH, Joanna",
+        "Votes": 33390,
+        "Percent": 45.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCCARTHY, Sandra",
+        "Votes": 26509,
+        "Percent": 35.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "DELL, Thomas",
+        "Votes": 8206,
+        "Percent": 11.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FRASER, Peter",
+        "Votes": 2444,
+        "Percent": 3.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BANGE, Jane",
+        "Votes": 2020,
+        "Percent": 2.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "RYAN, Steve",
+        "Votes": 1481,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "2001": {
+    "title": "Gilmore, NSW   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GASH, Joanna",
+        "Votes": 43089,
+        "Percent": 56.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KNOTT, Peter",
+        "Votes": 20011,
+        "Percent": 26.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "CROCKER, Geoff",
+        "Votes": 4454,
+        "Percent": 5.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BANGE, Jane",
+        "Votes": 4218,
+        "Percent": 5.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HAYES, Michael",
+        "Votes": 3323,
+        "Percent": 4.3
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "RYAN, Steve",
+        "Votes": 1253,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCLEOD, Paul",
+        "Votes": 339,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCCLUNG, Jean",
+        "Votes": 113,
+        "Percent": 0.1
+      }
+    ]
+  },
+  "2004": {
+    "title": "Gilmore, NSW   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GASH, Joanna",
+        "Votes": 43723,
+        "Percent": 54.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PIKETT, Megan",
+        "Votes": 24835,
+        "Percent": 31.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WIJNGAART, Ben Van Der",
+        "Votes": 6234,
+        "Percent": 7.8
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "GREEN, Paul",
+        "Votes": 3381,
+        "Percent": 4.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HARDING, Col",
+        "Votes": 1762,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCCLUNG, Jean",
+        "Votes": 176,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2007": {
+    "title": "Gilmore, NSW   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GASH, Joanna",
+        "Votes": 40513,
+        "Percent": 50.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "REILLY, Neil",
+        "Votes": 30386,
+        "Percent": 37.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WIJNGAART, Ben van der",
+        "Votes": 6070,
+        "Percent": 7.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BRUMERSKYJ, Bohdan",
+        "Votes": 1755,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NONE, Of The Above",
+        "Votes": 686,
+        "Percent": 0.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "GREENHALGH, Brett",
+        "Votes": 407,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLAKE, Simon",
+        "Votes": 370,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RAMSEY, Kevin",
+        "Votes": 151,
+        "Percent": 0.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HUNT, Warwick",
+        "Votes": 59,
+        "Percent": 0.1
+      }
+    ]
+  },
+  "2010": {
+    "title": "Gilmore, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GASH, Joanna",
+        "Votes": 44050,
+        "Percent": 50.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "REILLY, Neil",
+        "Votes": 30430,
+        "Percent": 35.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WIJNGAART, Ben van der",
+        "Votes": 8279,
+        "Percent": 9.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BRUMERSKYJ, Bohdan",
+        "Votes": 2310,
+        "Percent": 2.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CUNNINGHAM, Elizabeth",
+        "Votes": 781,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEYS, Don",
+        "Votes": 374,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILLIAMS, Annette",
+        "Votes": 275,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2013": {
+    "title": "Gilmore, NSW   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SUDMALIS, Ann",
+        "Votes": 41726,
+        "Percent": 46.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "REILLY, Neil",
+        "Votes": 31789,
+        "Percent": 35.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BARRATT, Terry",
+        "Votes": 8438,
+        "Percent": 9.3
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "HARRIS, Lyndal",
+        "Votes": 5726,
+        "Percent": 6.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "RYAN, Steve",
+        "Votes": 3030,
+        "Percent": 3.3
+      }
+    ]
+  },
+  "2016": {
+    "title": "Gilmore, NSW   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SUDMALIS, Ann",
+        "Votes": 46713,
+        "Percent": 45.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PHILLIPS, Fiona",
+        "Votes": 40476,
+        "Percent": 39.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCCALLUM, Carmel",
+        "Votes": 10820,
+        "Percent": 10.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "RYAN, Steve",
+        "Votes": 5160,
+        "Percent": 5.0
+      }
+    ]
+  },
+  "2019": {
+    "title": "Gilmore, NSW   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PHILLIPS, Fiona",
+        "Votes": 38972,
+        "Percent": 36.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MUNDINE, Warren",
+        "Votes": 31427,
+        "Percent": 29.2
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "HODGKINSON, Hon Katrina",
+        "Votes": 13462,
+        "Percent": 12.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCCALLUM, Carmel",
+        "Votes": 10740,
+        "Percent": 10.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCHULTZ, Grant",
+        "Votes": 7585,
+        "Percent": 7.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "LESLIGHT, Milton",
+        "Votes": 3638,
+        "Percent": 3.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "KOLUKUPALLY, Serah",
+        "Votes": 1853,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "2022": {
+    "title": "Gilmore, NSW   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CONSTANCE, Andrew",
+        "Votes": 46941,
+        "Percent": 42.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PHILLIPS, Fiona",
+        "Votes": 40175,
+        "Percent": 36.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCCALLUM, Carmel",
+        "Votes": 11417,
+        "Percent": 10.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DIGIGLIO, Nina",
+        "Votes": 4721,
+        "Percent": 4.2
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "EID, Jerremy",
+        "Votes": 4453,
+        "Percent": 4.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MALONEY, Jordan",
+        "Votes": 3108,
+        "Percent": 2.8
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "FADINI, Adrian",
+        "Votes": 890,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2025": {
+    "title": "Gilmore, NSW   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PHILLIPS, Fiona",
+        "Votes": 42342,
+        "Percent": 38.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CONSTANCE, Andrew",
+        "Votes": 38247,
+        "Percent": 34.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DEZARNAULDS, Kate",
+        "Votes": 8371,
+        "Percent": 7.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KILLIAN, Debbie",
+        "Votes": 7932,
+        "Percent": 7.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HAWKE, John",
+        "Votes": 5557,
+        "Percent": 5.0
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "CARLE, Adrian Richard",
+        "Votes": 4124,
+        "Percent": 3.7
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "WISE, Melissa",
+        "Votes": 2476,
+        "Percent": 2.2
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "BROWN, Graham",
+        "Votes": 2004,
+        "Percent": 1.8
+      }
+    ]
+  }
+}

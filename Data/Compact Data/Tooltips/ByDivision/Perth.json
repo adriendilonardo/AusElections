@@ -1,0 +1,1105 @@
+{
+  "1946": {
+    "title": "Perth, WA   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BURKE, Thomas",
+        "Votes": 31231,
+        "Percent": 49.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PATON, James",
+        "Votes": 27429,
+        "Percent": 43.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRAHAM, John",
+        "Votes": 2157,
+        "Percent": 3.4
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "HEALY, Kevin",
+        "Votes": 2004,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SALTER, Robert",
+        "Votes": 889,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1949": {
+    "title": "Perth, WA   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BURKE, Thomas",
+        "Votes": 18412,
+        "Percent": 47.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HACK, Gordon",
+        "Votes": 17858,
+        "Percent": 46.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COLLINS, James",
+        "Votes": 1756,
+        "Percent": 4.6
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "KELLY, James",
+        "Votes": 486,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "1951": {
+    "title": "Perth, WA   1951",
+    "rows": [
+      {
+        "Party": "CPA",
+        "Candidate": "KELLY, James",
+        "Votes": "532",
+        "Percent": 1.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SNEDDEN, Billy",
+        "Votes": "17705",
+        "Percent": 49.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BURKE, Thomas",
+        "Votes": "17501",
+        "Percent": 49.0
+      }
+    ]
+  },
+  "1954": {
+    "title": "Perth, WA   1954",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "FERGUSON, Carlyle",
+        "Votes": "530",
+        "Percent": 1.7
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "GANDINI, Rivo",
+        "Votes": "275",
+        "Percent": 0.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BURKE, Thomas",
+        "Votes": "15912",
+        "Percent": 51.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PHILLIPS, Robert",
+        "Votes": "14087",
+        "Percent": 45.7
+      }
+    ]
+  },
+  "1955": {
+    "title": "Perth, WA   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CHANEY, Fred",
+        "Votes": "17575",
+        "Percent": 51.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BURKE, Thomas",
+        "Votes": "16536",
+        "Percent": 48.5
+      }
+    ]
+  },
+  "1958": {
+    "title": "Perth, WA   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CHANEY, Fred",
+        "Votes": 17426,
+        "Percent": 56.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILKINSON, Lawrence",
+        "Votes": 9841,
+        "Percent": 31.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MERCHANT, Terence",
+        "Votes": 3189,
+        "Percent": 10.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SWAINE, Frederick",
+        "Votes": 655,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "1961": {
+    "title": "Perth, WA   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CHANEY, Fred",
+        "Votes": 16054,
+        "Percent": 55.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILKINSON, Lawrence",
+        "Votes": 10443,
+        "Percent": 35.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "RE, Julius",
+        "Votes": 2679,
+        "Percent": 9.2
+      }
+    ]
+  },
+  "1963": {
+    "title": "Perth, WA   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "WHITE, Arthur",
+        "Votes": "1629",
+        "Percent": 5.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CHANEY, Fred",
+        "Votes": "15867",
+        "Percent": 54.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HALSE, Edward",
+        "Votes": "11743",
+        "Percent": 40.2
+      }
+    ]
+  },
+  "1966": {
+    "title": "Perth, WA   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CHANEY, Hon Fred",
+        "Votes": 13223,
+        "Percent": 49.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BATE, Alan",
+        "Votes": 9785,
+        "Percent": 36.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MAZAK, George",
+        "Votes": 2071,
+        "Percent": 7.8
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "AARONS, Annette",
+        "Votes": 1627,
+        "Percent": 6.1
+      }
+    ]
+  },
+  "1969": {
+    "title": "Perth, WA   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BERINSON, Joseph",
+        "Votes": 29309,
+        "Percent": 55.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CHANEY, Hon Fred",
+        "Votes": 20373,
+        "Percent": 38.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MARTYR, John",
+        "Votes": 2159,
+        "Percent": 4.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GILES, Patricia",
+        "Votes": 1308,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1972": {
+    "title": "Perth, WA   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BERINSON, Joseph",
+        "Votes": 28226,
+        "Percent": 51.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TOMLINSON, Derrick",
+        "Votes": 23911,
+        "Percent": 43.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CRANLEY, Dorothy",
+        "Votes": 2928,
+        "Percent": 5.3
+      }
+    ]
+  },
+  "1974": {
+    "title": "Perth, WA   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BERINSON, Joseph",
+        "Votes": 33786,
+        "Percent": 56.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TOMLINSON, Derrick",
+        "Votes": 22529,
+        "Percent": 37.7
+      },
+      {
+        "Party": NaN,
+        "Candidate": "CRANLEY, Dorothy",
+        "Votes": 2487,
+        "Percent": 4.2
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MARSH, Paul",
+        "Votes": 539,
+        "Percent": 0.9
+      },
+      {
+        "Party": "AP",
+        "Candidate": "CAMPIN, Wilfred",
+        "Votes": 411,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1975": {
+    "title": "Perth, WA   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCLEAN, Ross",
+        "Votes": 31658,
+        "Percent": 50.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BERINSON, Hon Joseph",
+        "Votes": 29902,
+        "Percent": 47.9
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "SLATER, Victor",
+        "Votes": 890,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1977": {
+    "title": "Perth, WA   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCLEAN, Ross",
+        "Votes": 31944,
+        "Percent": 50.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MOILER, James",
+        "Votes": 22177,
+        "Percent": 35.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GARRICK, Thomas",
+        "Votes": 6153,
+        "Percent": 9.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CURTIS, Lawrence",
+        "Votes": 2591,
+        "Percent": 4.1
+      }
+    ]
+  },
+  "1980": {
+    "title": "Perth, WA   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCLEAN, Ross",
+        "Votes": 29131,
+        "Percent": 48.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DELANEY, William",
+        "Votes": 27599,
+        "Percent": 45.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FOSTER, Robert",
+        "Votes": 3122,
+        "Percent": 5.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STEEN-OLSEN, June",
+        "Votes": 551,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1983": {
+    "title": "Perth, WA   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHARLESWORTH, Dr Richard",
+        "Votes": 34108,
+        "Percent": 54.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCLEAN, Ross",
+        "Votes": 26510,
+        "Percent": 42.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SYME, Geoffrey",
+        "Votes": 1770,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "1984": {
+    "title": "Perth, WA   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHARLESWORTH, Dr Richard",
+        "Votes": 32906,
+        "Percent": 55.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WALTERS, Joan",
+        "Votes": 25148,
+        "Percent": 42.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, Catherine",
+        "Votes": 1535,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "1987": {
+    "title": "Perth, WA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHARLESWORTH, Dr Richard",
+        "Votes": 34003,
+        "Percent": 55.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAMPBELL, Bob",
+        "Votes": 24494,
+        "Percent": 39.9
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "LISLE, Ted",
+        "Votes": 2857,
+        "Percent": 4.7
+      }
+    ]
+  },
+  "1990": {
+    "title": "Perth, WA   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHARLESWORTH, Dr Richard",
+        "Votes": 28047,
+        "Percent": 42.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RODGERS, Marylyn",
+        "Votes": 24775,
+        "Percent": 37.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CONOCHIE, Brenda",
+        "Votes": 5496,
+        "Percent": 8.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JENKINS, Brian",
+        "Votes": 5152,
+        "Percent": 7.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHEUK, Richard",
+        "Votes": 1211,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GUDGEON, Don",
+        "Votes": 702,
+        "Percent": 1.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "WITHAM, William",
+        "Votes": 483,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1993": {
+    "title": "Perth, WA   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "GOFF, Michael",
+        "Votes": "857",
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOVANE, Michelle",
+        "Votes": "587",
+        "Percent": 0.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MOLLOY, Patsy",
+        "Votes": "3836",
+        "Percent": 5.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Stephen",
+        "Votes": "31585",
+        "Percent": 46.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BENJAMIN, Jennifer",
+        "Votes": "268",
+        "Percent": 0.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CRESSWELL, Barney",
+        "Votes": "26440",
+        "Percent": 38.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KNIGHT, Irene",
+        "Votes": "1581",
+        "Percent": 2.3
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "BIGNELL, Chris",
+        "Votes": "1499",
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLURTON, Peter",
+        "Votes": "1460",
+        "Percent": 2.1
+      }
+    ]
+  },
+  "1996": {
+    "title": "Perth, WA   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Stephen",
+        "Votes": 32018,
+        "Percent": 47.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KELLY, Dee",
+        "Votes": 25262,
+        "Percent": 37.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JEFFREYS, Elena",
+        "Votes": 4189,
+        "Percent": 6.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KERR, Jim",
+        "Votes": 4175,
+        "Percent": 6.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CONDER, Raymond",
+        "Votes": 914,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BENBOW, Anthony",
+        "Votes": 418,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NELSON, Gary",
+        "Votes": 339,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1998": {
+    "title": "Perth, WA   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Stephen",
+        "Votes": 38395,
+        "Percent": 50.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MONTANI, David",
+        "Votes": 22689,
+        "Percent": 29.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MILLS, Kerry",
+        "Votes": 6555,
+        "Percent": 8.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CARTER, Gemma",
+        "Votes": 4713,
+        "Percent": 6.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ENTREKIN, Brendon",
+        "Votes": 3517,
+        "Percent": 4.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KIM, Iggy",
+        "Votes": 682,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2001": {
+    "title": "Perth, WA   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Stephen",
+        "Votes": 35389,
+        "Percent": 47.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WEBB, Rod",
+        "Votes": 23894,
+        "Percent": 32.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "XAMON, Alison",
+        "Votes": 5437,
+        "Percent": 7.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HEWITT, Aaron",
+        "Votes": 5381,
+        "Percent": 7.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "GILBERTHORPE, Peter",
+        "Votes": 3244,
+        "Percent": 4.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHILTON, Philip",
+        "Votes": 568,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2004": {
+    "title": "Perth, WA   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Stephen",
+        "Votes": 33532,
+        "Percent": 45.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LAWRANCE, Alexander",
+        "Votes": 27127,
+        "Percent": 36.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "XAMON, Alison",
+        "Votes": 7045,
+        "Percent": 9.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "LOH, Augustine",
+        "Votes": 1807,
+        "Percent": 2.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "EDMONDS, Marie",
+        "Votes": 1463,
+        "Percent": 2.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BRADBURY, Ray",
+        "Votes": 1344,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ULASOWSKI, Nikki",
+        "Votes": 984,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RUSSELL, Ross",
+        "Votes": 247,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2007": {
+    "title": "Perth, WA   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Stephen",
+        "Votes": 36684,
+        "Percent": 46.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NIKOLIC, Daniel",
+        "Votes": 28163,
+        "Percent": 36.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DOUGLAS-MEYER, Damian",
+        "Votes": 8320,
+        "Percent": 10.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "CONNELLY, Paul",
+        "Votes": 1594,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROOKS, Stephen J",
+        "Votes": 1413,
+        "Percent": 1.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "FAIRFULL, Sharon",
+        "Votes": 838,
+        "Percent": 1.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "EDMONDS, Marie",
+        "Votes": 628,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LATHAM, Chris",
+        "Votes": 464,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GIRVAN, Orm",
+        "Votes": 162,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2010": {
+    "title": "Perth, WA   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Hon Stephen",
+        "Votes": 32228,
+        "Percent": 40.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FERRANTE, Joe",
+        "Votes": 31064,
+        "Percent": 38.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HALLETT, Jonathan",
+        "Votes": 12948,
+        "Percent": 16.2
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "CONNELLY, Paul",
+        "Votes": 2093,
+        "Percent": 2.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "IRVINE, Nigel",
+        "Votes": 1243,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BAINBRIDGE, Alex",
+        "Votes": 618,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2013": {
+    "title": "Perth, WA   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MACTIERNAN, Hon Alannah",
+        "Votes": 34215,
+        "Percent": 41.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MOORE, Darryl",
+        "Votes": 33021,
+        "Percent": 39.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HALLETT, Jonathan",
+        "Votes": 8801,
+        "Percent": 10.6
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "HARFOUCHE, Gabriel",
+        "Votes": 2897,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CONNELLY, Paul",
+        "Votes": 1891,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLARK, Ant",
+        "Votes": 1025,
+        "Percent": 1.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CROLL, Lesley",
+        "Votes": 669,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EDNEY, Evelyn",
+        "Votes": 422,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2016": {
+    "title": "Perth, WA   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "QUINN, Jeremy",
+        "Votes": 35381,
+        "Percent": 42.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HAMMOND, Tim",
+        "Votes": 31248,
+        "Percent": 37.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CLIFFORD, Tim",
+        "Votes": 14272,
+        "Percent": 17.1
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "WALMSLEY, Mark",
+        "Votes": 1430,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHAMBERS, Andrew",
+        "Votes": 1300,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2019": {
+    "title": "Perth, WA   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GRAYDEN, Jim",
+        "Votes": 32800,
+        "Percent": 37.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GORMAN, Patrick",
+        "Votes": 30207,
+        "Percent": 34.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PERKS, Caroline",
+        "Votes": 16552,
+        "Percent": 18.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "LOWNDS, Mel",
+        "Votes": 2333,
+        "Percent": 2.7
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "BOXALL, Jane",
+        "Votes": 2222,
+        "Percent": 2.5
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HOPKINS, Chas",
+        "Votes": 1661,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAVIES, Gary",
+        "Votes": 1329,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GREENING, Curtis",
+        "Votes": 602,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2022": {
+    "title": "Perth, WA   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GORMAN, Patrick",
+        "Votes": 40066,
+        "Percent": 39.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DWYER, David",
+        "Votes": 27294,
+        "Percent": 26.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PERKS, Caroline",
+        "Votes": 22621,
+        "Percent": 22.2
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "BAILEY, Cameron",
+        "Votes": 2749,
+        "Percent": 2.7
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "VOS, Dave",
+        "Votes": 1878,
+        "Percent": 1.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "EBERHART, Sonya",
+        "Votes": 1605,
+        "Percent": 1.6
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "SZMEKURA-MOOR, Sarah",
+        "Votes": 1535,
+        "Percent": 1.5
+      },
+      {
+        "Party": "AC",
+        "Candidate": "POWELL, Dean",
+        "Votes": 1514,
+        "Percent": 1.5
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "NICKOLS, Evan",
+        "Votes": 1407,
+        "Percent": 1.4
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "GYURU, Aiden",
+        "Votes": 710,
+        "Percent": 0.7
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "CONNOR, Sean",
+        "Votes": 702,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2025": {
+    "title": "Perth, WA   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GORMAN, Patrick",
+        "Votes": 42947,
+        "Percent": 43.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PANAIA, Susanna",
+        "Votes": 26026,
+        "Percent": 26.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GREER, Sophie",
+        "Votes": 24467,
+        "Percent": 24.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HALLIFAX, Peter",
+        "Votes": 6316,
+        "Percent": 6.3
+      }
+    ]
+  }
+}

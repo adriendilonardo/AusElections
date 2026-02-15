@@ -1,0 +1,1009 @@
+{
+  "1946": {
+    "title": "Hume, NSW   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FULLER, Arthur",
+        "Votes": 26720,
+        "Percent": 51.8
+      },
+      {
+        "Party": "CP",
+        "Candidate": "MCDONALD, Warren",
+        "Votes": 17474,
+        "Percent": 33.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DAVEY, Geoffrey",
+        "Votes": 7397,
+        "Percent": 14.3
+      }
+    ]
+  },
+  "1949": {
+    "title": "Hume, NSW   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ANDERSON, Charles",
+        "Votes": 18871,
+        "Percent": 51.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FULLER, Arthur",
+        "Votes": 18104,
+        "Percent": 49.0
+      }
+    ]
+  },
+  "1951": {
+    "title": "Hume, NSW   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FULLER, Arthur",
+        "Votes": "18849",
+        "Percent": 50.3
+      },
+      {
+        "Party": "CP",
+        "Candidate": "ANDERSON, Charles",
+        "Votes": "18622",
+        "Percent": 49.7
+      }
+    ]
+  },
+  "1954": {
+    "title": "Hume, NSW   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ROTH, Linden",
+        "Votes": "6845",
+        "Percent": 17.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FULLER, Arthur",
+        "Votes": "19617",
+        "Percent": 50.4
+      },
+      {
+        "Party": "CP",
+        "Candidate": "ANDERSON, Charles",
+        "Votes": "12459",
+        "Percent": 32.0
+      }
+    ]
+  },
+  "1955": {
+    "title": "Hume, NSW   1955",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ANDERSON, Charles",
+        "Votes": "20494",
+        "Percent": 52.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FULLER, Arthur",
+        "Votes": "18779",
+        "Percent": 47.8
+      }
+    ]
+  },
+  "1958": {
+    "title": "Hume, NSW   1958",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ANDERSON, Charles",
+        "Votes": 19056,
+        "Percent": 48.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FULLER, Arthur",
+        "Votes": 18164,
+        "Percent": 46.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "NOLAN, Raymond",
+        "Votes": 1974,
+        "Percent": 5.0
+      }
+    ]
+  },
+  "1961": {
+    "title": "Hume, NSW   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FULLER, Arthur",
+        "Votes": 18858,
+        "Percent": 48.6
+      },
+      {
+        "Party": "CP",
+        "Candidate": "ANDERSON, Charles",
+        "Votes": 16682,
+        "Percent": 43.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ROWE, Charles",
+        "Votes": 3234,
+        "Percent": 8.3
+      }
+    ]
+  },
+  "1963": {
+    "title": "Hume, NSW   1963",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ASHTON, Geoffrey",
+        "Votes": "7299",
+        "Percent": 18.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ROWE, Charles",
+        "Votes": "2574",
+        "Percent": 6.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FULLER, Arthur",
+        "Votes": "17931",
+        "Percent": 46.1
+      },
+      {
+        "Party": "CP",
+        "Candidate": "PETTITT, John",
+        "Votes": "11078",
+        "Percent": 28.5
+      }
+    ]
+  },
+  "1966": {
+    "title": "Hume, NSW   1966",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "PETTITT, John",
+        "Votes": 19435,
+        "Percent": 50.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MENADUE, John",
+        "Votes": 16189,
+        "Percent": 42.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HOGAN, John",
+        "Votes": 2825,
+        "Percent": 7.3
+      }
+    ]
+  },
+  "1969": {
+    "title": "Hume, NSW   1969",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "PETTITT, John",
+        "Votes": 20845,
+        "Percent": 46.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "OLLEY, Frank",
+        "Votes": 20691,
+        "Percent": 46.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MANWARING, James",
+        "Votes": 3331,
+        "Percent": 7.4
+      }
+    ]
+  },
+  "1972": {
+    "title": "Hume, NSW   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "OLLEY, Frank",
+        "Votes": 22364,
+        "Percent": 50.1
+      },
+      {
+        "Party": "CP",
+        "Candidate": "PETTITT, John",
+        "Votes": 20005,
+        "Percent": 44.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HOGAN, John",
+        "Votes": 2273,
+        "Percent": 5.1
+      }
+    ]
+  },
+  "1974": {
+    "title": "Hume, NSW   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "OLLEY, Frank",
+        "Votes": 22640,
+        "Percent": 47.4
+      },
+      {
+        "Party": "CP",
+        "Candidate": "LUSHER, Stephen",
+        "Votes": 18882,
+        "Percent": 39.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "THOMPSON, Graham",
+        "Votes": 4942,
+        "Percent": 10.4
+      },
+      {
+        "Party": "AP",
+        "Candidate": "GEDYE, John",
+        "Votes": 1253,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "1975": {
+    "title": "Hume, NSW   1975",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "LUSHER, Stephen",
+        "Votes": 27746,
+        "Percent": 57.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRENNER, George",
+        "Votes": 20925,
+        "Percent": 43.0
+      }
+    ]
+  },
+  "1977": {
+    "title": "Hume, NSW   1977",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "LUSHER, Steven",
+        "Votes": 37521,
+        "Percent": 57.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRENNER, George",
+        "Votes": 25266,
+        "Percent": 38.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RICHARD, Mark",
+        "Votes": 2986,
+        "Percent": 4.5
+      }
+    ]
+  },
+  "1980": {
+    "title": "Hume, NSW   1980",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "LUSHER, Stephen",
+        "Votes": 37013,
+        "Percent": 56.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WEST, Suzanne",
+        "Votes": 27614,
+        "Percent": 41.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WILSON, Gwendoline",
+        "Votes": 1478,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1983": {
+    "title": "Hume, NSW   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "LUSHER, Stephen",
+        "Votes": 36217,
+        "Percent": 54.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCCORMICK, Marie",
+        "Votes": 27195,
+        "Percent": 40.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BUTLER, Gregory",
+        "Votes": 3419,
+        "Percent": 5.1
+      }
+    ]
+  },
+  "1984": {
+    "title": "Hume, NSW   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MILLIKEN, Rodney",
+        "Votes": 24342,
+        "Percent": 39.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FIFE, Hon Wallace",
+        "Votes": 19331,
+        "Percent": 31.2
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "LUSHER, Stephen",
+        "Votes": 18245,
+        "Percent": 29.5
+      }
+    ]
+  },
+  "1987": {
+    "title": "Hume, NSW   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FIFE, Hon Wallace",
+        "Votes": 33687,
+        "Percent": 52.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MILLIKEN, Rod",
+        "Votes": 24516,
+        "Percent": 38.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MILNE, Scott",
+        "Votes": 2498,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ELDRIDGE, Jim",
+        "Votes": 1843,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MARSHALL, Duncan",
+        "Votes": 1105,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HERALD, David",
+        "Votes": 243,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1990": {
+    "title": "Hume, NSW   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FIFE, Hon Wallace",
+        "Votes": 34229,
+        "Percent": 51.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MARTIN, George",
+        "Votes": 23072,
+        "Percent": 34.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROBERTS, Glenn",
+        "Votes": 4581,
+        "Percent": 6.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JONES, David",
+        "Votes": 3773,
+        "Percent": 5.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KIRKWOOD, Doug",
+        "Votes": 633,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1993": {
+    "title": "Hume, NSW   1993",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ARCHER, Phil",
+        "Votes": "29773",
+        "Percent": 41.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "SHARP, John",
+        "Votes": "23942",
+        "Percent": 33.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COX, Dave",
+        "Votes": "2028",
+        "Percent": 2.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BUCHANAN, Ian",
+        "Votes": "1824",
+        "Percent": 2.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WARD, Stephen",
+        "Votes": "13681",
+        "Percent": 19.2
+      }
+    ]
+  },
+  "1996": {
+    "title": "Hume, NSW   1996",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "SHARP, John",
+        "Votes": 40921,
+        "Percent": 57.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HEWSON, Tony",
+        "Votes": 24943,
+        "Percent": 34.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COX, Dave",
+        "Votes": 4001,
+        "Percent": 5.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WATCHIRS, Kevin",
+        "Votes": 1876,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "1998": {
+    "title": "Hume, NSW   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SCHULTZ, Alby",
+        "Votes": 28299,
+        "Percent": 40.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "VEITCH, Mick",
+        "Votes": 22466,
+        "Percent": 32.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HICKSON, Wayne",
+        "Votes": 7471,
+        "Percent": 10.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "FERGUSON, Christine",
+        "Votes": 6433,
+        "Percent": 9.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BUTLER, Greg",
+        "Votes": 1817,
+        "Percent": 2.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GREEN, Jan",
+        "Votes": 1560,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COX, Dave",
+        "Votes": 551,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FOWLER, Philip",
+        "Votes": 413,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCCLUNG, Jean",
+        "Votes": 142,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "Hume, NSW   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SCHULTZ, Alby",
+        "Votes": 41899,
+        "Percent": 53.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MERRIMAN, Jan",
+        "Votes": 23389,
+        "Percent": 29.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "PRELL, Charlie",
+        "Votes": 6589,
+        "Percent": 8.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROXBURGH, James",
+        "Votes": 3762,
+        "Percent": 4.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WATCHIRS, Kevin",
+        "Votes": 3435,
+        "Percent": 4.3
+      }
+    ]
+  },
+  "2004": {
+    "title": "Hume, NSW   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SCHULTZ, Alby",
+        "Votes": 46652,
+        "Percent": 57.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SHANNON, Graeme",
+        "Votes": 22862,
+        "Percent": 28.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HORTON, David",
+        "Votes": 5264,
+        "Percent": 6.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "PEET, Geoff",
+        "Votes": 2880,
+        "Percent": 3.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MARTIN, Peter",
+        "Votes": 1023,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCHOFIELD, Arthur",
+        "Votes": 1011,
+        "Percent": 1.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MINISSALE, Giuseppe",
+        "Votes": 713,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COSGROVE, Lindsay",
+        "Votes": 541,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2007": {
+    "title": "Hume, NSW   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SCHULTZ, Alby",
+        "Votes": 41344,
+        "Percent": 49.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GRANT, David",
+        "Votes": 31882,
+        "Percent": 37.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CLARK, Jim",
+        "Votes": 6414,
+        "Percent": 7.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "PEET, Geoff",
+        "Votes": 2010,
+        "Percent": 2.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "TRENT, Cathy",
+        "Votes": 1958,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COSGROVE, Lindsay D",
+        "Votes": 455,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2010": {
+    "title": "Hume, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SCHULTZ, Alby",
+        "Votes": 47137,
+        "Percent": 53.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SAVILLE, Robin",
+        "Votes": 28044,
+        "Percent": 31.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WATCHIRS, Kevin",
+        "Votes": 6737,
+        "Percent": 7.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LIPTAK, Charles",
+        "Votes": 2075,
+        "Percent": 2.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BUTTIGIEG, Karen",
+        "Votes": 1546,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BUTLER, Greg",
+        "Votes": 1280,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MILAT, Lisa",
+        "Votes": 1197,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2013": {
+    "title": "Hume, NSW   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TAYLOR, Angus",
+        "Votes": 49105,
+        "Percent": 54.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PILBROW, Michael",
+        "Votes": 23711,
+        "Percent": 26.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CHEVALIER, Zaza",
+        "Votes": 5218,
+        "Percent": 5.7
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "CORNELIUS, Jason",
+        "Votes": 4015,
+        "Percent": 4.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "STYLES, Lynette",
+        "Votes": 2521,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARKER-MORTLOCK, James",
+        "Votes": 2096,
+        "Percent": 2.3
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "NICHOLSON, Bruce",
+        "Votes": 1658,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COSGROVE, Lindsay",
+        "Votes": 1273,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2016": {
+    "title": "Hume, NSW   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TAYLOR, Hon Angus",
+        "Votes": 51103,
+        "Percent": 53.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CHAMPION-FASHOYIN, Aoife",
+        "Votes": 30221,
+        "Percent": 31.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SHERWOOD, Michaela",
+        "Votes": 6274,
+        "Percent": 6.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BYL, Adrian Van Der",
+        "Votes": 3533,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ANTHONEY, Trevor",
+        "Votes": 2267,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COSGROVE, Lindsay",
+        "Votes": 1530,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2019": {
+    "title": "Hume, NSW   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TAYLOR, Hon Angus",
+        "Votes": 54589,
+        "Percent": 53.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CHAMPION, Aoife",
+        "Votes": 27223,
+        "Percent": 26.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KINGSTON, Huw",
+        "Votes": 6068,
+        "Percent": 5.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "POWELL, David",
+        "Votes": 5225,
+        "Percent": 5.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "ABDO, Lynda",
+        "Votes": 4939,
+        "Percent": 4.8
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "HARGRAVES, Tanya",
+        "Votes": 2493,
+        "Percent": 2.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "NEBAUER, Ian",
+        "Votes": 1906,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "2022": {
+    "title": "Hume, NSW   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TAYLOR, Hon Angus",
+        "Votes": 45177,
+        "Percent": 43.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BAINES, Greg",
+        "Votes": 20864,
+        "Percent": 19.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ACKERY, Penny",
+        "Votes": 16045,
+        "Percent": 15.3
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "THOMPSON, Rebecca",
+        "Votes": 7700,
+        "Percent": 7.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "STEWART, Karen",
+        "Votes": 5194,
+        "Percent": 5.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "DOLLIN, Garry",
+        "Votes": 4780,
+        "Percent": 4.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SF&F, Ross Seller",
+        "Votes": 3108,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DONA, Sheneli Meneripitiyage",
+        "Votes": 1124,
+        "Percent": 1.1
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "LIMA, Joaquim De",
+        "Votes": 770,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2025": {
+    "title": "Hume, NSW   2025",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TAYLOR, Angus",
+        "Votes": 43615,
+        "Percent": 43.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HUANG, Thomas",
+        "Votes": 27073,
+        "Percent": 27.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BRUCE, Steve",
+        "Votes": 8455,
+        "Percent": 8.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "DUCKER, Helen",
+        "Votes": 7967,
+        "Percent": 8.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "McLEAN, Peter",
+        "Votes": 4435,
+        "Percent": 4.5
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "WOZNIAK, Troy",
+        "Votes": 3472,
+        "Percent": 3.5
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "SEIDEL, Bryan",
+        "Votes": 2721,
+        "Percent": 2.7
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "REES, Adrian",
+        "Votes": 1729,
+        "Percent": 1.7
+      }
+    ]
+  }
+}

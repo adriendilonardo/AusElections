@@ -1,0 +1,155 @@
+{
+  "2019": {
+    "title": "Macnamara, VIC   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ASHMOR, Kate",
+        "Votes": 36283,
+        "Percent": 37.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BURNS, Josh",
+        "Votes": 30855,
+        "Percent": 31.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HODGINS-MAY, Steph",
+        "Votes": 23534,
+        "Percent": 24.2
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "MCPHERSON, Craig",
+        "Votes": 1919,
+        "Percent": 2.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "PATON, Helen",
+        "Votes": 1136,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'ROURKE, Ruby",
+        "Votes": 1108,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ARMSTRONG, Steven",
+        "Votes": 974,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WALLIS, Chris",
+        "Votes": 918,
+        "Percent": 1.0
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "KAY, Christine",
+        "Votes": 365,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2022": {
+    "title": "Macnamara, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BURNS, Josh",
+        "Votes": 29552,
+        "Percent": 31.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HODGINS-MAY, Steph",
+        "Votes": 27587,
+        "Percent": 29.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HARKIN, Colleen",
+        "Votes": 26976,
+        "Percent": 29.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HICKEY, Jane",
+        "Votes": 2062,
+        "Percent": 2.2
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MCCATHIE, Rob",
+        "Votes": 1946,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MYERS, John",
+        "Votes": 1835,
+        "Percent": 2.0
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "SCHULTZ, Ben",
+        "Votes": 1724,
+        "Percent": 1.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "ANNE, Debera",
+        "Votes": 1349,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "2025": {
+    "title": "Macnamara, VIC   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BURNS, Josh",
+        "Votes": 36228,
+        "Percent": 36.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SAULO, Benson",
+        "Votes": 32606,
+        "Percent": 32.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SEMMENS, Sonya",
+        "Votes": 25561,
+        "Percent": 25.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "RUBIN, Sean",
+        "Votes": 2803,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MYERS, JB",
+        "Votes": 1841,
+        "Percent": 1.8
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "ABELMAN, Michael",
+        "Votes": 1299,
+        "Percent": 1.3
+      }
+    ]
+  }
+}

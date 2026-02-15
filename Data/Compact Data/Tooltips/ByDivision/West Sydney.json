@@ -1,0 +1,263 @@
+{
+  "1946": {
+    "title": "West Sydney, NSW   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, William",
+        "Votes": 29417,
+        "Percent": 56.6
+      },
+      {
+        "Party": "ALPN",
+        "Candidate": "RYAN, Thomas",
+        "Votes": 7671,
+        "Percent": 14.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MANT, John",
+        "Votes": 6300,
+        "Percent": 12.1
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MORAN, Stanley",
+        "Votes": 4380,
+        "Percent": 8.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SARINA, Ronald",
+        "Votes": 2162,
+        "Percent": 4.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "IVEY, Melinda",
+        "Votes": 2063,
+        "Percent": 4.0
+      }
+    ]
+  },
+  "1949": {
+    "title": "West Sydney, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MINOGUE, Daniel",
+        "Votes": 17732,
+        "Percent": 49.8
+      },
+      {
+        "Party": "ALPN",
+        "Candidate": "FOLEY, Horace",
+        "Votes": 8872,
+        "Percent": 24.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MOTTERSHEAD, Basil",
+        "Votes": 7235,
+        "Percent": 20.3
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MORAN, Stanley",
+        "Votes": 1786,
+        "Percent": 5.0
+      }
+    ]
+  },
+  "1951": {
+    "title": "West Sydney, NSW   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MOTTERSHEAD, Basil",
+        "Votes": "8203",
+        "Percent": 24.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PETERS, Clare",
+        "Votes": "528",
+        "Percent": 1.6
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MILES, John",
+        "Votes": "3483",
+        "Percent": 10.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MINOGUE, Daniel",
+        "Votes": "21123",
+        "Percent": 63.4
+      }
+    ]
+  },
+  "1954": {
+    "title": "West Sydney, NSW   1954",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "MICALLEF, Anthony",
+        "Votes": "6264",
+        "Percent": 21.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MINOGUE, Daniel",
+        "Votes": "21226",
+        "Percent": 72.5
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "SHARKEY, Lawrence",
+        "Votes": "1776",
+        "Percent": 6.1
+      }
+    ]
+  },
+  "1955": {
+    "title": "West Sydney, NSW   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WEAVER, Frank",
+        "Votes": "7751",
+        "Percent": 20.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MINOGUE, Daniel",
+        "Votes": "28309",
+        "Percent": 73.7
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "SHARKEY, Lance",
+        "Votes": "2364",
+        "Percent": 6.2
+      }
+    ]
+  },
+  "1958": {
+    "title": "West Sydney, NSW   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MINOGUE, Daniel",
+        "Votes": 22610,
+        "Percent": 65.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "COOK, Adrian",
+        "Votes": 6535,
+        "Percent": 19.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CHARLESWORTH, Allan",
+        "Votes": 3763,
+        "Percent": 10.9
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "SHARKEY, Lance",
+        "Votes": 1489,
+        "Percent": 4.3
+      }
+    ]
+  },
+  "1961": {
+    "title": "West Sydney, NSW   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MINOGUE, Daniel",
+        "Votes": 21937,
+        "Percent": 70.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KOVJANIC, Milovan",
+        "Votes": 4555,
+        "Percent": 14.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DOHERTY, William",
+        "Votes": 2927,
+        "Percent": 9.4
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MAXWELL, Ronald",
+        "Votes": 1746,
+        "Percent": 5.6
+      }
+    ]
+  },
+  "1963": {
+    "title": "West Sydney, NSW   1963",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "KILDUFF, Charles",
+        "Votes": "813",
+        "Percent": 2.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DOHERTY, William",
+        "Votes": "5352",
+        "Percent": 18.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MINOGUE, Daniel",
+        "Votes": "22051",
+        "Percent": 74.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAW, Maurice",
+        "Votes": "1464",
+        "Percent": 4.9
+      }
+    ]
+  },
+  "1966": {
+    "title": "West Sydney, NSW   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MINOGUE, Daniel",
+        "Votes": 15823,
+        "Percent": 61.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CURTIN, Albert",
+        "Votes": 6908,
+        "Percent": 27.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CLANCY, Denise",
+        "Votes": 1770,
+        "Percent": 6.9
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MAXWELL, Ronald",
+        "Votes": 1115,
+        "Percent": 4.4
+      }
+    ]
+  }
+}

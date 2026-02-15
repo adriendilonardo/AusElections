@@ -1,0 +1,1154 @@
+{
+  "1949": {
+    "title": "Grayndler, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DALY, Fred",
+        "Votes": 25622,
+        "Percent": 67.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CLARK, Donald",
+        "Votes": 11299,
+        "Percent": 29.6
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MCPHILLIPS, Henry",
+        "Votes": 920,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCCRISTAL, Timothy",
+        "Votes": 349,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1951": {
+    "title": "Grayndler, NSW   1951",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "MCCRISTAL, Timothy",
+        "Votes": "977",
+        "Percent": 2.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SQUIRE, Royston",
+        "Votes": "8398",
+        "Percent": 22.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DALY, Fred",
+        "Votes": "28038",
+        "Percent": 74.9
+      }
+    ]
+  },
+  "1954": {
+    "title": "Grayndler, NSW   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "INNES, Kenneth",
+        "Votes": "7288",
+        "Percent": 21.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCCRISTAL, Timothy",
+        "Votes": "702",
+        "Percent": 2.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DALY, Fred",
+        "Votes": "26495",
+        "Percent": 76.8
+      }
+    ]
+  },
+  "1955": {
+    "title": "Grayndler, NSW   1955",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "MCCRISTAL, Timothy",
+        "Votes": "586",
+        "Percent": 1.5
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "ALEXANDER, Harold",
+        "Votes": "3218",
+        "Percent": 8.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DALY, Fred",
+        "Votes": "24151",
+        "Percent": 60.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CHISHOLM, Ian",
+        "Votes": "12258",
+        "Percent": 30.5
+      }
+    ]
+  },
+  "1958": {
+    "title": "Grayndler, NSW   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DALY, Fred",
+        "Votes": 22908,
+        "Percent": 61.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MACLAURIN, Evan",
+        "Votes": 9872,
+        "Percent": 26.7
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "ALEXANDER, Harold",
+        "Votes": 2713,
+        "Percent": 7.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MCCAFFERTY, Charles",
+        "Votes": 1220,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCCRISTAL, Timothy",
+        "Votes": 286,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1961": {
+    "title": "Grayndler, NSW   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DALY, Fred",
+        "Votes": 22329,
+        "Percent": 67.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MACLAURIN, Evan",
+        "Votes": 7872,
+        "Percent": 23.7
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "ALEXANDER, Harold",
+        "Votes": 2322,
+        "Percent": 7.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MCCAFFERTY, Charles",
+        "Votes": 693,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "1963": {
+    "title": "Grayndler, NSW   1963",
+    "rows": [
+      {
+        "Party": "CPA",
+        "Candidate": "STEVENS, Mary",
+        "Votes": "885",
+        "Percent": 2.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DALY, Fred",
+        "Votes": "21053",
+        "Percent": 64.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LEECH, Robert",
+        "Votes": "10684",
+        "Percent": 32.8
+      }
+    ]
+  },
+  "1966": {
+    "title": "Grayndler, NSW   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DALY, Fred",
+        "Votes": 17247,
+        "Percent": 59.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MOTTERSHEAD, Basil",
+        "Votes": 10070,
+        "Percent": 34.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ANTCLIFFE, Lyle",
+        "Votes": 1895,
+        "Percent": 6.5
+      }
+    ]
+  },
+  "1969": {
+    "title": "Grayndler, NSW   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DALY, Fred",
+        "Votes": 37161,
+        "Percent": 71.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FOWLER, Jonathan",
+        "Votes": 14516,
+        "Percent": 28.1
+      }
+    ]
+  },
+  "1972": {
+    "title": "Grayndler, NSW   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DALY, Fred",
+        "Votes": 34768,
+        "Percent": 73.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FOWLER, Jonathan",
+        "Votes": 10067,
+        "Percent": 21.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "KIELY, Anthony",
+        "Votes": 2318,
+        "Percent": 4.9
+      }
+    ]
+  },
+  "1974": {
+    "title": "Grayndler, NSW   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DALY, Hon Fred",
+        "Votes": 35255,
+        "Percent": 72.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FOWLER, Jonathan",
+        "Votes": 11064,
+        "Percent": 22.7
+      },
+      {
+        "Party": "AP",
+        "Candidate": "BERRY, Gregory",
+        "Votes": 2500,
+        "Percent": 5.1
+      }
+    ]
+  },
+  "1975": {
+    "title": "Grayndler, NSW   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WHITLAM, Tony",
+        "Votes": 32416,
+        "Percent": 64.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FOWLER, Jonathan",
+        "Votes": 13790,
+        "Percent": 27.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOWD, Peter",
+        "Votes": 1713,
+        "Percent": 3.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SPEDDING, Douglas",
+        "Votes": 1596,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHORTLAND, Graeme",
+        "Votes": 865,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "1977": {
+    "title": "Grayndler, NSW   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "STEWART, Hon Frank",
+        "Votes": 36299,
+        "Percent": 57.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "VASSELEOU, Bill",
+        "Votes": 20980,
+        "Percent": 33.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TOWNEND, Christine",
+        "Votes": 4558,
+        "Percent": 7.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VOUROS, Frank",
+        "Votes": 1048,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "1980": {
+    "title": "Grayndler, NSW   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCLEAY, Leo",
+        "Votes": 34029,
+        "Percent": 57.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DRYDEN, George",
+        "Votes": 20538,
+        "Percent": 34.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JARMAN, Albert",
+        "Votes": 1894,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WALSH, Justin",
+        "Votes": 1405,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MORTIMER, Derek",
+        "Votes": 1273,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1983": {
+    "title": "Grayndler, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCLEAY, Leo",
+        "Votes": 34679,
+        "Percent": 58.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JAMES, Edward",
+        "Votes": 17508,
+        "Percent": 29.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GIBSON, David",
+        "Votes": 3434,
+        "Percent": 5.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JARMAN, Albert",
+        "Votes": 1831,
+        "Percent": 3.1
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "OWENS, Joseph",
+        "Votes": 1008,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KARADJIS, Michael",
+        "Votes": 432,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1984": {
+    "title": "Grayndler, NSW   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCLEAY, Leo",
+        "Votes": 34847,
+        "Percent": 60.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MARSDEN-LYNCH, John",
+        "Votes": 16908,
+        "Percent": 29.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HENNESSY, Peter",
+        "Votes": 3090,
+        "Percent": 5.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROI, Christine",
+        "Votes": 2909,
+        "Percent": 5.0
+      }
+    ]
+  },
+  "1987": {
+    "title": "Grayndler, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCLEAY, Leo",
+        "Votes": 31240,
+        "Percent": 52.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TARTAK, Karl",
+        "Votes": 20698,
+        "Percent": 34.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HENNESSY, Peter",
+        "Votes": 3602,
+        "Percent": 6.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHANAHAN, Jack",
+        "Votes": 2108,
+        "Percent": 3.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PAPANIKITAS, Nick",
+        "Votes": 1686,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "1990": {
+    "title": "Grayndler, NSW   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCLEAY, Hon Leo",
+        "Votes": 30515,
+        "Percent": 52.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BENNETT, Diana",
+        "Votes": 15932,
+        "Percent": 27.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HENNESSY, Peter",
+        "Votes": 5447,
+        "Percent": 9.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ADRA, Galeb",
+        "Votes": 2481,
+        "Percent": 4.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WELCH, Bruce",
+        "Votes": 1766,
+        "Percent": 3.0
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "WILSON, Clay",
+        "Votes": 870,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FARES, Habib",
+        "Votes": 686,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PEPPER, Lee",
+        "Votes": 354,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "URBAN, Paul",
+        "Votes": 353,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MATTOSIAN, George der",
+        "Votes": 270,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1993": {
+    "title": "Grayndler, NSW   1993",
+    "rows": [
+      {
+        "Party": "CTA",
+        "Candidate": "WILSON, Clay",
+        "Votes": "625",
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KENNEDY, Marnie",
+        "Votes": "545",
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PEPPER, Lee",
+        "Votes": "535",
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JOHNSTON, Peter",
+        "Votes": "485",
+        "Percent": 0.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCHUGH, Hon Jeannette",
+        "Votes": "45605",
+        "Percent": 63.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FITZGERALD, Paul",
+        "Votes": "4363",
+        "Percent": 6.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MARKHAM, Peter",
+        "Votes": "2012",
+        "Percent": 2.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ROBINSON, Kevin",
+        "Votes": "16761",
+        "Percent": 23.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHANAHAN, Jack",
+        "Votes": "1395",
+        "Percent": 1.9
+      }
+    ]
+  },
+  "1996": {
+    "title": "Grayndler, NSW   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ALBANESE, Anthony",
+        "Votes": 37623,
+        "Percent": 50.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MANSOUR, Morris",
+        "Votes": 17584,
+        "Percent": 23.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUTLER, Kevin",
+        "Votes": 10142,
+        "Percent": 13.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MENDELSSOHN, David",
+        "Votes": 3715,
+        "Percent": 5.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RYDE, Jenny",
+        "Votes": 3419,
+        "Percent": 4.6
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "SHARAH, Alex",
+        "Votes": 766,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUTLER, Kate",
+        "Votes": 751,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HAYNES, Tom",
+        "Votes": 321,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POULSEN, Ron",
+        "Votes": 208,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1998": {
+    "title": "Grayndler, NSW   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ALBANESE, Anthony",
+        "Votes": 41971,
+        "Percent": 55.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ARMANI, Michael",
+        "Votes": 15628,
+        "Percent": 20.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CUMMINGS, Katherine",
+        "Votes": 4301,
+        "Percent": 5.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GAO, Ning",
+        "Votes": 3621,
+        "Percent": 4.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROBERTS, Sean",
+        "Votes": 3373,
+        "Percent": 4.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HALE, Sylvia",
+        "Votes": 2816,
+        "Percent": 3.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "WEBB, Warren",
+        "Votes": 2342,
+        "Percent": 3.1
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "ROBINSON, Michael",
+        "Votes": 630,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KARADJIS, Michael",
+        "Votes": 535,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RYDER, John",
+        "Votes": 177,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "Grayndler, NSW   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ALBANESE, Anthony",
+        "Votes": 36379,
+        "Percent": 49.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KENWORTHY, Brett",
+        "Votes": 16971,
+        "Percent": 22.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HALE, Sylvia",
+        "Votes": 9666,
+        "Percent": 13.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BAIRD, Matthew",
+        "Votes": 6750,
+        "Percent": 9.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "O'CONNOR, Kane",
+        "Votes": 1485,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WAN, Guang Hua",
+        "Votes": 1009,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JOHNSON, Sue",
+        "Votes": 954,
+        "Percent": 1.3
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "HERDEN, Chris",
+        "Votes": 805,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2004": {
+    "title": "Grayndler, NSW   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ALBANESE, Anthony",
+        "Votes": 38634,
+        "Percent": 51.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KOKKOLIS, Stephanie",
+        "Votes": 18347,
+        "Percent": 24.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MYERS, Philip",
+        "Votes": 15914,
+        "Percent": 21.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HARRISON, Jen",
+        "Votes": 1579,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JOHNSON, Sue",
+        "Votes": 1010,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2007": {
+    "title": "Grayndler, NSW   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ALBANESE, Anthony",
+        "Votes": 46509,
+        "Percent": 55.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAFFERY, Daniel",
+        "Votes": 17485,
+        "Percent": 20.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KHAN, Saeed",
+        "Votes": 15675,
+        "Percent": 18.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GABRIEL, Jeffrey",
+        "Votes": 1407,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HINMAN, Pip",
+        "Votes": 1394,
+        "Percent": 1.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "HENNIEN, Ehab",
+        "Votes": 1042,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'CONNOR, Patrick",
+        "Votes": 328,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2010": {
+    "title": "Grayndler, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ALBANESE, Hon Anthony",
+        "Votes": 38369,
+        "Percent": 46.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BYRNE, Sam",
+        "Votes": 21555,
+        "Percent": 25.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DORE, Alexander",
+        "Votes": 20178,
+        "Percent": 24.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GAROFANI, Penny",
+        "Votes": 1074,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COGAN, James",
+        "Votes": 1041,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HINMAN, Pip",
+        "Votes": 1022,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2013": {
+    "title": "Grayndler, NSW   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ALBANESE, Hon Anthony",
+        "Votes": 42009,
+        "Percent": 47.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SPENCER, Cedric",
+        "Votes": 21981,
+        "Percent": 24.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GREENLAND, Hall",
+        "Votes": 20498,
+        "Percent": 23.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "GREEN, Joshua",
+        "Votes": 1828,
+        "Percent": 2.1
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "BALASINGHAM, Mohandas",
+        "Votes": 1522,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCULLY, Joel",
+        "Votes": 1171,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2016": {
+    "title": "Grayndler, NSW   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ALBANESE, Hon Anthony",
+        "Votes": 40503,
+        "Percent": 46.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GOGH, David van",
+        "Votes": 20498,
+        "Percent": 23.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CASEY, Jim",
+        "Votes": 19555,
+        "Percent": 22.2
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "HURST, Emma",
+        "Votes": 1831,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MEOW-MEOW, Meow-Ludo",
+        "Votes": 1157,
+        "Percent": 1.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "ELVY, Jamie",
+        "Votes": 1085,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HINDI, Chris",
+        "Votes": 1029,
+        "Percent": 1.2
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "SHEIL, Pat",
+        "Votes": 934,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCLACHLAN, Chris",
+        "Votes": 537,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCFARLANE, Noel",
+        "Votes": 460,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRENFELL, Oscar",
+        "Votes": 333,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2019": {
+    "title": "Grayndler, NSW   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ALBANESE, Hon Anthony",
+        "Votes": 48728,
+        "Percent": 50.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CASEY, Jim",
+        "Votes": 21607,
+        "Percent": 22.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HENDERSON, Derek",
+        "Votes": 20846,
+        "Percent": 21.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MORELLO, Majella",
+        "Votes": 2613,
+        "Percent": 2.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "KING-OSBORN, Paris",
+        "Votes": 1155,
+        "Percent": 1.2
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "CAO, Gui Dong",
+        "Votes": 865,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2022": {
+    "title": "Grayndler, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ALBANESE, Hon Anthony",
+        "Votes": 50723,
+        "Percent": 53.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JACOBS, Rachael",
+        "Votes": 20846,
+        "Percent": 22.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ZHANG, Ben",
+        "Votes": 15111,
+        "Percent": 16.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SMITH, David",
+        "Votes": 2101,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KILHAM, Sarina",
+        "Votes": 1973,
+        "Percent": 2.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "HENSELIN, Paul",
+        "Votes": 1449,
+        "Percent": 1.5
+      },
+      {
+        "Party": "Fus",
+        "Candidate": "HAGGERTY, James",
+        "Votes": 1222,
+        "Percent": 1.3
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "DELLO-IACOVO, Michael",
+        "Votes": 1148,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2025": {
+    "title": "Grayndler, NSW   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ALBANESE, Anthony",
+        "Votes": 59364,
+        "Percent": 53.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "THOMAS, Hannah",
+        "Votes": 27847,
+        "Percent": 25.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SMALLBONE, David",
+        "Votes": 15867,
+        "Percent": 14.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SMITH, Rodney",
+        "Votes": 3505,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRADBURY, David",
+        "Votes": 2566,
+        "Percent": 2.3
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "BURRELL, Cheri Rae",
+        "Votes": 1729,
+        "Percent": 1.6
+      }
+    ]
+  }
+}

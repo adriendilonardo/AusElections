@@ -1,0 +1,887 @@
+{
+  "1955": {
+    "title": "Scullin, VIC   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LYNCH, Philip",
+        "Votes": "7450",
+        "Percent": 19.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PETERS, Edward",
+        "Votes": "18896",
+        "Percent": 49.7
+      },
+      {
+        "Party": "ALPAC",
+        "Candidate": "CREMEAN, John",
+        "Votes": "11643",
+        "Percent": 30.6
+      }
+    ]
+  },
+  "1958": {
+    "title": "Scullin, VIC   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PETERS, Edward",
+        "Votes": 18619,
+        "Percent": 56.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BRENNAN, Thomas",
+        "Votes": 8160,
+        "Percent": 24.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BURNS, William",
+        "Votes": 6488,
+        "Percent": 19.5
+      }
+    ]
+  },
+  "1961": {
+    "title": "Scullin, VIC   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PETERS, Edward",
+        "Votes": 18506,
+        "Percent": 60.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "O'BRIEN, Barry",
+        "Votes": 7273,
+        "Percent": 23.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SCHURMANN, Rex",
+        "Votes": 4594,
+        "Percent": 15.1
+      }
+    ]
+  },
+  "1963": {
+    "title": "Scullin, VIC   1963",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HARRISON, John",
+        "Votes": "6131",
+        "Percent": 21.4
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "HEARN, Ronald",
+        "Votes": "554",
+        "Percent": 1.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ABIKHAIR, James",
+        "Votes": "5194",
+        "Percent": 18.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PETERS, Edward",
+        "Votes": "16764",
+        "Percent": 58.5
+      }
+    ]
+  },
+  "1966": {
+    "title": "Scullin, VIC   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PETERS, Edward",
+        "Votes": 14271,
+        "Percent": 53.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HAY, Ronald",
+        "Votes": 7267,
+        "Percent": 27.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MCCABE, Peter",
+        "Votes": 3072,
+        "Percent": 11.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DALEY, John",
+        "Votes": 2164,
+        "Percent": 8.1
+      }
+    ]
+  },
+  "1969": {
+    "title": "Scullin, VIC   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JENKINS, Dr Harry",
+        "Votes": 25246,
+        "Percent": 52.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SPICER, James",
+        "Votes": 13090,
+        "Percent": 27.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ANDREWS, Thomas",
+        "Votes": 7065,
+        "Percent": 14.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CONNOR, Brendon",
+        "Votes": 2958,
+        "Percent": 6.1
+      }
+    ]
+  },
+  "1972": {
+    "title": "Scullin, VIC   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JENKINS, Dr Harry",
+        "Votes": 30815,
+        "Percent": 61.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCEWEN, Graeme",
+        "Votes": 13072,
+        "Percent": 26.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ANDREWS, Thomas",
+        "Votes": 6027,
+        "Percent": 12.1
+      }
+    ]
+  },
+  "1974": {
+    "title": "Scullin, VIC   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JENKINS, Dr Harry",
+        "Votes": 36642,
+        "Percent": 66.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "STANLEY, Alan",
+        "Votes": 14223,
+        "Percent": 25.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MCGRATH, Bernard",
+        "Votes": 3296,
+        "Percent": 6.0
+      },
+      {
+        "Party": "AP",
+        "Candidate": "KOTRE, John",
+        "Votes": 950,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "1975": {
+    "title": "Scullin, VIC   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JENKINS, Dr Harry",
+        "Votes": 31307,
+        "Percent": 56.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CLARKE, Gerard",
+        "Votes": 19847,
+        "Percent": 35.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MCGRATH, Bernard",
+        "Votes": 2829,
+        "Percent": 5.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "IRVING, Bernard",
+        "Votes": 1622,
+        "Percent": 2.9
+      }
+    ]
+  },
+  "1977": {
+    "title": "Scullin, VIC   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JENKINS, Dr Harry",
+        "Votes": 32303,
+        "Percent": 51.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CLARKE, Gerard",
+        "Votes": 20849,
+        "Percent": 33.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SAMARGIS, George",
+        "Votes": 5835,
+        "Percent": 9.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MCGRATH, Bernard",
+        "Votes": 3330,
+        "Percent": 5.3
+      }
+    ]
+  },
+  "1980": {
+    "title": "Scullin, VIC   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JENKINS, Dr Harry",
+        "Votes": 46883,
+        "Percent": 67.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LUTZ, Geoffrey",
+        "Votes": 18892,
+        "Percent": 27.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KIDD, Brian",
+        "Votes": 4068,
+        "Percent": 5.8
+      }
+    ]
+  },
+  "1983": {
+    "title": "Scullin, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JENKINS, Dr Harry",
+        "Votes": 51312,
+        "Percent": 66.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SAVAGE, Katheryne",
+        "Votes": 19519,
+        "Percent": 25.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PEAK, Kenneth",
+        "Votes": 3528,
+        "Percent": 4.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARKER, Joan",
+        "Votes": 2886,
+        "Percent": 3.7
+      }
+    ]
+  },
+  "1984": {
+    "title": "Scullin, VIC   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JENKINS, Dr Hon Harry",
+        "Votes": 36513,
+        "Percent": 71.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PHILPOT, Pamela",
+        "Votes": 9448,
+        "Percent": 18.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GREEN, Jane",
+        "Votes": 3444,
+        "Percent": 6.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "WALSH, Helen",
+        "Votes": 1635,
+        "Percent": 3.2
+      }
+    ]
+  },
+  "1987": {
+    "title": "Scullin, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JENKINS, Harry",
+        "Votes": 37158,
+        "Percent": 68.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KABOS, Mike",
+        "Votes": 12991,
+        "Percent": 24.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PRIVITELLI, Joe",
+        "Votes": 3900,
+        "Percent": 7.2
+      }
+    ]
+  },
+  "1990": {
+    "title": "Scullin, VIC   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JENKINS, Harry",
+        "Votes": 32046,
+        "Percent": 47.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PHILLIPS, Wayne",
+        "Votes": 23952,
+        "Percent": 35.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BROWN, Malcolm",
+        "Votes": 9537,
+        "Percent": 14.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POLLOCK, Steve",
+        "Votes": 723,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "IACONO, Angelo",
+        "Votes": 682,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1993": {
+    "title": "Scullin, VIC   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "GRUJOVSKI, Jordan",
+        "Votes": "874",
+        "Percent": 1.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JENKINS, Harry",
+        "Votes": "46672",
+        "Percent": 62.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PHILLIPS, Neil",
+        "Votes": "412",
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SIDDONS, John",
+        "Votes": "2648",
+        "Percent": 3.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GEORGIEVSKI, John",
+        "Votes": "2259",
+        "Percent": 3.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SMITH, Barbara",
+        "Votes": "20988",
+        "Percent": 28.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VEITCH, Don",
+        "Votes": "1027",
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1996": {
+    "title": "Scullin, VIC   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JENKINS, Harry",
+        "Votes": 45295,
+        "Percent": 63.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MORGAN, Marc",
+        "Votes": 17373,
+        "Percent": 24.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BEKIARIS, Evan",
+        "Votes": 6248,
+        "Percent": 8.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SEKHON, Gurm",
+        "Votes": 1460,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PHILLIPS, Neil",
+        "Votes": 1204,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "1998": {
+    "title": "Scullin, VIC   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JENKINS, Harry",
+        "Votes": 52230,
+        "Percent": 67.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PRATT, Peter",
+        "Votes": 18882,
+        "Percent": 24.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TAHIRI, Hussein",
+        "Votes": 4503,
+        "Percent": 5.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KHEIRALLAH, M",
+        "Votes": 949,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, Robert",
+        "Votes": 603,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2001": {
+    "title": "Scullin, VIC   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JENKINS, Harry",
+        "Votes": 50343,
+        "Percent": 63.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KOSTADINOSKI, Lucas",
+        "Votes": 21277,
+        "Percent": 26.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MAWHINNEY, Brian",
+        "Votes": 5202,
+        "Percent": 6.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GRAY, Merinda",
+        "Votes": 2352,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAMPBELL, Trudy",
+        "Votes": 562,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2004": {
+    "title": "Scullin, VIC   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JENKINS, Harry",
+        "Votes": 46209,
+        "Percent": 59.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KOSTADINOSKI, Lucas",
+        "Votes": 24196,
+        "Percent": 30.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GRAY, Merinda",
+        "Votes": 3941,
+        "Percent": 5.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SHAND, Amy",
+        "Votes": 2656,
+        "Percent": 3.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STEER, Simon",
+        "Votes": 1287,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2007": {
+    "title": "Scullin, VIC   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JENKINS, Harry",
+        "Votes": 51680,
+        "Percent": 63.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WILLIAMS, Charles",
+        "Votes": 19910,
+        "Percent": 24.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LAOS, Linda",
+        "Votes": 4918,
+        "Percent": 6.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BYERS, Tania",
+        "Votes": 3859,
+        "Percent": 4.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HUDE, Peter",
+        "Votes": 868,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STEER, Simon",
+        "Votes": 386,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2010": {
+    "title": "Scullin, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JENKINS, Hon Harry",
+        "Votes": 49310,
+        "Percent": 62.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WILLIAMS, Max",
+        "Votes": 19142,
+        "Percent": 24.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SEKHON, Gurm",
+        "Votes": 6702,
+        "Percent": 8.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "STRATOV, Ivan",
+        "Votes": 4226,
+        "Percent": 5.3
+      }
+    ]
+  },
+  "2013": {
+    "title": "Scullin, VIC   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GILES, Andrew",
+        "Votes": 45484,
+        "Percent": 50.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CHUGHA, Jag",
+        "Votes": 26369,
+        "Percent": 29.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LJUBICIC, Rose",
+        "Votes": 6780,
+        "Percent": 7.5
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "COOPER, Peter",
+        "Votes": 5991,
+        "Percent": 6.6
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "ROLPH, Nathan",
+        "Votes": 2453,
+        "Percent": 2.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CONLON, Katie",
+        "Votes": 2394,
+        "Percent": 2.7
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "GRECO, Domenic",
+        "Votes": 1025,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2016": {
+    "title": "Scullin, VIC   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GILES, Andrew",
+        "Votes": 54541,
+        "Percent": 57.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "STOCKMAN, Melanie",
+        "Votes": 27261,
+        "Percent": 28.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LJUBICIC, Rose",
+        "Votes": 7294,
+        "Percent": 7.6
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "MATLEN, John",
+        "Votes": 3387,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCCIANTI, Adriana",
+        "Votes": 3195,
+        "Percent": 3.3
+      }
+    ]
+  },
+  "2019": {
+    "title": "Scullin, VIC   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GILES, Andrew",
+        "Votes": 55467,
+        "Percent": 60.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SINGH, Gurpal",
+        "Votes": 20484,
+        "Percent": 22.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SMITH, Cynthia",
+        "Votes": 6128,
+        "Percent": 6.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HASAN, Firas",
+        "Votes": 4625,
+        "Percent": 5.0
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "WHITFIELD, Rod",
+        "Votes": 3500,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ALBARRI, Yassin",
+        "Votes": 1605,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "2022": {
+    "title": "Scullin, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GILES, Andrew",
+        "Votes": 42147,
+        "Percent": 46.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PERERA, Virosh",
+        "Votes": 19780,
+        "Percent": 21.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PATERSON, Patchouli",
+        "Votes": 9953,
+        "Percent": 10.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "ALBARRI, Yassin",
+        "Votes": 7444,
+        "Percent": 8.2
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "BREE, Ursula Van",
+        "Votes": 5907,
+        "Percent": 6.5
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "KOELMEYER, Eric",
+        "Votes": 3422,
+        "Percent": 3.8
+      },
+      {
+        "Party": "VS",
+        "Candidate": "ROWE, Cameron",
+        "Votes": 2469,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "2025": {
+    "title": "Scullin, VIC   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GILES, Andrew",
+        "Votes": 43348,
+        "Percent": 44.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TAGGAR, Rohit",
+        "Votes": 19807,
+        "Percent": 20.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SANGARYA, Loki",
+        "Votes": 9090,
+        "Percent": 9.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "TSOUTSOULIS, Arthur",
+        "Votes": 6401,
+        "Percent": 6.6
+      },
+      {
+        "Party": "VNS",
+        "Candidate": "HASSAN, Omar",
+        "Votes": 6227,
+        "Percent": 6.4
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "BUCCIANTI, Adriana",
+        "Votes": 5479,
+        "Percent": 5.7
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "BELL, Cassandra",
+        "Votes": 3752,
+        "Percent": 3.9
+      },
+      {
+        "Party": "GRPF",
+        "Candidate": "van BREE, Ursula",
+        "Votes": 2441,
+        "Percent": 2.5
+      }
+    ]
+  }
+}

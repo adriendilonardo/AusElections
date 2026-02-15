@@ -1,0 +1,325 @@
+{
+  "1946": {
+    "title": "Lang, NSW   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MULCAHY, Daniel",
+        "Votes": 37918,
+        "Percent": 51.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PAGET, John",
+        "Votes": 24963,
+        "Percent": 34.0
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "OGSTON, Adam",
+        "Votes": 5508,
+        "Percent": 7.5
+      },
+      {
+        "Party": "ALPN",
+        "Candidate": "BELL, Sidney",
+        "Votes": 4995,
+        "Percent": 6.8
+      }
+    ]
+  },
+  "1949": {
+    "title": "Lang, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MULCAHY, Daniel",
+        "Votes": 20421,
+        "Percent": 50.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WILLIS, Eric",
+        "Votes": 18369,
+        "Percent": 45.1
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "BOYD, Roy",
+        "Votes": 1905,
+        "Percent": 4.7
+      }
+    ]
+  },
+  "1951": {
+    "title": "Lang, NSW   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MULCAHY, Daniel",
+        "Votes": "20944",
+        "Percent": 50.0
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "BOYD, Roy",
+        "Votes": "1968",
+        "Percent": 4.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BRUCE, Robert",
+        "Votes": "18951",
+        "Percent": 45.3
+      }
+    ]
+  },
+  "1954": {
+    "title": "Lang, NSW   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "STEWART, Frank",
+        "Votes": "23472",
+        "Percent": 54.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SPICER, John",
+        "Votes": "19509",
+        "Percent": 45.4
+      }
+    ]
+  },
+  "1955": {
+    "title": "Lang, NSW   1955",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "STEWART, Frank",
+        "Votes": "25175",
+        "Percent": 60.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PEACOCK, Wallace",
+        "Votes": "16550",
+        "Percent": 39.7
+      }
+    ]
+  },
+  "1958": {
+    "title": "Lang, NSW   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "STEWART, Frank",
+        "Votes": 26915,
+        "Percent": 60.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BYGOTT, Hugh",
+        "Votes": 15539,
+        "Percent": 35.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DAVIS, Kevin",
+        "Votes": 1944,
+        "Percent": 4.4
+      }
+    ]
+  },
+  "1961": {
+    "title": "Lang, NSW   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "STEWART, Frank",
+        "Votes": 28379,
+        "Percent": 64.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CARTER, Russell",
+        "Votes": 12775,
+        "Percent": 28.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BALL, Frank",
+        "Votes": 2043,
+        "Percent": 4.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BYRNES, Edward",
+        "Votes": 1162,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "1963": {
+    "title": "Lang, NSW   1963",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "STEWART, Frank",
+        "Votes": "25182",
+        "Percent": 57.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CARTER, Russell",
+        "Votes": "17208",
+        "Percent": 39.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BALL, Francis",
+        "Votes": "1626",
+        "Percent": 3.7
+      }
+    ]
+  },
+  "1966": {
+    "title": "Lang, NSW   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "STEWART, Frank",
+        "Votes": 22417,
+        "Percent": 50.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CRAWFORD, Graham",
+        "Votes": 19432,
+        "Percent": 43.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ATKINSON, Bernard",
+        "Votes": 2450,
+        "Percent": 5.5
+      }
+    ]
+  },
+  "1969": {
+    "title": "Lang, NSW   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "STEWART, Frank",
+        "Votes": 29748,
+        "Percent": 58.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DUNCAN, Stanley",
+        "Votes": 17144,
+        "Percent": 33.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DROULERS, Dominique",
+        "Votes": 1754,
+        "Percent": 3.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TRIPET, Ernest",
+        "Votes": 1617,
+        "Percent": 3.2
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MUNDEY, Jack",
+        "Votes": 696,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1972": {
+    "title": "Lang, NSW   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "STEWART, Frank",
+        "Votes": 33274,
+        "Percent": 63.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DUNCAN, Stanley",
+        "Votes": 16700,
+        "Percent": 32.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BURKE, Robert",
+        "Votes": 2167,
+        "Percent": 4.2
+      }
+    ]
+  },
+  "1974": {
+    "title": "Lang, NSW   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "STEWART, Hon Frank",
+        "Votes": 37343,
+        "Percent": 64.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PEFFER, Barry",
+        "Votes": 17795,
+        "Percent": 30.8
+      },
+      {
+        "Party": "AP",
+        "Candidate": "EDGELL, George",
+        "Votes": 2558,
+        "Percent": 4.4
+      }
+    ]
+  },
+  "1975": {
+    "title": "Lang, NSW   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "STEWART, Hon Frank",
+        "Votes": 31960,
+        "Percent": 55.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CARRUTHERS, Donald",
+        "Votes": 22793,
+        "Percent": 39.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MORGAN, Douglas",
+        "Votes": 1402,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "AUSSIE-STONE, Marc",
+        "Votes": 960,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STEWART, John",
+        "Votes": 871,
+        "Percent": 1.5
+      }
+    ]
+  }
+}

@@ -1,0 +1,974 @@
+{
+  "1949": {
+    "title": "Moore, WA   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BYRNE, Kevin",
+        "Votes": 12282,
+        "Percent": 38.0
+      },
+      {
+        "Party": "CP",
+        "Candidate": "LESLIE, Hugh",
+        "Votes": 12244,
+        "Percent": 37.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JONES, Kenneth",
+        "Votes": 7836,
+        "Percent": 24.2
+      }
+    ]
+  },
+  "1951": {
+    "title": "Moore, WA   1951",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "LESLIE, Hugh",
+        "Votes": "19921",
+        "Percent": 59.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HUNTER, Arthur",
+        "Votes": "13492",
+        "Percent": 40.4
+      }
+    ]
+  },
+  "1954": {
+    "title": "Moore, WA   1954",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "LESLIE, Hugh",
+        "Votes": "22760",
+        "Percent": 57.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DARGIN, Arthur",
+        "Votes": "17143",
+        "Percent": 43.0
+      }
+    ]
+  },
+  "1955": {
+    "title": "Moore, WA   1955",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "LESLIE, Hugh",
+        "Votes": "Unopposed",
+        "Percent": 100.0
+      }
+    ]
+  },
+  "1958": {
+    "title": "Moore, WA   1958",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "LESLIE, Hugh",
+        "Votes": 13542,
+        "Percent": 40.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HALBERT, Hugh",
+        "Votes": 10792,
+        "Percent": 32.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BENNETT, Wilbur",
+        "Votes": 9073,
+        "Percent": 27.2
+      }
+    ]
+  },
+  "1961": {
+    "title": "Moore, WA   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HALBERT, Hugh",
+        "Votes": 12406,
+        "Percent": 35.0
+      },
+      {
+        "Party": "CP",
+        "Candidate": "LESLIE, Hugh",
+        "Votes": 10910,
+        "Percent": 30.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BENNETT, Wilbur",
+        "Votes": 10106,
+        "Percent": 28.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CRISAFULLI, John",
+        "Votes": 1986,
+        "Percent": 5.6
+      }
+    ]
+  },
+  "1963": {
+    "title": "Moore, WA   1963",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HALBERT, Hugh",
+        "Votes": "12876",
+        "Percent": 34.0
+      },
+      {
+        "Party": "CP",
+        "Candidate": "MAISEY, Donald",
+        "Votes": "12810",
+        "Percent": 33.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BENNETT, Wilbur",
+        "Votes": "12146",
+        "Percent": 32.1
+      }
+    ]
+  },
+  "1966": {
+    "title": "Moore, WA   1966",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "MAISEY, Donald",
+        "Votes": 14815,
+        "Percent": 35.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRYCE, Malcolm",
+        "Votes": 14109,
+        "Percent": 34.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LUNDY, Harold",
+        "Votes": 10495,
+        "Percent": 25.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "O'CONNOR, Gavin",
+        "Votes": 1963,
+        "Percent": 4.7
+      }
+    ]
+  },
+  "1969": {
+    "title": "Moore, WA   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WALSH, Peter",
+        "Votes": 18829,
+        "Percent": 41.8
+      },
+      {
+        "Party": "CP",
+        "Candidate": "MAISEY, Donald",
+        "Votes": 13968,
+        "Percent": 31.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "THOMPSON, Ian",
+        "Votes": 9856,
+        "Percent": 21.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DEANE, John",
+        "Votes": 2390,
+        "Percent": 5.3
+      }
+    ]
+  },
+  "1972": {
+    "title": "Moore, WA   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WALSH, Peter",
+        "Votes": 21074,
+        "Percent": 38.7
+      },
+      {
+        "Party": "CP",
+        "Candidate": "MAISEY, Donald",
+        "Votes": 15647,
+        "Percent": 28.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HYDE, John",
+        "Votes": 15197,
+        "Percent": 27.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BALLANTYNE, Benjamin",
+        "Votes": 2480,
+        "Percent": 4.6
+      }
+    ]
+  },
+  "1974": {
+    "title": "Moore, WA   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BOLAND, Rodney",
+        "Votes": 21220,
+        "Percent": 37.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HYDE, John",
+        "Votes": 20279,
+        "Percent": 35.5
+      },
+      {
+        "Party": NaN,
+        "Candidate": "MAISEY, Donald",
+        "Votes": 14889,
+        "Percent": 26.1
+      },
+      {
+        "Party": "AP",
+        "Candidate": "HICKMAN, Sydney",
+        "Votes": 752,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "1975": {
+    "title": "Moore, WA   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HYDE, John",
+        "Votes": 38845,
+        "Percent": 56.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BLANCHARD, Allen",
+        "Votes": 21230,
+        "Percent": 30.6
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "ANDERSON, Graham",
+        "Votes": 9312,
+        "Percent": 13.4
+      }
+    ]
+  },
+  "1977": {
+    "title": "Moore, WA   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HYDE, John",
+        "Votes": 29516,
+        "Percent": 47.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HANSEN, James",
+        "Votes": 14707,
+        "Percent": 23.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "EDWARD, Patricia",
+        "Votes": 7540,
+        "Percent": 12.2
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "CLARKE, Roy",
+        "Votes": 7530,
+        "Percent": 12.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROCKWELL, Maurice",
+        "Votes": 2426,
+        "Percent": 3.9
+      }
+    ]
+  },
+  "1980": {
+    "title": "Moore, WA   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HYDE, John",
+        "Votes": 31021,
+        "Percent": 47.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BLANCHARD, Allen",
+        "Votes": 28267,
+        "Percent": 42.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCCOMISH, Donald",
+        "Votes": 5152,
+        "Percent": 7.8
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "WOOD, Gladwin",
+        "Votes": 1506,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "1983": {
+    "title": "Moore, WA   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BLANCHARD, Allen",
+        "Votes": 42557,
+        "Percent": 54.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HYDE, John",
+        "Votes": 31952,
+        "Percent": 40.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NEEDHAM, Alan",
+        "Votes": 4120,
+        "Percent": 5.2
+      }
+    ]
+  },
+  "1984": {
+    "title": "Moore, WA   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BLANCHARD, Allen",
+        "Votes": 29672,
+        "Percent": 55.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WATERS, Rita",
+        "Votes": 24164,
+        "Percent": 44.9
+      }
+    ]
+  },
+  "1987": {
+    "title": "Moore, WA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BLANCHARD, Allen",
+        "Votes": 33022,
+        "Percent": 53.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CRAWLEY, Jim",
+        "Votes": 23370,
+        "Percent": 38.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "GILL, Geoff",
+        "Votes": 5138,
+        "Percent": 8.4
+      }
+    ]
+  },
+  "1990": {
+    "title": "Moore, WA   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FILING, Paul",
+        "Votes": 30355,
+        "Percent": 49.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BLANCHARD, Allen",
+        "Votes": 19105,
+        "Percent": 30.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LLOYD, Alan",
+        "Votes": 6647,
+        "Percent": 10.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "STEELS, Brian",
+        "Votes": 4877,
+        "Percent": 7.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WATSON, Mark",
+        "Votes": 768,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1993": {
+    "title": "Moore, WA   1993",
+    "rows": [
+      {
+        "Party": "GRN",
+        "Candidate": "MAGYAR, Stephen",
+        "Votes": "4063",
+        "Percent": 5.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NOVAKOVIC, Alex",
+        "Votes": "405",
+        "Percent": 0.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FILING, Paul",
+        "Votes": "39326",
+        "Percent": 54.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BROWN, Libby",
+        "Votes": "2866",
+        "Percent": 4.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "POWER, Christine",
+        "Votes": "25089",
+        "Percent": 35.0
+      }
+    ]
+  },
+  "1996": {
+    "title": "Moore, WA   1996",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "FILING, Paul",
+        "Votes": 28536,
+        "Percent": 34.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Alistair",
+        "Votes": 23766,
+        "Percent": 28.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "STEVENAGE, Paul",
+        "Votes": 22815,
+        "Percent": 27.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GILFILLAN, Sarah",
+        "Votes": 3777,
+        "Percent": 4.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FRANSSEN, Bill",
+        "Votes": 3537,
+        "Percent": 4.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HANCOCK, Vicki",
+        "Votes": 1171,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1998": {
+    "title": "Moore, WA   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WASHER, Dr Malcolm",
+        "Votes": 24754,
+        "Percent": 34.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "POWER, Christine",
+        "Votes": 21743,
+        "Percent": 30.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FILING, Paul",
+        "Votes": 14739,
+        "Percent": 20.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "WALKER, Allison",
+        "Votes": 4943,
+        "Percent": 6.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MAGYAR, Steve",
+        "Votes": 3209,
+        "Percent": 4.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LOCK, Patti",
+        "Votes": 2611,
+        "Percent": 3.6
+      }
+    ]
+  },
+  "2001": {
+    "title": "Moore, WA   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WASHER, Dr Malcolm",
+        "Votes": 33302,
+        "Percent": 49.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "YOUNG, Kim",
+        "Votes": 22888,
+        "Percent": 33.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROY, Andrew",
+        "Votes": 3683,
+        "Percent": 5.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "OLIVER, Clive",
+        "Votes": 3391,
+        "Percent": 5.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "EVANS, John",
+        "Votes": 3078,
+        "Percent": 4.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HENDERSON, Geof",
+        "Votes": 1640,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "2004": {
+    "title": "Moore, WA   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WASHER, Dr Malcolm",
+        "Votes": 37739,
+        "Percent": 55.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "YOUNG, Kim",
+        "Votes": 21446,
+        "Percent": 31.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KERR, Thor",
+        "Votes": 4829,
+        "Percent": 7.1
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "WONG, Dr Evelynne",
+        "Votes": 1445,
+        "Percent": 2.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "GAULT, George",
+        "Votes": 1388,
+        "Percent": 2.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PAYNE, Kevin",
+        "Votes": 1160,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARVEY, Jack",
+        "Votes": 189,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2007": {
+    "title": "Moore, WA   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WASHER, Dr Malcolm",
+        "Votes": 38262,
+        "Percent": 54.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BURGESS, Geraldine",
+        "Votes": 22902,
+        "Percent": 32.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PERICIC-HERRMANN, Annette",
+        "Votes": 5906,
+        "Percent": 8.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "DUNJEY, Lachlan",
+        "Votes": 1556,
+        "Percent": 2.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CROKER, Douglas",
+        "Votes": 811,
+        "Percent": 1.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "GAULT, George",
+        "Votes": 719,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARVEY, Arthur",
+        "Votes": 115,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2010": {
+    "title": "Moore, WA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WASHER, Dr Mal",
+        "Votes": 44518,
+        "Percent": 54.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BROWN, Jeremy",
+        "Votes": 21678,
+        "Percent": 26.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "YOUNG, Sheridan",
+        "Votes": 11159,
+        "Percent": 13.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BIRCH, Meg",
+        "Votes": 1804,
+        "Percent": 2.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BARRETT, Paul",
+        "Votes": 1573,
+        "Percent": 1.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "GAULT, George",
+        "Votes": 1471,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "2013": {
+    "title": "Moore, WA   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GOODENOUGH, Ian",
+        "Votes": 45562,
+        "Percent": 53.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LAWRANCE, Jason",
+        "Votes": 22324,
+        "Percent": 26.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LLOYD, Louahna",
+        "Votes": 8539,
+        "Percent": 10.0
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "MORRIS, Gary",
+        "Votes": 5745,
+        "Percent": 6.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOST, Rex",
+        "Votes": 1602,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CATALANO, Josh",
+        "Votes": 1324,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PRITCHETT, Mary",
+        "Votes": 738,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2016": {
+    "title": "Moore, WA   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GOODENOUGH, Ian",
+        "Votes": 48133,
+        "Percent": 55.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WALKER, Tony",
+        "Votes": 25118,
+        "Percent": 28.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LINDLEY, Daniel",
+        "Votes": 11100,
+        "Percent": 12.7
+      },
+      {
+        "Party": "AC",
+        "Candidate": "GROENEWALD, Maryka",
+        "Votes": 3194,
+        "Percent": 3.7
+      }
+    ]
+  },
+  "2019": {
+    "title": "Moore, WA   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GOODENOUGH, Ian",
+        "Votes": 45503,
+        "Percent": 51.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'GORMAN, Tony",
+        "Votes": 21760,
+        "Percent": 24.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "VUJCICH, Daniel",
+        "Votes": 10735,
+        "Percent": 12.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "WALSH, Tyler",
+        "Votes": 4113,
+        "Percent": 4.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MURPHY, Ziggi",
+        "Votes": 2390,
+        "Percent": 2.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "CHILCOTT, Rod",
+        "Votes": 1591,
+        "Percent": 1.8
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "JACOBS, Jen",
+        "Votes": 1428,
+        "Percent": 1.6
+      },
+      {
+        "Party": "AChr",
+        "Candidate": "HOST, Rex",
+        "Votes": 1259,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2022": {
+    "title": "Moore, WA   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GOODENOUGH, Ian",
+        "Votes": 43706,
+        "Percent": 41.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FRENCH, Tom",
+        "Votes": 34227,
+        "Percent": 32.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COOPER, Mark",
+        "Votes": 14902,
+        "Percent": 14.3
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "BRIGHTMAN, Brian",
+        "Votes": 3541,
+        "Percent": 3.4
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "GUNNESS, Peter",
+        "Votes": 3095,
+        "Percent": 3.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "WATKINSON, Helen",
+        "Votes": 2342,
+        "Percent": 2.2
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "ANDERSSON, Sue",
+        "Votes": 1926,
+        "Percent": 1.9
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "SUTER, Martin",
+        "Votes": 792,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2025": {
+    "title": "Moore, WA   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FRENCH, Tom",
+        "Votes": 34734,
+        "Percent": 32.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CONNELLY, Vince",
+        "Votes": 33595,
+        "Percent": 31.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "McCARTHY, Scott",
+        "Votes": 11877,
+        "Percent": 11.1
+      },
+      {
+        "Party": "NAFD",
+        "Candidate": "GOODENOUGH, Ian",
+        "Votes": 10623,
+        "Percent": 9.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARTON, Nathan",
+        "Votes": 6762,
+        "Percent": 6.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "FIMOGNARI, Paul",
+        "Votes": 4840,
+        "Percent": 4.5
+      },
+      {
+        "Party": "AUC",
+        "Candidate": "BARTLEY, Trevor Alan",
+        "Votes": 2347,
+        "Percent": 2.2
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "RENNICK, Christopher",
+        "Votes": 2059,
+        "Percent": 1.9
+      }
+    ]
+  }
+}

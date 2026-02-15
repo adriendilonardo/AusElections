@@ -1,0 +1,725 @@
+{
+  "1946": {
+    "title": "Watson, NSW   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FALSTEIN, Max",
+        "Votes": 38025,
+        "Percent": 53.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MONCHAUX, Charles de",
+        "Votes": 24246,
+        "Percent": 34.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILSON, Charles",
+        "Votes": 6177,
+        "Percent": 8.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KNOX, Wallace",
+        "Votes": 2364,
+        "Percent": 3.3
+      }
+    ]
+  },
+  "1949": {
+    "title": "Watson, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CURTIN, Daniel",
+        "Votes": 19515,
+        "Percent": 49.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CARD, Stanley",
+        "Votes": 15147,
+        "Percent": 38.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FALSTEIN, Max",
+        "Votes": 3656,
+        "Percent": 9.2
+      },
+      {
+        "Party": "ALPN",
+        "Candidate": "O'REILLY, Harold",
+        "Votes": 1210,
+        "Percent": 3.1
+      }
+    ]
+  },
+  "1951": {
+    "title": "Watson, NSW   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CURTIN, Daniel",
+        "Votes": "22510",
+        "Percent": 56.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CLARK, Donald",
+        "Votes": "17158",
+        "Percent": 43.3
+      }
+    ]
+  },
+  "1954": {
+    "title": "Watson, NSW   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CURTIN, Daniel",
+        "Votes": "25507",
+        "Percent": 63.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "O'CONNELL, Hubert",
+        "Votes": "14846",
+        "Percent": 36.8
+      }
+    ]
+  },
+  "1955": {
+    "title": "Watson, NSW   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HUXTABLE, Jill",
+        "Votes": "8316",
+        "Percent": 20.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COPE, James",
+        "Votes": "30129",
+        "Percent": 74.4
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "HATFIELD, Henry",
+        "Votes": "2025",
+        "Percent": 5.0
+      }
+    ]
+  },
+  "1958": {
+    "title": "Watson, NSW   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COPE, James",
+        "Votes": 27232,
+        "Percent": 71.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BAMPTON, John",
+        "Votes": 9628,
+        "Percent": 25.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "COLLINS, Kenneth",
+        "Votes": 1503,
+        "Percent": 3.9
+      }
+    ]
+  },
+  "1961": {
+    "title": "Watson, NSW   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COPE, James",
+        "Votes": 29079,
+        "Percent": 80.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PITKETHLY, Sidney",
+        "Votes": 6134,
+        "Percent": 16.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "NAPPA, Mary",
+        "Votes": 1081,
+        "Percent": 3.0
+      }
+    ]
+  },
+  "1963": {
+    "title": "Watson, NSW   1963",
+    "rows": [
+      {
+        "Party": "CPA",
+        "Candidate": "HATFIELD, Henry",
+        "Votes": "951",
+        "Percent": 2.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MAMO, Louis",
+        "Votes": "8302",
+        "Percent": 23.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COPE, James",
+        "Votes": "24280",
+        "Percent": 68.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ATKINSON, Bernard",
+        "Votes": "2136",
+        "Percent": 6.0
+      }
+    ]
+  },
+  "1966": {
+    "title": "Watson, NSW   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COPE, James",
+        "Votes": 21492,
+        "Percent": 62.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LOWE, Peter",
+        "Votes": 10476,
+        "Percent": 30.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "COLMAN, Thomas",
+        "Votes": 2664,
+        "Percent": 7.7
+      }
+    ]
+  },
+  "1993": {
+    "title": "Watson, NSW   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "TSIRKAS, George",
+        "Votes": "952",
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MEYER, Brian",
+        "Votes": "721",
+        "Percent": 1.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCLEAY, Hon Leo",
+        "Votes": "41701",
+        "Percent": 59.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHAPLIN, M",
+        "Votes": "355",
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARDING, Col",
+        "Votes": "2499",
+        "Percent": 3.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NEWMAN, Amelia",
+        "Votes": "2457",
+        "Percent": 3.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "O'BREE, Bernard",
+        "Votes": "21330",
+        "Percent": 30.5
+      }
+    ]
+  },
+  "1996": {
+    "title": "Watson, NSW   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCLEAY, Hon Leo",
+        "Votes": 39329,
+        "Percent": 55.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LARTER, Bruce",
+        "Votes": 23840,
+        "Percent": 33.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NEWMAN, Amelia",
+        "Votes": 5625,
+        "Percent": 7.9
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "RAHME, Todd",
+        "Votes": 2570,
+        "Percent": 3.6
+      }
+    ]
+  },
+  "1998": {
+    "title": "Watson, NSW   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCLEAY, Hon Leo",
+        "Votes": 41159,
+        "Percent": 56.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RAFFERTY, Joe",
+        "Votes": 19461,
+        "Percent": 26.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ABDURAHMAN, Zahir",
+        "Votes": 3838,
+        "Percent": 5.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "WRIGHT, Claire",
+        "Votes": 3392,
+        "Percent": 4.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NEWMAN, Amelia Gavagnin",
+        "Votes": 2309,
+        "Percent": 3.2
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "PETERSON, Murray",
+        "Votes": 1176,
+        "Percent": 1.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TOOMEY, Caroline",
+        "Votes": 1070,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "2001": {
+    "title": "Watson, NSW   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCLEAY, Hon Leo",
+        "Votes": 39516,
+        "Percent": 56.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PLOOY, Arnold",
+        "Votes": 19791,
+        "Percent": 28.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NAM, Ken",
+        "Votes": 3349,
+        "Percent": 4.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GRIFFITHS, Kristin",
+        "Votes": 2788,
+        "Percent": 4.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FITZSIMMONS, Dominic",
+        "Votes": 2446,
+        "Percent": 3.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "FARRELL, Michelle",
+        "Votes": 2165,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POULSON, Ronald",
+        "Votes": 322,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2004": {
+    "title": "Watson, NSW   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BURKE, Tony",
+        "Votes": 39046,
+        "Percent": 56.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TOPOLSKI, Keith",
+        "Votes": 21723,
+        "Percent": 31.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "REID, Kali",
+        "Votes": 4667,
+        "Percent": 6.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CANNONE, Cat",
+        "Votes": 1150,
+        "Percent": 1.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "COLEMAN, John",
+        "Votes": 1093,
+        "Percent": 1.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DALRYMPLE, Garry",
+        "Votes": 914,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POULSEN, Ron",
+        "Votes": 335,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2007": {
+    "title": "Watson, NSW   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BURKE, Tony",
+        "Votes": 49652,
+        "Percent": 61.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MANSOUR, Philip",
+        "Votes": 20957,
+        "Percent": 26.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DONAYRE, Christine",
+        "Votes": 5302,
+        "Percent": 6.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "FOY, Merry",
+        "Votes": 2011,
+        "Percent": 2.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "SAMMUT, Josephine",
+        "Votes": 1988,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POULSEN, Ronald",
+        "Votes": 424,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2010": {
+    "title": "Watson, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BURKE, Hon Tony",
+        "Votes": 38707,
+        "Percent": 50.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NAM, Ken",
+        "Votes": 28527,
+        "Percent": 37.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DONAYRE, Christine",
+        "Votes": 7387,
+        "Percent": 9.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHARMA, Mark",
+        "Votes": 2136,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "2013": {
+    "title": "Watson, NSW   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BURKE, Hon Tony",
+        "Votes": 39126,
+        "Percent": 49.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DELEZIO, Ron",
+        "Votes": 30617,
+        "Percent": 38.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BLOCH, Barbara",
+        "Votes": 4171,
+        "Percent": 5.3
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "NASSER, Zaher",
+        "Votes": 1970,
+        "Percent": 2.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "FRASER, David",
+        "Votes": 1873,
+        "Percent": 2.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "RAWSON, Stephen",
+        "Votes": 897,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KAMLADE, Paul",
+        "Votes": 376,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2016": {
+    "title": "Watson, NSW   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BURKE, Hon Tony",
+        "Votes": 46105,
+        "Percent": 55.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ZAMAN, Mohammad",
+        "Votes": 21133,
+        "Percent": 25.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "ABDULLA, Violet",
+        "Votes": 7957,
+        "Percent": 9.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BLOCH, Barbara",
+        "Votes": 5555,
+        "Percent": 6.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GORDON, Tom",
+        "Votes": 1611,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GERAN, Paul",
+        "Votes": 875,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2019": {
+    "title": "Watson, NSW   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BURKE, Hon Tony",
+        "Votes": 43550,
+        "Percent": 51.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ZAMAN, Mohammad",
+        "Votes": 24769,
+        "Percent": 29.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BHALDRIATHE, Emmet de",
+        "Votes": 5982,
+        "Percent": 7.1
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "SCHUBERT, Karl",
+        "Votes": 4522,
+        "Percent": 5.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "WRIGHTSON, Dean",
+        "Votes": 3549,
+        "Percent": 4.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ZENG, Raymond",
+        "Votes": 1878,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "2022": {
+    "title": "Watson, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BURKE, Hon Tony",
+        "Votes": 44464,
+        "Percent": 51.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "AKTER, Sazeda",
+        "Votes": 22759,
+        "Percent": 26.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SCHOTT, Bradley",
+        "Votes": 8200,
+        "Percent": 9.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "KOUKOULIS, John",
+        "Votes": 6126,
+        "Percent": 7.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "JORGENSEN, Alan",
+        "Votes": 4178,
+        "Percent": 4.9
+      }
+    ]
+  },
+  "2025": {
+    "title": "Watson, NSW   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BURKE, Tony",
+        "Votes": 39763,
+        "Percent": 48.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ALAM, Zakir",
+        "Votes": 12585,
+        "Percent": 15.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BASYOUNY, Ziad",
+        "Votes": 12209,
+        "Percent": 14.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BREWER, Jocelyn",
+        "Votes": 7399,
+        "Percent": 8.9
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "HADCHITI, Vanessa",
+        "Votes": 3559,
+        "Percent": 4.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "TREVENA, Elisha",
+        "Votes": 2674,
+        "Percent": 3.2
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "KOUKOULIS, John",
+        "Votes": 2162,
+        "Percent": 2.6
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "MANNAH, John",
+        "Votes": 1428,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KHAN, Zain",
+        "Votes": 1055,
+        "Percent": 1.3
+      }
+    ]
+  }
+}

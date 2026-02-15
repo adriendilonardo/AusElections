@@ -1,0 +1,149 @@
+{
+  "2019": {
+    "title": "Cooper, VIC   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEARNEY, Ged",
+        "Votes": 45601,
+        "Percent": 46.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RISSTROM, David",
+        "Votes": 20605,
+        "Percent": 21.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BELL, Andrew",
+        "Votes": 19012,
+        "Percent": 19.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LARKIN, Kath",
+        "Votes": 4125,
+        "Percent": 4.2
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "RICHINGS, Nadine",
+        "Votes": 2476,
+        "Percent": 2.5
+      },
+      {
+        "Party": "Reason",
+        "Candidate": "RUSSELL, Sarah",
+        "Votes": 2110,
+        "Percent": 2.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "NANGLE, Brett",
+        "Votes": 1892,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LIESHOUT, Teresa Van",
+        "Votes": 1660,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "2022": {
+    "title": "Cooper, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEARNEY, Ged",
+        "Votes": 38754,
+        "Percent": 41.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LIDDLE, Celeste",
+        "Votes": 25648,
+        "Percent": 27.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ATKINSON, Jadon",
+        "Votes": 15329,
+        "Percent": 16.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "ROSA, Adam La",
+        "Votes": 4170,
+        "Percent": 4.5
+      },
+      {
+        "Party": "VS",
+        "Candidate": "LARKIN, Kath",
+        "Votes": 3250,
+        "Percent": 3.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "TURNER, William",
+        "Votes": 2807,
+        "Percent": 3.0
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "BANGAAR, Rabin",
+        "Votes": 2207,
+        "Percent": 2.4
+      },
+      {
+        "Party": "Fus",
+        "Candidate": "WHITEHEAD, Adrian",
+        "Votes": 1585,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "2025": {
+    "title": "Cooper, VIC   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEARNEY, Ged",
+        "Votes": 45151,
+        "Percent": 42.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BURNETT, Tara",
+        "Votes": 27123,
+        "Percent": 25.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TODHUNTER, Stewart",
+        "Votes": 16280,
+        "Percent": 15.1
+      },
+      {
+        "Party": "VNS",
+        "Candidate": "LARKIN, Kath",
+        "Votes": 9012,
+        "Percent": 8.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "TURNER, William",
+        "Votes": 5684,
+        "Percent": 5.3
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "STOLZENBERG, Donna",
+        "Votes": 4336,
+        "Percent": 4.0
+      }
+    ]
+  }
+}

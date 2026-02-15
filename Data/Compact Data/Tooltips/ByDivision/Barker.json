@@ -1,0 +1,1087 @@
+{
+  "1946": {
+    "title": "Barker, SA   1946",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CAMERON, Hon Archie",
+        "Votes": 34619,
+        "Percent": 54.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KRANTZ, Harry",
+        "Votes": 26500,
+        "Percent": 41.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EDDY, David",
+        "Votes": 2992,
+        "Percent": 4.7
+      }
+    ]
+  },
+  "1949": {
+    "title": "Barker, SA   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CAMERON, Hon Archie",
+        "Votes": 26034,
+        "Percent": 64.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KLAR, John",
+        "Votes": 13354,
+        "Percent": 33.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GARTNER, John",
+        "Votes": 1004,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1951": {
+    "title": "Barker, SA   1951",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "LLOYD, Charles",
+        "Votes": "528",
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RIECK, Frank",
+        "Votes": "481",
+        "Percent": 1.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAMERON, Hon Archie",
+        "Votes": "25256",
+        "Percent": 61.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CORCORAN, James",
+        "Votes": "14880",
+        "Percent": 36.2
+      }
+    ]
+  },
+  "1954": {
+    "title": "Barker, SA   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CAMERON, Hon Archie",
+        "Votes": "27255",
+        "Percent": 62.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DETTMAN, Ralph",
+        "Votes": "16107",
+        "Percent": 37.1
+      }
+    ]
+  },
+  "1955": {
+    "title": "Barker, SA   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CAMERON, Hon Archie",
+        "Votes": "25993",
+        "Percent": 67.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DETTMAN, Ralph",
+        "Votes": "12398",
+        "Percent": 32.3
+      }
+    ]
+  },
+  "1958": {
+    "title": "Barker, SA   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FORBES, Dr James",
+        "Votes": 25146,
+        "Percent": 60.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ALCOCK, Norman",
+        "Votes": 14860,
+        "Percent": 35.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MARSHALL, Frank",
+        "Votes": 1670,
+        "Percent": 4.0
+      }
+    ]
+  },
+  "1961": {
+    "title": "Barker, SA   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FORBES, Dr James",
+        "Votes": 23732,
+        "Percent": 54.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ALCOCK, Norman",
+        "Votes": 17428,
+        "Percent": 40.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "COFFEY, Charles",
+        "Votes": 1364,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GARTNER, John",
+        "Votes": 1089,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1963": {
+    "title": "Barker, SA   1963",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FORBES, Dr James",
+        "Votes": "26547",
+        "Percent": 56.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ALCOCK, Norman",
+        "Votes": "19168",
+        "Percent": 41.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BURNS, Harvey",
+        "Votes": "1043",
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1966": {
+    "title": "Barker, SA   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FORBES, Hon Dr James",
+        "Votes": 33921,
+        "Percent": 67.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ALCOCK, Norman",
+        "Votes": 15923,
+        "Percent": 31.4
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "JARRETT, Don",
+        "Votes": 819,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1969": {
+    "title": "Barker, SA   1969",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FORBES, Hon Dr James",
+        "Votes": 27176,
+        "Percent": 57.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CORNWALL, John",
+        "Votes": 19873,
+        "Percent": 42.2
+      }
+    ]
+  },
+  "1972": {
+    "title": "Barker, SA   1972",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FORBES, Hon Dr James",
+        "Votes": 29426,
+        "Percent": 56.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CORNWALL, Dr John",
+        "Votes": 20622,
+        "Percent": 39.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CORNU, David Le",
+        "Votes": 1705,
+        "Percent": 3.3
+      }
+    ]
+  },
+  "1974": {
+    "title": "Barker, SA   1974",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FORBES, Hon Dr Jim",
+        "Votes": 28280,
+        "Percent": 48.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HENNESSY, James",
+        "Votes": 18765,
+        "Percent": 32.2
+      },
+      {
+        "Party": "CP",
+        "Candidate": "ADAMS, Malcolm",
+        "Votes": 6655,
+        "Percent": 11.4
+      },
+      {
+        "Party": "LM",
+        "Candidate": "CLAMPETT, Richard",
+        "Votes": 3811,
+        "Percent": 6.5
+      },
+      {
+        "Party": "AP",
+        "Candidate": "REENEN, Colyn van",
+        "Votes": 542,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STRACHAN, Arthur",
+        "Votes": 228,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1975": {
+    "title": "Barker, SA   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PORTER, James",
+        "Votes": 36894,
+        "Percent": 58.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BATH, Graham",
+        "Votes": 19334,
+        "Percent": 30.6
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "WILLIAMS, Kenneth",
+        "Votes": 4070,
+        "Percent": 6.4
+      },
+      {
+        "Party": "LM",
+        "Candidate": "ROBERTS, Rodney",
+        "Votes": 2176,
+        "Percent": 3.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BAYLY, Lily",
+        "Votes": 630,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1977": {
+    "title": "Barker, SA   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PORTER, James",
+        "Votes": 43129,
+        "Percent": 63.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "RICHARDSON, Neil",
+        "Votes": 18968,
+        "Percent": 27.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROBERTS, Rodney",
+        "Votes": 5952,
+        "Percent": 8.7
+      }
+    ]
+  },
+  "1980": {
+    "title": "Barker, SA   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PORTER, James",
+        "Votes": 40445,
+        "Percent": 57.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NAPPER, Norman",
+        "Votes": 20323,
+        "Percent": 28.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CHILDS, Ivor",
+        "Votes": 3924,
+        "Percent": 5.6
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "BECK, Anthony",
+        "Votes": 3774,
+        "Percent": 5.4
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "ROSS, Kim",
+        "Votes": 1920,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "1983": {
+    "title": "Barker, SA   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PORTER, James",
+        "Votes": 42333,
+        "Percent": 57.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "YOUNG, Valerie",
+        "Votes": 23906,
+        "Percent": 32.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LEES, Meg",
+        "Votes": 3974,
+        "Percent": 5.4
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BECK, Anthony",
+        "Votes": 3650,
+        "Percent": 4.9
+      }
+    ]
+  },
+  "1984": {
+    "title": "Barker, SA   1984",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PORTER, James",
+        "Votes": 35429,
+        "Percent": 57.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MOORE, Jeremy",
+        "Votes": 21412,
+        "Percent": 34.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LEES, Meg",
+        "Votes": 3266,
+        "Percent": 5.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "JACKA, Richard",
+        "Votes": 1775,
+        "Percent": 2.9
+      }
+    ]
+  },
+  "1987": {
+    "title": "Barker, SA   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PORTER, James",
+        "Votes": 33296,
+        "Percent": 52.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HENDER, Bill",
+        "Votes": 21221,
+        "Percent": 33.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "VAWSER, Max",
+        "Votes": 3924,
+        "Percent": 6.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TAYLOR, Glenn",
+        "Votes": 3602,
+        "Percent": 5.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PFEUFFER, Harry",
+        "Votes": 884,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GIANNOUKLAS, Tom",
+        "Votes": 451,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BANNISTER, Allan",
+        "Votes": 385,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1990": {
+    "title": "Barker, SA   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCLACHLAN, Ian",
+        "Votes": 39470,
+        "Percent": 57.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HENDER, Bill",
+        "Votes": 19865,
+        "Percent": 29.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LOBBAN, Mark",
+        "Votes": 6730,
+        "Percent": 9.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RAAMS, Pieter",
+        "Votes": 2211,
+        "Percent": 3.2
+      }
+    ]
+  },
+  "1993": {
+    "title": "Barker, SA   1993",
+    "rows": [
+      {
+        "Party": "AD",
+        "Candidate": "ANDERSEN, Regine",
+        "Votes": "4742",
+        "Percent": 6.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCLACHLAN, Ian",
+        "Votes": "46667",
+        "Percent": 60.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EARLY, Harry",
+        "Votes": "19939",
+        "Percent": 25.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WELLS, Chris",
+        "Votes": "1784",
+        "Percent": 2.3
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "KENT, Deidre",
+        "Votes": "1548",
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOYLAN, Francis",
+        "Votes": "1399",
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WIKBLOM, Stephen",
+        "Votes": "1221",
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1996": {
+    "title": "Barker, SA   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCLACHLAN, Ian",
+        "Votes": 49204,
+        "Percent": 62.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "YORK, Leah",
+        "Votes": 18146,
+        "Percent": 23.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DORNEY, Dennis",
+        "Votes": 7734,
+        "Percent": 9.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HELLING, Rita",
+        "Votes": 2924,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WELLS, Chris",
+        "Votes": 712,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1998": {
+    "title": "Barker, SA   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SECKER, Patrick",
+        "Votes": 36412,
+        "Percent": 46.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DETCHON, David",
+        "Votes": 16844,
+        "Percent": 21.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "WRIGHT, Dona",
+        "Votes": 10096,
+        "Percent": 13.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LAVERS, John",
+        "Votes": 4919,
+        "Percent": 6.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BECK, Tony",
+        "Votes": 3985,
+        "Percent": 5.1
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "CORNISH, Philip",
+        "Votes": 2161,
+        "Percent": 2.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "HAIG, Tom",
+        "Votes": 1746,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JERRAM, Bill",
+        "Votes": 784,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LUDWIG, Judith",
+        "Votes": 713,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2001": {
+    "title": "Barker, SA   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SECKER, Patrick",
+        "Votes": 43201,
+        "Percent": 54.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DETCHON, David",
+        "Votes": 18968,
+        "Percent": 23.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "WRIGHT, Donna",
+        "Votes": 5900,
+        "Percent": 7.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MILLER, Louise",
+        "Votes": 5504,
+        "Percent": 6.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RIGNEY, Matt",
+        "Votes": 2629,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BALLINGER, Liz",
+        "Votes": 2538,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CORNISH, Philip",
+        "Votes": 1167,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "2004": {
+    "title": "Barker, SA   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SECKER, Patrick",
+        "Votes": 48233,
+        "Percent": 53.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SIMPSON-LYTTLE, Waluwe",
+        "Votes": 19478,
+        "Percent": 21.5
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "JACKSON, Tim",
+        "Votes": 9611,
+        "Percent": 10.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CORNISH, Philip",
+        "Votes": 5276,
+        "Percent": 5.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KELLY, Pam",
+        "Votes": 3704,
+        "Percent": 4.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCHMIDT, Rodger",
+        "Votes": 1572,
+        "Percent": 1.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "RUSSELL-TAYLOR, Neil",
+        "Votes": 1501,
+        "Percent": 1.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCNAUGHTON, Graham",
+        "Votes": 1339,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "2007": {
+    "title": "Barker, SA   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SECKER, Patrick",
+        "Votes": 44329,
+        "Percent": 46.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LOCK, Karen",
+        "Votes": 28475,
+        "Percent": 30.1
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "THIELE, Deb",
+        "Votes": 9695,
+        "Percent": 10.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CORNISH, Phil",
+        "Votes": 5418,
+        "Percent": 5.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JENNINGS, Andrew",
+        "Votes": 4796,
+        "Percent": 5.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SNEATH, Justin",
+        "Votes": 1984,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "2010": {
+    "title": "Barker, SA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SECKER, Patrick",
+        "Votes": 51810,
+        "Percent": 55.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCDONNELL, Simone",
+        "Votes": 26433,
+        "Percent": 28.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MOFFAT, Sean",
+        "Votes": 8607,
+        "Percent": 9.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HONEYCHURCH, Trevor",
+        "Votes": 5829,
+        "Percent": 6.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAVIES, Steven",
+        "Votes": 1591,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "2013": {
+    "title": "Barker, SA   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PASIN, Tony",
+        "Votes": 48678,
+        "Percent": 52.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GOLDING, Phil",
+        "Votes": 16993,
+        "Percent": 18.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LAMBERT, Kristin",
+        "Votes": 7368,
+        "Percent": 8.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SAGE, Richard",
+        "Votes": 6617,
+        "Percent": 7.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KEOUGH, Mark",
+        "Votes": 5224,
+        "Percent": 5.7
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "HANNEMANN, Miles",
+        "Votes": 4021,
+        "Percent": 4.4
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "JHANDI, Balwinder",
+        "Votes": 3623,
+        "Percent": 3.9
+      }
+    ]
+  },
+  "2016": {
+    "title": "Barker, SA   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PASIN, Tony",
+        "Votes": 44001,
+        "Percent": 46.6
+      },
+      {
+        "Party": "NXT",
+        "Candidate": "STACEY, James",
+        "Votes": 27452,
+        "Percent": 29.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'BRIEN, Mat",
+        "Votes": 14363,
+        "Percent": 15.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ZEPPEL, Yvonne",
+        "Votes": 5458,
+        "Percent": 5.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KEOUGH, Mark",
+        "Votes": 3171,
+        "Percent": 3.4
+      }
+    ]
+  },
+  "2019": {
+    "title": "Barker, SA   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PASIN, Tony",
+        "Votes": 61155,
+        "Percent": 57.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'BRIEN, Mat",
+        "Votes": 22205,
+        "Percent": 21.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HILLAM, Rosa",
+        "Votes": 7229,
+        "Percent": 6.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "BACHER, Bert",
+        "Votes": 6259,
+        "Percent": 5.9
+      },
+      {
+        "Party": "CA",
+        "Candidate": "GLADIGAU, Kelly",
+        "Votes": 3082,
+        "Percent": 2.9
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "ECKERMANN, Karen",
+        "Votes": 2940,
+        "Percent": 2.8
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "HANNEMANN, Miles",
+        "Votes": 2796,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "2022": {
+    "title": "Barker, SA   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PASIN, Tony",
+        "Votes": 56328,
+        "Percent": 53.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRAES, Mark",
+        "Votes": 22050,
+        "Percent": 20.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HILLAM, Rosa",
+        "Votes": 7853,
+        "Percent": 7.4
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "QUAREMBA, Carlos",
+        "Votes": 6958,
+        "Percent": 6.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SWIGGS, David",
+        "Votes": 4221,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FRY, Maddy",
+        "Votes": 3192,
+        "Percent": 3.0
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "PIETZSCH, Jonathan",
+        "Votes": 2530,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PANNELL, Vince",
+        "Votes": 1915,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "HANTON, Kym",
+        "Votes": 760,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2025": {
+    "title": "Barker, SA   2025",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PASIN, Tony",
+        "Votes": 52460,
+        "Percent": 48.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROTHE, James",
+        "Votes": 24453,
+        "Percent": 22.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "TROETH, Jennifer",
+        "Votes": 8908,
+        "Percent": 8.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SUMNER, Major Moogy",
+        "Votes": 8866,
+        "Percent": 8.2
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "JAMESON, Robert",
+        "Votes": 2983,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCHOLES, Cody",
+        "Votes": 2963,
+        "Percent": 2.7
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "BROHIER, Michael",
+        "Votes": 2781,
+        "Percent": 2.6
+      },
+      {
+        "Party": "NP",
+        "Candidate": "PIETZSCH, Jonathan",
+        "Votes": 1893,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HILLAM, Rosa",
+        "Votes": 1891,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PENNO, Ian",
+        "Votes": 1516,
+        "Percent": 1.4
+      }
+    ]
+  }
+}

@@ -1,0 +1,720 @@
+{
+  "1974": {
+    "title": "Canberra, ACT   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ENDERBY, Hon Keppel",
+        "Votes": 24761,
+        "Percent": 53.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HUGHES, Peter",
+        "Votes": 16658,
+        "Percent": 36.2
+      },
+      {
+        "Party": "AP",
+        "Candidate": "THOMAS, Mary",
+        "Votes": 2520,
+        "Percent": 5.5
+      },
+      {
+        "Party": "CP",
+        "Candidate": "MATTRESS, Dorothy",
+        "Votes": 1871,
+        "Percent": 4.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STORY, Doreen",
+        "Votes": 211,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1975": {
+    "title": "Canberra, ACT   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HASLEM, John",
+        "Votes": 25697,
+        "Percent": 49.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ENDERBY, Hon Keppel",
+        "Votes": 23517,
+        "Percent": 45.2
+      },
+      {
+        "Party": "LM",
+        "Candidate": "HARRIS, Anthony",
+        "Votes": 1572,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WISE, Kevin",
+        "Votes": 434,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MOLONEY, John",
+        "Votes": 406,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KAVENENKO, Oleg",
+        "Votes": 377,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1977": {
+    "title": "Canberra, ACT   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HASLEM, John",
+        "Votes": 24578,
+        "Percent": 43.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LAWRENCE, Henry",
+        "Votes": 23214,
+        "Percent": 40.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BELLHOUSE, John",
+        "Votes": 8544,
+        "Percent": 15.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KAVUNENKO, Oleg",
+        "Votes": 534,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1980": {
+    "title": "Canberra, ACT   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KELLY, Ros",
+        "Votes": 32352,
+        "Percent": 52.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HASLEM, John",
+        "Votes": 25957,
+        "Percent": 42.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NESIC, Leo",
+        "Votes": 2845,
+        "Percent": 4.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WISE, Kevin",
+        "Votes": 574,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1983": {
+    "title": "Canberra, ACT   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KELLY, Roslyn",
+        "Votes": 40434,
+        "Percent": 62.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BRENNAN, Gerard",
+        "Votes": 22365,
+        "Percent": 34.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HANSEN, Joanne",
+        "Votes": 2191,
+        "Percent": 3.4
+      }
+    ]
+  },
+  "1984": {
+    "title": "Canberra, ACT   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KELLY, Roslyn",
+        "Votes": 33454,
+        "Percent": 51.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HUMPHRIES, Gary",
+        "Votes": 21667,
+        "Percent": 33.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HANCOCK, Robyn",
+        "Votes": 4945,
+        "Percent": 7.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RICHARDSON, Fiona",
+        "Votes": 4087,
+        "Percent": 6.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HANSEN, Joanne",
+        "Votes": 724,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1987": {
+    "title": "Canberra, ACT   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KELLY, Ros",
+        "Votes": 39175,
+        "Percent": 53.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LOUTTIT, John",
+        "Votes": 23039,
+        "Percent": 31.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ENGLISH, Frances",
+        "Votes": 4712,
+        "Percent": 6.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WARREN, Chris",
+        "Votes": 3060,
+        "Percent": 4.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAINS, Beverley",
+        "Votes": 2015,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FARRELL, John",
+        "Votes": 742,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1990": {
+    "title": "Canberra, ACT   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KELLY, Hon Roslyn",
+        "Votes": 35286,
+        "Percent": 43.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MACKEY, Bill",
+        "Votes": 31009,
+        "Percent": 38.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCCARRON-BENSON, Julie",
+        "Votes": 10215,
+        "Percent": 12.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JEFFREY, Gina",
+        "Votes": 2856,
+        "Percent": 3.5
+      },
+      {
+        "Party": "NDP",
+        "Candidate": "MEYER, Barbara",
+        "Votes": 1183,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1993": {
+    "title": "Canberra, ACT   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "KELLY, Sally",
+        "Votes": "775",
+        "Percent": 0.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MYERS, Peter",
+        "Votes": "4796",
+        "Percent": 5.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KELLY, Hon Roslyn",
+        "Votes": "46895",
+        "Percent": 52.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "STEFANIAK, Bill",
+        "Votes": "32504",
+        "Percent": 36.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ADAMSON, Greg",
+        "Votes": "3109",
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TREVETHAN, Mike",
+        "Votes": "1663",
+        "Percent": 1.9
+      }
+    ]
+  },
+  "1996": {
+    "title": "Canberra, ACT   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCMULLAN, Hon Bob",
+        "Votes": 32405,
+        "Percent": 48.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WILCOX, Gwen",
+        "Votes": 25594,
+        "Percent": 38.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCALLISTER, Gordon",
+        "Votes": 6047,
+        "Percent": 9.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BULL, Sue",
+        "Votes": 1508,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRAY-GRZESZKIEWICZ, Jerz",
+        "Votes": 789,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHAPLIN, Maryan",
+        "Votes": 778,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1998": {
+    "title": "Canberra, ACT   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIS, Annette",
+        "Votes": 48015,
+        "Percent": 48.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MORISON, Ian",
+        "Votes": 32336,
+        "Percent": 32.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ONSMAN, Yulia",
+        "Votes": 7237,
+        "Percent": 7.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "DOBLE, Burt",
+        "Votes": 5122,
+        "Percent": 5.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ELLERMAN, Sue",
+        "Votes": 3774,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ULASOWSKI, Nikki",
+        "Votes": 1427,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ENGLAND, Maryan",
+        "Votes": 281,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2001": {
+    "title": "Canberra, ACT   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIS, Annette",
+        "Votes": 46632,
+        "Percent": 46.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BARNIER, Belinda",
+        "Votes": 34148,
+        "Percent": 34.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MATTHEWS, Aaron",
+        "Votes": 8098,
+        "Percent": 8.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KOOREY, Stephanie",
+        "Votes": 6268,
+        "Percent": 6.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "COX, Barry",
+        "Votes": 3179,
+        "Percent": 3.2
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "MILLER, John",
+        "Votes": 2003,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "2004": {
+    "title": "Canberra, ACT   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIS, Annette",
+        "Votes": 50214,
+        "Percent": 49.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BARNIER, Belinda",
+        "Votes": 37238,
+        "Percent": 37.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ELLERMAN, Sue",
+        "Votes": 10243,
+        "Percent": 10.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MATTHEWS, Aaron",
+        "Votes": 2218,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ARNOLD, Jim",
+        "Votes": 765,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2007": {
+    "title": "Canberra, ACT   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIS, Annette",
+        "Votes": 58711,
+        "Percent": 51.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "COLBERT, Natalie",
+        "Votes": 40359,
+        "Percent": 35.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BRESNAN, Amanda",
+        "Votes": 14878,
+        "Percent": 13.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOLDER, John",
+        "Votes": 953,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2010": {
+    "title": "Canberra, ACT   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BRODTMANN, Gai",
+        "Votes": 49608,
+        "Percent": 44.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JONES, Giulia",
+        "Votes": 41732,
+        "Percent": 37.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ELLERMAN, Sue",
+        "Votes": 20816,
+        "Percent": 18.6
+      }
+    ]
+  },
+  "2013": {
+    "title": "Canberra, ACT   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BRODTMANN, Gai",
+        "Votes": 47613,
+        "Percent": 41.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SEFTON, Tom",
+        "Votes": 43919,
+        "Percent": 37.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MELROSE, Julie",
+        "Votes": 14691,
+        "Percent": 12.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MAHER, Damian",
+        "Votes": 4756,
+        "Percent": 4.1
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "HANLEY, Tony",
+        "Votes": 3725,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BURT, Nicole",
+        "Votes": 1264,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2016": {
+    "title": "Canberra, ACT   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BRODTMANN, Gai",
+        "Votes": 55091,
+        "Percent": 42.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ADELAN-LANGFORD, Jessica",
+        "Votes": 48416,
+        "Percent": 37.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CAHILL, Patricia",
+        "Votes": 19200,
+        "Percent": 14.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCKNELL, Christopher",
+        "Votes": 6013,
+        "Percent": 4.7
+      }
+    ]
+  },
+  "2019": {
+    "title": "Canberra, ACT   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PAYNE, Alicia",
+        "Votes": 34989,
+        "Percent": 40.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ZAKI, Mina",
+        "Votes": 24063,
+        "Percent": 27.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HOLLO, Tim",
+        "Votes": 20144,
+        "Percent": 23.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOHM, Tim",
+        "Votes": 4062,
+        "Percent": 4.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KNIGHT, Robert",
+        "Votes": 1784,
+        "Percent": 2.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MAINE, Greg de",
+        "Votes": 1361,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2022": {
+    "title": "Canberra, ACT   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PAYNE, Alicia",
+        "Votes": 41435,
+        "Percent": 44.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HOLLO, Tim",
+        "Votes": 22795,
+        "Percent": 24.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MINSON, Slade",
+        "Votes": 20102,
+        "Percent": 21.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOHM, Tim",
+        "Votes": 4772,
+        "Percent": 5.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SMITH, Catherine",
+        "Votes": 1687,
+        "Percent": 1.8
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MILES, James",
+        "Votes": 1531,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "2025": {
+    "title": "Canberra, ACT   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PAYNE, Alicia",
+        "Votes": 45133,
+        "Percent": 48.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MUDFORD, Isabel",
+        "Votes": 18504,
+        "Percent": 19.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ROCHE, Will",
+        "Votes": 17101,
+        "Percent": 18.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MILES, Claire",
+        "Votes": 10187,
+        "Percent": 10.9
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "McTAGGART, Teresa",
+        "Votes": 1258,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IMO",
+        "Candidate": "LIDDICOAT, Mary-Jane",
+        "Votes": 1222,
+        "Percent": 1.3
+      }
+    ]
+  }
+}

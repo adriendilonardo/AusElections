@@ -1,0 +1,992 @@
+{
+  "1949": {
+    "title": "Dawson, QLD   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "DAVIDSON, Charles",
+        "Votes": 19302,
+        "Percent": 58.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BURNS, George",
+        "Votes": 12389,
+        "Percent": 37.5
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "ANDREW, Richard",
+        "Votes": 1379,
+        "Percent": 4.2
+      }
+    ]
+  },
+  "1951": {
+    "title": "Dawson, QLD   1951",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "DAVIDSON, Charles",
+        "Votes": "19058",
+        "Percent": 56.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HYDE, George",
+        "Votes": "14773",
+        "Percent": 43.7
+      }
+    ]
+  },
+  "1954": {
+    "title": "Dawson, QLD   1954",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "DAVIDSON, Charles",
+        "Votes": "19828",
+        "Percent": 55.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HYDE, George",
+        "Votes": "15802",
+        "Percent": 44.4
+      }
+    ]
+  },
+  "1955": {
+    "title": "Dawson, QLD   1955",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "DAVIDSON, Charles",
+        "Votes": "21324",
+        "Percent": 61.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DALTON, Stanley",
+        "Votes": "13541",
+        "Percent": 38.8
+      }
+    ]
+  },
+  "1958": {
+    "title": "Dawson, QLD   1958",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "DAVIDSON, Hon Charles",
+        "Votes": 21424,
+        "Percent": 60.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FERGUSON, Selwyn",
+        "Votes": 10243,
+        "Percent": 29.1
+      },
+      {
+        "Party": "QLP",
+        "Candidate": "O'GRADY, Waller",
+        "Votes": 3569,
+        "Percent": 10.1
+      }
+    ]
+  },
+  "1961": {
+    "title": "Dawson, QLD   1961",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "DAVIDSON, Hon Charles",
+        "Votes": 19068,
+        "Percent": 52.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MITCHELL, Cyril",
+        "Votes": 14764,
+        "Percent": 40.8
+      },
+      {
+        "Party": "QLP",
+        "Candidate": "O'GRADY, Waller",
+        "Votes": 2344,
+        "Percent": 6.5
+      }
+    ]
+  },
+  "1963": {
+    "title": "Dawson, QLD   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "ESHMANN, Edwin",
+        "Votes": "2543",
+        "Percent": 6.8
+      },
+      {
+        "Party": "CP",
+        "Candidate": "SHAW, George",
+        "Votes": "19420",
+        "Percent": 51.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EVERINGHAM, Dr Douglas",
+        "Votes": "15508",
+        "Percent": 41.4
+      }
+    ]
+  },
+  "1966": {
+    "title": "Dawson, QLD   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PATTERSON, Dr Rex",
+        "Votes": 22428,
+        "Percent": 55.7
+      },
+      {
+        "Party": "CP",
+        "Candidate": "FORDYCE, John",
+        "Votes": 16510,
+        "Percent": 41.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "LEWIS, Bernard",
+        "Votes": 1335,
+        "Percent": 3.3
+      }
+    ]
+  },
+  "1969": {
+    "title": "Dawson, QLD   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PATTERSON, Dr Rex",
+        "Votes": 28966,
+        "Percent": 63.1
+      },
+      {
+        "Party": "CP",
+        "Candidate": "HINZ, John",
+        "Votes": 14646,
+        "Percent": 31.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "LEWIS, Bernard",
+        "Votes": 2280,
+        "Percent": 5.0
+      }
+    ]
+  },
+  "1972": {
+    "title": "Dawson, QLD   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PATTERSON, Dr Rex",
+        "Votes": 28104,
+        "Percent": 57.7
+      },
+      {
+        "Party": "CP",
+        "Candidate": "BEVIS, Lionel",
+        "Votes": 17998,
+        "Percent": 36.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "JUDGE, John",
+        "Votes": 2618,
+        "Percent": 5.4
+      }
+    ]
+  },
+  "1974": {
+    "title": "Dawson, QLD   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PATTERSON, Hon Dr Rex",
+        "Votes": 28029,
+        "Percent": 50.6
+      },
+      {
+        "Party": "CP",
+        "Candidate": "BRAITHWAITE, Raymond",
+        "Votes": 27363,
+        "Percent": 49.4
+      }
+    ]
+  },
+  "1975": {
+    "title": "Dawson, QLD   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PATTERSON, Hon Dr Rex",
+        "Votes": 26810,
+        "Percent": 45.8
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "BRAITHWAITE, Raymond",
+        "Votes": 24022,
+        "Percent": 41.0
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "MCFARLANE, Noel",
+        "Votes": 6936,
+        "Percent": 11.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BAILEY, Colin",
+        "Votes": 821,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1977": {
+    "title": "Dawson, QLD   1977",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "BRAITHWAITE, Raymond",
+        "Votes": 34624,
+        "Percent": 55.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GOLDSBOROUGH, Michael",
+        "Votes": 25923,
+        "Percent": 41.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PAULL, Frank",
+        "Votes": 1377,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1980": {
+    "title": "Dawson, QLD   1980",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "BRAITHWAITE, Raymond",
+        "Votes": 33205,
+        "Percent": 50.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HILL, Barbara",
+        "Votes": 29960,
+        "Percent": 45.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CALDWELL, Brian",
+        "Votes": 2299,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "OAKES, Robert",
+        "Votes": 539,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CROMBIE, Kelly",
+        "Votes": 330,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1983": {
+    "title": "Dawson, QLD   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "BRAITHWAITE, Ray",
+        "Votes": 35686,
+        "Percent": 50.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HILL, Barbara",
+        "Votes": 34229,
+        "Percent": 48.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JENSEN, Raymond",
+        "Votes": 426,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GEISSMANN, Eric",
+        "Votes": 423,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CROMBIE, Kelly",
+        "Votes": 420,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1984": {
+    "title": "Dawson, QLD   1984",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "BRAITHWAITE, Raymond",
+        "Votes": 31299,
+        "Percent": 52.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BIRD, John",
+        "Votes": 26823,
+        "Percent": 44.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LUCAS, Antony",
+        "Votes": 1913,
+        "Percent": 3.2
+      }
+    ]
+  },
+  "1987": {
+    "title": "Dawson, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WELCH, Bill",
+        "Votes": 30232,
+        "Percent": 46.9
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BRAITHWAITE, Raymond",
+        "Votes": 29698,
+        "Percent": 46.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "POTTINGER, Paul",
+        "Votes": 4553,
+        "Percent": 7.1
+      }
+    ]
+  },
+  "1990": {
+    "title": "Dawson, QLD   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCGARVIE, Greg",
+        "Votes": 29869,
+        "Percent": 42.9
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BRAITHWAITE, Raymond",
+        "Votes": 26780,
+        "Percent": 38.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SEYMOUR, Jim",
+        "Votes": 7459,
+        "Percent": 10.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "IRELANDES, Tom",
+        "Votes": 5566,
+        "Percent": 8.0
+      }
+    ]
+  },
+  "1993": {
+    "title": "Dawson, QLD   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "MCCULLOCH, Bob",
+        "Votes": "6838",
+        "Percent": 9.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HEINIGER, Neil",
+        "Votes": "625",
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MACNEVIN, Michelle",
+        "Votes": "597",
+        "Percent": 0.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MANSELL, John",
+        "Votes": "5545",
+        "Percent": 7.4
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BRAITHWAITE, Raymond",
+        "Votes": "29209",
+        "Percent": 38.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GILBERT, Frank",
+        "Votes": "28954",
+        "Percent": 38.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "QUADRIO, Steve",
+        "Votes": "1884",
+        "Percent": 2.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FOX, Ian",
+        "Votes": "1795",
+        "Percent": 2.4
+      }
+    ]
+  },
+  "1996": {
+    "title": "Dawson, QLD   1996",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "KELLY, De-Anne",
+        "Votes": 28359,
+        "Percent": 35.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GILBERT, Frank",
+        "Votes": 28168,
+        "Percent": 35.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WILLIAMSON, Greg",
+        "Votes": 18937,
+        "Percent": 23.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PAINE, Kevin",
+        "Votes": 3095,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DUCKETT, Tony",
+        "Votes": 542,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WATSON, Len",
+        "Votes": 245,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1998": {
+    "title": "Dawson, QLD   1998",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "KELLY, De-Anne",
+        "Votes": 32312,
+        "Percent": 41.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STROPPIANA, Mark",
+        "Votes": 29507,
+        "Percent": 38.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "EGGERS, Barbara",
+        "Votes": 12350,
+        "Percent": 15.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PRESTON, Darin",
+        "Votes": 1567,
+        "Percent": 2.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KING, Helen",
+        "Votes": 1027,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCLEAN, Kevin",
+        "Votes": 840,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2001": {
+    "title": "Dawson, QLD   2001",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "KELLY, De-Anne",
+        "Votes": 39827,
+        "Percent": 50.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FEENEY, Cherry",
+        "Votes": 26782,
+        "Percent": 33.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "ROBINSON, Rob",
+        "Votes": 6814,
+        "Percent": 8.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "OFFIELD, Karen",
+        "Votes": 2195,
+        "Percent": 2.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JONES, Barry",
+        "Votes": 1940,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ELLUL, Andrew",
+        "Votes": 1050,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PUKALLAS, Jan",
+        "Votes": 693,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2004": {
+    "title": "Dawson, QLD   2004",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "KELLY, Hon De-Anne",
+        "Votes": 39406,
+        "Percent": 48.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FEENEY, Cherry",
+        "Votes": 25626,
+        "Percent": 31.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MENZEL, Margaret",
+        "Votes": 5647,
+        "Percent": 6.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FONTES, Tony",
+        "Votes": 2606,
+        "Percent": 3.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "ARROITA, Lewis",
+        "Votes": 2572,
+        "Percent": 3.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SMITH, Bev",
+        "Votes": 2435,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PUKALLUS, Jan",
+        "Votes": 2192,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JULIEN, Archie",
+        "Votes": 690,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LOWIS, Debbie",
+        "Votes": 645,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2007": {
+    "title": "Dawson, QLD   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BIDGOOD, James",
+        "Votes": 38423,
+        "Percent": 48.1
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "KELLY, Hon De-Anne",
+        "Votes": 33948,
+        "Percent": 42.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BELL, Peter",
+        "Votes": 3489,
+        "Percent": 4.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LEE, Rena",
+        "Votes": 2398,
+        "Percent": 3.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DOYLE, Chris",
+        "Votes": 1216,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARRIS, Andrew",
+        "Votes": 432,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2010": {
+    "title": "Dawson, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "CHRISTENSEN, George",
+        "Votes": 37940,
+        "Percent": 45.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRUNKER, Mike",
+        "Votes": 33216,
+        "Percent": 40.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DYKYJ, Jonathan",
+        "Votes": 6406,
+        "Percent": 7.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HERRINGTON, Damian",
+        "Votes": 4100,
+        "Percent": 4.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "INGREY, Bill",
+        "Votes": 1287,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2013": {
+    "title": "Dawson, QLD   2013",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "CHRISTENSEN, George",
+        "Votes": 40507,
+        "Percent": 46.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TAHA, Bronwyn",
+        "Votes": 26030,
+        "Percent": 29.7
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "FERGUSON, Ian",
+        "Votes": 8777,
+        "Percent": 10.0
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "ENGLERT, Justin",
+        "Votes": 5905,
+        "Percent": 6.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DYKYJ, Jonathan",
+        "Votes": 4396,
+        "Percent": 5.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "TEMPLE, Lindsay",
+        "Votes": 1663,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARRIS, Andrew",
+        "Votes": 345,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2016": {
+    "title": "Dawson, QLD   2016",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "CHRISTENSEN, George",
+        "Votes": 38474,
+        "Percent": 42.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GILBERT, Frank",
+        "Votes": 29608,
+        "Percent": 32.8
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "DODD, Ash",
+        "Votes": 5904,
+        "Percent": 6.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DYKYJ, Jonathan",
+        "Votes": 4652,
+        "Percent": 5.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LARGE, Steven",
+        "Votes": 4184,
+        "Percent": 4.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HALL, Michael",
+        "Votes": 4075,
+        "Percent": 4.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "NICKSON, Amanda",
+        "Votes": 3403,
+        "Percent": 3.8
+      }
+    ]
+  },
+  "2019": {
+    "title": "Dawson, QLD   2019",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "CHRISTENSEN, George",
+        "Votes": 38164,
+        "Percent": 43.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HASSAN, Belinda",
+        "Votes": 18022,
+        "Percent": 20.3
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "LAWSON, Debra",
+        "Votes": 11628,
+        "Percent": 13.1
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "BUNYAN, Brendan",
+        "Votes": 5619,
+        "Percent": 6.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "THOMPSON, Colin",
+        "Votes": 4355,
+        "Percent": 4.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LINDENBERG, Imogen",
+        "Votes": 4009,
+        "Percent": 4.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "WARE, Anne-Marie",
+        "Votes": 2835,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "QUEENAN, Lachlan",
+        "Votes": 2478,
+        "Percent": 2.8
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "TURNER, Michael",
+        "Votes": 1741,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "2022": {
+    "title": "Dawson, QLD   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "WILLCOX, Andrew",
+        "Votes": 40109,
+        "Percent": 43.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HAMILTON, Shane",
+        "Votes": 22650,
+        "Percent": 24.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "HALL, Julie",
+        "Votes": 12289,
+        "Percent": 13.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CREEN, Paula",
+        "Votes": 6675,
+        "Percent": 7.2
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "PATERSON, Ciaron",
+        "Votes": 5189,
+        "Percent": 5.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "YOUNG, Christian",
+        "Votes": 3713,
+        "Percent": 4.0
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "JACKSON, Jim",
+        "Votes": 1948,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "2025": {
+    "title": "Dawson, QLD   2025",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "WILLCOX, Andrew",
+        "Votes": 41043,
+        "Percent": 41.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WALLACE, Neil",
+        "Votes": 25808,
+        "Percent": 26.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BROWN, Darren",
+        "Votes": 10258,
+        "Percent": 10.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CREEN, Paula",
+        "Votes": 6944,
+        "Percent": 7.1
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "LOCKYER, Michael",
+        "Votes": 5673,
+        "Percent": 5.8
+      },
+      {
+        "Party": "GRPF",
+        "Candidate": "BEAUMONT, Alexander John",
+        "Votes": 5572,
+        "Percent": 5.7
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "NICKSON, Amanda",
+        "Votes": 3170,
+        "Percent": 3.2
+      }
+    ]
+  }
+}

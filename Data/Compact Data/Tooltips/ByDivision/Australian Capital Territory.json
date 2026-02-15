@@ -1,0 +1,280 @@
+{
+  "1949": {
+    "title": "Australian Capital Territory, ACT   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RHODES, Sidney",
+        "Votes": 4823,
+        "Percent": 43.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NOTT, Dr Lewis",
+        "Votes": 3475,
+        "Percent": 31.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MOIR, Malcolm",
+        "Votes": 2510,
+        "Percent": 22.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ASHTON, Jessie",
+        "Votes": 366,
+        "Percent": 3.3
+      }
+    ]
+  },
+  "1951": {
+    "title": "Australian Capital Territory, ACT   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FRASER, James",
+        "Votes": "5905",
+        "Percent": 49.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ASHTON, Jessie",
+        "Votes": "373",
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NOTT, Dr Lewis",
+        "Votes": "3265",
+        "Percent": 27.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GREENWOOD, Clyde",
+        "Votes": "2287",
+        "Percent": 19.3
+      }
+    ]
+  },
+  "1954": {
+    "title": "Australian Capital Territory, ACT   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FRASER, James",
+        "Votes": "8762",
+        "Percent": 62.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "STEVENSON, Mary",
+        "Votes": "4799",
+        "Percent": 34.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CUSACK, John",
+        "Votes": "405",
+        "Percent": 2.9
+      }
+    ]
+  },
+  "1955": {
+    "title": "Australian Capital Territory, ACT   1955",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FRASER, James",
+        "Votes": "9588",
+        "Percent": 64.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GREENISH, Robert",
+        "Votes": "5263",
+        "Percent": 35.4
+      }
+    ]
+  },
+  "1958": {
+    "title": "Australian Capital Territory, ACT   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FRASER, James",
+        "Votes": 11980,
+        "Percent": 63.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DALGARNO, Ann",
+        "Votes": 4383,
+        "Percent": 23.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAY, Philip",
+        "Votes": 2534,
+        "Percent": 13.4
+      }
+    ]
+  },
+  "1961": {
+    "title": "Australian Capital Territory, ACT   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FRASER, James",
+        "Votes": 17114,
+        "Percent": 64.9
+      },
+      {
+        "Party": "Lib",
+        "Candidate": "Geoffrey, Small",
+        "Votes": 9263,
+        "Percent": 35.1
+      }
+    ]
+  },
+  "1963": {
+    "title": "Australian Capital Territory, ACT   1963",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FRASER, James",
+        "Votes": "17984",
+        "Percent": 54.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CALVERT, Elizabeth",
+        "Votes": "14748",
+        "Percent": 45.1
+      }
+    ]
+  },
+  "1966": {
+    "title": "Australian Capital Territory, ACT   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FRASER, James",
+        "Votes": 22721,
+        "Percent": 51.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ROWELL, Robert",
+        "Votes": 16685,
+        "Percent": 37.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DONOHUE, John",
+        "Votes": 2193,
+        "Percent": 5.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DELGARNO, Ann",
+        "Votes": 1458,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GREENISH, Robert",
+        "Votes": 938,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "1969": {
+    "title": "Australian Capital Territory, ACT   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FRASER, James",
+        "Votes": 39070,
+        "Percent": 67.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MAHER, Robert",
+        "Votes": 15492,
+        "Percent": 26.9
+      },
+      {
+        "Party": "AP",
+        "Candidate": "MCDERMOTT, Thomas",
+        "Votes": 2651,
+        "Percent": 4.6
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MCHUGH, Donald",
+        "Votes": 477,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1972": {
+    "title": "Australian Capital Territory, ACT   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ENDERBY, Keppel",
+        "Votes": 40147,
+        "Percent": 52.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HUGHES, Peter",
+        "Votes": 17556,
+        "Percent": 22.8
+      },
+      {
+        "Party": "AP",
+        "Candidate": "FITZGERALD, Alan",
+        "Votes": 10529,
+        "Percent": 13.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BURNS, Arthur",
+        "Votes": 3133,
+        "Percent": 4.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CHRISTIE, Terence",
+        "Votes": 2758,
+        "Percent": 3.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EATOCK, June",
+        "Votes": 2003,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLAIR, Barry",
+        "Votes": 670,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SALVADOR, Michael",
+        "Votes": 140,
+        "Percent": 0.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MARSH, Harry",
+        "Votes": 67,
+        "Percent": 0.1
+      }
+    ]
+  }
+}

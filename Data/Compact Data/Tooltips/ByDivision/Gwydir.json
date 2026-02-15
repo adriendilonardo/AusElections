@@ -1,0 +1,680 @@
+{
+  "1946": {
+    "title": "Gwydir, NSW   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SCULLY, Hon William",
+        "Votes": 22434,
+        "Percent": 48.7
+      },
+      {
+        "Party": "CP",
+        "Candidate": "TRELOAR, Thomas",
+        "Votes": 16313,
+        "Percent": 35.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAMPBELL, William",
+        "Votes": 2661,
+        "Percent": 5.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MORT, Thomas",
+        "Votes": 1689,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WADE, Benjamin",
+        "Votes": 1350,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CARMODY, Tom",
+        "Votes": 914,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCDONALD, George",
+        "Votes": 381,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NOTT, Kevin",
+        "Votes": 322,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1949": {
+    "title": "Gwydir, NSW   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "TRELOAR, Thomas",
+        "Votes": 20018,
+        "Percent": 55.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SCULLY, Hon William",
+        "Votes": 16282,
+        "Percent": 44.9
+      }
+    ]
+  },
+  "1951": {
+    "title": "Gwydir, NSW   1951",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "TRELOAR, Thomas",
+        "Votes": "19460",
+        "Percent": 53.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FERGUSON, Norman",
+        "Votes": "17147",
+        "Percent": 46.8
+      }
+    ]
+  },
+  "1954": {
+    "title": "Gwydir, NSW   1954",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ALLAN, Ian",
+        "Votes": "20101",
+        "Percent": 53.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "QUINN, Michael",
+        "Votes": "17731",
+        "Percent": 46.9
+      }
+    ]
+  },
+  "1955": {
+    "title": "Gwydir, NSW   1955",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ALLAN, Ian",
+        "Votes": "22271",
+        "Percent": 57.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HEFFERNAN, Austin",
+        "Votes": "16162",
+        "Percent": 42.1
+      }
+    ]
+  },
+  "1958": {
+    "title": "Gwydir, NSW   1958",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ALLAN, Ian",
+        "Votes": 21304,
+        "Percent": 55.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HEFFERNAN, Austin",
+        "Votes": 17414,
+        "Percent": 45.0
+      }
+    ]
+  },
+  "1961": {
+    "title": "Gwydir, NSW   1961",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ALLAN, Ian",
+        "Votes": 19845,
+        "Percent": 50.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HEFFERNAN, Austin",
+        "Votes": 17836,
+        "Percent": 45.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "PARMENTER, Stanley",
+        "Votes": 1901,
+        "Percent": 4.8
+      }
+    ]
+  },
+  "1963": {
+    "title": "Gwydir, NSW   1963",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ALLAN, Ian",
+        "Votes": "22477",
+        "Percent": 55.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GREEN, Kenneth",
+        "Votes": "18373",
+        "Percent": 45.0
+      }
+    ]
+  },
+  "1966": {
+    "title": "Gwydir, NSW   1966",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ALLAN, Ian",
+        "Votes": 25184,
+        "Percent": 61.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LANG, Reginald",
+        "Votes": 15895,
+        "Percent": 38.7
+      }
+    ]
+  },
+  "1969": {
+    "title": "Gwydir, NSW   1969",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "HUNT, Ralph",
+        "Votes": 22735,
+        "Percent": 50.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NOTT, Roger",
+        "Votes": 20143,
+        "Percent": 44.3
+      },
+      {
+        "Party": "AP",
+        "Candidate": "EDWARDS, Brian",
+        "Votes": 2014,
+        "Percent": 4.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WEBSTER, Halwyn",
+        "Votes": 546,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1972": {
+    "title": "Gwydir, NSW   1972",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "HUNT, Hon Ralph",
+        "Votes": 22979,
+        "Percent": 50.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DOWNING, Robert",
+        "Votes": 19896,
+        "Percent": 43.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "GOUGH, John",
+        "Votes": 1532,
+        "Percent": 3.3
+      },
+      {
+        "Party": "AP",
+        "Candidate": "MAPPERSON, Kevin",
+        "Votes": 1083,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'DONNELL, William",
+        "Votes": 324,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1974": {
+    "title": "Gwydir, NSW   1974",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "HUNT, Hon Ralph",
+        "Votes": 28892,
+        "Percent": 58.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BOURKE, Francis",
+        "Votes": 20249,
+        "Percent": 40.6
+      },
+      {
+        "Party": "AP",
+        "Candidate": "THOMPSON, James",
+        "Votes": 689,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1975": {
+    "title": "Gwydir, NSW   1975",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "HUNT, Hon Ralph",
+        "Votes": 31779,
+        "Percent": 62.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BOURKE, Francis",
+        "Votes": 18686,
+        "Percent": 36.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HENNESSY, Norbert",
+        "Votes": 449,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'DONNELL, William",
+        "Votes": 331,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1977": {
+    "title": "Gwydir, NSW   1977",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "HUNT, Hon Ralph",
+        "Votes": 37600,
+        "Percent": 59.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FISH, Francis",
+        "Votes": 20831,
+        "Percent": 32.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HOWE, Heather",
+        "Votes": 2866,
+        "Percent": 4.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ALLEN, Brian",
+        "Votes": 1743,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MUNRO, Lyall",
+        "Votes": 654,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1980": {
+    "title": "Gwydir, NSW   1980",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "HUNT, Hon Ralph",
+        "Votes": 38796,
+        "Percent": 58.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HAMILTON, Robert",
+        "Votes": 23589,
+        "Percent": 35.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COLLISON, Gloria",
+        "Votes": 4004,
+        "Percent": 6.0
+      }
+    ]
+  },
+  "1983": {
+    "title": "Gwydir, NSW   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "HUNT, Hon Ralph",
+        "Votes": 38839,
+        "Percent": 57.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HAMILTON, Robert",
+        "Votes": 25585,
+        "Percent": 37.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COLLISON, Gloria",
+        "Votes": 3711,
+        "Percent": 5.4
+      }
+    ]
+  },
+  "1984": {
+    "title": "Gwydir, NSW   1984",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "HUNT, Hon Ralph",
+        "Votes": 33988,
+        "Percent": 54.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Pamela",
+        "Votes": 25271,
+        "Percent": 40.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MUNRO, Lyall",
+        "Votes": 1958,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRAZIER, John",
+        "Votes": 968,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1987": {
+    "title": "Gwydir, NSW   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "HUNT, Hon Ralph",
+        "Votes": 35934,
+        "Percent": 57.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ELKS, Trevor",
+        "Votes": 23200,
+        "Percent": 36.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FLEMING, Lloyd",
+        "Votes": 3695,
+        "Percent": 5.9
+      }
+    ]
+  },
+  "1990": {
+    "title": "Gwydir, NSW   1990",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "ANDERSON, John",
+        "Votes": 33449,
+        "Percent": 51.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STUBBINS, Ted",
+        "Votes": 21553,
+        "Percent": 33.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'REGAN, Bevan",
+        "Votes": 5661,
+        "Percent": 8.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STYLES, Anthony",
+        "Votes": 3956,
+        "Percent": 6.1
+      }
+    ]
+  },
+  "1993": {
+    "title": "Gwydir, NSW   1993",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "ANDERSON, John",
+        "Votes": "40950",
+        "Percent": 57.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PERRETT, Jim",
+        "Votes": "3809",
+        "Percent": 5.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STUBBINS, Ted",
+        "Votes": "26916",
+        "Percent": 37.6
+      }
+    ]
+  },
+  "1996": {
+    "title": "Gwydir, NSW   1996",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "ANDERSON, John",
+        "Votes": 43385,
+        "Percent": 62.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CURLEY, John",
+        "Votes": 19680,
+        "Percent": 28.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GRAHAM, Anne",
+        "Votes": 3634,
+        "Percent": 5.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PERRETT, Jim",
+        "Votes": 2914,
+        "Percent": 4.2
+      }
+    ]
+  },
+  "1998": {
+    "title": "Gwydir, NSW   1998",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "ANDERSON, Hon John",
+        "Votes": 30829,
+        "Percent": 46.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MURNAIN, Anne",
+        "Votes": 17773,
+        "Percent": 26.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "JOHNS, Bob",
+        "Votes": 13875,
+        "Percent": 20.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GRAHAM, Ken",
+        "Votes": 1624,
+        "Percent": 2.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "PAXTON, Derrick",
+        "Votes": 1106,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PERRETT, Jim",
+        "Votes": 856,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EDWARDS, Gary",
+        "Votes": 747,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2001": {
+    "title": "Gwydir, NSW   2001",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "ANDERSON, Hon John",
+        "Votes": 40437,
+        "Percent": 52.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MURNAIN, Anne",
+        "Votes": 17402,
+        "Percent": 22.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "ROGERS, Colin",
+        "Votes": 7716,
+        "Percent": 10.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HAIGH, Bruce",
+        "Votes": 4637,
+        "Percent": 6.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "STRACHAN, Neil",
+        "Votes": 1324,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'REGAN, Bevan",
+        "Votes": 1289,
+        "Percent": 1.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GRAHAME, Ken",
+        "Votes": 1242,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WITTEN, Richard",
+        "Votes": 1197,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WEBER, Harry",
+        "Votes": 1194,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EDWARDS, Gary",
+        "Votes": 389,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2004": {
+    "title": "Gwydir, NSW   2004",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "ANDERSON, Hon John",
+        "Votes": 46951,
+        "Percent": 62.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SIMS, Glenn",
+        "Votes": 17396,
+        "Percent": 22.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HAIGH, Bruce",
+        "Votes": 3797,
+        "Percent": 5.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "ROGERS, Colin",
+        "Votes": 3441,
+        "Percent": 4.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ANDERSON, Michael",
+        "Votes": 3399,
+        "Percent": 4.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STRINGER, Richard",
+        "Votes": 808,
+        "Percent": 1.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,1129 @@
+{
+  "1946": {
+    "title": "Macquarie, NSW   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHIFLEY, Rt Hon Ben",
+        "Votes": 33412,
+        "Percent": 58.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SPOONER, Hon Eric",
+        "Votes": 17106,
+        "Percent": 29.9
+      },
+      {
+        "Party": "CP",
+        "Candidate": "WILLIAMS, Cecil",
+        "Votes": 5342,
+        "Percent": 9.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SUTTON, John",
+        "Votes": 1344,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "1949": {
+    "title": "Macquarie, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHIFLEY, Rt Hon Ben",
+        "Votes": 21683,
+        "Percent": 57.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "COTTON, Robert",
+        "Votes": 14585,
+        "Percent": 38.8
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "KING, John",
+        "Votes": 1320,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "1951": {
+    "title": "Macquarie, NSW   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHIFLEY, Rt Hon Ben",
+        "Votes": "23136",
+        "Percent": 61.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "COTTON, Robert",
+        "Votes": "14325",
+        "Percent": 38.2
+      }
+    ]
+  },
+  "1954": {
+    "title": "Macquarie, NSW   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LUCHETTI, Tony",
+        "Votes": "22388",
+        "Percent": 60.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROWNLOW, Horace",
+        "Votes": "13484",
+        "Percent": 36.3
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "KING, John",
+        "Votes": "1224",
+        "Percent": 3.3
+      }
+    ]
+  },
+  "1955": {
+    "title": "Macquarie, NSW   1955",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LUCHETTI, Tony",
+        "Votes": "22461",
+        "Percent": 55.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LEVEN, Norman",
+        "Votes": "16662",
+        "Percent": 41.4
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MOFFITT, Vernon",
+        "Votes": "1075",
+        "Percent": 2.7
+      }
+    ]
+  },
+  "1958": {
+    "title": "Macquarie, NSW   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LUCHETTI, Tony",
+        "Votes": 23646,
+        "Percent": 58.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LEVEN, Norman",
+        "Votes": 14476,
+        "Percent": 35.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DOUGHERTY, Hugh",
+        "Votes": 2611,
+        "Percent": 6.4
+      }
+    ]
+  },
+  "1961": {
+    "title": "Macquarie, NSW   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LUCHETTI, Tony",
+        "Votes": 26803,
+        "Percent": 63.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HEESH, John",
+        "Votes": 13583,
+        "Percent": 32.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MACKENZIE, Francis",
+        "Votes": 2063,
+        "Percent": 4.9
+      }
+    ]
+  },
+  "1963": {
+    "title": "Macquarie, NSW   1963",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LUCHETTI, Tony",
+        "Votes": "25649",
+        "Percent": 57.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HEESH, John",
+        "Votes": "18868",
+        "Percent": 42.4
+      }
+    ]
+  },
+  "1966": {
+    "title": "Macquarie, NSW   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LUCHETTI, Tony",
+        "Votes": 23973,
+        "Percent": 52.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HEESH, John",
+        "Votes": 17630,
+        "Percent": 38.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "AMBROSE, Richard",
+        "Votes": 3762,
+        "Percent": 8.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FUARY, Allan",
+        "Votes": 372,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1969": {
+    "title": "Macquarie, NSW   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LUCHETTI, Tony",
+        "Votes": 31403,
+        "Percent": 58.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MACDONNELL, John",
+        "Votes": 18391,
+        "Percent": 34.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CLARKE, Leslie",
+        "Votes": 2926,
+        "Percent": 5.4
+      },
+      {
+        "Party": "AP",
+        "Candidate": "LEE, Norman",
+        "Votes": 1343,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1972": {
+    "title": "Macquarie, NSW   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LUCHETTI, Tony",
+        "Votes": 36243,
+        "Percent": 58.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GENDERS, Basil",
+        "Votes": 15655,
+        "Percent": 25.4
+      },
+      {
+        "Party": "CP",
+        "Candidate": "WOLSTENHOLME, Frank",
+        "Votes": 7045,
+        "Percent": 11.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CLARKE, Leslie",
+        "Votes": 2652,
+        "Percent": 4.3
+      }
+    ]
+  },
+  "1974": {
+    "title": "Macquarie, NSW   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LUCHETTI, Tony",
+        "Votes": 39472,
+        "Percent": 56.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MACKAY, Hon Dr Malcolm",
+        "Votes": 24849,
+        "Percent": 35.3
+      },
+      {
+        "Party": "CP",
+        "Candidate": "HUNT, Michael",
+        "Votes": 4453,
+        "Percent": 6.3
+      },
+      {
+        "Party": "AP",
+        "Candidate": "WOODWARD, Gregory",
+        "Votes": 1061,
+        "Percent": 1.5
+      },
+      {
+        "Party": "CP",
+        "Candidate": "PARROTT, Steven",
+        "Votes": 579,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1975": {
+    "title": "Macquarie, NSW   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GILLARD, Reginald",
+        "Votes": 37739,
+        "Percent": 50.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FREE, Ross",
+        "Votes": 35131,
+        "Percent": 46.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUSCH, Murray",
+        "Votes": 1392,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LEE, Norman",
+        "Votes": 524,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PERRY, Ian",
+        "Votes": 451,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1977": {
+    "title": "Macquarie, NSW   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GILLARD, Reginald",
+        "Votes": 28299,
+        "Percent": 41.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FREE, Ross",
+        "Votes": 26651,
+        "Percent": 39.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MONAGHAN, Peter",
+        "Votes": 7328,
+        "Percent": 10.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARRATT, Michael",
+        "Votes": 4849,
+        "Percent": 7.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FOSTER, Alyn",
+        "Votes": 513,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1980": {
+    "title": "Macquarie, NSW   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FREE, Ross",
+        "Votes": 36814,
+        "Percent": 46.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GILLARD, Reginald",
+        "Votes": 34699,
+        "Percent": 44.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JACKSON-HOPE, Richard",
+        "Votes": 4603,
+        "Percent": 5.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUTCHER, Raymond",
+        "Votes": 1958,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STANTON, Ronald",
+        "Votes": 447,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PERRY, Ian",
+        "Votes": 377,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1983": {
+    "title": "Macquarie, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FREE, Ross",
+        "Votes": 50272,
+        "Percent": 57.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SCREECH, Stephen",
+        "Votes": 30966,
+        "Percent": 35.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JACKSON-HOPE, Richard",
+        "Votes": 6573,
+        "Percent": 7.5
+      }
+    ]
+  },
+  "1984": {
+    "title": "Macquarie, NSW   1984",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WEBSTER, Alasdair",
+        "Votes": 22796,
+        "Percent": 41.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CRONAN, Garry",
+        "Votes": 22565,
+        "Percent": 40.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JACKSON-HOPE, Dick",
+        "Votes": 4053,
+        "Percent": 7.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "QUIRK, Peter",
+        "Votes": 3069,
+        "Percent": 5.5
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "MCGIRR, Paul",
+        "Votes": 3036,
+        "Percent": 5.5
+      }
+    ]
+  },
+  "1987": {
+    "title": "Macquarie, NSW   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WEBSTER, Alasdair",
+        "Votes": 30010,
+        "Percent": 50.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MARCH, David",
+        "Votes": 23096,
+        "Percent": 38.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FORBES, Bruce",
+        "Votes": 6582,
+        "Percent": 11.0
+      }
+    ]
+  },
+  "1990": {
+    "title": "Macquarie, NSW   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WEBSTER, Alasdair",
+        "Votes": 31268,
+        "Percent": 47.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MARSH, John",
+        "Votes": 20932,
+        "Percent": 31.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FORBES, Bruce",
+        "Votes": 8500,
+        "Percent": 12.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BAKER, John",
+        "Votes": 4328,
+        "Percent": 6.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOUGLASS, Stuart",
+        "Votes": 914,
+        "Percent": 1.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NEWTON, Leslie",
+        "Votes": 639,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1993": {
+    "title": "Macquarie, NSW   1993",
+    "rows": [
+      {
+        "Party": "AD",
+        "Candidate": "RICKARD, Jon",
+        "Votes": "4621",
+        "Percent": 6.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FAY, Roger",
+        "Votes": "347",
+        "Percent": 0.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WEBSTER, Alasdair",
+        "Votes": "30809",
+        "Percent": 44.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DEAHM, Maggie",
+        "Votes": "29504",
+        "Percent": 42.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "IVANOVSKI, Petar",
+        "Votes": "2633",
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HUTCHINSON, Garth",
+        "Votes": "1531",
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1996": {
+    "title": "Macquarie, NSW   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BARTLETT, Kerry",
+        "Votes": 35199,
+        "Percent": 48.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DEAHM, Maggie",
+        "Votes": 24614,
+        "Percent": 33.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RICKARD, Jon",
+        "Votes": 6127,
+        "Percent": 8.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GAUL, Carol",
+        "Votes": 2782,
+        "Percent": 3.8
+      },
+      {
+        "Party": "AAFI",
+        "Candidate": "TYLER, Warwick",
+        "Votes": 1806,
+        "Percent": 2.5
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "KRAUS, Heather",
+        "Votes": 1753,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCCALL, John",
+        "Votes": 906,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1998": {
+    "title": "Macquarie, NSW   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BARTLETT, Kerry",
+        "Votes": 32432,
+        "Percent": 42.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DEAHM, Maggie",
+        "Votes": 26391,
+        "Percent": 34.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SHEATHER, Les",
+        "Votes": 7870,
+        "Percent": 10.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RICKARD, Jon",
+        "Votes": 4895,
+        "Percent": 6.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DOUST, Adele",
+        "Votes": 2563,
+        "Percent": 3.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRIGG, Shirley",
+        "Votes": 1510,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PENNY, Michael",
+        "Votes": 222,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2001": {
+    "title": "Macquarie, NSW   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BARTLETT, Kerry",
+        "Votes": 40225,
+        "Percent": 51.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SEARLE, Adam",
+        "Votes": 21160,
+        "Percent": 26.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WILLIAMS, Leigh",
+        "Votes": 6644,
+        "Percent": 8.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MAJOROS, Les",
+        "Votes": 4304,
+        "Percent": 5.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BUCKLEY, Wayne",
+        "Votes": 3893,
+        "Percent": 4.9
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "GRIGG, Brian",
+        "Votes": 1559,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WARREN, Robert",
+        "Votes": 1086,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2004": {
+    "title": "Macquarie, NSW   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BARTLETT, Kerry",
+        "Votes": 42021,
+        "Percent": 53.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PTOLEMY, Mark",
+        "Votes": 21898,
+        "Percent": 27.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MACRAE, Joel",
+        "Votes": 8561,
+        "Percent": 10.8
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "GRIGG, Brian",
+        "Votes": 1855,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILLIAMS, Tim",
+        "Votes": 1774,
+        "Percent": 2.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "GERI, Troy",
+        "Votes": 1082,
+        "Percent": 1.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HAYDON, John",
+        "Votes": 969,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DERRIG, Matthew",
+        "Votes": 639,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SEGEDIN, Michael",
+        "Votes": 86,
+        "Percent": 0.1
+      }
+    ]
+  },
+  "2007": {
+    "title": "Macquarie, NSW   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DEBUS, Hon Bob",
+        "Votes": 38672,
+        "Percent": 44.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BARTLETT, Kerry",
+        "Votes": 33197,
+        "Percent": 37.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCCALLUM, Carmel",
+        "Votes": 9092,
+        "Percent": 10.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILLIAMS, Tim",
+        "Votes": 4145,
+        "Percent": 4.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "GIFFORD, Robert",
+        "Votes": 1702,
+        "Percent": 1.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LIPTAK, Charles",
+        "Votes": 465,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FLETCHER, Kirk",
+        "Votes": 355,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SEGEDIN, Michael",
+        "Votes": 99,
+        "Percent": 0.1
+      }
+    ]
+  },
+  "2010": {
+    "title": "Macquarie, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MARKUS, Louise",
+        "Votes": 38867,
+        "Percent": 44.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TEMPLEMAN, Susan",
+        "Votes": 28284,
+        "Percent": 32.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCCALLUM, Carmel",
+        "Votes": 12317,
+        "Percent": 14.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WHELAN, Peter",
+        "Votes": 2087,
+        "Percent": 2.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "PORTELLI, Luke",
+        "Votes": 1883,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BELL, Amy",
+        "Votes": 1778,
+        "Percent": 2.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CORNELIUS, Jason",
+        "Votes": 922,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BATES, John",
+        "Votes": 676,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TREMETHICK, Terry",
+        "Votes": 591,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2013": {
+    "title": "Macquarie, NSW   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MARKUS, Louise",
+        "Votes": 42590,
+        "Percent": 47.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TEMPLEMAN, Susan",
+        "Votes": 27872,
+        "Percent": 31.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WHEELER, Danielle",
+        "Votes": 9986,
+        "Percent": 11.1
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "MAXWELL, Philip",
+        "Votes": 3731,
+        "Percent": 4.2
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "PIPER, Tony",
+        "Votes": 2720,
+        "Percent": 3.0
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "LITTLEJOHN, Mark",
+        "Votes": 1776,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HODGSON, Matt",
+        "Votes": 750,
+        "Percent": 0.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ELARO, Teresa",
+        "Votes": 499,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2016": {
+    "title": "Macquarie, NSW   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MARKUS, Louise",
+        "Votes": 34946,
+        "Percent": 38.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TEMPLEMAN, Susan",
+        "Votes": 32480,
+        "Percent": 35.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MORGAN, Terry",
+        "Votes": 10257,
+        "Percent": 11.2
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "LINCOLN, Catherine",
+        "Votes": 3567,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRIZELJ, Jake",
+        "Votes": 3550,
+        "Percent": 3.9
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "GINGES, Hal",
+        "Votes": 2554,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HALLEY, Carl",
+        "Votes": 1693,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COOPER, Liz",
+        "Votes": 1653,
+        "Percent": 1.8
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "SHORNIKOV, Olya",
+        "Votes": 752,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2019": {
+    "title": "Macquarie, NSW   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RICHARDS, Sarah",
+        "Votes": 43487,
+        "Percent": 44.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TEMPLEMAN, Susan",
+        "Votes": 37106,
+        "Percent": 38.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LIU, Kingsley",
+        "Votes": 8870,
+        "Percent": 9.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "PETTITT, Tony",
+        "Votes": 3877,
+        "Percent": 4.0
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "KEIGHTLEY, Greg",
+        "Votes": 3611,
+        "Percent": 3.7
+      }
+    ]
+  },
+  "2022": {
+    "title": "Macquarie, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "TEMPLEMAN, Susan",
+        "Votes": 41025,
+        "Percent": 43.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RICHARDS, Sarah",
+        "Votes": 32980,
+        "Percent": 34.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HICKEY, Tony",
+        "Votes": 9115,
+        "Percent": 9.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "PETTITT, Tony",
+        "Votes": 4955,
+        "Percent": 5.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "EVANS, Nicole",
+        "Votes": 2774,
+        "Percent": 2.9
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "KEIGHTLEY, Greg",
+        "Votes": 2013,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "PALMER, Michelle",
+        "Votes": 1318,
+        "Percent": 1.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "JACKSON, James",
+        "Votes": 1272,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2025": {
+    "title": "Macquarie, NSW   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "TEMPLEMAN, Susan",
+        "Votes": 46773,
+        "Percent": 42.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CREED, Mike",
+        "Votes": 34643,
+        "Percent": 31.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MORGAN, Terry",
+        "Votes": 13666,
+        "Percent": 12.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "JACOBSON, Matthew",
+        "Votes": 9587,
+        "Percent": 8.7
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "BOWEN, Roger Gerard",
+        "Votes": 3226,
+        "Percent": 2.9
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "DE LIMA, Joaquim Eduardo",
+        "Votes": 1810,
+        "Percent": 1.6
+      }
+    ]
+  }
+}

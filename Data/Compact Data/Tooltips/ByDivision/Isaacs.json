@@ -1,0 +1,1004 @@
+{
+  "1949": {
+    "title": "Isaacs, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAWORTH, William",
+        "Votes": 21260,
+        "Percent": 54.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BOURKE, John",
+        "Votes": 18100,
+        "Percent": 46.0
+      }
+    ]
+  },
+  "1951": {
+    "title": "Isaacs, VIC   1951",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "GOLDBLOOM, Samuel",
+        "Votes": "2224",
+        "Percent": 5.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HAWORTH, William",
+        "Votes": "19548",
+        "Percent": 51.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BOURKE, John",
+        "Votes": "16165",
+        "Percent": 42.6
+      }
+    ]
+  },
+  "1954": {
+    "title": "Isaacs, VIC   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAWORTH, William",
+        "Votes": "19315",
+        "Percent": 55.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MACSWEEN, Donald",
+        "Votes": "15240",
+        "Percent": 44.1
+      }
+    ]
+  },
+  "1955": {
+    "title": "Isaacs, VIC   1955",
+    "rows": [
+      {
+        "Party": "ALPAC",
+        "Candidate": "HUGHES, John",
+        "Votes": "4610",
+        "Percent": 12.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HAWORTH, William",
+        "Votes": "20670",
+        "Percent": 54.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Barry",
+        "Votes": "12644",
+        "Percent": 33.3
+      }
+    ]
+  },
+  "1958": {
+    "title": "Isaacs, VIC   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAWORTH, William",
+        "Votes": 16534,
+        "Percent": 45.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Barry",
+        "Votes": 12933,
+        "Percent": 35.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HUGHES, John",
+        "Votes": 4316,
+        "Percent": 11.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COWAN, Elias",
+        "Votes": 2624,
+        "Percent": 7.2
+      }
+    ]
+  },
+  "1961": {
+    "title": "Isaacs, VIC   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAWORTH, William",
+        "Votes": 16493,
+        "Percent": 47.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCLEAN, Angus",
+        "Votes": 13527,
+        "Percent": 38.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HUGHES, John",
+        "Votes": 4781,
+        "Percent": 13.7
+      }
+    ]
+  },
+  "1963": {
+    "title": "Isaacs, VIC   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "HUGHES, John",
+        "Votes": "3710",
+        "Percent": 10.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HAWORTH, William",
+        "Votes": "17591",
+        "Percent": 49.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COURT, Paul",
+        "Votes": "14159",
+        "Percent": 39.9
+      }
+    ]
+  },
+  "1966": {
+    "title": "Isaacs, VIC   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAWORTH, William",
+        "Votes": 18468,
+        "Percent": 54.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILKINSON, Peter",
+        "Votes": 11712,
+        "Percent": 34.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HUGHES, John",
+        "Votes": 4032,
+        "Percent": 11.8
+      }
+    ]
+  },
+  "1969": {
+    "title": "Isaacs, VIC   1969",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAMER, David",
+        "Votes": 23525,
+        "Percent": 47.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROBERTS, Alan",
+        "Votes": 19751,
+        "Percent": 40.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SKINNER, Frederick",
+        "Votes": 4967,
+        "Percent": 10.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WESSLEY, Liane",
+        "Votes": 1026,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "1972": {
+    "title": "Isaacs, VIC   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLAYTON, Gareth",
+        "Votes": 23904,
+        "Percent": 45.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HAMER, David",
+        "Votes": 22110,
+        "Percent": 42.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SKINNER, Frederick",
+        "Votes": 3635,
+        "Percent": 7.0
+      },
+      {
+        "Party": "AP",
+        "Candidate": "HARRIE, Peter",
+        "Votes": 2499,
+        "Percent": 4.8
+      }
+    ]
+  },
+  "1974": {
+    "title": "Isaacs, VIC   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLAYTON, Gareth",
+        "Votes": 26225,
+        "Percent": 46.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HAMER, David",
+        "Votes": 25267,
+        "Percent": 44.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "LEECH, William",
+        "Votes": 2179,
+        "Percent": 3.8
+      },
+      {
+        "Party": "AP",
+        "Candidate": "CHESTERFIELD, Elizabeth",
+        "Votes": 1443,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BERNARD, James",
+        "Votes": 1181,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FAWKE, Janus",
+        "Votes": 597,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1975": {
+    "title": "Isaacs, VIC   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAMER, David",
+        "Votes": 30646,
+        "Percent": 53.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CLAYTON, Gareth",
+        "Votes": 23506,
+        "Percent": 40.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CLEARY, Ralph",
+        "Votes": 1917,
+        "Percent": 3.3
+      },
+      {
+        "Party": "AP",
+        "Candidate": "SIMMONS, Eldon",
+        "Votes": 805,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "AUSSIE-STONE, Marc",
+        "Votes": 719,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1977": {
+    "title": "Isaacs, VIC   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BURNS, William",
+        "Votes": 29857,
+        "Percent": 44.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIAMS, Kenneth",
+        "Votes": 23275,
+        "Percent": 34.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCLEOD, Francis",
+        "Votes": 11427,
+        "Percent": 17.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CLEARY, Ralph",
+        "Votes": 2741,
+        "Percent": 4.1
+      }
+    ]
+  },
+  "1980": {
+    "title": "Isaacs, VIC   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHARLES, David",
+        "Votes": 31192,
+        "Percent": 45.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BURNS, William",
+        "Votes": 26293,
+        "Percent": 38.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BAKOS, Michael",
+        "Votes": 9777,
+        "Percent": 14.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BALHORN, Sydney",
+        "Votes": 1955,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "1983": {
+    "title": "Isaacs, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHARLES, David",
+        "Votes": 38630,
+        "Percent": 55.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DUNKLEY, Ann",
+        "Votes": 26964,
+        "Percent": 38.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GOUGH, Terence",
+        "Votes": 4689,
+        "Percent": 6.7
+      }
+    ]
+  },
+  "1984": {
+    "title": "Isaacs, VIC   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHARLES, David",
+        "Votes": 30612,
+        "Percent": 50.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ZABLUD, Peter",
+        "Votes": 24079,
+        "Percent": 40.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LINDEMANN, Peter",
+        "Votes": 3693,
+        "Percent": 6.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ROZARIO, Dudley de",
+        "Votes": 933,
+        "Percent": 1.6
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "LACEY, Charles",
+        "Votes": 774,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "1987": {
+    "title": "Isaacs, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHARLES, David",
+        "Votes": 29325,
+        "Percent": 47.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ATKINSON, Rod",
+        "Votes": 26448,
+        "Percent": 43.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ASPINALL, Maxine",
+        "Votes": 4428,
+        "Percent": 7.2
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BUCHANAN, Bill",
+        "Votes": 833,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ELY, Linda",
+        "Votes": 395,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1990": {
+    "title": "Isaacs, VIC   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ATKINSON, Rod",
+        "Votes": 35160,
+        "Percent": 50.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ENSOR, Jim",
+        "Votes": 23613,
+        "Percent": 33.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KOCH, Darren",
+        "Votes": 10874,
+        "Percent": 15.6
+      }
+    ]
+  },
+  "1993": {
+    "title": "Isaacs, VIC   1993",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ATKINSON, Rod",
+        "Votes": "35792",
+        "Percent": 50.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RAYNOR, Kaylyn",
+        "Votes": "3546",
+        "Percent": 5.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCSWINEY, John",
+        "Votes": "30007",
+        "Percent": 42.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HORIN, Judee",
+        "Votes": "1458",
+        "Percent": 2.1
+      }
+    ]
+  },
+  "1996": {
+    "title": "Isaacs, VIC   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WILTON, Greg",
+        "Votes": 30997,
+        "Percent": 44.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ATKINSON, Rod",
+        "Votes": 29595,
+        "Percent": 42.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RAYNOR, Kaylyn",
+        "Votes": 6734,
+        "Percent": 9.6
+      },
+      {
+        "Party": "AAFI",
+        "Candidate": "WALKER, Angela",
+        "Votes": 2448,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ALLISON, Jan",
+        "Votes": 597,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1998": {
+    "title": "Isaacs, VIC   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WILTON, Greg",
+        "Votes": 35604,
+        "Percent": 48.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RAWLINSON, Mike",
+        "Votes": 28060,
+        "Percent": 38.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RYAN, Robert",
+        "Votes": 4355,
+        "Percent": 5.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "REED-SMITH, Denis",
+        "Votes": 2971,
+        "Percent": 4.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TIRAWA, Daniel",
+        "Votes": 1570,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CARKEEK, Mija",
+        "Votes": 421,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROOK, Patricia",
+        "Votes": 325,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCINTOSH, Amanda",
+        "Votes": 211,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2001": {
+    "title": "Isaacs, VIC   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CORCORAN, Ann",
+        "Votes": 31951,
+        "Percent": 42.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SHEPHERDSON, Michael",
+        "Votes": 31520,
+        "Percent": 41.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FLETCHER, Haydn",
+        "Votes": 5627,
+        "Percent": 7.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BUJEYA, Darren",
+        "Votes": 3073,
+        "Percent": 4.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "GROVES, John",
+        "Votes": 1358,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "OAKLEY, Shirly",
+        "Votes": 1342,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROOK, Patricia",
+        "Votes": 640,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STANTON, Heather",
+        "Votes": 246,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2004": {
+    "title": "Isaacs, VIC   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CORCORAN, Anne",
+        "Votes": 37245,
+        "Percent": 44.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SHELLEY, Jeff",
+        "Votes": 36391,
+        "Percent": 43.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HARDY, Sean",
+        "Votes": 6143,
+        "Percent": 7.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MATHEWS, Jacob",
+        "Votes": 2019,
+        "Percent": 2.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FLETCHER, Haydn",
+        "Votes": 862,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FORD, Gordon",
+        "Votes": 650,
+        "Percent": 0.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "GROVES, Carl",
+        "Votes": 536,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MALLIOTIS, Martha",
+        "Votes": 214,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2007": {
+    "title": "Isaacs, VIC   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DREYFUS, Mark",
+        "Votes": 44056,
+        "Percent": 48.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FOX, Ross",
+        "Votes": 34762,
+        "Percent": 38.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LONG, Colin",
+        "Votes": 5636,
+        "Percent": 6.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "PLEITER, Jadah",
+        "Votes": 2308,
+        "Percent": 2.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CHIPP, Laura",
+        "Votes": 1970,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FORD, Gordon W",
+        "Votes": 1137,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NORRIE, Robert",
+        "Votes": 492,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2010": {
+    "title": "Isaacs, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DREYFUS, Mark",
+        "Votes": 45131,
+        "Percent": 49.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCCLELLAND, Dale",
+        "Votes": 31472,
+        "Percent": 34.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CARMAN, Chris",
+        "Votes": 9980,
+        "Percent": 10.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "WHEATLEY, Heather",
+        "Votes": 3377,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FORD, Gordon W",
+        "Votes": 1355,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "2013": {
+    "title": "Isaacs, VIC   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DREYFUS, Hon Mark",
+        "Votes": 35837,
+        "Percent": 41.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SPENCER, Garry",
+        "Votes": 34864,
+        "Percent": 40.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MILES, Sandra",
+        "Votes": 6120,
+        "Percent": 7.1
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "GILL, Avtar",
+        "Votes": 2846,
+        "Percent": 3.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ELLIOTT, John",
+        "Votes": 2503,
+        "Percent": 2.9
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "GRAHAM, Laith",
+        "Votes": 2093,
+        "Percent": 2.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "LEACH, James",
+        "Votes": 1144,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOBBY, Karen",
+        "Votes": 743,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SEAMAN, Nadia",
+        "Votes": 558,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2016": {
+    "title": "Isaacs, VIC   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DREYFUS, Hon Mark",
+        "Votes": 41144,
+        "Percent": 44.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SPENCER, Garry",
+        "Votes": 37312,
+        "Percent": 40.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BRESKIN, Alex",
+        "Votes": 9429,
+        "Percent": 10.2
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "JOHNSTON, Elizabeth",
+        "Votes": 4585,
+        "Percent": 5.0
+      }
+    ]
+  },
+  "2019": {
+    "title": "Isaacs, VIC   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DREYFUS, Hon Mark",
+        "Votes": 43364,
+        "Percent": 44.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HEARN, Jeremy",
+        "Votes": 34089,
+        "Percent": 35.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SAMIOTIS, Kim",
+        "Votes": 10822,
+        "Percent": 11.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SEALS, Tony",
+        "Votes": 3813,
+        "Percent": 3.9
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "CURRIE, Bronwyn",
+        "Votes": 3607,
+        "Percent": 3.7
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "PUVIMANASINGHE, Ash",
+        "Votes": 1142,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2022": {
+    "title": "Isaacs, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DREYFUS, Hon Mark",
+        "Votes": 39228,
+        "Percent": 40.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BEATON, Robbie",
+        "Votes": 31306,
+        "Percent": 31.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BRESKIN, Alex",
+        "Votes": 12621,
+        "Percent": 12.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MCCAMISH, Scott",
+        "Votes": 4855,
+        "Percent": 4.9
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "O'DONNELL, Sarah",
+        "Votes": 4785,
+        "Percent": 4.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "SOKIRANSKY, Boris",
+        "Votes": 3130,
+        "Percent": 3.2
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "LIVINGSTONE, Alix",
+        "Votes": 2259,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "2025": {
+    "title": "Isaacs, VIC   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DREYFUS, Mark",
+        "Votes": 53454,
+        "Percent": 49.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "OTTEY, Fiona",
+        "Votes": 30660,
+        "Percent": 28.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KIRWAN, Matthew",
+        "Votes": 15200,
+        "Percent": 14.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "McMAHON, Geoff",
+        "Votes": 4989,
+        "Percent": 4.6
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "HARMSE, Audrey",
+        "Votes": 3878,
+        "Percent": 3.6
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "1949": {
+    "title": "Angas, SA   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DOWNER, Alexander",
+        "Votes": 23987,
+        "Percent": 60.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STRACHAN, Albert",
+        "Votes": 13615,
+        "Percent": 34.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WHITTLE, Ralph",
+        "Votes": 1857,
+        "Percent": 4.7
+      }
+    ]
+  },
+  "1951": {
+    "title": "Angas, SA   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DOWNER, Alexander",
+        "Votes": "25323",
+        "Percent": 63.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EDWARDS, John",
+        "Votes": "14324",
+        "Percent": 36.1
+      }
+    ]
+  },
+  "1954": {
+    "title": "Angas, SA   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DOWNER, Alexander",
+        "Votes": "Unopposed",
+        "Percent": 100.0
+      }
+    ]
+  },
+  "1955": {
+    "title": "Angas, SA   1955",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "NIELSEN, Darcy",
+        "Votes": "9871",
+        "Percent": 25.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DOWNER, Alexander",
+        "Votes": "26823",
+        "Percent": 70.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RIECK, Frank",
+        "Votes": "1643",
+        "Percent": 4.3
+      }
+    ]
+  },
+  "1958": {
+    "title": "Angas, SA   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DOWNER, Hon Alexander",
+        "Votes": 23987,
+        "Percent": 61.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NIELSEN, Darcy",
+        "Votes": 11832,
+        "Percent": 30.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CRITCHLEY, Susan",
+        "Votes": 2581,
+        "Percent": 6.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EDWARDS, Sydney",
+        "Votes": 677,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "1961": {
+    "title": "Angas, SA   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DOWNER, Hon Alexander",
+        "Votes": 22798,
+        "Percent": 56.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BUSBRIDGE, Arnold",
+        "Votes": 14587,
+        "Percent": 36.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BALOGH, John",
+        "Votes": 2853,
+        "Percent": 7.1
+      }
+    ]
+  },
+  "1963": {
+    "title": "Angas, SA   1963",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DOWNER, Hon Alexander",
+        "Votes": "25676",
+        "Percent": 61.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NIELSEN, Robert",
+        "Votes": "14709",
+        "Percent": 35.5
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "JOHNSTON, Elliott",
+        "Votes": "1075",
+        "Percent": 2.6
+      }
+    ]
+  },
+  "1966": {
+    "title": "Angas, SA   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GILES, Geoffrey",
+        "Votes": 30070,
+        "Percent": 70.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NIELSEN, Robert",
+        "Votes": 12464,
+        "Percent": 29.3
+      }
+    ]
+  },
+  "1969": {
+    "title": "Angas, SA   1969",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GILES, Geoffrey",
+        "Votes": 25771,
+        "Percent": 57.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCLAREN, Harold",
+        "Votes": 16649,
+        "Percent": 37.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CRITCHLEY, Terence",
+        "Votes": 2372,
+        "Percent": 5.3
+      }
+    ]
+  },
+  "1972": {
+    "title": "Angas, SA   1972",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GILES, Geoffrey",
+        "Votes": 22191,
+        "Percent": 47.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "THIEL, Adolf",
+        "Votes": 15530,
+        "Percent": 32.9
+      },
+      {
+        "Party": "CP",
+        "Candidate": "PETCH, John",
+        "Votes": 7543,
+        "Percent": 16.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CRITCHLEY, Terence",
+        "Votes": 1892,
+        "Percent": 4.0
+      }
+    ]
+  },
+  "1974": {
+    "title": "Angas, SA   1974",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GILES, Geoffrey",
+        "Votes": 27704,
+        "Percent": 53.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "THIEL, Adolf",
+        "Votes": 15579,
+        "Percent": 29.9
+      },
+      {
+        "Party": "CP",
+        "Candidate": "PFEIFFER, Graham",
+        "Votes": 6011,
+        "Percent": 11.5
+      },
+      {
+        "Party": "LM",
+        "Candidate": "NICHOLLS, Henry",
+        "Votes": 1918,
+        "Percent": 3.7
+      },
+      {
+        "Party": "AP",
+        "Candidate": "HANNAFORD, Catherine",
+        "Votes": 965,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "1975": {
+    "title": "Angas, SA   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GILES, Geoff",
+        "Votes": 37981,
+        "Percent": 68.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "THIELE, Adolf",
+        "Votes": 14977,
+        "Percent": 26.9
+      },
+      {
+        "Party": "LM",
+        "Candidate": "GRAZIANI, Giordano",
+        "Votes": 2255,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PHILIPPE, Richard",
+        "Votes": 561,
+        "Percent": 1.0
+      }
+    ]
+  }
+}

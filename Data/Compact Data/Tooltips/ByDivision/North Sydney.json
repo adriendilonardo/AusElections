@@ -1,0 +1,1010 @@
+{
+  "1946": {
+    "title": "North Sydney, NSW   1946",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HUGHES, Rt Hon Billy",
+        "Votes": 40845,
+        "Percent": 55.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HAYLEN, Leo",
+        "Votes": 32247,
+        "Percent": 44.1
+      }
+    ]
+  },
+  "1949": {
+    "title": "North Sydney, NSW   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JACK, William",
+        "Votes": 19650,
+        "Percent": 50.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HAYLEN, Leo",
+        "Votes": 16094,
+        "Percent": 41.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILLIAMS, Patrick",
+        "Votes": 1642,
+        "Percent": 4.3
+      },
+      {
+        "Party": "ALPN",
+        "Candidate": "FERGUSON, Norman",
+        "Votes": 1205,
+        "Percent": 3.1
+      }
+    ]
+  },
+  "1951": {
+    "title": "North Sydney, NSW   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JACK, William",
+        "Votes": "22110",
+        "Percent": 58.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "POWELL, Eileen",
+        "Votes": "15984",
+        "Percent": 42.0
+      }
+    ]
+  },
+  "1954": {
+    "title": "North Sydney, NSW   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JACK, William",
+        "Votes": "19780",
+        "Percent": 53.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HAYLEN, Leo",
+        "Votes": "16916",
+        "Percent": 46.1
+      }
+    ]
+  },
+  "1955": {
+    "title": "North Sydney, NSW   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JACK, William",
+        "Votes": "25359",
+        "Percent": 62.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCNALLY, Joseph",
+        "Votes": "15322",
+        "Percent": 37.7
+      }
+    ]
+  },
+  "1958": {
+    "title": "North Sydney, NSW   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JACK, William",
+        "Votes": 22273,
+        "Percent": 57.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STEPHENS, Jack",
+        "Votes": 13344,
+        "Percent": 34.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MCGIRR, Gregory",
+        "Votes": 2968,
+        "Percent": 7.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCGREGOR, Edward",
+        "Votes": 400,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1961": {
+    "title": "North Sydney, NSW   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JACK, William",
+        "Votes": 18959,
+        "Percent": 49.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ISAACS, Maurice",
+        "Votes": 15610,
+        "Percent": 40.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FITZPATRICK, Michael",
+        "Votes": 3575,
+        "Percent": 9.4
+      }
+    ]
+  },
+  "1963": {
+    "title": "North Sydney, NSW   1963",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JACK, William",
+        "Votes": "22492",
+        "Percent": 59.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FITZPATRICK, Michael",
+        "Votes": "2035",
+        "Percent": 5.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ISAACS, Maurice",
+        "Votes": "13417",
+        "Percent": 35.4
+      }
+    ]
+  },
+  "1966": {
+    "title": "North Sydney, NSW   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GRAHAM, Bruce",
+        "Votes": 21477,
+        "Percent": 59.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GRAHAME, John",
+        "Votes": 8776,
+        "Percent": 24.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BATEMAN, Edmund",
+        "Votes": 2391,
+        "Percent": 6.7
+      },
+      {
+        "Party": "LRG",
+        "Candidate": "SIMPSON, Federick",
+        "Votes": 1940,
+        "Percent": 5.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DUNCAN, Joyce",
+        "Votes": 720,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GORSHENIN, Nicholas",
+        "Votes": 391,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WALL, David",
+        "Votes": 161,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEMPS, Romualds",
+        "Votes": 62,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "1969": {
+    "title": "North Sydney, NSW   1969",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GRAHAM, Bruce",
+        "Votes": 29933,
+        "Percent": 57.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PAGE, Mervyn",
+        "Votes": 18524,
+        "Percent": 35.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "LAWSON, Reginald",
+        "Votes": 2622,
+        "Percent": 5.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEMPS, Romualds",
+        "Votes": 984,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "1972": {
+    "title": "North Sydney, NSW   1972",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GRAHAM, Bruce",
+        "Votes": 26043,
+        "Percent": 50.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MAGUIRE, Brian",
+        "Votes": 18666,
+        "Percent": 36.2
+      },
+      {
+        "Party": "AP",
+        "Candidate": "FEROS, James",
+        "Votes": 4197,
+        "Percent": 8.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FITZPATRICK, Michael",
+        "Votes": 2351,
+        "Percent": 4.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEMPS, Romualds",
+        "Votes": 247,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1974": {
+    "title": "North Sydney, NSW   1974",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GRAHAM, Bruce",
+        "Votes": 30155,
+        "Percent": 56.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HEALY, Patrick",
+        "Votes": 19883,
+        "Percent": 37.5
+      },
+      {
+        "Party": "AP",
+        "Candidate": "FEROS, James",
+        "Votes": 2609,
+        "Percent": 4.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEMPS, Romualds",
+        "Votes": 326,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1975": {
+    "title": "North Sydney, NSW   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GRAHAM, Bruce",
+        "Votes": 35009,
+        "Percent": 63.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HEALY, Patrick",
+        "Votes": 17959,
+        "Percent": 32.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SAWYER, Peter",
+        "Votes": 1564,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEMPS, Romualds",
+        "Votes": 362,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1977": {
+    "title": "North Sydney, NSW   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GRAHAM, Bruce",
+        "Votes": 38176,
+        "Percent": 58.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MAY, Maurice",
+        "Votes": 17111,
+        "Percent": 26.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PIERCE, John",
+        "Votes": 7153,
+        "Percent": 11.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CORRIE, Peter",
+        "Votes": 1672,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MAHER, John",
+        "Votes": 1073,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1980": {
+    "title": "North Sydney, NSW   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SPENDER, John",
+        "Votes": 37016,
+        "Percent": 60.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BROUGHTON, Maxine",
+        "Votes": 19223,
+        "Percent": 31.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STILLER, Anita",
+        "Votes": 3573,
+        "Percent": 5.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CORRIE, Peter",
+        "Votes": 1131,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHISHOLM-MALLETT, Josephine",
+        "Votes": 737,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1983": {
+    "title": "North Sydney, NSW   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SPENDER, John",
+        "Votes": 35544,
+        "Percent": 57.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCKENZIE, Kirk",
+        "Votes": 21096,
+        "Percent": 34.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DOMINISH, Rodney",
+        "Votes": 5024,
+        "Percent": 8.1
+      }
+    ]
+  },
+  "1984": {
+    "title": "North Sydney, NSW   1984",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SPENDER, John",
+        "Votes": 34579,
+        "Percent": 57.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KELSO, Philip",
+        "Votes": 19780,
+        "Percent": 32.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DOMINISH, Rod",
+        "Votes": 6331,
+        "Percent": 10.4
+      }
+    ]
+  },
+  "1987": {
+    "title": "North Sydney, NSW   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SPENDER, John",
+        "Votes": 36290,
+        "Percent": 58.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRITT, Eddie",
+        "Votes": 18303,
+        "Percent": 29.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DOMINISH, Rod",
+        "Votes": 7396,
+        "Percent": 11.9
+      }
+    ]
+  },
+  "1990": {
+    "title": "North Sydney, NSW   1990",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "MACK, Ted",
+        "Votes": 27116,
+        "Percent": 44.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SPENDER, John",
+        "Votes": 24582,
+        "Percent": 40.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LOUKAS, Chrissa",
+        "Votes": 7240,
+        "Percent": 11.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MACLENNAN, Graeme",
+        "Votes": 1940,
+        "Percent": 3.2
+      }
+    ]
+  },
+  "1993": {
+    "title": "North Sydney, NSW   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "CARAILL, Stuart",
+        "Votes": "877",
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STOKES, Ian",
+        "Votes": "422",
+        "Percent": 0.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCNEILLY, Bruce",
+        "Votes": "34490",
+        "Percent": 45.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MACK, Ted",
+        "Votes": "26535",
+        "Percent": 35.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ELSTONIE, Richard",
+        "Votes": "12759",
+        "Percent": 17.0
+      }
+    ]
+  },
+  "1996": {
+    "title": "North Sydney, NSW   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOCKEY, Joe",
+        "Votes": 45634,
+        "Percent": 57.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "OWENS, Julie",
+        "Votes": 20132,
+        "Percent": 25.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WADE, Linda",
+        "Votes": 7947,
+        "Percent": 10.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CARTER, George",
+        "Votes": 3039,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TANNER, Richard",
+        "Votes": 2908,
+        "Percent": 3.7
+      }
+    ]
+  },
+  "1998": {
+    "title": "North Sydney, NSW   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOCKEY, Joe",
+        "Votes": 42887,
+        "Percent": 54.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "OWENS, Julie",
+        "Votes": 20403,
+        "Percent": 25.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SPAIN, Anthony",
+        "Votes": 5726,
+        "Percent": 7.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PONG, Henry",
+        "Votes": 3727,
+        "Percent": 4.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WOODROFFE, Andrew",
+        "Votes": 3106,
+        "Percent": 3.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HOCKLEY, John",
+        "Votes": 2270,
+        "Percent": 2.9
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BOURNE, Roger",
+        "Votes": 698,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RUSSELL, Glenn",
+        "Votes": 136,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "North Sydney, NSW   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOCKEY, Hon Joe",
+        "Votes": 44995,
+        "Percent": 57.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TIERNEY, Frances",
+        "Votes": 19325,
+        "Percent": 24.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCGUIRE, Bryan",
+        "Votes": 6528,
+        "Percent": 8.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "STEEL, Mike",
+        "Votes": 6053,
+        "Percent": 7.7
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "WARD, Colin",
+        "Votes": 1227,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAM, Brian",
+        "Votes": 861,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2004": {
+    "title": "North Sydney, NSW   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOCKEY, Hon Joe",
+        "Votes": 45105,
+        "Percent": 56.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TEIRNEY, Fran",
+        "Votes": 21864,
+        "Percent": 27.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NIXON, Ted",
+        "Votes": 9890,
+        "Percent": 12.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COWDERY, Edwina",
+        "Votes": 1884,
+        "Percent": 2.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "VOOGD, Jan De",
+        "Votes": 1456,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "2007": {
+    "title": "North Sydney, NSW   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOCKEY, Hon Joe",
+        "Votes": 44177,
+        "Percent": 51.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BAILEY, Mike",
+        "Votes": 30372,
+        "Percent": 35.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NIXON, Ted",
+        "Votes": 7851,
+        "Percent": 9.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THOMPSON, Barry",
+        "Votes": 1119,
+        "Percent": 1.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BAALBERGEN, Arie",
+        "Votes": 621,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "AUSSIE-STONE, Marcus",
+        "Votes": 526,
+        "Percent": 0.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CAFFERATTA, John",
+        "Votes": 352,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MISRA, Kundan",
+        "Votes": 245,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "North Sydney, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOCKEY, Hon Joe",
+        "Votes": 51179,
+        "Percent": 59.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WEBB, Leta",
+        "Votes": 18961,
+        "Percent": 22.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROBJOHNS, Andrew",
+        "Votes": 13314,
+        "Percent": 15.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PEARCE, Daniel",
+        "Votes": 1275,
+        "Percent": 1.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LE, Daniel",
+        "Votes": 980,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2013": {
+    "title": "North Sydney, NSW   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOCKEY, Hon Joe",
+        "Votes": 53991,
+        "Percent": 61.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HAYES, Peter",
+        "Votes": 17727,
+        "Percent": 20.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HAINES, Alison",
+        "Votes": 13579,
+        "Percent": 15.4
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "KHAN, Raheam",
+        "Votes": 1493,
+        "Percent": 1.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "GUTHRIE, Maureen",
+        "Votes": 892,
+        "Percent": 1.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MCCAFFREY, Angus",
+        "Votes": 766,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2016": {
+    "title": "North Sydney, NSW   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ZIMMERMAN, Trent",
+        "Votes": 47614,
+        "Percent": 51.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HAYES, Peter",
+        "Votes": 15537,
+        "Percent": 16.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CHESTERFIELD-EVANS, Dr Arthur",
+        "Votes": 12036,
+        "Percent": 13.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RUFF, Stephen",
+        "Votes": 11829,
+        "Percent": 12.8
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "MARTIN, Sharon",
+        "Votes": 1894,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COFFEY, James",
+        "Votes": 1629,
+        "Percent": 1.8
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "LEAHY, Daniel",
+        "Votes": 1289,
+        "Percent": 1.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "KU, Eddy",
+        "Votes": 649,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2019": {
+    "title": "North Sydney, NSW   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ZIMMERMAN, Trent",
+        "Votes": 50319,
+        "Percent": 52.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STONE, Brett",
+        "Votes": 24289,
+        "Percent": 25.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KEOGH, Daniel",
+        "Votes": 13193,
+        "Percent": 13.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHESTERFIELD-EVANS, Dr Arthur",
+        "Votes": 4295,
+        "Percent": 4.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRAHAM, Greg",
+        "Votes": 1831,
+        "Percent": 1.9
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "VERNON, David",
+        "Votes": 1660,
+        "Percent": 1.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "VAGG, Peter",
+        "Votes": 1249,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2022": {
+    "title": "North Sydney, NSW   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ZIMMERMAN, Trent",
+        "Votes": 36956,
+        "Percent": 38.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TINK, Kylea",
+        "Votes": 24477,
+        "Percent": 25.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "RENSHAW, Dr Catherine",
+        "Votes": 20835,
+        "Percent": 21.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ARMSTRONG, Heather",
+        "Votes": 8308,
+        "Percent": 8.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "NALBANDIAN, Robert",
+        "Votes": 1730,
+        "Percent": 1.8
+      },
+      {
+        "Party": "Sust",
+        "Candidate": "BOURKE, William",
+        "Votes": 1163,
+        "Percent": 1.2
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "WALLS, Michael",
+        "Votes": 1149,
+        "Percent": 1.2
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "TINKLER, Dajen",
+        "Votes": 1123,
+        "Percent": 1.2
+      },
+      {
+        "Party": "TNL",
+        "Candidate": "KLINE, Victor",
+        "Votes": 886,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "KINNEY, Lesley",
+        "Votes": 491,
+        "Percent": 0.5
+      }
+    ]
+  }
+}

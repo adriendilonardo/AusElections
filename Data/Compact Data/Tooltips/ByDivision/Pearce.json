@@ -1,0 +1,637 @@
+{
+  "1990": {
+    "title": "Pearce, WA   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CHANEY, Hon Fred",
+        "Votes": 32424,
+        "Percent": 52.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DUNCAN, John",
+        "Votes": 17115,
+        "Percent": 27.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LAMBERT, Peter",
+        "Votes": 6245,
+        "Percent": 10.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BANKOFF, Greg",
+        "Votes": 5389,
+        "Percent": 8.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PINTABONA, Gina",
+        "Votes": 994,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1993": {
+    "title": "Pearce, WA   1993",
+    "rows": [
+      {
+        "Party": "GRN",
+        "Candidate": "HALL, Stephen",
+        "Votes": "5458",
+        "Percent": 8.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MOYLAN, Judi",
+        "Votes": "34777",
+        "Percent": 51.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LAMBERT, Peter",
+        "Votes": "3077",
+        "Percent": 4.5
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "FORECAST, Mark",
+        "Votes": "2345",
+        "Percent": 3.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JEBB, Patrick",
+        "Votes": "22065",
+        "Percent": 32.6
+      }
+    ]
+  },
+  "1996": {
+    "title": "Pearce, WA   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MOYLAN, Judi",
+        "Votes": 38070,
+        "Percent": 54.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ANDREWS, Paul",
+        "Votes": 20313,
+        "Percent": 28.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WARD, Julie",
+        "Votes": 7031,
+        "Percent": 10.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BARNACLE, Robert",
+        "Votes": 4857,
+        "Percent": 6.9
+      }
+    ]
+  },
+  "1998": {
+    "title": "Pearce, WA   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MOYLAN, Hon Judi",
+        "Votes": 32475,
+        "Percent": 43.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ANDREWS, Paul",
+        "Votes": 22751,
+        "Percent": 30.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "GUNNYON, David",
+        "Votes": 9381,
+        "Percent": 12.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SCHEKKERMAN, Keith",
+        "Votes": 4420,
+        "Percent": 5.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MOXHAM, Barbara",
+        "Votes": 4248,
+        "Percent": 5.7
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "COOPER, Roger",
+        "Votes": 1017,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BURT, John",
+        "Votes": 288,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2001": {
+    "title": "Pearce, WA   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MOYLAN, Hon Judi",
+        "Votes": 31509,
+        "Percent": 44.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COSTELLO, Liam",
+        "Votes": 21306,
+        "Percent": 30.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "COLLINS, Ken",
+        "Votes": 6105,
+        "Percent": 8.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MILLER, Juanita",
+        "Votes": 5072,
+        "Percent": 7.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FOX, Jack",
+        "Votes": 3147,
+        "Percent": 4.5
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "NELSON, Chris",
+        "Votes": 1985,
+        "Percent": 2.8
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "HILL, Vivian",
+        "Votes": 858,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Stuart",
+        "Votes": 299,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2004": {
+    "title": "Pearce, WA   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MOYLAN, Hon Judi",
+        "Votes": 40300,
+        "Percent": 53.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "RITTER, David",
+        "Votes": 21046,
+        "Percent": 28.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LIEB, Dominique",
+        "Votes": 5891,
+        "Percent": 7.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "GUNNYON, David",
+        "Votes": 2803,
+        "Percent": 3.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "MERRELLS, Rob",
+        "Votes": 2235,
+        "Percent": 3.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCLEAN, Donella",
+        "Votes": 1155,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RADISICH, Jeanette",
+        "Votes": 911,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCLEAN, Ron",
+        "Votes": 396,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TRUMAN, Annolies",
+        "Votes": 286,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2007": {
+    "title": "Pearce, WA   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MOYLAN, Hon Judi",
+        "Votes": 43874,
+        "Percent": 51.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MYSON, Christopher",
+        "Votes": 27111,
+        "Percent": 32.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DOLS, Yvonne",
+        "Votes": 7277,
+        "Percent": 8.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "MEWHOR, Paul",
+        "Votes": 1683,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRANWHITE, Steve",
+        "Votes": 1533,
+        "Percent": 1.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "GUNNYON, David",
+        "Votes": 1375,
+        "Percent": 1.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BOLT, David",
+        "Votes": 1239,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TRUMAN, Annolies",
+        "Votes": 316,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCLEAN, Ron J",
+        "Votes": 275,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "Pearce, WA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MOYLAN, Hon Judi",
+        "Votes": 39248,
+        "Percent": 49.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LEADBETTER, Bill",
+        "Votes": 23214,
+        "Percent": 29.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WARDEN, Toni",
+        "Votes": 10414,
+        "Percent": 13.2
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "MOIR, Darren",
+        "Votes": 1999,
+        "Percent": 2.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BROADSTOCK, Janet",
+        "Votes": 1691,
+        "Percent": 2.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ROSE, Ian",
+        "Votes": 1619,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PEPPER, Chris",
+        "Votes": 456,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2013": {
+    "title": "Pearce, WA   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PORTER, Christian",
+        "Votes": 40275,
+        "Percent": 45.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WEST, Madeleine",
+        "Votes": 22827,
+        "Percent": 25.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NIELSEN-HARVEY, Sarah",
+        "Votes": 9901,
+        "Percent": 11.2
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "HOUGH, Francis",
+        "Votes": 6587,
+        "Percent": 7.5
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "MCALLISTER, Craig",
+        "Votes": 4326,
+        "Percent": 4.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CANAS, Danielle",
+        "Votes": 1746,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAVIES, Diane",
+        "Votes": 791,
+        "Percent": 0.9
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "RICHARDS, Eddie",
+        "Votes": 727,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CORICA, Matthew",
+        "Votes": 572,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GAY, Norman",
+        "Votes": 439,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2016": {
+    "title": "Pearce, WA   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PORTER, Hon Christian",
+        "Votes": 39551,
+        "Percent": 45.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FRENCH, Thomas",
+        "Votes": 29809,
+        "Percent": 34.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MILES, Lee-Anne",
+        "Votes": 9543,
+        "Percent": 10.9
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "SIMMONDS, Maddison",
+        "Votes": 4080,
+        "Percent": 4.7
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "SAMURIWO-VUNTARDE, Taffy",
+        "Votes": 4049,
+        "Percent": 4.6
+      }
+    ]
+  },
+  "2019": {
+    "title": "Pearce, WA   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PORTER, Hon Christian",
+        "Votes": 43689,
+        "Percent": 43.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TRAVERS, Kim",
+        "Votes": 29027,
+        "Percent": 29.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MARSHALL, Eugene",
+        "Votes": 8676,
+        "Percent": 8.6
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "OLD, Sandy",
+        "Votes": 8199,
+        "Percent": 8.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "FORSTER, Rob",
+        "Votes": 2495,
+        "Percent": 2.5
+      },
+      {
+        "Party": "SFF",
+        "Candidate": "WILLIAMSON, Ross",
+        "Votes": 2125,
+        "Percent": 2.1
+      },
+      {
+        "Party": "AChr",
+        "Candidate": "STRAUSS, Magdeleen",
+        "Votes": 1609,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUTLAND, Colin",
+        "Votes": 1456,
+        "Percent": 1.5
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "BLYTH, Steve",
+        "Votes": 1342,
+        "Percent": 1.3
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "CALAUTTI, Michael",
+        "Votes": 1305,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2022": {
+    "title": "Pearce, WA   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ROBERTS, Tracey",
+        "Votes": 40596,
+        "Percent": 42.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "AITKEN, Linda",
+        "Votes": 28380,
+        "Percent": 29.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NELSON, Donna",
+        "Votes": 10416,
+        "Percent": 11.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MALLOY, Aaron",
+        "Votes": 4295,
+        "Percent": 4.5
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "DALBY, Trevor",
+        "Votes": 2534,
+        "Percent": 2.7
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "PAICE, Jim",
+        "Votes": 2206,
+        "Percent": 2.3
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "STEWART, Roslyn",
+        "Votes": 2160,
+        "Percent": 2.3
+      },
+      {
+        "Party": "AC",
+        "Candidate": "MONTGOMERY, Vanessa",
+        "Votes": 2097,
+        "Percent": 2.2
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MARSHALL, David",
+        "Votes": 1548,
+        "Percent": 1.6
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "MARCH, Nigel",
+        "Votes": 684,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2025": {
+    "title": "Pearce, WA   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ROBERTS, Tracey",
+        "Votes": 39303,
+        "Percent": 40.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NORBERGER, Jan",
+        "Votes": 27979,
+        "Percent": 28.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "D'ALONZO, Nicholas",
+        "Votes": 11640,
+        "Percent": 11.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BURTON, John",
+        "Votes": 9089,
+        "Percent": 9.3
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "GRANADOS RANGEL, Ramon",
+        "Votes": 6777,
+        "Percent": 6.9
+      },
+      {
+        "Party": "AUC",
+        "Candidate": "MONTGOMERY, Vanessa",
+        "Votes": 3305,
+        "Percent": 3.4
+      }
+    ]
+  }
+}

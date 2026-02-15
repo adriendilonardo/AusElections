@@ -1,0 +1,61 @@
+{
+  "2025": {
+    "title": "McEwen, VIC   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MITCHELL, Rob",
+        "Votes": 39079,
+        "Percent": 37.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "McCLINTOCK, Jason",
+        "Votes": 34023,
+        "Percent": 32.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "McRAE McLEOD, Marley",
+        "Votes": 11611,
+        "Percent": 11.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "JOHNSON, Jeremy",
+        "Votes": 6869,
+        "Percent": 6.6
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "FORREST, Tom",
+        "Votes": 4057,
+        "Percent": 3.9
+      },
+      {
+        "Party": "GRPF",
+        "Candidate": "ANTONIOU, Ali",
+        "Votes": 3538,
+        "Percent": 3.4
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "VALENCIA, Julio G",
+        "Votes": 2499,
+        "Percent": 2.4
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "NICOLOSI, Chloe",
+        "Votes": 2100,
+        "Percent": 2.0
+      },
+      {
+        "Party": "SOPA",
+        "Candidate": "McGRATH, Erin",
+        "Votes": 840,
+        "Percent": 0.8
+      }
+    ]
+  }
+}

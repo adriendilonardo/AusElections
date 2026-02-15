@@ -1,0 +1,482 @@
+{
+  "1946": {
+    "title": "Henty, VIC   1946",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GULLETT, Jo",
+        "Votes": 41069,
+        "Percent": 52.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DOUBE, Valentine",
+        "Votes": 37785,
+        "Percent": 47.9
+      }
+    ]
+  },
+  "1949": {
+    "title": "Henty, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GULLETT, Jo",
+        "Votes": 22650,
+        "Percent": 55.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DOUBE, Valentine",
+        "Votes": 17548,
+        "Percent": 42.7
+      },
+      {
+        "Party": "ALPN",
+        "Candidate": "DICKER, Charles",
+        "Votes": 858,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "1951": {
+    "title": "Henty, VIC   1951",
+    "rows": [
+      {
+        "Party": "CPA",
+        "Candidate": "MCRAE, Doris",
+        "Votes": "781",
+        "Percent": 1.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GULLETT, Jo",
+        "Votes": "23642",
+        "Percent": 57.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TREYVAUD, Percy",
+        "Votes": "16814",
+        "Percent": 40.8
+      }
+    ]
+  },
+  "1954": {
+    "title": "Henty, VIC   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GULLETT, Jo",
+        "Votes": "22858",
+        "Percent": 56.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MILLER, Alexander",
+        "Votes": "16400",
+        "Percent": 40.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCHAFER, Noel",
+        "Votes": "1124",
+        "Percent": 2.8
+      }
+    ]
+  },
+  "1955": {
+    "title": "Henty, VIC   1955",
+    "rows": [
+      {
+        "Party": "ALPAC",
+        "Candidate": "MOORE, Henry",
+        "Votes": "4966",
+        "Percent": 12.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FOX, Max",
+        "Votes": "22377",
+        "Percent": 54.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TREVAUD, Percy",
+        "Votes": "13953",
+        "Percent": 33.8
+      }
+    ]
+  },
+  "1958": {
+    "title": "Henty, VIC   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FOX, Max",
+        "Votes": 22506,
+        "Percent": 50.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GILHOOLEY, Tom",
+        "Votes": 16276,
+        "Percent": 36.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MOORE, Henry",
+        "Votes": 5742,
+        "Percent": 12.9
+      }
+    ]
+  },
+  "1961": {
+    "title": "Henty, VIC   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FOX, Max",
+        "Votes": 21011,
+        "Percent": 45.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, George",
+        "Votes": 18416,
+        "Percent": 40.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MOORE, Henry",
+        "Votes": 6302,
+        "Percent": 13.8
+      }
+    ]
+  },
+  "1963": {
+    "title": "Henty, VIC   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "MCHUGH, Joseph",
+        "Votes": "4694",
+        "Percent": 10.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VINEY, Herbert",
+        "Votes": "2500",
+        "Percent": 5.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FOX, Max",
+        "Votes": "24110",
+        "Percent": 51.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TAYLOR, George",
+        "Votes": "15425",
+        "Percent": 33.0
+      }
+    ]
+  },
+  "1966": {
+    "title": "Henty, VIC   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FOX, Max",
+        "Votes": 23072,
+        "Percent": 49.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CAMPBELL-TEICH, Maureen",
+        "Votes": 18053,
+        "Percent": 39.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MOORE, Henry",
+        "Votes": 5114,
+        "Percent": 11.1
+      }
+    ]
+  },
+  "1969": {
+    "title": "Henty, VIC   1969",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FOX, Max",
+        "Votes": 24353,
+        "Percent": 46.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "RAY, Robert",
+        "Votes": 18670,
+        "Percent": 35.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "LAUNDER, John",
+        "Votes": 5050,
+        "Percent": 9.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CROWTHER, Herman",
+        "Votes": 4172,
+        "Percent": 8.0
+      }
+    ]
+  },
+  "1972": {
+    "title": "Henty, VIC   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHILD, Joan",
+        "Votes": 24701,
+        "Percent": 46.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FOX, Max",
+        "Votes": 22577,
+        "Percent": 42.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FARRELL, Terence",
+        "Votes": 3926,
+        "Percent": 7.4
+      },
+      {
+        "Party": "AP",
+        "Candidate": "HUGHES, Michael",
+        "Votes": 2080,
+        "Percent": 3.9
+      }
+    ]
+  },
+  "1974": {
+    "title": "Henty, VIC   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHILD, Joan",
+        "Votes": 28111,
+        "Percent": 49.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FOX, Max",
+        "Votes": 24953,
+        "Percent": 44.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FARRELL, Terence",
+        "Votes": 2408,
+        "Percent": 4.2
+      },
+      {
+        "Party": "AP",
+        "Candidate": "HUGHES, Michael",
+        "Votes": 1191,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "1975": {
+    "title": "Henty, VIC   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ALDRED, Kenneth",
+        "Votes": 29621,
+        "Percent": 51.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CHILD, Joan",
+        "Votes": 25158,
+        "Percent": 43.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FARRELL, Terence",
+        "Votes": 1989,
+        "Percent": 3.5
+      },
+      {
+        "Party": "AP",
+        "Candidate": "HUGHES, Michael",
+        "Votes": 536,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "AUSSIE-STONE, Marc",
+        "Votes": 190,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1977": {
+    "title": "Henty, VIC   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ALDRED, Kenneth",
+        "Votes": 29660,
+        "Percent": 45.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CHILD, Joan",
+        "Votes": 27325,
+        "Percent": 41.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "INGAMELLS, Fred",
+        "Votes": 6509,
+        "Percent": 9.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FARRELL, Terence",
+        "Votes": 2061,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DEAR, Tony",
+        "Votes": 359,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1980": {
+    "title": "Henty, VIC   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHILD, Joan",
+        "Votes": 32102,
+        "Percent": 49.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ALDRED, Kenneth",
+        "Votes": 27702,
+        "Percent": 42.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MELLAND, Jonathan",
+        "Votes": 3926,
+        "Percent": 6.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MULHOLLAND, John",
+        "Votes": 1698,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "1983": {
+    "title": "Henty, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHILD, Joan",
+        "Votes": 36259,
+        "Percent": 54.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BAXTER, Craig",
+        "Votes": 25709,
+        "Percent": 38.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "EICHLER, Harry",
+        "Votes": 2845,
+        "Percent": 4.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CARROLL, Paul",
+        "Votes": 1442,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1984": {
+    "title": "Henty, VIC   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHILD, Joan",
+        "Votes": 32297,
+        "Percent": 52.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MICHELSON, Rudi",
+        "Votes": 23885,
+        "Percent": 39.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MOORE, Margaret",
+        "Votes": 3216,
+        "Percent": 5.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CALLANAN, Martin",
+        "Votes": 988,
+        "Percent": 1.6
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "RYAN, Peter",
+        "Votes": 690,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1987": {
+    "title": "Henty, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHILD, Hon Joan",
+        "Votes": 30695,
+        "Percent": 50.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MICHELSON, Rudi",
+        "Votes": 25138,
+        "Percent": 41.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HEGARTY, Paul",
+        "Votes": 4992,
+        "Percent": 8.2
+      }
+    ]
+  }
+}

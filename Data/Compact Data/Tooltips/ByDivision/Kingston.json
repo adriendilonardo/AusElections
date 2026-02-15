@@ -1,0 +1,1004 @@
+{
+  "1949": {
+    "title": "Kingston, SA   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HANDBY, Herbert",
+        "Votes": 23713,
+        "Percent": 51.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SHEEHY, Thomas",
+        "Votes": 22233,
+        "Percent": 48.4
+      }
+    ]
+  },
+  "1951": {
+    "title": "Kingston, SA   1951",
+    "rows": [
+      {
+        "Party": "CPA",
+        "Candidate": "STEAD, Eric",
+        "Votes": "654",
+        "Percent": 1.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GALVIN, Patrick",
+        "Votes": "24834",
+        "Percent": 50.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HANDBY, Herbert",
+        "Votes": "23614",
+        "Percent": 48.1
+      }
+    ]
+  },
+  "1954": {
+    "title": "Kingston, SA   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GALVIN, Patrick",
+        "Votes": "31602",
+        "Percent": 55.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ZELLING, Howard",
+        "Votes": "25888",
+        "Percent": 45.0
+      }
+    ]
+  },
+  "1955": {
+    "title": "Kingston, SA   1955",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GALVIN, Patrick",
+        "Votes": "21429",
+        "Percent": 51.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FORBES, Dr James",
+        "Votes": "20129",
+        "Percent": 48.4
+      }
+    ]
+  },
+  "1958": {
+    "title": "Kingston, SA   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GALVIN, Patrick",
+        "Votes": 25607,
+        "Percent": 50.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ANDERSON, Cecil",
+        "Votes": 21442,
+        "Percent": 42.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CROWE, Brian",
+        "Votes": 3321,
+        "Percent": 6.6
+      }
+    ]
+  },
+  "1961": {
+    "title": "Kingston, SA   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GALVIN, Patrick",
+        "Votes": 32279,
+        "Percent": 56.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCCOY, John",
+        "Votes": 20144,
+        "Percent": 35.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CROWE, Brian",
+        "Votes": 5026,
+        "Percent": 8.7
+      }
+    ]
+  },
+  "1963": {
+    "title": "Kingston, SA   1963",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GALVIN, Patrick",
+        "Votes": "32582",
+        "Percent": 53.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CROWE, Brian",
+        "Votes": "2858",
+        "Percent": 4.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROWNBILL, Kay",
+        "Votes": "25375",
+        "Percent": 41.7
+      }
+    ]
+  },
+  "1966": {
+    "title": "Kingston, SA   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BROWNBILL, Kay",
+        "Votes": 35041,
+        "Percent": 53.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GALVIN, Patrick",
+        "Votes": 26764,
+        "Percent": 40.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ANDERSON, Allan",
+        "Votes": 3776,
+        "Percent": 5.8
+      }
+    ]
+  },
+  "1969": {
+    "title": "Kingston, SA   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GUN, Dr Richard",
+        "Votes": 26975,
+        "Percent": 53.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROWNBILL, Kay",
+        "Votes": 21687,
+        "Percent": 42.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BISHOP, Betty",
+        "Votes": 1886,
+        "Percent": 3.7
+      }
+    ]
+  },
+  "1972": {
+    "title": "Kingston, SA   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GUN, Dr Richard",
+        "Votes": 30169,
+        "Percent": 51.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TONKIN, Peter",
+        "Votes": 25657,
+        "Percent": 44.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "POSA, Mark",
+        "Votes": 2251,
+        "Percent": 3.9
+      }
+    ]
+  },
+  "1974": {
+    "title": "Kingston, SA   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GUN, Dr Richard",
+        "Votes": 35647,
+        "Percent": 52.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TONKIN, Peter",
+        "Votes": 24117,
+        "Percent": 35.8
+      },
+      {
+        "Party": "LM",
+        "Candidate": "HEYSON, Peter",
+        "Votes": 6771,
+        "Percent": 10.1
+      },
+      {
+        "Party": "AP",
+        "Candidate": "VEILANDS, Janet",
+        "Votes": 833,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1975": {
+    "title": "Kingston, SA   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CHAPMAN, Grant",
+        "Votes": 34893,
+        "Percent": 48.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GUN, Dr Richard",
+        "Votes": 30296,
+        "Percent": 41.9
+      },
+      {
+        "Party": "LM",
+        "Candidate": "ADAM, Rodney",
+        "Votes": 6412,
+        "Percent": 8.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "OAKLEY, Verna",
+        "Votes": 696,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1977": {
+    "title": "Kingston, SA   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CHAPMAN, Grant",
+        "Votes": 31254,
+        "Percent": 45.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GUN, Dr Richard",
+        "Votes": 28919,
+        "Percent": 41.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HARTE, Christopher",
+        "Votes": 8810,
+        "Percent": 12.8
+      }
+    ]
+  },
+  "1980": {
+    "title": "Kingston, SA   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CHAPMAN, Grant",
+        "Votes": 35069,
+        "Percent": 46.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GUN, Dr Richard",
+        "Votes": 33822,
+        "Percent": 44.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JENKINS, Judith",
+        "Votes": 6813,
+        "Percent": 9.0
+      }
+    ]
+  },
+  "1983": {
+    "title": "Kingston, SA   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BILNEY, Gordon",
+        "Votes": 40019,
+        "Percent": 50.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CHAPMAN, Grant",
+        "Votes": 35057,
+        "Percent": 43.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RALPH, Robert",
+        "Votes": 5038,
+        "Percent": 6.3
+      }
+    ]
+  },
+  "1984": {
+    "title": "Kingston, SA   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BILNEY, Gordon",
+        "Votes": 29140,
+        "Percent": 50.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NOBLE, Richard",
+        "Votes": 20546,
+        "Percent": 35.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RALPH, Robert",
+        "Votes": 4951,
+        "Percent": 8.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BREAKWELL, Paul",
+        "Votes": 2270,
+        "Percent": 3.9
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "AGARS, Neville",
+        "Votes": 584,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1987": {
+    "title": "Kingston, SA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BILNEY, Gordon",
+        "Votes": 30138,
+        "Percent": 48.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NOBLE, Richard",
+        "Votes": 23997,
+        "Percent": 38.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MILLER, Colin",
+        "Votes": 5819,
+        "Percent": 9.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "LARKIN, Gerald",
+        "Votes": 1874,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PROWSE, Michael",
+        "Votes": 539,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1990": {
+    "title": "Kingston, SA   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BILNEY, Gordon",
+        "Votes": 26206,
+        "Percent": 37.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FULLER, Judy",
+        "Votes": 23355,
+        "Percent": 33.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HAINES, Janine",
+        "Votes": 18694,
+        "Percent": 26.4
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "BOYD, Cliff",
+        "Votes": 1533,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GATER, George",
+        "Votes": 327,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCDONALD, Lyall",
+        "Votes": 304,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FLANAGAN, Tom",
+        "Votes": 296,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1993": {
+    "title": "Kingston, SA   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, Robert",
+        "Votes": "976",
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JAMIESON, Alexa",
+        "Votes": "908",
+        "Percent": 1.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GESSERIT, Anji",
+        "Votes": "5885",
+        "Percent": 7.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BURTMANIS, Egils",
+        "Votes": "427",
+        "Percent": 0.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BILNEY, Hon Gordon",
+        "Votes": "33906",
+        "Percent": 44.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GORDON, Martin",
+        "Votes": "32073",
+        "Percent": 42.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRAHAM, Robert",
+        "Votes": "194",
+        "Percent": 0.3
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "WATSON, John",
+        "Votes": "1917",
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1996": {
+    "title": "Kingston, SA   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JEANES, Susan",
+        "Votes": 34023,
+        "Percent": 42.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BILNEY, Hon Gordon",
+        "Votes": 31372,
+        "Percent": 39.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WEBB, Debbie",
+        "Votes": 7890,
+        "Percent": 10.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NURTON, David",
+        "Votes": 1852,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MOORE, Evonne",
+        "Votes": 1780,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NEWELL, Paula",
+        "Votes": 1004,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WATSON, John",
+        "Votes": 443,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAMPBELL, Bob",
+        "Votes": 381,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HUNTER, Sally Ann",
+        "Votes": 327,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MULDOWNEY, Patrick",
+        "Votes": 249,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1998": {
+    "title": "Kingston, SA   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JEANES, Susan",
+        "Votes": 32211,
+        "Percent": 39.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COX, David",
+        "Votes": 31441,
+        "Percent": 38.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PRATT, Graham",
+        "Votes": 7725,
+        "Percent": 9.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MCCORMACK, Charlie",
+        "Votes": 7510,
+        "Percent": 9.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WESTON, Olive",
+        "Votes": 980,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HAHNHEUSER, Ralph",
+        "Votes": 869,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PLANETA, Chris",
+        "Votes": 513,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DICKSON, Hugh",
+        "Votes": 400,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2001": {
+    "title": "Kingston, SA   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COX, David",
+        "Votes": 31127,
+        "Percent": 40.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HERSEY, Dean",
+        "Votes": 30080,
+        "Percent": 38.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PRATT, Graham",
+        "Votes": 9076,
+        "Percent": 11.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MCCORMACK, Charlie",
+        "Votes": 3634,
+        "Percent": 4.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GUILDNER, Deborah",
+        "Votes": 2437,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ARANDELOVIC, Gordon",
+        "Votes": 1136,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "2004": {
+    "title": "Kingston, SA   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RICHARDSON, Kym",
+        "Votes": 36848,
+        "Percent": 43.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COX, David",
+        "Votes": 35748,
+        "Percent": 42.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "COLE, Andrew",
+        "Votes": 4767,
+        "Percent": 5.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DARLINGTON, Yvonne",
+        "Votes": 4478,
+        "Percent": 5.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ALBRIGHTON, Deidre",
+        "Votes": 1825,
+        "Percent": 2.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "PAYNE, Laurel",
+        "Votes": 869,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2007": {
+    "title": "Kingston, SA   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RISHWORTH, Amanda",
+        "Votes": 42212,
+        "Percent": 46.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RICHARDSON, Kym",
+        "Votes": 35961,
+        "Percent": 39.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BROKENSHIRE, Robert",
+        "Votes": 5169,
+        "Percent": 5.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WELLER, Bill",
+        "Votes": 5132,
+        "Percent": 5.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FOWLER, Matthew",
+        "Votes": 859,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BECKER, Barry J",
+        "Votes": 505,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KUSZNIR, Alex",
+        "Votes": 380,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Lachlan",
+        "Votes": 273,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "Kingston, SA   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RISHWORTH, Amanda",
+        "Votes": 46882,
+        "Percent": 51.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ZANKER, Chris",
+        "Votes": 26652,
+        "Percent": 29.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MOORE, Palitja",
+        "Votes": 11264,
+        "Percent": 12.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "DOECKE, Geoff",
+        "Votes": 5288,
+        "Percent": 5.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BAKER, Ron",
+        "Votes": 1748,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "2013": {
+    "title": "Kingston, SA   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RISHWORTH, Hon Amanda",
+        "Votes": 43328,
+        "Percent": 49.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MILLS, Damien",
+        "Votes": 28492,
+        "Percent": 32.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MOORE, Palitja",
+        "Votes": 6062,
+        "Percent": 6.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "DOECKE, Geoff",
+        "Votes": 5168,
+        "Percent": 5.9
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "FROST, Mitchell",
+        "Votes": 3709,
+        "Percent": 4.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SNOSWELL, Andy",
+        "Votes": 1191,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2016": {
+    "title": "Kingston, SA   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RISHWORTH, Hon Amanda",
+        "Votes": 46151,
+        "Percent": 49.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BINNS, Kelvin",
+        "Votes": 21772,
+        "Percent": 23.4
+      },
+      {
+        "Party": "NXT",
+        "Candidate": "CAREY, Damian",
+        "Votes": 16059,
+        "Percent": 17.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HOLTHAM, Robyn",
+        "Votes": 5361,
+        "Percent": 5.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "DOECKE, Geoff",
+        "Votes": 4048,
+        "Percent": 4.3
+      }
+    ]
+  },
+  "2019": {
+    "title": "Kingston, SA   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RISHWORTH, Hon Amanda",
+        "Votes": 53655,
+        "Percent": 50.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CURRAN, Laura",
+        "Votes": 33650,
+        "Percent": 31.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MORTIER, Nikki",
+        "Votes": 9764,
+        "Percent": 9.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HOSKIN, Jodie",
+        "Votes": 5270,
+        "Percent": 5.0
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "SOMERS, Kellie",
+        "Votes": 3742,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "2022": {
+    "title": "Kingston, SA   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RISHWORTH, Hon Amanda",
+        "Votes": 53810,
+        "Percent": 49.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BOURNE, Kathleen",
+        "Votes": 28273,
+        "Percent": 25.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PHOTAKIS, John",
+        "Votes": 13603,
+        "Percent": 12.4
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "GODFREY-BROWN, Robert",
+        "Votes": 5313,
+        "Percent": 4.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "JACKSON, Russell",
+        "Votes": 4321,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JONGE, Rob De",
+        "Votes": 2963,
+        "Percent": 2.7
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "ENRIGHT, Sam",
+        "Votes": 1079,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2025": {
+    "title": "Kingston, SA   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RISHWORTH, Amanda",
+        "Votes": 59758,
+        "Percent": 53.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RISHWORTH, Jim",
+        "Votes": 20994,
+        "Percent": 18.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PHOTAKIS, John",
+        "Votes": 15149,
+        "Percent": 13.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SKRLJ, Nathan",
+        "Votes": 7018,
+        "Percent": 6.2
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "JACKSON, Russell Patrick",
+        "Votes": 4165,
+        "Percent": 3.7
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "PRICE, Steven",
+        "Votes": 3560,
+        "Percent": 3.2
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "LIU, Bin",
+        "Votes": 2051,
+        "Percent": 1.8
+      }
+    ]
+  }
+}

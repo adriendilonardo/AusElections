@@ -1,0 +1,307 @@
+{
+  "1946": {
+    "title": "Ballaarat, VIC   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "POLLARD, Reginald",
+        "Votes": 25827,
+        "Percent": 53.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CADDY, Arnold",
+        "Votes": 22812,
+        "Percent": 46.9
+      }
+    ]
+  },
+  "1949": {
+    "title": "Ballaarat, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PITTARD, Alan",
+        "Votes": 19851,
+        "Percent": 50.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HYATT, Raymond",
+        "Votes": 19522,
+        "Percent": 49.6
+      }
+    ]
+  },
+  "1951": {
+    "title": "Ballaarat, VIC   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JOSHUA, Robert",
+        "Votes": "20482",
+        "Percent": 51.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PITTARD, Alan",
+        "Votes": "19517",
+        "Percent": 48.8
+      }
+    ]
+  },
+  "1954": {
+    "title": "Ballaarat, VIC   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JOSHUA, Robert",
+        "Votes": "20997",
+        "Percent": 52.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DRISCOLL, Allen",
+        "Votes": "18900",
+        "Percent": 47.4
+      }
+    ]
+  },
+  "1955": {
+    "title": "Ballaarat, VIC   1955",
+    "rows": [
+      {
+        "Party": "ALPAC",
+        "Candidate": "JOSHUA, Robert",
+        "Votes": "9757",
+        "Percent": 23.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ERWIN, Dudley",
+        "Votes": "15763",
+        "Percent": 38.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DOWLING, Austin",
+        "Votes": "15686",
+        "Percent": 38.1
+      }
+    ]
+  },
+  "1958": {
+    "title": "Ballaarat, VIC   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DRUMMOND, Donald",
+        "Votes": 17903,
+        "Percent": 42.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ERWIN, Dudley",
+        "Votes": 16683,
+        "Percent": 39.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "JOSHUA, Robert",
+        "Votes": 7204,
+        "Percent": 17.2
+      }
+    ]
+  },
+  "1961": {
+    "title": "Ballaarat, VIC   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ERWIN, Dudley",
+        "Votes": 18379,
+        "Percent": 43.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KEANE, Aubrey",
+        "Votes": 16224,
+        "Percent": 38.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "JOSHUA, Robert",
+        "Votes": 7557,
+        "Percent": 17.9
+      }
+    ]
+  },
+  "1963": {
+    "title": "Ballaarat, VIC   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "JOSHUA, Robert",
+        "Votes": "6421",
+        "Percent": 14.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ERWIN, Dudley",
+        "Votes": "20764",
+        "Percent": 48.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIAMS, Alan",
+        "Votes": "15846",
+        "Percent": 36.8
+      }
+    ]
+  },
+  "1966": {
+    "title": "Ballaarat, VIC   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ERWIN, Dudley",
+        "Votes": 21288,
+        "Percent": 49.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "POLLOCK, David",
+        "Votes": 15042,
+        "Percent": 34.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "JOSHUA, Robert",
+        "Votes": 6729,
+        "Percent": 15.6
+      }
+    ]
+  },
+  "1969": {
+    "title": "Ballaarat, VIC   1969",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ERWIN, Hon Dudley",
+        "Votes": 20881,
+        "Percent": 44.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "POLLOCK, David",
+        "Votes": 18634,
+        "Percent": 39.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "JOSHUA, Robert",
+        "Votes": 6444,
+        "Percent": 13.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOND, Graeme",
+        "Votes": 1173,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SWINNERTON, David",
+        "Votes": 215,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PRINS, Hendrik",
+        "Votes": 92,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "1972": {
+    "title": "Ballaarat, VIC   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIAMS, David",
+        "Votes": 22800,
+        "Percent": 45.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ERWIN, Hon Dudley",
+        "Votes": 20860,
+        "Percent": 41.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BALKIN, Anthony",
+        "Votes": 6297,
+        "Percent": 12.6
+      }
+    ]
+  },
+  "1974": {
+    "title": "Ballaarat, VIC   1974",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ERWIN, Hon Dudley",
+        "Votes": 25736,
+        "Percent": 45.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIAMS, David",
+        "Votes": 24517,
+        "Percent": 43.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HANRAHAN, Bryan",
+        "Votes": 4225,
+        "Percent": 7.5
+      },
+      {
+        "Party": "AP",
+        "Candidate": "CLIFFORD, Pamela",
+        "Votes": 1574,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "1975": {
+    "title": "Ballaarat, VIC   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SHORT, James",
+        "Votes": 29708,
+        "Percent": 50.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIAMS, David",
+        "Votes": 22844,
+        "Percent": 39.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HANRAHAN, Bryan",
+        "Votes": 4219,
+        "Percent": 7.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LUDBROOK, Glendon",
+        "Votes": 1625,
+        "Percent": 2.8
+      }
+    ]
+  }
+}

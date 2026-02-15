@@ -1,0 +1,856 @@
+{
+  "1969": {
+    "title": "Berowra, NSW   1969",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HUGHES, Thomas",
+        "Votes": 22495,
+        "Percent": 45.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIAMS, George",
+        "Votes": 15108,
+        "Percent": 30.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PARRISH, Edith",
+        "Votes": 6095,
+        "Percent": 12.3
+      },
+      {
+        "Party": "AP",
+        "Candidate": "HAIG, David",
+        "Votes": 3401,
+        "Percent": 6.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MACKERRAS, Neil",
+        "Votes": 2288,
+        "Percent": 4.6
+      }
+    ]
+  },
+  "1972": {
+    "title": "Berowra, NSW   1972",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "EDWARDS, Dr Harold",
+        "Votes": 29993,
+        "Percent": 53.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIAMS, George",
+        "Votes": 19260,
+        "Percent": 34.4
+      },
+      {
+        "Party": "AP",
+        "Candidate": "HAIG, David",
+        "Votes": 4733,
+        "Percent": 8.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "STRENGER, Michael",
+        "Votes": 2055,
+        "Percent": 3.7
+      }
+    ]
+  },
+  "1974": {
+    "title": "Berowra, NSW   1974",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "EDWARDS, Dr Harold",
+        "Votes": 39511,
+        "Percent": 62.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIAMS, George",
+        "Votes": 20363,
+        "Percent": 32.2
+      },
+      {
+        "Party": "AP",
+        "Candidate": "WALLACE, Patricia",
+        "Votes": 3386,
+        "Percent": 5.4
+      }
+    ]
+  },
+  "1975": {
+    "title": "Berowra, NSW   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "EDWARDS, Dr Harold",
+        "Votes": 45355,
+        "Percent": 68.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROSS, Michael",
+        "Votes": 18530,
+        "Percent": 28.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOWARD, Robert",
+        "Votes": 2406,
+        "Percent": 3.6
+      }
+    ]
+  },
+  "1977": {
+    "title": "Berowra, NSW   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "EDWARDS, Dr Harold",
+        "Votes": 39350,
+        "Percent": 62.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Michael",
+        "Votes": 15325,
+        "Percent": 24.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "AGGELE, Johannes van",
+        "Votes": 7207,
+        "Percent": 11.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SIMPSON, George",
+        "Votes": 686,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1980": {
+    "title": "Berowra, NSW   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "EDWARDS, Dr Harold",
+        "Votes": 39993,
+        "Percent": 61.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BENNETT, George",
+        "Votes": 19235,
+        "Percent": 29.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BOOW, James",
+        "Votes": 5939,
+        "Percent": 9.1
+      }
+    ]
+  },
+  "1983": {
+    "title": "Berowra, NSW   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "EDWARDS, Dr Harold",
+        "Votes": 40676,
+        "Percent": 60.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MARSHAN, Maurice",
+        "Votes": 20943,
+        "Percent": 31.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TUCKWELL, Pamela",
+        "Votes": 6015,
+        "Percent": 8.9
+      }
+    ]
+  },
+  "1984": {
+    "title": "Berowra, NSW   1984",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "EDWARDS, Dr Harry",
+        "Votes": 37545,
+        "Percent": 60.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BERRY, Rodney",
+        "Votes": 19092,
+        "Percent": 30.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROGERS, Chris",
+        "Votes": 5777,
+        "Percent": 9.3
+      }
+    ]
+  },
+  "1987": {
+    "title": "Berowra, NSW   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "EDWARDS, Dr Harry",
+        "Votes": 40288,
+        "Percent": 62.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DEANE, Sue",
+        "Votes": 18173,
+        "Percent": 28.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MARKHAM, Peter",
+        "Votes": 6122,
+        "Percent": 9.5
+      }
+    ]
+  },
+  "1990": {
+    "title": "Berowra, NSW   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "EDWARDS, Dr Harry",
+        "Votes": 34720,
+        "Percent": 52.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DEANE, Sue",
+        "Votes": 16089,
+        "Percent": 24.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "YEOMANS, Martyn",
+        "Votes": 11070,
+        "Percent": 16.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GALLAGHER, Mick",
+        "Votes": 2103,
+        "Percent": 3.2
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "VARIDEL, Beville",
+        "Votes": 1471,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PAUL, Les",
+        "Votes": 837,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "1993": {
+    "title": "Berowra, NSW   1993",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RUDDOCK, Philip",
+        "Votes": "41230",
+        "Percent": 55.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DEANE, Sue",
+        "Votes": "21492",
+        "Percent": 28.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CARR, Timothy",
+        "Votes": "1116",
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GALLACHER, Mick",
+        "Votes": "10828",
+        "Percent": 14.5
+      }
+    ]
+  },
+  "1996": {
+    "title": "Berowra, NSW   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RUDDOCK, Philip",
+        "Votes": 45310,
+        "Percent": 58.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCCARROLL, Nola",
+        "Votes": 16666,
+        "Percent": 21.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DISNEY, Simon",
+        "Votes": 5751,
+        "Percent": 7.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GALLAGHER, Mick",
+        "Votes": 5034,
+        "Percent": 6.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CONNOLLY, Christopher",
+        "Votes": 2453,
+        "Percent": 3.2
+      },
+      {
+        "Party": "AAFI",
+        "Candidate": "WYK, Steve van",
+        "Votes": 1964,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCALLY, Bill",
+        "Votes": 143,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "1998": {
+    "title": "Berowra, NSW   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RUDDOCK, Hon Philip",
+        "Votes": 43180,
+        "Percent": 54.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCCARROLL, Nola",
+        "Votes": 21763,
+        "Percent": 27.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TEUBEN, Bernard",
+        "Votes": 5255,
+        "Percent": 6.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "STEWART, Wayne",
+        "Votes": 4788,
+        "Percent": 6.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BURKE, Andrew",
+        "Votes": 2561,
+        "Percent": 3.2
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "NANNELLI, Owen",
+        "Votes": 1893,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "2001": {
+    "title": "Berowra, NSW   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RUDDOCK, Hon Philip",
+        "Votes": 45575,
+        "Percent": 58.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SLATER, Richard",
+        "Votes": 17748,
+        "Percent": 22.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SPARKS, Philip",
+        "Votes": 5047,
+        "Percent": 6.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GALE, Maureen",
+        "Votes": 4029,
+        "Percent": 5.2
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "NANNELLI, Owen",
+        "Votes": 1632,
+        "Percent": 2.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BALL, Harry",
+        "Votes": 1537,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHOI, Daniel",
+        "Votes": 1124,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GALLAGHER, P J",
+        "Votes": 1117,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2004": {
+    "title": "Berowra, NSW   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RUDDOCK, Hon Philip",
+        "Votes": 43674,
+        "Percent": 56.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COLNAN, Michael",
+        "Votes": 20351,
+        "Percent": 26.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HOWDEN, Erland",
+        "Votes": 7465,
+        "Percent": 9.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "COLEMAN, Bruce",
+        "Votes": 2411,
+        "Percent": 3.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WEG, Margaret Van de",
+        "Votes": 1457,
+        "Percent": 1.9
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "CLARK, Lance",
+        "Votes": 883,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BENSON, Matthew",
+        "Votes": 860,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLADE, Ross",
+        "Votes": 694,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2007": {
+    "title": "Berowra, NSW   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RUDDOCK, Hon Philip",
+        "Votes": 44525,
+        "Percent": 53.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COLNAN, Michael",
+        "Votes": 25563,
+        "Percent": 30.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCMURDO, Wendy",
+        "Votes": 7653,
+        "Percent": 9.2
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "LEVICK, Ray",
+        "Votes": 2125,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GALLAGHER, Mick",
+        "Votes": 1456,
+        "Percent": 1.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ELLIS, Sam",
+        "Votes": 1049,
+        "Percent": 1.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCFARLANE, Rob",
+        "Votes": 974,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2010": {
+    "title": "Berowra, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RUDDOCK, Hon Philip",
+        "Votes": 51416,
+        "Percent": 60.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STOVE, Michael",
+        "Votes": 18901,
+        "Percent": 22.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WRIGHT-TURNER, Toni",
+        "Votes": 9762,
+        "Percent": 11.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GALLAGHER, Mick",
+        "Votes": 2455,
+        "Percent": 2.9
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "EVANS, Steve",
+        "Votes": 2350,
+        "Percent": 2.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ELLIS, Christian",
+        "Votes": 840,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2013": {
+    "title": "Berowra, NSW   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RUDDOCK, Hon Philip",
+        "Votes": 53236,
+        "Percent": 61.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STOVE, Michael",
+        "Votes": 16402,
+        "Percent": 18.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "STOREY, John",
+        "Votes": 8684,
+        "Percent": 10.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GALLAGHER, Mick",
+        "Votes": 3374,
+        "Percent": 3.9
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "GRAVES, Paul",
+        "Votes": 2324,
+        "Percent": 2.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "THEW, Leighton",
+        "Votes": 2135,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMYTHE, Deborah",
+        "Votes": 492,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2016": {
+    "title": "Berowra, NSW   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LEESER, Julian",
+        "Votes": 53678,
+        "Percent": 57.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ANDREWS, Josh",
+        "Votes": 18693,
+        "Percent": 19.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HEYDE, Emma",
+        "Votes": 10815,
+        "Percent": 11.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "THEW, Leighton",
+        "Votes": 5213,
+        "Percent": 5.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GALLAGHER, Mick",
+        "Votes": 2859,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLARKE, Brendan",
+        "Votes": 1933,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WOODWARD, Roger",
+        "Votes": 826,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2019": {
+    "title": "Berowra, NSW   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LEESER, Julian",
+        "Votes": 53741,
+        "Percent": 57.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GOMPERTZ, Katie",
+        "Votes": 19821,
+        "Percent": 21.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TAN, Monica",
+        "Votes": 11157,
+        "Percent": 11.9
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "TAYLOR, Simon",
+        "Votes": 2163,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GALLAGHER, Mick",
+        "Votes": 2104,
+        "Percent": 2.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MCLACHLAN, Craig",
+        "Votes": 1576,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLARKE, Brendan",
+        "Votes": 1465,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THOMAS, Justin",
+        "Votes": 1425,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WOODWARD, Roger",
+        "Votes": 495,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2022": {
+    "title": "Berowra, NSW   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LEESER, Julian",
+        "Votes": 45797,
+        "Percent": 49.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KOSCHINSKI, Benson",
+        "Votes": 20746,
+        "Percent": 22.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SALITRA, Tania",
+        "Votes": 14536,
+        "Percent": 15.6
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "BOSMA, Rhiannon",
+        "Votes": 2972,
+        "Percent": 3.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MARTINIC, Christopher",
+        "Votes": 2315,
+        "Percent": 2.5
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "SAMIOS, Nicholas",
+        "Votes": 2307,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CASWELL, Benjamin",
+        "Votes": 1802,
+        "Percent": 1.9
+      },
+      {
+        "Party": "Fus",
+        "Candidate": "CLARKE, Brendan",
+        "Votes": 1418,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WOODWARD, Roger",
+        "Votes": 904,
+        "Percent": 1.0
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "LOUIE, David",
+        "Votes": 509,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2025": {
+    "title": "Berowra, NSW   2025",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LEESER, Julian",
+        "Votes": 48210,
+        "Percent": 41.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KOSCHINSKI, Benson",
+        "Votes": 31220,
+        "Percent": 27.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COUSINS, Martin",
+        "Votes": 13781,
+        "Percent": 11.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, Tina",
+        "Votes": 13135,
+        "Percent": 11.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MATTINSON, Gerald",
+        "Votes": 4705,
+        "Percent": 4.1
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "BASTIAN, Stephen",
+        "Votes": 2199,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WOODWARD, Roger",
+        "Votes": 1236,
+        "Percent": 1.1
+      },
+      {
+        "Party": "SOPA",
+        "Candidate": "CLARKE, Brendan Michael",
+        "Votes": 1082,
+        "Percent": 0.9
+      }
+    ]
+  }
+}

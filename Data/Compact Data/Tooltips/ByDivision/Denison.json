@@ -1,0 +1,850 @@
+{
+  "1946": {
+    "title": "Denison, TAS   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GAHA, Dr John",
+        "Votes": 16231,
+        "Percent": 57.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HAMILTON, John",
+        "Votes": 12227,
+        "Percent": 43.0
+      }
+    ]
+  },
+  "1949": {
+    "title": "Denison, TAS   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TOWNLEY, Athol",
+        "Votes": 16431,
+        "Percent": 55.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COSGROVE, Henry",
+        "Votes": 13394,
+        "Percent": 44.9
+      }
+    ]
+  },
+  "1951": {
+    "title": "Denison, TAS   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TOWNLEY, Athol",
+        "Votes": "15449",
+        "Percent": 53.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCNEAIR, Mervyn",
+        "Votes": "13545",
+        "Percent": 46.7
+      }
+    ]
+  },
+  "1954": {
+    "title": "Denison, TAS   1954",
+    "rows": [
+      {
+        "Party": "CPA",
+        "Candidate": "BOUND, Max",
+        "Votes": "688",
+        "Percent": 2.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TOWNLEY, Hon Athol",
+        "Votes": "14444",
+        "Percent": 52.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LACEY, Robert",
+        "Votes": "12322",
+        "Percent": 44.9
+      }
+    ]
+  },
+  "1955": {
+    "title": "Denison, TAS   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TOWNLEY, Hon Athol",
+        "Votes": "20058",
+        "Percent": 57.5
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "BOUND, Max",
+        "Votes": "2003",
+        "Percent": 5.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MILLER, Brian",
+        "Votes": "12828",
+        "Percent": 36.8
+      }
+    ]
+  },
+  "1958": {
+    "title": "Denison, TAS   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TOWNLEY, Hon Athol",
+        "Votes": 17705,
+        "Percent": 52.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LACEY, Robert",
+        "Votes": 11926,
+        "Percent": 35.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SENIOR, Harold",
+        "Votes": 2775,
+        "Percent": 8.2
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "BOUND, Max",
+        "Votes": 1249,
+        "Percent": 3.7
+      }
+    ]
+  },
+  "1961": {
+    "title": "Denison, TAS   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TOWNLEY, Hon Athol",
+        "Votes": 17260,
+        "Percent": 51.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HOWROYD, Eric",
+        "Votes": 13749,
+        "Percent": 41.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SENIOR, Harold",
+        "Votes": 2491,
+        "Percent": 7.4
+      }
+    ]
+  },
+  "1963": {
+    "title": "Denison, TAS   1963",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, Bruce",
+        "Votes": "558",
+        "Percent": 1.6
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "BOUND, Max",
+        "Votes": "506",
+        "Percent": 1.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BRESNEHAN, Brian",
+        "Votes": "2159",
+        "Percent": 6.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TOWNLEY, Hon Athol",
+        "Votes": "17372",
+        "Percent": 51.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FINLAY, Donald",
+        "Votes": "13286",
+        "Percent": 39.2
+      }
+    ]
+  },
+  "1966": {
+    "title": "Denison, TAS   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GIBSON, Adrian",
+        "Votes": 15516,
+        "Percent": 47.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BATT, Neil",
+        "Votes": 14743,
+        "Percent": 45.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "GRACE, Harold",
+        "Votes": 1942,
+        "Percent": 6.0
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "BOUND, Max",
+        "Votes": 289,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1969": {
+    "title": "Denison, TAS   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCBURNIE, Alasdair",
+        "Votes": 15588,
+        "Percent": 37.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SOLOMON, Dr Robert",
+        "Votes": 11800,
+        "Percent": 28.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TOWNLEY, Michael",
+        "Votes": 10954,
+        "Percent": 26.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DELANEY, Michael",
+        "Votes": 2303,
+        "Percent": 5.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MOLLISON, Bruce",
+        "Votes": 791,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "1972": {
+    "title": "Denison, TAS   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COATES, John",
+        "Votes": 21286,
+        "Percent": 49.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SOLOMON, Dr Robert",
+        "Votes": 17074,
+        "Percent": 39.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROADBY, Brian",
+        "Votes": 1915,
+        "Percent": 4.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DELANEY, Michael",
+        "Votes": 1630,
+        "Percent": 3.8
+      },
+      {
+        "Party": "AP",
+        "Candidate": "SCETRINE, William",
+        "Votes": 1076,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1974": {
+    "title": "Denison, TAS   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COATES, John",
+        "Votes": 25626,
+        "Percent": 52.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HODGMAN, Michael",
+        "Votes": 22928,
+        "Percent": 47.2
+      }
+    ]
+  },
+  "1975": {
+    "title": "Denison, TAS   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HODGMAN, Michael",
+        "Votes": 26253,
+        "Percent": 53.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COATES, John",
+        "Votes": 22104,
+        "Percent": 44.8
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "HAY, John",
+        "Votes": 496,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STANTON, Cathryn",
+        "Votes": 473,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1977": {
+    "title": "Denison, TAS   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HODGMAN, Michael",
+        "Votes": 26418,
+        "Percent": 50.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COATES, John",
+        "Votes": 23184,
+        "Percent": 44.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCFIE, Robert",
+        "Votes": 2303,
+        "Percent": 4.4
+      }
+    ]
+  },
+  "1980": {
+    "title": "Denison, TAS   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HODGMAN, Michael",
+        "Votes": 25751,
+        "Percent": 50.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WREIDT, Hon Ken",
+        "Votes": 23538,
+        "Percent": 45.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CREET, Peter",
+        "Votes": 1998,
+        "Percent": 3.9
+      }
+    ]
+  },
+  "1983": {
+    "title": "Denison, TAS   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HODGMAN, Hon Michael",
+        "Votes": 28468,
+        "Percent": 54.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Kathy",
+        "Votes": 21680,
+        "Percent": 41.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WALLACE-WILLIAMS, Harvey",
+        "Votes": 1743,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WAGNER, Leica",
+        "Votes": 406,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1984": {
+    "title": "Denison, TAS   1984",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HODGMAN, Hon Michael",
+        "Votes": 25929,
+        "Percent": 48.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SPURR, Kay",
+        "Votes": 24230,
+        "Percent": 44.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILLEY, Mary",
+        "Votes": 3747,
+        "Percent": 7.0
+      }
+    ]
+  },
+  "1987": {
+    "title": "Denison, TAS   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KERR, Duncan",
+        "Votes": 26732,
+        "Percent": 48.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HODGMAN, Hon Michael",
+        "Votes": 24590,
+        "Percent": 44.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BELL, Robert",
+        "Votes": 4054,
+        "Percent": 7.3
+      }
+    ]
+  },
+  "1990": {
+    "title": "Denison, TAS   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KERR, Duncan",
+        "Votes": 25811,
+        "Percent": 45.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HODGMAN, Hon Michael",
+        "Votes": 23056,
+        "Percent": 40.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAW, Geoff",
+        "Votes": 3888,
+        "Percent": 6.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ALLISTON, Rob",
+        "Votes": 3554,
+        "Percent": 6.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JONES, Graeme",
+        "Votes": 701,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOPKINS, Ian",
+        "Votes": 327,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1993": {
+    "title": "Denison, TAS   1993",
+    "rows": [
+      {
+        "Party": "GRN",
+        "Candidate": "BROWN, Dr Bob",
+        "Votes": "9093",
+        "Percent": 14.2
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "VANCE, Euan",
+        "Votes": "871",
+        "Percent": 1.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ANDERSON, Kevin",
+        "Votes": "759",
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOWDING, Teresa",
+        "Votes": "393",
+        "Percent": 0.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KERR, Duncan",
+        "Votes": "32793",
+        "Percent": 51.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RYAN, Phil",
+        "Votes": "20056",
+        "Percent": 31.4
+      }
+    ]
+  },
+  "1996": {
+    "title": "Denison, TAS   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KERR, Hon Duncan",
+        "Votes": 33023,
+        "Percent": 52.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WREN, Ingrid",
+        "Votes": 21667,
+        "Percent": 34.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WELDRICK, Karen",
+        "Votes": 5229,
+        "Percent": 8.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DUDGEON, Rachel",
+        "Votes": 2769,
+        "Percent": 4.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STEPHEN, Sarah",
+        "Votes": 486,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1998": {
+    "title": "Denison, TAS   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KERR, Hon Duncan",
+        "Votes": 34854,
+        "Percent": 55.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GREGSON, Andrew",
+        "Votes": 20114,
+        "Percent": 32.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HINES, Mat",
+        "Votes": 4698,
+        "Percent": 7.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BLACKBURN, Brent",
+        "Votes": 2460,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROSZCZYK, Gregory",
+        "Votes": 497,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2001": {
+    "title": "Denison, TAS   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KERR, Hon Duncan",
+        "Votes": 32404,
+        "Percent": 51.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "STEVEN, Tony",
+        "Votes": 19923,
+        "Percent": 31.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HAMPSON, Brenda",
+        "Votes": 6592,
+        "Percent": 10.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "EDWARDS, Penny",
+        "Votes": 4154,
+        "Percent": 6.6
+      }
+    ]
+  },
+  "2004": {
+    "title": "Denison, TAS   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KERR, Hon Duncan",
+        "Votes": 31602,
+        "Percent": 49.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PASTOOR, Erick",
+        "Votes": 20782,
+        "Percent": 32.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BURNET, Helen",
+        "Votes": 9318,
+        "Percent": 14.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "PAPICCIO, Gino",
+        "Votes": 1578,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EMANUEL, Kamala",
+        "Votes": 544,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2007": {
+    "title": "Denison, TAS   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KERR, Hon Duncan",
+        "Votes": 31001,
+        "Percent": 48.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GRAY, Leigh",
+        "Votes": 18974,
+        "Percent": 29.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HUTCHINSON, Helen",
+        "Votes": 11898,
+        "Percent": 18.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MUNRO, Robyn",
+        "Votes": 1360,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "AUSTIN, Susan",
+        "Votes": 494,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LARNER, Rob",
+        "Votes": 243,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2010": {
+    "title": "Denison, TAS   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JACKSON, Jonathan",
+        "Votes": 23215,
+        "Percent": 35.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SIMPKINS, Cameron",
+        "Votes": 14688,
+        "Percent": 22.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILKIE, Andrew",
+        "Votes": 13788,
+        "Percent": 21.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COUSER, Geoffrey",
+        "Votes": 12312,
+        "Percent": 19.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARNES, Mel",
+        "Votes": 856,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2013": {
+    "title": "Denison, TAS   2013",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "WILKIE, Andrew",
+        "Votes": 24688,
+        "Percent": 38.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "AUSTIN, Jane",
+        "Votes": 16043,
+        "Percent": 24.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DENISON, Tanya",
+        "Votes": 15058,
+        "Percent": 23.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "REYNOLDS, Anna",
+        "Votes": 5133,
+        "Percent": 7.9
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "THURLEY, Debra",
+        "Votes": 1576,
+        "Percent": 2.4
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "BUTLER, Bob",
+        "Votes": 877,
+        "Percent": 1.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MCCALLUM, Trevlyn",
+        "Votes": 593,
+        "Percent": 0.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "WILLIAMS, Wayne",
+        "Votes": 554,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DEVLIN, Graeme",
+        "Votes": 179,
+        "Percent": 0.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOULT, Brandon",
+        "Votes": 124,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2016": {
+    "title": "Denison, TAS   2016",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "WILKIE, Andrew",
+        "Votes": 29372,
+        "Percent": 44.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "AUSTIN, Jane",
+        "Votes": 15335,
+        "Percent": 23.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ALLAN, Marcus",
+        "Votes": 13267,
+        "Percent": 19.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BROWN, Jen",
+        "Votes": 7068,
+        "Percent": 10.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "EXCELL, Amanda",
+        "Votes": 980,
+        "Percent": 1.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "WILLIAMS, Wayne",
+        "Votes": 632,
+        "Percent": 0.9
+      }
+    ]
+  }
+}

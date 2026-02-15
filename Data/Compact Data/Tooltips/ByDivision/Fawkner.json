@@ -1,0 +1,221 @@
+{
+  "1946": {
+    "title": "Fawkner, VIC   1946",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOLT, Hon Harold",
+        "Votes": 39047,
+        "Percent": 53.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BOURKE, William",
+        "Votes": 30835,
+        "Percent": 42.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, Coralie",
+        "Votes": 2121,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RETTIG, Harold",
+        "Votes": 1042,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1949": {
+    "title": "Fawkner, VIC   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BOURKE, William",
+        "Votes": 20228,
+        "Percent": 50.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CORMACK, Magnus",
+        "Votes": 20201,
+        "Percent": 50.0
+      }
+    ]
+  },
+  "1951": {
+    "title": "Fawkner, VIC   1951",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "KENNEDY, Colin",
+        "Votes": "332",
+        "Percent": 0.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BOURKE, William",
+        "Votes": "20158",
+        "Percent": 51.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HOWSON, Peter",
+        "Votes": "18586",
+        "Percent": 47.6
+      }
+    ]
+  },
+  "1954": {
+    "title": "Fawkner, VIC   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BOURKE, William",
+        "Votes": "18038",
+        "Percent": 50.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HOWSON, Peter",
+        "Votes": "17920",
+        "Percent": 49.8
+      }
+    ]
+  },
+  "1955": {
+    "title": "Fawkner, VIC   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOWSON, Peter",
+        "Votes": "17645",
+        "Percent": 46.2
+      },
+      {
+        "Party": "ALPAC",
+        "Candidate": "BOURKE, William",
+        "Votes": "10450",
+        "Percent": 27.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "THOMPSON, Patrick",
+        "Votes": "10132",
+        "Percent": 26.5
+      }
+    ]
+  },
+  "1958": {
+    "title": "Fawkner, VIC   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOWSON, Peter",
+        "Votes": 17312,
+        "Percent": 48.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMART, George",
+        "Votes": 11797,
+        "Percent": 32.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BOURKE, William",
+        "Votes": 6709,
+        "Percent": 18.7
+      }
+    ]
+  },
+  "1961": {
+    "title": "Fawkner, VIC   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOWSON, Peter",
+        "Votes": 16580,
+        "Percent": 48.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NOAD, Gwendolyn",
+        "Votes": 12223,
+        "Percent": 35.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "COYNE, Richard",
+        "Votes": 5336,
+        "Percent": 15.6
+      }
+    ]
+  },
+  "1963": {
+    "title": "Fawkner, VIC   1963",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "GABRIEL, George",
+        "Votes": "966",
+        "Percent": 2.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SPEED, John",
+        "Votes": "2818",
+        "Percent": 8.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HOWSON, Peter",
+        "Votes": "18614",
+        "Percent": 54.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NOAD, Gwendolyn",
+        "Votes": "11774",
+        "Percent": 34.5
+      }
+    ]
+  },
+  "1966": {
+    "title": "Fawkner, VIC   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOWSON, Hon Peter",
+        "Votes": 17955,
+        "Percent": 55.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "VERNON, Robert",
+        "Votes": 8883,
+        "Percent": 27.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ABOLINS, Yvonne",
+        "Votes": 3511,
+        "Percent": 10.8
+      },
+      {
+        "Party": "LRG",
+        "Candidate": "GABRIEL, George",
+        "Votes": 1699,
+        "Percent": 5.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SANDERS, Anthony",
+        "Votes": 367,
+        "Percent": 1.1
+      }
+    ]
+  }
+}

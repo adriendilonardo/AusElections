@@ -1,0 +1,671 @@
+{
+  "1984": {
+    "title": "Moncrieff, QLD   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PATERSON, Athol",
+        "Votes": 18847,
+        "Percent": 36.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MARTIN, Kathy",
+        "Votes": 16194,
+        "Percent": 30.9
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "GAMIN, Judy",
+        "Votes": 14609,
+        "Percent": 27.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MULLEY, Susan",
+        "Votes": 1958,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "AABRAHAM-STEER, Will",
+        "Votes": 471,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COURTNEY, Peter",
+        "Votes": 264,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1987": {
+    "title": "Moncrieff, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BOYCE, Robert",
+        "Votes": 23067,
+        "Percent": 35.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SULLIVAN, Kathryn",
+        "Votes": 22271,
+        "Percent": 34.7
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "HUGHES, Lester",
+        "Votes": 15405,
+        "Percent": 24.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SPENCER, George",
+        "Votes": 3444,
+        "Percent": 5.4
+      }
+    ]
+  },
+  "1990": {
+    "title": "Moncrieff, QLD   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SULLIVAN, Kathryn",
+        "Votes": 37630,
+        "Percent": 47.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STRUTHERS, Col",
+        "Votes": 26473,
+        "Percent": 33.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CORNISH, Jonathan",
+        "Votes": 10028,
+        "Percent": 12.7
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "LYONS, Peter",
+        "Votes": 4549,
+        "Percent": 5.8
+      }
+    ]
+  },
+  "1993": {
+    "title": "Moncrieff, QLD   1993",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "PIKE, Warren",
+        "Votes": "3780",
+        "Percent": 5.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SULLIVAN, Kathryn",
+        "Votes": "36551",
+        "Percent": 52.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MACKINNON, Sally",
+        "Votes": "2767",
+        "Percent": 4.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NEVILLE, Jason",
+        "Votes": "2672",
+        "Percent": 3.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BROWN, Bob",
+        "Votes": "22489",
+        "Percent": 32.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STRINGER, Steven",
+        "Votes": "1195",
+        "Percent": 1.7
+      }
+    ]
+  },
+  "1996": {
+    "title": "Moncrieff, QLD   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SULLIVAN, Kathryn",
+        "Votes": 43098,
+        "Percent": 64.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Mike",
+        "Votes": 15150,
+        "Percent": 22.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LIGHT, Inge",
+        "Votes": 3311,
+        "Percent": 5.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PAYNE, Noel",
+        "Votes": 3286,
+        "Percent": 4.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PRENZLER, Andrew",
+        "Votes": 526,
+        "Percent": 0.8
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "MACKECHNIE, Matthew",
+        "Votes": 494,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PRICE, Sandy",
+        "Votes": 327,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PILGRIM, Ian",
+        "Votes": 303,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1998": {
+    "title": "Moncrieff, QLD   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SULLIVAN, Hon Kathy",
+        "Votes": 37527,
+        "Percent": 51.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BENNETT, Anne",
+        "Votes": 21055,
+        "Percent": 29.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "FENTON, Warren",
+        "Votes": 7357,
+        "Percent": 10.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "O]BRIEN, Colin",
+        "Votes": 2610,
+        "Percent": 3.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SPAIN, Sally",
+        "Votes": 2175,
+        "Percent": 3.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "FALCKE, Julie",
+        "Votes": 1615,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "Moncrieff, QLD   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CIOBO, Steven",
+        "Votes": 39586,
+        "Percent": 50.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CHATTERJEE, Victoria",
+        "Votes": 19158,
+        "Percent": 24.6
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "DOUGLAS, Susie",
+        "Votes": 4914,
+        "Percent": 6.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MILLAR, Lesley",
+        "Votes": 4458,
+        "Percent": 5.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DERRICK, Kari",
+        "Votes": 3439,
+        "Percent": 4.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HEPBURN, Den",
+        "Votes": 3014,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TOBIAS, Josephine",
+        "Votes": 2286,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ALECKSON, Maxwell",
+        "Votes": 549,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CARROLL, Maurie",
+        "Votes": 360,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2004": {
+    "title": "Moncrieff, QLD   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CIOBO, Steve",
+        "Votes": 46817,
+        "Percent": 64.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PARRISH, David",
+        "Votes": 17393,
+        "Percent": 23.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BEALE, Michael",
+        "Votes": 3620,
+        "Percent": 5.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "TAYLER, James",
+        "Votes": 2186,
+        "Percent": 3.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SMITH, Mark",
+        "Votes": 1230,
+        "Percent": 1.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROBERTS, Ros",
+        "Votes": 834,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SANDERSON, Sandy",
+        "Votes": 641,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2007": {
+    "title": "Moncrieff, QLD   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CIOBO, Steven",
+        "Votes": 48594,
+        "Percent": 59.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MISZKOWSKI, Sam",
+        "Votes": 24397,
+        "Percent": 30.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BRANDON, Carla",
+        "Votes": 5048,
+        "Percent": 6.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "TAYLER, James",
+        "Votes": 1440,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STEVENSON, Paul",
+        "Votes": 731,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHEARS, Paul",
+        "Votes": 562,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KIRCHLER, Dr Tim",
+        "Votes": 315,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THOMPSON, Elisabeth",
+        "Votes": 214,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "Moncrieff, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "CIOBO, Steven",
+        "Votes": 46832,
+        "Percent": 61.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HOUGH, Robert",
+        "Votes": 17776,
+        "Percent": 23.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SPAIN, Sally",
+        "Votes": 8756,
+        "Percent": 11.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "TAYLER, James",
+        "Votes": 2351,
+        "Percent": 3.1
+      }
+    ]
+  },
+  "2013": {
+    "title": "Moncrieff, QLD   2013",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "CIOBO, Steven",
+        "Votes": 44295,
+        "Percent": 55.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MUNRO, Jason",
+        "Votes": 16562,
+        "Percent": 20.8
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "PFORR, Grant",
+        "Votes": 10882,
+        "Percent": 13.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCPHERSON, Toni",
+        "Votes": 5127,
+        "Percent": 6.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "NICHOLSON, Barrie",
+        "Votes": 1744,
+        "Percent": 2.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BERIC, Veronica",
+        "Votes": 600,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SPAJIC, Paul",
+        "Votes": 330,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2016": {
+    "title": "Moncrieff, QLD   2016",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "CIOBO, Hon Steven",
+        "Votes": 50688,
+        "Percent": 59.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SHEPPARD, Hayden",
+        "Votes": 20956,
+        "Percent": 24.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BRISBANE, Roger",
+        "Votes": 8697,
+        "Percent": 10.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ROSE, Julie",
+        "Votes": 5619,
+        "Percent": 6.5
+      }
+    ]
+  },
+  "2019": {
+    "title": "Moncrieff, QLD   2019",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "BELL, Angie",
+        "Votes": 47356,
+        "Percent": 51.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BELL, Tracey",
+        "Votes": 19822,
+        "Percent": 21.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SPAIN, Sally",
+        "Votes": 8900,
+        "Percent": 9.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "SIBSON, Vanessa",
+        "Votes": 5920,
+        "Percent": 6.4
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "FREEMAN, Karla",
+        "Votes": 3551,
+        "Percent": 3.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "EILOLA, Garry",
+        "Votes": 3419,
+        "Percent": 3.7
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "GRYPHON, S",
+        "Votes": 1799,
+        "Percent": 2.0
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "LONG, Darren",
+        "Votes": 1152,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2022": {
+    "title": "Moncrieff, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BELL, Angie",
+        "Votes": 45104,
+        "Percent": 45.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PALMER, Glen",
+        "Votes": 20430,
+        "Percent": 20.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BROADBENT, April",
+        "Votes": 11850,
+        "Percent": 12.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "SCHULTZ, Leeanne",
+        "Votes": 6981,
+        "Percent": 7.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HAPP, Diane",
+        "Votes": 5482,
+        "Percent": 5.6
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "DEMETRE, Diane",
+        "Votes": 4305,
+        "Percent": 4.4
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "BERRY-LAW, Sonia",
+        "Votes": 2384,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "CUDMORE, Timothy",
+        "Votes": 997,
+        "Percent": 1.0
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "TAYLER, James",
+        "Votes": 645,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2025": {
+    "title": "Moncrieff, QLD   2025",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "BELL, Angie",
+        "Votes": 42047,
+        "Percent": 41.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STUART, Blair",
+        "Votes": 24536,
+        "Percent": 24.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SPAIN, Sally",
+        "Votes": 9558,
+        "Percent": 9.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ARROWSMITH, Nicole",
+        "Votes": 7641,
+        "Percent": 7.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "WADSWORTH, Glen",
+        "Votes": 5894,
+        "Percent": 5.9
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "NAICKER, Vic",
+        "Votes": 4065,
+        "Percent": 4.1
+      },
+      {
+        "Party": "GRPF",
+        "Candidate": "SZORKOVSZKY, Natasha Anne",
+        "Votes": 3547,
+        "Percent": 3.5
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "FEA, Ruth",
+        "Votes": 1645,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WELD ALI, Waddah",
+        "Votes": 1393,
+        "Percent": 1.4
+      }
+    ]
+  }
+}

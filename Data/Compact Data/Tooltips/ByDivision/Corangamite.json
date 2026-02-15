@@ -1,0 +1,1093 @@
+{
+  "1946": {
+    "title": "Corangamite, VIC   1946",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCDONALD, Allan",
+        "Votes": 25999,
+        "Percent": 54.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STACPOOLE, Henry",
+        "Votes": 21317,
+        "Percent": 45.1
+      }
+    ]
+  },
+  "1949": {
+    "title": "Corangamite, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCDONALD, Hon Allan",
+        "Votes": 21670,
+        "Percent": 57.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STACPOOLE, Henry",
+        "Votes": 14936,
+        "Percent": 39.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRUSHFIELD, Elsie",
+        "Votes": 1080,
+        "Percent": 2.9
+      }
+    ]
+  },
+  "1951": {
+    "title": "Corangamite, VIC   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCDONALD, Hon Allan",
+        "Votes": "22087",
+        "Percent": 58.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCLEAN, Angus",
+        "Votes": "15535",
+        "Percent": 41.3
+      }
+    ]
+  },
+  "1954": {
+    "title": "Corangamite, VIC   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MACKINNON, Daniel",
+        "Votes": "22253",
+        "Percent": 57.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCLEAN, Angus",
+        "Votes": "16407",
+        "Percent": 42.4
+      }
+    ]
+  },
+  "1955": {
+    "title": "Corangamite, VIC   1955",
+    "rows": [
+      {
+        "Party": "ALPAC",
+        "Candidate": "O'BRIEN, Leo",
+        "Votes": "5210",
+        "Percent": 13.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MACKINNON, Daniel",
+        "Votes": "24349",
+        "Percent": 60.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Edwin",
+        "Votes": "10463",
+        "Percent": 26.1
+      }
+    ]
+  },
+  "1958": {
+    "title": "Corangamite, VIC   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MACKINNON, Daniel",
+        "Votes": 22724,
+        "Percent": 53.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Edwin",
+        "Votes": 11299,
+        "Percent": 26.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BOURKE, Patrick",
+        "Votes": 7526,
+        "Percent": 17.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRUSHFIELD, Elsie",
+        "Votes": 728,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "1961": {
+    "title": "Corangamite, VIC   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MACKINNON, Daniel",
+        "Votes": 23319,
+        "Percent": 52.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HULME, Desmond",
+        "Votes": 12829,
+        "Percent": 29.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BOURKE, Patrick",
+        "Votes": 8032,
+        "Percent": 18.2
+      }
+    ]
+  },
+  "1963": {
+    "title": "Corangamite, VIC   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "O'BRIEN, Francis",
+        "Votes": "6139",
+        "Percent": 13.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MACKINNON, Daniel",
+        "Votes": "26347",
+        "Percent": 57.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BLACK, Fred",
+        "Votes": "13324",
+        "Percent": 29.1
+      }
+    ]
+  },
+  "1966": {
+    "title": "Corangamite, VIC   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "STREET, Tony",
+        "Votes": 22334,
+        "Percent": 47.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROMEY, Lindsay",
+        "Votes": 11419,
+        "Percent": 24.3
+      },
+      {
+        "Party": "CP",
+        "Candidate": "ANDERSON, Gilbert",
+        "Votes": 7585,
+        "Percent": 16.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CRONIN, Brian",
+        "Votes": 5634,
+        "Percent": 12.0
+      }
+    ]
+  },
+  "1969": {
+    "title": "Corangamite, VIC   1969",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "STREET, Tony",
+        "Votes": 25900,
+        "Percent": 55.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MOORFOOT, Neil",
+        "Votes": 15447,
+        "Percent": 33.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "O'BRIEN, Francis",
+        "Votes": 5216,
+        "Percent": 11.2
+      }
+    ]
+  },
+  "1972": {
+    "title": "Corangamite, VIC   1972",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "STREET, Hon Tony",
+        "Votes": 26769,
+        "Percent": 53.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Edwin",
+        "Votes": 18729,
+        "Percent": 37.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "O'BRIEN, Francis",
+        "Votes": 4594,
+        "Percent": 9.2
+      }
+    ]
+  },
+  "1974": {
+    "title": "Corangamite, VIC   1974",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "STREET, Hon Tony",
+        "Votes": 32960,
+        "Percent": 58.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Edwin",
+        "Votes": 19280,
+        "Percent": 34.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "O'BRIEN, Francis",
+        "Votes": 3076,
+        "Percent": 5.4
+      },
+      {
+        "Party": "AP",
+        "Candidate": "SLATER, Ian",
+        "Votes": 1126,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "1975": {
+    "title": "Corangamite, VIC   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "STREET, Hon Tony",
+        "Votes": 38253,
+        "Percent": 65.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "AMBROSE, Shirley",
+        "Votes": 17433,
+        "Percent": 29.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "O'BRIEN, Francis",
+        "Votes": 2360,
+        "Percent": 4.0
+      },
+      {
+        "Party": "AP",
+        "Candidate": "SLATER, Ian",
+        "Votes": 538,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COSTIN, Brian",
+        "Votes": 305,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1977": {
+    "title": "Corangamite, VIC   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "STREET, Hon Tony",
+        "Votes": 37163,
+        "Percent": 58.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "AMBROSE, Shirley",
+        "Votes": 16786,
+        "Percent": 26.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MAY, Kathleen",
+        "Votes": 6275,
+        "Percent": 9.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "O'BRIEN, Francis",
+        "Votes": 2756,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCDONALD, Neil",
+        "Votes": 548,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1980": {
+    "title": "Corangamite, VIC   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "STREET, Hon Tony",
+        "Votes": 37913,
+        "Percent": 56.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GEDGE, Neil",
+        "Votes": 20959,
+        "Percent": 31.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MAY, Kathleen",
+        "Votes": 5031,
+        "Percent": 7.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FINN, Bernard",
+        "Votes": 3043,
+        "Percent": 4.5
+      }
+    ]
+  },
+  "1983": {
+    "title": "Corangamite, VIC   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "STREET, Hon Tony",
+        "Votes": 40694,
+        "Percent": 58.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, Gavan",
+        "Votes": 29231,
+        "Percent": 41.8
+      }
+    ]
+  },
+  "1984": {
+    "title": "Corangamite, VIC   1984",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCARTHUR, Stewart",
+        "Votes": 29487,
+        "Percent": 47.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, Gavan",
+        "Votes": 25772,
+        "Percent": 41.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MANN, Robert",
+        "Votes": 2178,
+        "Percent": 3.5
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "WEBSTER, Bruce",
+        "Votes": 2028,
+        "Percent": 3.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "JORDAN, James",
+        "Votes": 1559,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHARLES, Roy",
+        "Votes": 552,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1987": {
+    "title": "Corangamite, VIC   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCARTHUR, Stewart",
+        "Votes": 32341,
+        "Percent": 48.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CALDWELL, Ian",
+        "Votes": 27620,
+        "Percent": 41.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MANN, Rob",
+        "Votes": 4225,
+        "Percent": 6.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "MCDONALD, John",
+        "Votes": 2813,
+        "Percent": 4.2
+      }
+    ]
+  },
+  "1990": {
+    "title": "Corangamite, VIC   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCARTHUR, Stewart",
+        "Votes": 36516,
+        "Percent": 54.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CALDWELL, Ian",
+        "Votes": 20582,
+        "Percent": 30.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MANN, Rob",
+        "Votes": 7399,
+        "Percent": 11.0
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "ANDREWS, John",
+        "Votes": 2293,
+        "Percent": 3.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILSON, Bruce",
+        "Votes": 549,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1993": {
+    "title": "Corangamite, VIC   1993",
+    "rows": [
+      {
+        "Party": "CTA",
+        "Candidate": "WINTER, Terry",
+        "Votes": "866",
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GOLDEN, Isaac",
+        "Votes": "567",
+        "Percent": 0.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCARTHUR, Stewart",
+        "Votes": "38133",
+        "Percent": 53.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EADES, Bernard",
+        "Votes": "26199",
+        "Percent": 36.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PEARCE, Greta",
+        "Votes": "2208",
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POWELL, Norman",
+        "Votes": "2203",
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WARNOCK, John",
+        "Votes": "1231",
+        "Percent": 1.7
+      }
+    ]
+  },
+  "1996": {
+    "title": "Corangamite, VIC   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCARTHUR, Stewart",
+        "Votes": 38445,
+        "Percent": 52.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EADES, Bernie",
+        "Votes": 26179,
+        "Percent": 35.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JOHNSON, Pamela",
+        "Votes": 8382,
+        "Percent": 11.5
+      }
+    ]
+  },
+  "1998": {
+    "title": "Corangamite, VIC   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCARTHUR, Stewart",
+        "Votes": 34336,
+        "Percent": 46.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BJORK-BILLINGS, Michael",
+        "Votes": 26923,
+        "Percent": 36.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PAULL, Jeffrey",
+        "Votes": 4765,
+        "Percent": 6.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MACLEAN, Duncan",
+        "Votes": 4140,
+        "Percent": 5.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WHITEHEAD, Adrian",
+        "Votes": 2292,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ARUNDELL, Simon",
+        "Votes": 1634,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARWOOD, Robert",
+        "Votes": 525,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2001": {
+    "title": "Corangamite, VIC   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCARTHUR, Stewart",
+        "Votes": 37929,
+        "Percent": 47.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BJORK-BILLINGS, Michael",
+        "Votes": 26569,
+        "Percent": 33.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HODGE, Robyn",
+        "Votes": 5128,
+        "Percent": 6.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LYGO, Iain",
+        "Votes": 5098,
+        "Percent": 6.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HILLS, Graham",
+        "Votes": 1982,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STRAUSS, Nigel",
+        "Votes": 1960,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ARUNDELL, Simon",
+        "Votes": 1326,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "2004": {
+    "title": "Corangamite, VIC   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MACARTHUR, Stewart",
+        "Votes": 44060,
+        "Percent": 52.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCMULLIN, Peter",
+        "Votes": 31105,
+        "Percent": 36.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CHENERY, Stephen",
+        "Votes": 6355,
+        "Percent": 7.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MODRA, Christine",
+        "Votes": 2318,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JOHNSON, Chris",
+        "Votes": 491,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BAILEY, Andrew",
+        "Votes": 313,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2007": {
+    "title": "Corangamite, VIC   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCARTHUR, Stewart",
+        "Votes": 40408,
+        "Percent": 44.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CHEESEMAN, Darren",
+        "Votes": 37886,
+        "Percent": 41.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NELSON, Fiona",
+        "Votes": 7202,
+        "Percent": 8.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "EDWARDS, Jan",
+        "Votes": 3217,
+        "Percent": 3.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KILLEEN, Gabrielle",
+        "Votes": 1512,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SABHLOK, Sukrit",
+        "Votes": 169,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2010": {
+    "title": "Corangamite, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HENDERSON, Sarah",
+        "Votes": 42155,
+        "Percent": 45.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CHEESEMAN, Darren",
+        "Votes": 37043,
+        "Percent": 39.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LAWRENCE, Mike",
+        "Votes": 10713,
+        "Percent": 11.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "WOJCZUK, Ann",
+        "Votes": 1850,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, Sally-Anne",
+        "Votes": 1418,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TIMMINS, Nathan",
+        "Votes": 520,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2013": {
+    "title": "Corangamite, VIC   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HENDERSON, Sarah",
+        "Votes": 44778,
+        "Percent": 48.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CHEESEMAN, Darren",
+        "Votes": 29728,
+        "Percent": 32.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DAVIES, Lloyd",
+        "Votes": 11007,
+        "Percent": 11.9
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "ROJEK, Buddy",
+        "Votes": 2026,
+        "Percent": 2.2
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "MILLARD, Jayden",
+        "Votes": 1726,
+        "Percent": 1.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "WRAY, Peter",
+        "Votes": 908,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WHITEHEAD, Adrian",
+        "Votes": 694,
+        "Percent": 0.8
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "BLACK, Andrew",
+        "Votes": 598,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARRON, Alan",
+        "Votes": 499,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JACKMAN, Warren",
+        "Votes": 408,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RASHLEIGH, Helen",
+        "Votes": 273,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STEEL, Nick",
+        "Votes": 156,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2016": {
+    "title": "Corangamite, VIC   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HENDERSON, Sarah",
+        "Votes": 45687,
+        "Percent": 46.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COKER, Libby",
+        "Votes": 30267,
+        "Percent": 30.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PATERSON, Patchouli",
+        "Votes": 11273,
+        "Percent": 11.5
+      },
+      {
+        "Party": "DHJP",
+        "Candidate": "NELSON, Patrice",
+        "Votes": 3039,
+        "Percent": 3.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BARRON, Alan",
+        "Votes": 1906,
+        "Percent": 1.9
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "MEDDICK, Andy",
+        "Votes": 1739,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAWRENCE, Michael",
+        "Votes": 1519,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DALTON, Courtney",
+        "Votes": 1269,
+        "Percent": 1.3
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "ROWE, Louis",
+        "Votes": 871,
+        "Percent": 0.9
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "STEEL, Nick",
+        "Votes": 847,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2019": {
+    "title": "Corangamite, VIC   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HENDERSON, Hon Sarah",
+        "Votes": 43017,
+        "Percent": 42.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COKER, Libby",
+        "Votes": 36047,
+        "Percent": 35.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NORTHEAST, Simon",
+        "Votes": 9184,
+        "Percent": 9.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COLE, Damien",
+        "Votes": 5131,
+        "Percent": 5.1
+      },
+      {
+        "Party": "DHJP",
+        "Candidate": "GRIMLEY, Mandy",
+        "Votes": 2724,
+        "Percent": 2.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HARVEY, Neil",
+        "Votes": 2257,
+        "Percent": 2.2
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "ADAMS, Naomi",
+        "Votes": 2143,
+        "Percent": 2.1
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "ERSKINE, Ian",
+        "Votes": 1117,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2022": {
+    "title": "Corangamite, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COKER, Libby",
+        "Votes": 38573,
+        "Percent": 38.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ASHER, Stephanie",
+        "Votes": 34463,
+        "Percent": 34.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MARSHALL, Alex",
+        "Votes": 15349,
+        "Percent": 15.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "ABOU-ZEID, Daniel",
+        "Votes": 3233,
+        "Percent": 3.2
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "SORENSEN, Luke",
+        "Votes": 2548,
+        "Percent": 2.5
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "BARKER, Paul",
+        "Votes": 2526,
+        "Percent": 2.5
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "WATKINS, Meg",
+        "Votes": 1986,
+        "Percent": 2.0
+      },
+      {
+        "Party": "DHJP",
+        "Candidate": "D'ARGENT, Jean-Marie",
+        "Votes": 1421,
+        "Percent": 1.4
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "JUHASZ, Stephen",
+        "Votes": 868,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2025": {
+    "title": "Corangamite, VIC   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COKER, Libby",
+        "Votes": 38814,
+        "Percent": 37.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DUNSTAN, Darcy",
+        "Votes": 35488,
+        "Percent": 34.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "POPE, Mitch",
+        "Votes": 14925,
+        "Percent": 14.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LOCKHART, Kate",
+        "Votes": 4565,
+        "Percent": 4.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SEABROOK, Colin",
+        "Votes": 3343,
+        "Percent": 3.2
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "MACKENZIE, Harley",
+        "Votes": 3161,
+        "Percent": 3.0
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "JACKSON, James",
+        "Votes": 2452,
+        "Percent": 2.4
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "BARKER, Paul",
+        "Votes": 1272,
+        "Percent": 1.2
+      }
+    ]
+  }
+}

@@ -1,0 +1,465 @@
+{
+  "1984": {
+    "title": "Throsby, NSW   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOLLIS, Colin",
+        "Votes": 31472,
+        "Percent": 57.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "STUBBS, Wendy",
+        "Votes": 14648,
+        "Percent": 26.6
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "GAIR, Duncan",
+        "Votes": 5241,
+        "Percent": 9.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COLE, Alan",
+        "Votes": 3095,
+        "Percent": 5.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TREVARDIS, Paul",
+        "Votes": 399,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ESSENBERG, Martin",
+        "Votes": 298,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1987": {
+    "title": "Throsby, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOLLIS, Colin",
+        "Votes": 30354,
+        "Percent": 51.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FREDERICKS, Neville",
+        "Votes": 20456,
+        "Percent": 34.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BUTLER, Greg",
+        "Votes": 4458,
+        "Percent": 7.5
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "WOOD, David",
+        "Votes": 3812,
+        "Percent": 6.5
+      }
+    ]
+  },
+  "1990": {
+    "title": "Throsby, NSW   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOLLIS, Colin",
+        "Votes": 31310,
+        "Percent": 47.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NOEL-GOUGH, Garry",
+        "Votes": 19706,
+        "Percent": 30.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BUTLER, Greg",
+        "Votes": 10034,
+        "Percent": 15.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HENDERSON, Ronald",
+        "Votes": 2298,
+        "Percent": 3.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ALLISON, Lyn",
+        "Votes": 1146,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "REILLY, David",
+        "Votes": 1071,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1993": {
+    "title": "Throsby, NSW   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "CONNOR, Rex",
+        "Votes": "7083",
+        "Percent": 10.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PERROTT, Margaret",
+        "Votes": "657",
+        "Percent": 1.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HOLLIS, Colin",
+        "Votes": "39476",
+        "Percent": 58.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SPERLING, Karla",
+        "Votes": "2838",
+        "Percent": 4.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARNES, Richard",
+        "Votes": "267",
+        "Percent": 0.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HADLEY, Tom",
+        "Votes": "2242",
+        "Percent": 3.3
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "HUGHES, Brian",
+        "Votes": "1458",
+        "Percent": 2.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JOSEVSKI, Peter",
+        "Votes": "11394",
+        "Percent": 16.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRIJAK, Dragan",
+        "Votes": "1124",
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HUGHES, David",
+        "Votes": "1015",
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1996": {
+    "title": "Throsby, NSW   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOLLIS, Colin",
+        "Votes": 42963,
+        "Percent": 60.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GALEA, Albert",
+        "Votes": 15326,
+        "Percent": 21.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FISHER, Elizabeth",
+        "Votes": 5990,
+        "Percent": 8.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROBINSON, Les",
+        "Votes": 3629,
+        "Percent": 5.1
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "HUGHES, Brian",
+        "Votes": 2716,
+        "Percent": 3.9
+      }
+    ]
+  },
+  "1998": {
+    "title": "Throsby, NSW   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOLLIS, Colin",
+        "Votes": 44468,
+        "Percent": 61.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MIFSUD, Charlie",
+        "Votes": 12538,
+        "Percent": 17.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "ORR, Dan",
+        "Votes": 8267,
+        "Percent": 11.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BARRY, Ann",
+        "Votes": 2751,
+        "Percent": 3.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SPERLING, Karia",
+        "Votes": 2230,
+        "Percent": 3.1
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "HUGHES, Brian",
+        "Votes": 1949,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STAVROPOULOS, Peter",
+        "Votes": 379,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2001": {
+    "title": "Throsby, NSW   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GEORGE, Jennie",
+        "Votes": 41963,
+        "Percent": 54.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "AKHURST, Alan",
+        "Votes": 19280,
+        "Percent": 25.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROBERTS, Madeleine",
+        "Votes": 5743,
+        "Percent": 7.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "PRSA, Ivan",
+        "Votes": 4969,
+        "Percent": 6.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "STORY, Elsa",
+        "Votes": 3444,
+        "Percent": 4.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PERROTT, Dr Marg",
+        "Votes": 1043,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2004": {
+    "title": "Throsby, NSW   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GEORGE, Jennie",
+        "Votes": 44495,
+        "Percent": 56.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NELSON, Linda",
+        "Votes": 24519,
+        "Percent": 31.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JONES, Trevor",
+        "Votes": 7995,
+        "Percent": 10.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROBERTS, Madeleine",
+        "Votes": 2078,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "2007": {
+    "title": "Throsby, NSW   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GEORGE, Jennie",
+        "Votes": 52275,
+        "Percent": 65.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WRIGHT, Stuart",
+        "Votes": 18266,
+        "Percent": 22.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MORAN, Peter",
+        "Votes": 7308,
+        "Percent": 9.1
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "DEAKES, Scott",
+        "Votes": 2598,
+        "Percent": 3.2
+      }
+    ]
+  },
+  "2010": {
+    "title": "Throsby, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Stephen",
+        "Votes": 42227,
+        "Percent": 50.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ARKWRIGHT, Juliet",
+        "Votes": 25330,
+        "Percent": 30.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MORAN, Peter",
+        "Votes": 9973,
+        "Percent": 11.9
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "HAY, Alan",
+        "Votes": 4446,
+        "Percent": 5.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARTMAN, Wayne",
+        "Votes": 1595,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "2013": {
+    "title": "Throsby, NSW   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Stephen",
+        "Votes": 37980,
+        "Percent": 45.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MALLINSON, Larissa",
+        "Votes": 23498,
+        "Percent": 27.8
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "ANDERSON, Gary",
+        "Votes": 8539,
+        "Percent": 10.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MORAN, Peter",
+        "Votes": 4613,
+        "Percent": 5.5
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "KING, May",
+        "Votes": 3885,
+        "Percent": 4.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MATTERS, Paul",
+        "Votes": 1948,
+        "Percent": 2.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "KADWELL, John",
+        "Votes": 1938,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VENESS, Elrond",
+        "Votes": 677,
+        "Percent": 0.8
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "TURNER, Glenn",
+        "Votes": 473,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARTMAN, Wayne",
+        "Votes": 435,
+        "Percent": 0.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BOULTON, Brian",
+        "Votes": 407,
+        "Percent": 0.5
+      }
+    ]
+  }
+}

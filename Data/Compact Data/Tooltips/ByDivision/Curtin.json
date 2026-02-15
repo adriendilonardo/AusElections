@@ -1,0 +1,956 @@
+{
+  "1949": {
+    "title": "Curtin, WA   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HASLUCK, Paul",
+        "Votes": 24857,
+        "Percent": 61.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LONNIE, William",
+        "Votes": 15781,
+        "Percent": 38.8
+      }
+    ]
+  },
+  "1951": {
+    "title": "Curtin, WA   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HASLUCK, Paul",
+        "Votes": "25998",
+        "Percent": 64.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HENSHAW, John",
+        "Votes": "14193",
+        "Percent": 35.3
+      }
+    ]
+  },
+  "1954": {
+    "title": "Curtin, WA   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HASLUCK, Hon Paul",
+        "Votes": "23950",
+        "Percent": 61.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BISHOP, Harry",
+        "Votes": "15089",
+        "Percent": 38.7
+      }
+    ]
+  },
+  "1955": {
+    "title": "Curtin, WA   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HASLUCK, Hon Paul",
+        "Votes": "Unopposed",
+        "Percent": 100.0
+      }
+    ]
+  },
+  "1958": {
+    "title": "Curtin, WA   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HASLUCK, Hon Paul",
+        "Votes": 24605,
+        "Percent": 63.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TRAINE, Frederick",
+        "Votes": 8576,
+        "Percent": 22.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ANTILL, John",
+        "Votes": 5440,
+        "Percent": 14.1
+      }
+    ]
+  },
+  "1961": {
+    "title": "Curtin, WA   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HASLUCK, Hon Paul",
+        "Votes": 24811,
+        "Percent": 63.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PIESLEY, George",
+        "Votes": 9698,
+        "Percent": 24.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BODEKER, Wilfrid",
+        "Votes": 4768,
+        "Percent": 12.1
+      }
+    ]
+  },
+  "1963": {
+    "title": "Curtin, WA   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "DWYER, Francis",
+        "Votes": "6992",
+        "Percent": 18.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HASLUCK, Hon Paul",
+        "Votes": "29200",
+        "Percent": 75.6
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "GANDINI, John",
+        "Votes": "2426",
+        "Percent": 6.3
+      }
+    ]
+  },
+  "1966": {
+    "title": "Curtin, WA   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HASLUCK, Hon Paul",
+        "Votes": 24135,
+        "Percent": 59.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRIND, John",
+        "Votes": 12206,
+        "Percent": 30.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DWYER, Francis",
+        "Votes": 3945,
+        "Percent": 9.8
+      }
+    ]
+  },
+  "1969": {
+    "title": "Curtin, WA   1969",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GARLAND, Victor",
+        "Votes": 24855,
+        "Percent": 49.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIAMSON, John",
+        "Votes": 17275,
+        "Percent": 34.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DWYER, Francis",
+        "Votes": 3533,
+        "Percent": 7.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCOGGINS, Robert",
+        "Votes": 3047,
+        "Percent": 6.1
+      },
+      {
+        "Party": "AP",
+        "Candidate": "MCENTEE, Leonard",
+        "Votes": 1151,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "1972": {
+    "title": "Curtin, WA   1972",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GARLAND, Hon Victor",
+        "Votes": 29131,
+        "Percent": 58.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NEACY, Susan",
+        "Votes": 15373,
+        "Percent": 30.9
+      },
+      {
+        "Party": "AP",
+        "Candidate": "LOCKE, Maurene",
+        "Votes": 2652,
+        "Percent": 5.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MCGOWAN, Peter",
+        "Votes": 2634,
+        "Percent": 5.3
+      }
+    ]
+  },
+  "1974": {
+    "title": "Curtin, WA   1974",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GARLAND, Hon Victor",
+        "Votes": 33267,
+        "Percent": 53.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CROUCH, John",
+        "Votes": 24016,
+        "Percent": 38.9
+      },
+      {
+        "Party": NaN,
+        "Candidate": "MCDONNELL, Terence",
+        "Votes": 3051,
+        "Percent": 4.9
+      },
+      {
+        "Party": "AP",
+        "Candidate": "FYFE, Dennis",
+        "Votes": 728,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FORSYTH, Jeannette",
+        "Votes": 700,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1975": {
+    "title": "Curtin, WA   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GARLAND, Hon Victor",
+        "Votes": 41901,
+        "Percent": 66.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CROUCH, John",
+        "Votes": 21253,
+        "Percent": 33.7
+      }
+    ]
+  },
+  "1977": {
+    "title": "Curtin, WA   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GARLAND, Hon Victor",
+        "Votes": 38988,
+        "Percent": 58.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GILES, Patricia",
+        "Votes": 16207,
+        "Percent": 24.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BUNTING, Richard",
+        "Votes": 9522,
+        "Percent": 14.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MACDONALD, James",
+        "Votes": 1628,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1980": {
+    "title": "Curtin, WA   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GARLAND, Hon Victor",
+        "Votes": 35373,
+        "Percent": 58.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GROUNDS, Richard",
+        "Votes": 19680,
+        "Percent": 32.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PAYNE, Gary",
+        "Votes": 4985,
+        "Percent": 8.3
+      }
+    ]
+  },
+  "1983": {
+    "title": "Curtin, WA   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ROCHER, Allan",
+        "Votes": 30404,
+        "Percent": 51.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KITTSON, Clive",
+        "Votes": 24337,
+        "Percent": 41.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCKERCHER, Marjorie",
+        "Votes": 4046,
+        "Percent": 6.9
+      }
+    ]
+  },
+  "1984": {
+    "title": "Curtin, WA   1984",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ROCHER, Allan",
+        "Votes": 34519,
+        "Percent": 56.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SCHULTZ, Beth",
+        "Votes": 22205,
+        "Percent": 36.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCKERCHER, Marjorie",
+        "Votes": 4690,
+        "Percent": 7.6
+      }
+    ]
+  },
+  "1987": {
+    "title": "Curtin, WA   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ROCHER, Allan",
+        "Votes": 32912,
+        "Percent": 53.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LASKARIS, Philip",
+        "Votes": 20371,
+        "Percent": 33.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BLAKE, Joe",
+        "Votes": 4967,
+        "Percent": 8.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "GILMOUR, John",
+        "Votes": 2942,
+        "Percent": 4.8
+      }
+    ]
+  },
+  "1990": {
+    "title": "Curtin, WA   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ROCHER, Allan",
+        "Votes": 37183,
+        "Percent": 54.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BOOTH, Stephen",
+        "Votes": 15485,
+        "Percent": 22.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SALTER, Mary",
+        "Votes": 6911,
+        "Percent": 10.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HODGSON, Helen",
+        "Votes": 6711,
+        "Percent": 9.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WOODHILL, Brett",
+        "Votes": 882,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOVANE, Michelle",
+        "Votes": 518,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1993": {
+    "title": "Curtin, WA   1993",
+    "rows": [
+      {
+        "Party": "GRN",
+        "Candidate": "JONES, Elisabeth",
+        "Votes": "6582",
+        "Percent": 9.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ROCHER, Allan",
+        "Votes": "41417",
+        "Percent": 59.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOUST, Jon",
+        "Votes": "410",
+        "Percent": 0.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BOUWER, Willem",
+        "Votes": "2368",
+        "Percent": 3.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GILCHRIST, David",
+        "Votes": "17340",
+        "Percent": 25.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAVIES, Diana",
+        "Votes": "1142",
+        "Percent": 1.7
+      }
+    ]
+  },
+  "1996": {
+    "title": "Curtin, WA   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "COURT, Ken",
+        "Votes": 27012,
+        "Percent": 39.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROCHER, Allan",
+        "Votes": 20251,
+        "Percent": 29.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROEBUCK, Steven",
+        "Votes": 13658,
+        "Percent": 19.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WATSON, Liz",
+        "Votes": 4319,
+        "Percent": 6.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BARRETT, Michael",
+        "Votes": 2947,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KAILIS, George",
+        "Votes": 816,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1998": {
+    "title": "Curtin, WA   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BISHOP, Julie",
+        "Votes": 35174,
+        "Percent": 44.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WADDELL, Andrew",
+        "Votes": 18026,
+        "Percent": 22.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROCHER, Allan",
+        "Votes": 13925,
+        "Percent": 17.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FARREN, Phillip",
+        "Votes": 4971,
+        "Percent": 6.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LIPPLE, Stephen",
+        "Votes": 3780,
+        "Percent": 4.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "TRINDER, Ian",
+        "Votes": 2934,
+        "Percent": 3.7
+      }
+    ]
+  },
+  "2001": {
+    "title": "Curtin, WA   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BISHOP, Julie",
+        "Votes": 41863,
+        "Percent": 55.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FOWLER, Trish",
+        "Votes": 17789,
+        "Percent": 23.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WALKER, Steve",
+        "Votes": 7019,
+        "Percent": 9.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BUCKLE, Ashley",
+        "Votes": 4863,
+        "Percent": 6.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "GILMOUR, Neil",
+        "Votes": 1840,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WOOD, G",
+        "Votes": 1750,
+        "Percent": 2.3
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "MCDONALD, Karen",
+        "Votes": 763,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2004": {
+    "title": "Curtin, WA   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BISHOP, Hon Julie",
+        "Votes": 45081,
+        "Percent": 59.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KRUSE, Bill",
+        "Votes": 17968,
+        "Percent": 23.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LUNDIE-JENKINS, Sonja",
+        "Votes": 8689,
+        "Percent": 11.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "OLVER, Rob",
+        "Votes": 1688,
+        "Percent": 2.2
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "FORDER, Gail",
+        "Votes": 1272,
+        "Percent": 1.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "CAINE, Albert",
+        "Votes": 744,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HORNE, Colin",
+        "Votes": 216,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2007": {
+    "title": "Curtin, WA   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BISHOP, Hon Julie",
+        "Votes": 46912,
+        "Percent": 59.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GRANT, Peter",
+        "Votes": 19419,
+        "Percent": 24.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HEMSLEY, Lee",
+        "Votes": 10649,
+        "Percent": 13.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "FORDER, Gail",
+        "Votes": 1004,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HELEL, Shahar",
+        "Votes": 445,
+        "Percent": 0.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CUSTERS, Bev",
+        "Votes": 394,
+        "Percent": 0.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "CAINE, Albert",
+        "Votes": 329,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2010": {
+    "title": "Curtin, WA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BISHOP, Hon Julie",
+        "Votes": 50024,
+        "Percent": 61.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MERWE, Sophie van der",
+        "Votes": 15771,
+        "Percent": 19.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CRISP, George",
+        "Votes": 14498,
+        "Percent": 17.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "SEYMOUR, Pat",
+        "Votes": 1534,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "2013": {
+    "title": "Curtin, WA   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BISHOP, Hon Julie",
+        "Votes": 52623,
+        "Percent": 62.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TAN, Daryl",
+        "Votes": 15189,
+        "Percent": 17.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CULLITY, Judith",
+        "Votes": 12985,
+        "Percent": 15.3
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "BAKER, Glenn",
+        "Votes": 2237,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FORDER, Gail",
+        "Votes": 1058,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WHATELY, Jennifer",
+        "Votes": 708,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2016": {
+    "title": "Curtin, WA   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BISHOP, Hon Julie",
+        "Votes": 56175,
+        "Percent": 65.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CALLANAN, Melissa",
+        "Votes": 13476,
+        "Percent": 15.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GLANCE, Viv",
+        "Votes": 12180,
+        "Percent": 14.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOULTER, Sandra",
+        "Votes": 2389,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ARCHIBALD, David",
+        "Votes": 1544,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "2019": {
+    "title": "Curtin, WA   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAMMOND, Celia",
+        "Votes": 48256,
+        "Percent": 54.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MEECHAM, Rob",
+        "Votes": 15692,
+        "Percent": 17.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PIDGEON, Cameron",
+        "Votes": 13847,
+        "Percent": 15.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STEWART, Louise",
+        "Votes": 6902,
+        "Percent": 7.8
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "MANGANO, Andrew",
+        "Votes": 1343,
+        "Percent": 1.5
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "LEVER, Joan",
+        "Votes": 1114,
+        "Percent": 1.3
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "EDGAR, Bill",
+        "Votes": 1054,
+        "Percent": 1.2
+      },
+      {
+        "Party": "AChr",
+        "Candidate": "KINGSFORD, Deonne",
+        "Votes": 854,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2022": {
+    "title": "Curtin, WA   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAMMOND, Celia",
+        "Votes": 43408,
+        "Percent": 41.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHANEY, Kate",
+        "Votes": 30942,
+        "Percent": 29.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SPENCER, Yannick",
+        "Votes": 14654,
+        "Percent": 14.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PIDGEON, Cameron",
+        "Votes": 10889,
+        "Percent": 10.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "VERHOEFF, Ladeisha",
+        "Votes": 1828,
+        "Percent": 1.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "GRILLO, Dale",
+        "Votes": 1310,
+        "Percent": 1.3
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "BURN, Bill",
+        "Votes": 1243,
+        "Percent": 1.2
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "CULLITY, Judith",
+        "Votes": 763,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2025": {
+    "title": "Curtin, WA   2025",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WHITE, Tom",
+        "Votes": 42436,
+        "Percent": 40.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHANEY, Kate",
+        "Votes": 33952,
+        "Percent": 32.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KO, Viktor Andrew",
+        "Votes": 15626,
+        "Percent": 14.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HEMSLEY, Kitty",
+        "Votes": 8235,
+        "Percent": 7.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "IRONSIDE, Alexander",
+        "Votes": 2731,
+        "Percent": 2.6
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "MULHOLLAND, Fred",
+        "Votes": 2368,
+        "Percent": 2.2
+      }
+    ]
+  }
+}

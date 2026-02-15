@@ -1,0 +1,77 @@
+{
+  "1984": {
+    "title": "Riverina-Darling, NSW   1984",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "HICKS, Noel",
+        "Votes": 28316,
+        "Percent": 47.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ADAMS, Ron",
+        "Votes": 26304,
+        "Percent": 44.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SULLIVAN, John",
+        "Votes": 3936,
+        "Percent": 6.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HAINS, Peter",
+        "Votes": 969,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MARTIN, Frederick",
+        "Votes": 276,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1987": {
+    "title": "Riverina-Darling, NSW   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "HICKS, Noel",
+        "Votes": 32238,
+        "Percent": 53.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BLACK, Peter",
+        "Votes": 28017,
+        "Percent": 46.5
+      }
+    ]
+  },
+  "1990": {
+    "title": "Riverina-Darling, NSW   1990",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "HICKS, Noel",
+        "Votes": 31940,
+        "Percent": 52.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BLACK, Peter",
+        "Votes": 26216,
+        "Percent": 43.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DANSIE, Gordon",
+        "Votes": 2181,
+        "Percent": 3.6
+      }
+    ]
+  }
+}

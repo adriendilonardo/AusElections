@@ -1,0 +1,1136 @@
+{
+  "1949": {
+    "title": "Cunningham, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DAVIES, Billy",
+        "Votes": 22795,
+        "Percent": 60.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "THOMSON, Alan",
+        "Votes": 11892,
+        "Percent": 31.7
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "AARONS, Eric",
+        "Votes": 2854,
+        "Percent": 7.6
+      }
+    ]
+  },
+  "1951": {
+    "title": "Cunningham, NSW   1951",
+    "rows": [
+      {
+        "Party": "CPA",
+        "Candidate": "AARONS, Eric",
+        "Votes": "2466",
+        "Percent": 6.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DAVIES, Billy",
+        "Votes": "24433",
+        "Percent": 61.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "THOMPSON, Alan",
+        "Votes": "12674",
+        "Percent": 32.0
+      }
+    ]
+  },
+  "1954": {
+    "title": "Cunningham, NSW   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DAVIES, Billy",
+        "Votes": "27383",
+        "Percent": 62.1
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "PARKINSON, William",
+        "Votes": "2644",
+        "Percent": 6.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PARKINSON, John",
+        "Votes": "14067",
+        "Percent": 31.9
+      }
+    ]
+  },
+  "1955": {
+    "title": "Cunningham, NSW   1955",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DAVIES, Billy",
+        "Votes": "25180",
+        "Percent": 62.2
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "HARKNESS, William",
+        "Votes": "1931",
+        "Percent": 4.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PARKINSON, John",
+        "Votes": "13370",
+        "Percent": 33.0
+      }
+    ]
+  },
+  "1958": {
+    "title": "Cunningham, NSW   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEARNEY, Victor",
+        "Votes": 25087,
+        "Percent": 57.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HOUGH, Michael",
+        "Votes": 15242,
+        "Percent": 35.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "WOODS, Harold",
+        "Votes": 1716,
+        "Percent": 4.0
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MCDOUGALL, William",
+        "Votes": 1336,
+        "Percent": 3.1
+      }
+    ]
+  },
+  "1961": {
+    "title": "Cunningham, NSW   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEARNEY, Victor",
+        "Votes": 31474,
+        "Percent": 62.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HOUGH, Michael",
+        "Votes": 17422,
+        "Percent": 34.3
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MCDOUGALL, William",
+        "Votes": 1884,
+        "Percent": 3.7
+      }
+    ]
+  },
+  "1963": {
+    "title": "Cunningham, NSW   1963",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CONNOR, Rex",
+        "Votes": "31905",
+        "Percent": 58.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HOUGH, Michael",
+        "Votes": "20900",
+        "Percent": 38.2
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MCDOUGALL, William",
+        "Votes": "1836",
+        "Percent": 3.4
+      }
+    ]
+  },
+  "1966": {
+    "title": "Cunningham, NSW   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CONNOR, Rex",
+        "Votes": 31986,
+        "Percent": 54.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "POEL, John",
+        "Votes": 23473,
+        "Percent": 40.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEARNEY, Victor",
+        "Votes": 1951,
+        "Percent": 3.3
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "WILDING, Reginald",
+        "Votes": 977,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FENTON, Jeffrey",
+        "Votes": 354,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1969": {
+    "title": "Cunningham, NSW   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CONNOR, Rex",
+        "Votes": 35092,
+        "Percent": 64.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "POEL, John",
+        "Votes": 18618,
+        "Percent": 34.0
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "WILDING, Reginald",
+        "Votes": 1126,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "1972": {
+    "title": "Cunningham, NSW   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CONNOR, Rex",
+        "Votes": 38306,
+        "Percent": 64.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "POEL, John",
+        "Votes": 15524,
+        "Percent": 26.1
+      },
+      {
+        "Party": "AP",
+        "Candidate": "SLADEK, John",
+        "Votes": 2962,
+        "Percent": 5.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DALY, Peter",
+        "Votes": 1968,
+        "Percent": 3.3
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "WILDING, Reginald",
+        "Votes": 692,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1974": {
+    "title": "Cunningham, NSW   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CONNOR, Hon Rex",
+        "Votes": 47129,
+        "Percent": 69.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HOUGH, Warren",
+        "Votes": 18242,
+        "Percent": 27.1
+      },
+      {
+        "Party": "AP",
+        "Candidate": "HEALY, Susan",
+        "Votes": 2067,
+        "Percent": 3.1
+      }
+    ]
+  },
+  "1975": {
+    "title": "Cunningham, NSW   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CONNOR, Hon Rex",
+        "Votes": 42350,
+        "Percent": 61.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SWAN, Peter",
+        "Votes": 24972,
+        "Percent": 36.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROBERTSON, Peter",
+        "Votes": 681,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GROBEN, Bernard",
+        "Votes": 611,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1977": {
+    "title": "Cunningham, NSW   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WEST, Stewart",
+        "Votes": 36559,
+        "Percent": 53.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GRIFFIN, Thomas",
+        "Votes": 21419,
+        "Percent": 31.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SAMPSON, Ross",
+        "Votes": 7388,
+        "Percent": 10.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DENNETT, Noel",
+        "Votes": 1583,
+        "Percent": 2.3
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "NIXON, Mervyn",
+        "Votes": 1073,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DEZELIN, Rudolph",
+        "Votes": 375,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1980": {
+    "title": "Cunningham, NSW   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WEST, Stewart",
+        "Votes": 40042,
+        "Percent": 55.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GRIFFIN, Thomas",
+        "Votes": 21818,
+        "Percent": 30.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SAMPSON, Megan",
+        "Votes": 5185,
+        "Percent": 7.2
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "COCKCROFT, Peter",
+        "Votes": 2585,
+        "Percent": 3.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JAMIESON, Andrew",
+        "Votes": 1197,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MOORE, Richard",
+        "Votes": 810,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1983": {
+    "title": "Cunningham, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WEST, Stewart",
+        "Votes": 46419,
+        "Percent": 63.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FISHER, Gary",
+        "Votes": 17874,
+        "Percent": 24.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JONES, George",
+        "Votes": 4986,
+        "Percent": 6.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COVELL, Diana",
+        "Votes": 2802,
+        "Percent": 3.8
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "RUTNAM, Romaine",
+        "Votes": 704,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PASARA, Rudolf",
+        "Votes": 689,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1984": {
+    "title": "Cunningham, NSW   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WEST, Hon Stewart",
+        "Votes": 35250,
+        "Percent": 62.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MITCHELL, Gayle",
+        "Votes": 14209,
+        "Percent": 25.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BUTLER, Greg",
+        "Votes": 4281,
+        "Percent": 7.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLEARY, Neil",
+        "Votes": 1221,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DEZELIN, Rudolph",
+        "Votes": 621,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GARCIA, John",
+        "Votes": 561,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1987": {
+    "title": "Cunningham, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WEST, Hon Stewart",
+        "Votes": 34365,
+        "Percent": 59.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "THOMSON, Jeff",
+        "Votes": 17171,
+        "Percent": 29.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DARGAVEL, Ray",
+        "Votes": 6038,
+        "Percent": 10.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PASARA, Rudy",
+        "Votes": 568,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1990": {
+    "title": "Cunningham, NSW   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WEST, Hon Stewart",
+        "Votes": 27547,
+        "Percent": 44.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "THOMPSON, Jeff",
+        "Votes": 13511,
+        "Percent": 21.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SAMPSON, Meg",
+        "Votes": 8455,
+        "Percent": 13.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CONNOR, Rex",
+        "Votes": 7947,
+        "Percent": 12.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BRIGHAM, Steve",
+        "Votes": 4295,
+        "Percent": 6.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SYMONDS, Peter",
+        "Votes": 308,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1993": {
+    "title": "Cunningham, NSW   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "WEST, Michael",
+        "Votes": "740",
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MISDOM, Fred",
+        "Votes": "510",
+        "Percent": 0.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MARTIN, Hon Stephen",
+        "Votes": "41011",
+        "Percent": 58.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MEDCALF, Carole",
+        "Votes": "3300",
+        "Percent": 4.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "REVERBERI, Daniela",
+        "Votes": "2890",
+        "Percent": 4.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SAMPSON, Meg",
+        "Votes": "1932",
+        "Percent": 2.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LYNCH, Ralph",
+        "Votes": "18453",
+        "Percent": 26.4
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "O'NEILL, Robert",
+        "Votes": "1155",
+        "Percent": 1.7
+      }
+    ]
+  },
+  "1996": {
+    "title": "Cunningham, NSW   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MARTIN, Hon Stephen",
+        "Votes": 37267,
+        "Percent": 52.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WILLIAMS, Philip",
+        "Votes": 21124,
+        "Percent": 29.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DOUGLAS, Will",
+        "Votes": 4139,
+        "Percent": 5.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CHILTON, Mark",
+        "Votes": 3535,
+        "Percent": 5.0
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "O'NEILL, Robert",
+        "Votes": 1863,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PERROTT, Margaret",
+        "Votes": 1675,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILCOCK, Paul",
+        "Votes": 939,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MISDOM, Fred",
+        "Votes": 317,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1998": {
+    "title": "Cunningham, NSW   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MARTIN, Hon Stephen",
+        "Votes": 37592,
+        "Percent": 52.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "AKHURST, Alan",
+        "Votes": 17285,
+        "Percent": 24.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "CURTIS, John",
+        "Votes": 5378,
+        "Percent": 7.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "IVANEZA, Stephen",
+        "Votes": 4108,
+        "Percent": 5.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROBINSON, Les",
+        "Votes": 3158,
+        "Percent": 4.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "O'NEILL, Robert",
+        "Votes": 1755,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PERROTT, Margaret",
+        "Votes": 663,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HORN, Jennifer van der",
+        "Votes": 550,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COLUCCIO, Frank",
+        "Votes": 515,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2001": {
+    "title": "Cunningham, NSW   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MARTIN, Hon Stephen",
+        "Votes": 32722,
+        "Percent": 44.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FIELDS, Jeremy",
+        "Votes": 20760,
+        "Percent": 28.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NEWMAN, Michael",
+        "Votes": 5307,
+        "Percent": 7.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BERRY, Carol",
+        "Votes": 4914,
+        "Percent": 6.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MOTT, Trevor",
+        "Votes": 4235,
+        "Percent": 5.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "CURTIS, John",
+        "Votes": 3425,
+        "Percent": 4.6
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "SKINNER, Paul",
+        "Votes": 1841,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PINK, Edwin",
+        "Votes": 840,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2004": {
+    "title": "Cunningham, NSW   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BIRD, Sharon",
+        "Votes": 29041,
+        "Percent": 39.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LARTER, John",
+        "Votes": 21115,
+        "Percent": 28.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ORGAN, Michael",
+        "Votes": 14747,
+        "Percent": 20.1
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "DAKERS, Jeff",
+        "Votes": 2547,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MOULDS, David",
+        "Votes": 1796,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEENE, James",
+        "Votes": 1774,
+        "Percent": 2.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "EVANS, Tony",
+        "Votes": 686,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCROGIE, Christopher",
+        "Votes": 509,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILCOCK, Paul",
+        "Votes": 375,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FLANAGAN, John",
+        "Votes": 355,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILLIAMS, Chris",
+        "Votes": 310,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2007": {
+    "title": "Cunningham, NSW   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BIRD, Sharon",
+        "Votes": 44835,
+        "Percent": 53.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FOWLER, Colin",
+        "Votes": 22438,
+        "Percent": 26.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ORGAN, Michael",
+        "Votes": 12326,
+        "Percent": 14.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "NORSWORTHY, Nolene",
+        "Votes": 2232,
+        "Percent": 2.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "TRIBE, Jemma",
+        "Votes": 1203,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MOORE, Jess",
+        "Votes": 706,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FLANAGAN, John",
+        "Votes": 489,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2010": {
+    "title": "Cunningham, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BIRD, Sharon",
+        "Votes": 43769,
+        "Percent": 49.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CLIFFORD, Philip",
+        "Votes": 29241,
+        "Percent": 32.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TAKACS, George",
+        "Votes": 13461,
+        "Percent": 15.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MOORE, Jess",
+        "Votes": 1303,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FLANAGAN, John",
+        "Votes": 1240,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2013": {
+    "title": "Cunningham, NSW   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BIRD, Hon Sharon",
+        "Votes": 41522,
+        "Percent": 45.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CLIFFORD, Philip",
+        "Votes": 30685,
+        "Percent": 33.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WILSON, Helen",
+        "Votes": 10730,
+        "Percent": 11.8
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "ATLEE, Christopher",
+        "Votes": 4253,
+        "Percent": 4.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "GEORGE, Rob",
+        "Votes": 2204,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FLANAGAN, John",
+        "Votes": 897,
+        "Percent": 1.0
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "BURSILL, John",
+        "Votes": 886,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2016": {
+    "title": "Cunningham, NSW   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BIRD, Hon Sharon",
+        "Votes": 46414,
+        "Percent": 47.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BLICAVS, Michelle",
+        "Votes": 28263,
+        "Percent": 29.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BLAKEY, Cath",
+        "Votes": 14200,
+        "Percent": 14.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "RYAN, Michelle",
+        "Votes": 3939,
+        "Percent": 4.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WATERS, Nathan",
+        "Votes": 2526,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FLANAGAN, John",
+        "Votes": 1582,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2019": {
+    "title": "Cunningham, NSW   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BIRD, Hon Sharon",
+        "Votes": 46923,
+        "Percent": 46.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ATLEE, Chris",
+        "Votes": 31177,
+        "Percent": 31.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HUXTABLE, Rowan",
+        "Votes": 15196,
+        "Percent": 15.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "YOUNGER, Grace",
+        "Votes": 3828,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GILL, John",
+        "Votes": 2340,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FLANAGAN, John",
+        "Votes": 1213,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2022": {
+    "title": "Cunningham, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BYRNES, Alison",
+        "Votes": 40783,
+        "Percent": 40.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "UREN, Marcus",
+        "Votes": 25418,
+        "Percent": 25.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GREEN, Dylan",
+        "Votes": 22011,
+        "Percent": 21.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "GROGAN, Thomas",
+        "Votes": 5218,
+        "Percent": 5.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "BRITTON, Ben",
+        "Votes": 4936,
+        "Percent": 4.9
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "GLOVER, Michael",
+        "Votes": 2207,
+        "Percent": 2.2
+      },
+      {
+        "Party": "ACP",
+        "Candidate": "GARNAUT-MILLER, Alexis",
+        "Votes": 1098,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2025": {
+    "title": "Cunningham, NSW   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BYRNES, Alison",
+        "Votes": 51607,
+        "Percent": 44.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "IVANEZA, Amanda",
+        "Votes": 26813,
+        "Percent": 23.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WHITTAKER, Jess",
+        "Votes": 23584,
+        "Percent": 20.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "FULLER, John",
+        "Votes": 8765,
+        "Percent": 7.6
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "LAVERS, Tim",
+        "Votes": 3048,
+        "Percent": 2.6
+      },
+      {
+        "Party": "CEC",
+        "Candidate": "GARNAUT-MILLER, Alexis",
+        "Votes": 1657,
+        "Percent": 1.4
+      }
+    ]
+  }
+}

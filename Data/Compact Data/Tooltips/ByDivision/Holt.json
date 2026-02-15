@@ -1,0 +1,772 @@
+{
+  "1969": {
+    "title": "Holt, VIC   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WILKINSON, William",
+        "Votes": 22749,
+        "Percent": 45.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "REID, Leonard",
+        "Votes": 21313,
+        "Percent": 42.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SACHAU, Henri de",
+        "Votes": 6244,
+        "Percent": 12.4
+      }
+    ]
+  },
+  "1972": {
+    "title": "Holt, VIC   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "OLDMEADOW, Max",
+        "Votes": 32318,
+        "Percent": 51.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "REID, Leonard",
+        "Votes": 24203,
+        "Percent": 38.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SACHAU, Henri de",
+        "Votes": 3810,
+        "Percent": 6.1
+      },
+      {
+        "Party": "AP",
+        "Candidate": "ELLIOTT, Brenda",
+        "Votes": 1222,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLACK, Ian",
+        "Votes": 1207,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "1974": {
+    "title": "Holt, VIC   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "OLDMEADOW, Max",
+        "Votes": 41129,
+        "Percent": 54.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "REID, Leonard",
+        "Votes": 29699,
+        "Percent": 39.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FIDLER, Robert",
+        "Votes": 2546,
+        "Percent": 3.4
+      },
+      {
+        "Party": "AP",
+        "Candidate": "BUSUTTIL, Joseph",
+        "Votes": 2371,
+        "Percent": 3.1
+      }
+    ]
+  },
+  "1975": {
+    "title": "Holt, VIC   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "YATES, William",
+        "Votes": 39436,
+        "Percent": 48.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "OLDMEADOW, Maxwell",
+        "Votes": 38069,
+        "Percent": 46.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FIDLER, Robert",
+        "Votes": 4343,
+        "Percent": 5.3
+      }
+    ]
+  },
+  "1977": {
+    "title": "Holt, VIC   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "YATES, William",
+        "Votes": 27200,
+        "Percent": 43.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DUFFY, Michael",
+        "Votes": 25411,
+        "Percent": 40.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STOCKTON, Brian",
+        "Votes": 8077,
+        "Percent": 12.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "LEYDON, Kevin",
+        "Votes": 2566,
+        "Percent": 4.1
+      }
+    ]
+  },
+  "1980": {
+    "title": "Holt, VIC   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DUFFY, Michael",
+        "Votes": 39232,
+        "Percent": 52.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "YATES, William",
+        "Votes": 28940,
+        "Percent": 38.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STOCKTON, Brian",
+        "Votes": 5810,
+        "Percent": 7.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ROWE, Michael",
+        "Votes": 1352,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "1983": {
+    "title": "Holt, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DUFFY, Michael",
+        "Votes": 48648,
+        "Percent": 58.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MOLDRICH, Joseph",
+        "Votes": 28845,
+        "Percent": 34.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "YULE, Jean",
+        "Votes": 5639,
+        "Percent": 6.8
+      }
+    ]
+  },
+  "1984": {
+    "title": "Holt, VIC   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DUFFY, Hon Michael",
+        "Votes": 31117,
+        "Percent": 58.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FERWERDA, John",
+        "Votes": 18436,
+        "Percent": 34.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STEWART, Louise",
+        "Votes": 2467,
+        "Percent": 4.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MCDONALD, Brian",
+        "Votes": 960,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "1987": {
+    "title": "Holt, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DUFFY, Hon Michael",
+        "Votes": 32026,
+        "Percent": 56.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BATEMAN, Janice",
+        "Votes": 20764,
+        "Percent": 36.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HERBERT, Geoff",
+        "Votes": 4282,
+        "Percent": 7.5
+      }
+    ]
+  },
+  "1990": {
+    "title": "Holt, VIC   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DUFFY, Hon Michael",
+        "Votes": 27485,
+        "Percent": 44.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DODIC, Mario",
+        "Votes": 21099,
+        "Percent": 34.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WESTPHAL, Irmgard",
+        "Votes": 7273,
+        "Percent": 11.9
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "DICKSON, Lynne",
+        "Votes": 5458,
+        "Percent": 8.9
+      }
+    ]
+  },
+  "1993": {
+    "title": "Holt, VIC   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "BLACKBURN, Paul",
+        "Votes": "679",
+        "Percent": 1.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DUFFY, Hon Michael",
+        "Votes": "38518",
+        "Percent": 56.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LEWIS, Barbara",
+        "Votes": "25016",
+        "Percent": 36.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BURNS, Michael",
+        "Votes": "2457",
+        "Percent": 3.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NEDELJKOVIC, Stephen",
+        "Votes": "1347",
+        "Percent": 2.0
+      }
+    ]
+  },
+  "1996": {
+    "title": "Holt, VIC   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EVANS, Hon Gareth",
+        "Votes": 37948,
+        "Percent": 55.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WILLIAMS, Tony",
+        "Votes": 22036,
+        "Percent": 32.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "AUBREY, Jim",
+        "Votes": 5009,
+        "Percent": 7.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MADIGAN, Paul",
+        "Votes": 1171,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MANTELL, Liz",
+        "Votes": 511,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ALLISON, Heath",
+        "Votes": 406,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1998": {
+    "title": "Holt, VIC   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EVANS, Hon Gareth",
+        "Votes": 44172,
+        "Percent": 59.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NICHOLLS, Margaret",
+        "Votes": 21823,
+        "Percent": 29.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BERK, Daniel",
+        "Votes": 4425,
+        "Percent": 6.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "DICKSON, Lynne",
+        "Votes": 1296,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SINGH, Kunwar",
+        "Votes": 931,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BISSET, Robert",
+        "Votes": 860,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ALLISON, Heath",
+        "Votes": 379,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2001": {
+    "title": "Holt, VIC   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BYRNE, Anthony",
+        "Votes": 44681,
+        "Percent": 56.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WOOD, Jason",
+        "Votes": 24621,
+        "Percent": 31.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MORGAN, Polly",
+        "Votes": 5240,
+        "Percent": 6.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PATRINOS, Theos",
+        "Votes": 2149,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DICKSON, Lynne",
+        "Votes": 1513,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FORD, Gordon",
+        "Votes": 880,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2004": {
+    "title": "Holt, VIC   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BYRNE, Anthony",
+        "Votes": 37269,
+        "Percent": 45.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TEIWES, Paul",
+        "Votes": 34974,
+        "Percent": 42.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "REIHER, Jim",
+        "Votes": 3638,
+        "Percent": 4.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BURGESS, Stephen",
+        "Votes": 3403,
+        "Percent": 4.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JOHN, Jason",
+        "Votes": 1169,
+        "Percent": 1.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BERK, Daniel",
+        "Votes": 1160,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2007": {
+    "title": "Holt, VIC   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BYRNE, Anthony",
+        "Votes": 51689,
+        "Percent": 55.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CICCHIELLO, Emanuele",
+        "Votes": 31785,
+        "Percent": 34.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ZILWA, Yasmin De",
+        "Votes": 4076,
+        "Percent": 4.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KELEHER, Lynette",
+        "Votes": 3823,
+        "Percent": 4.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SEYMOUR, Ken",
+        "Votes": 1155,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MORGAN, Chris",
+        "Votes": 347,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2010": {
+    "title": "Holt, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BYRNE, Hon Anthony",
+        "Votes": 51998,
+        "Percent": 54.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BALANCY, Ricardo",
+        "Votes": 29254,
+        "Percent": 30.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MASCOLO, Frank Di",
+        "Votes": 8745,
+        "Percent": 9.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "GEORGE, Ian",
+        "Votes": 4772,
+        "Percent": 5.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HITCHINS, Mark",
+        "Votes": 776,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2013": {
+    "title": "Holt, VIC   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BYRNE, Hon Anthony",
+        "Votes": 43096,
+        "Percent": 48.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BALANCY, Ricardo",
+        "Votes": 29181,
+        "Percent": 32.6
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "SINGH, Jatinder",
+        "Votes": 4931,
+        "Percent": 5.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCCULLOUGH, Jackie",
+        "Votes": 3469,
+        "Percent": 3.9
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "SMITH, Lachlan",
+        "Votes": 2514,
+        "Percent": 2.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "KEENAN, Pam",
+        "Votes": 2232,
+        "Percent": 2.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "PALMA, Michael",
+        "Votes": 1835,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HILL, Vivian",
+        "Votes": 1232,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ELI, Jonathan",
+        "Votes": 933,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2016": {
+    "title": "Holt, VIC   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BYRNE, Hon Anthony",
+        "Votes": 53506,
+        "Percent": 53.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MATHIAS, James",
+        "Votes": 29777,
+        "Percent": 29.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TILTON, Jake",
+        "Votes": 6317,
+        "Percent": 6.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BULL, Neil",
+        "Votes": 5614,
+        "Percent": 5.6
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "ROBERTSON, Colin",
+        "Votes": 4416,
+        "Percent": 4.4
+      }
+    ]
+  },
+  "2019": {
+    "title": "Holt, VIC   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BYRNE, Hon Anthony",
+        "Votes": 48031,
+        "Percent": 50.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROEK, Jennifer Van Den",
+        "Votes": 33963,
+        "Percent": 35.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WHEELOCK, Jess",
+        "Votes": 6735,
+        "Percent": 7.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SINGH, Jatinder",
+        "Votes": 5958,
+        "Percent": 6.3
+      }
+    ]
+  },
+  "2022": {
+    "title": "Holt, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FERNANDO, Cassandra",
+        "Votes": 36326,
+        "Percent": 40.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PERERA, Ranj",
+        "Votes": 26274,
+        "Percent": 29.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HANSEN, Gerardine",
+        "Votes": 8592,
+        "Percent": 9.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MATHEW, Sujit",
+        "Votes": 7583,
+        "Percent": 8.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "AMBARD, Sandy",
+        "Votes": 4295,
+        "Percent": 4.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RAGUPATHY, Ravi",
+        "Votes": 2673,
+        "Percent": 3.0
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "NUNEZ-SILVA, Matthew",
+        "Votes": 2423,
+        "Percent": 2.7
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "SALDANHA, Gregory",
+        "Votes": 730,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2025": {
+    "title": "Holt, VIC   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FERNANDO, Cassandra",
+        "Votes": 44686,
+        "Percent": 45.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SAMUEL, Annette",
+        "Votes": 24840,
+        "Percent": 25.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TIWARI, Payal",
+        "Votes": 11122,
+        "Percent": 11.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HAMMOND, Trevor",
+        "Votes": 8655,
+        "Percent": 8.7
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "FOREMAN, Shane",
+        "Votes": 5185,
+        "Percent": 5.2
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "AICKIN, Riley",
+        "Votes": 4745,
+        "Percent": 4.8
+      }
+    ]
+  }
+}

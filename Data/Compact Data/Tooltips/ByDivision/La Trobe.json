@@ -1,0 +1,1130 @@
+{
+  "1949": {
+    "title": "La Trobe, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CASEY, Rt Hon Richard",
+        "Votes": 23645,
+        "Percent": 58.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BALCOMBE, Robert",
+        "Votes": 16714,
+        "Percent": 41.4
+      }
+    ]
+  },
+  "1951": {
+    "title": "La Trobe, VIC   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CASEY, Rt Hon Richard",
+        "Votes": "26920",
+        "Percent": 58.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "REES, Bernard",
+        "Votes": "19464",
+        "Percent": 42.0
+      }
+    ]
+  },
+  "1954": {
+    "title": "La Trobe, VIC   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CASEY, Rt Hon Richard",
+        "Votes": "34585",
+        "Percent": 55.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Edward",
+        "Votes": "26943",
+        "Percent": 42.9
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "O'DAY, Dr Gerald",
+        "Votes": "1227",
+        "Percent": 2.0
+      }
+    ]
+  },
+  "1955": {
+    "title": "La Trobe, VIC   1955",
+    "rows": [
+      {
+        "Party": "ALPAC",
+        "Candidate": "NOONE, George",
+        "Votes": "3830",
+        "Percent": 9.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CASEY, Rt Hon Richard",
+        "Votes": "24442",
+        "Percent": 57.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WEBBER, William",
+        "Votes": "14177",
+        "Percent": 33.4
+      }
+    ]
+  },
+  "1958": {
+    "title": "La Trobe, VIC   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CASEY, Rt Hon Richard",
+        "Votes": 28570,
+        "Percent": 53.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GOLDBLOOM, Samuel",
+        "Votes": 19623,
+        "Percent": 36.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "KIRLEY, Terence",
+        "Votes": 4963,
+        "Percent": 9.3
+      }
+    ]
+  },
+  "1961": {
+    "title": "La Trobe, VIC   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JESS, John",
+        "Votes": 27952,
+        "Percent": 43.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PRITCHARD, Donell",
+        "Votes": 26875,
+        "Percent": 42.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HOARE, John",
+        "Votes": 8651,
+        "Percent": 13.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "REES, Bernard",
+        "Votes": 554,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1963": {
+    "title": "La Trobe, VIC   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "ADAMSON, Kevin",
+        "Votes": "7490",
+        "Percent": 10.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JESS, John",
+        "Votes": "35050",
+        "Percent": 48.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CASS, Dr Moss",
+        "Votes": "29466",
+        "Percent": 40.9
+      }
+    ]
+  },
+  "1966": {
+    "title": "La Trobe, VIC   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JESS, John",
+        "Votes": 38427,
+        "Percent": 47.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PRITCHARD, Donell",
+        "Votes": 26847,
+        "Percent": 33.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ADAMSON, Kevin",
+        "Votes": 10311,
+        "Percent": 12.8
+      },
+      {
+        "Party": "LRG",
+        "Candidate": "WEBER, Leonard",
+        "Votes": 5075,
+        "Percent": 6.3
+      }
+    ]
+  },
+  "1969": {
+    "title": "La Trobe, VIC   1969",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JESS, John",
+        "Votes": 22343,
+        "Percent": 44.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCCARTHY, Pauline",
+        "Votes": 20898,
+        "Percent": 41.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "TUNSTALL, Peter",
+        "Votes": 4393,
+        "Percent": 8.8
+      },
+      {
+        "Party": "AP",
+        "Candidate": "ELLIOTT, Brenda",
+        "Votes": 2484,
+        "Percent": 5.0
+      }
+    ]
+  },
+  "1972": {
+    "title": "La Trobe, VIC   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LAMB, Antony",
+        "Votes": 31885,
+        "Percent": 50.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JESS, John",
+        "Votes": 23961,
+        "Percent": 37.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "NOONE, George",
+        "Votes": 3292,
+        "Percent": 5.2
+      },
+      {
+        "Party": "AP",
+        "Candidate": "WALTERS, Donald",
+        "Votes": 2083,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FOWLER, Eileen",
+        "Votes": 1238,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GILL, Jeffrey",
+        "Votes": 700,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1974": {
+    "title": "La Trobe, VIC   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LAMB, Antony",
+        "Votes": 40444,
+        "Percent": 52.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BAILLIEU, Marshall",
+        "Votes": 32126,
+        "Percent": 42.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MASON, Daniel",
+        "Votes": 2051,
+        "Percent": 2.7
+      },
+      {
+        "Party": "AP",
+        "Candidate": "WALTERS, Donald",
+        "Votes": 1501,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRYANT, William",
+        "Votes": 323,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1975": {
+    "title": "La Trobe, VIC   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BAILLIEU, Marshall",
+        "Votes": 41276,
+        "Percent": 50.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LAMB, Antony",
+        "Votes": 35504,
+        "Percent": 43.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "PENNA, James",
+        "Votes": 1889,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HELLEMA, Cornelus",
+        "Votes": 1837,
+        "Percent": 2.2
+      },
+      {
+        "Party": "AP",
+        "Candidate": "WALTERS, Donald",
+        "Votes": 1029,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NEILSEN, Ronald",
+        "Votes": 169,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "1977": {
+    "title": "La Trobe, VIC   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BAILLIEU, Marshall",
+        "Votes": 26060,
+        "Percent": 41.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LAMB, Antony",
+        "Votes": 25250,
+        "Percent": 40.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCCANN, Andrew",
+        "Votes": 8827,
+        "Percent": 14.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "PENNA, James",
+        "Votes": 1410,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HELLEMA, Cornelus",
+        "Votes": 1099,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "1980": {
+    "title": "La Trobe, VIC   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MILTON, Peter",
+        "Votes": 31439,
+        "Percent": 45.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BAILLIEU, Marshall",
+        "Votes": 28282,
+        "Percent": 40.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LEICESTER, James",
+        "Votes": 7201,
+        "Percent": 10.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HELLEMA, Cornelus",
+        "Votes": 1487,
+        "Percent": 2.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BURKE, Desmond",
+        "Votes": 867,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KAPPHAN, Wilhelm",
+        "Votes": 262,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1983": {
+    "title": "La Trobe, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MILTON, Peter",
+        "Votes": 40493,
+        "Percent": 52.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NUGENT, Peter",
+        "Votes": 26045,
+        "Percent": 34.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BLAKE, Milton",
+        "Votes": 8010,
+        "Percent": 10.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HELLEMA, Cornelis",
+        "Votes": 2085,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "1984": {
+    "title": "La Trobe, VIC   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MILTON, Peter",
+        "Votes": 28853,
+        "Percent": 54.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FRENCH, Ted",
+        "Votes": 19438,
+        "Percent": 36.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCCANN, Andrew",
+        "Votes": 4185,
+        "Percent": 7.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "GARRATT, Julie",
+        "Votes": 976,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "1987": {
+    "title": "La Trobe, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MILTON, Peter",
+        "Votes": 31510,
+        "Percent": 50.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CHARLES, Bob",
+        "Votes": 24013,
+        "Percent": 38.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BENTON, John",
+        "Votes": 6461,
+        "Percent": 10.4
+      }
+    ]
+  },
+  "1990": {
+    "title": "La Trobe, VIC   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CHARLES, Bob",
+        "Votes": 29805,
+        "Percent": 43.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MILTON, Peter",
+        "Votes": 23720,
+        "Percent": 34.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JUNGWIRTH, Greta",
+        "Votes": 12246,
+        "Percent": 17.9
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "KEMP, Teresa",
+        "Votes": 2468,
+        "Percent": 3.6
+      }
+    ]
+  },
+  "1993": {
+    "title": "La Trobe, VIC   1993",
+    "rows": [
+      {
+        "Party": "CTA",
+        "Candidate": "VOIGT, Wolfgang",
+        "Votes": "866",
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HERBERT, Peter",
+        "Votes": "552",
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KENDI, Juliana",
+        "Votes": "436",
+        "Percent": 0.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CHARLES, Bob",
+        "Votes": "35306",
+        "Percent": 48.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WIGNEY, Rebecca",
+        "Votes": "3317",
+        "Percent": 4.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JUNGWIRTH, Raymond",
+        "Votes": "3106",
+        "Percent": 4.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PAIN, Geoff",
+        "Votes": "29715",
+        "Percent": 40.5
+      }
+    ]
+  },
+  "1996": {
+    "title": "La Trobe, VIC   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CHARLES, Bob",
+        "Votes": 30806,
+        "Percent": 44.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HIRSH, Carolyn",
+        "Votes": 26905,
+        "Percent": 38.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HASTIE, John",
+        "Votes": 6549,
+        "Percent": 9.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BENTON, John",
+        "Votes": 3264,
+        "Percent": 4.7
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "VOIGT, Wolf",
+        "Votes": 874,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DEAN, Frank",
+        "Votes": 542,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STERNBERG, Andrew",
+        "Votes": 350,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1998": {
+    "title": "La Trobe, VIC   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CHARLES, Bob",
+        "Votes": 31456,
+        "Percent": 42.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HIRSH, Carolyn",
+        "Votes": 27733,
+        "Percent": 37.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LEEPER, Amanda",
+        "Votes": 6447,
+        "Percent": 8.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "THOMAS, Jeff",
+        "Votes": 3173,
+        "Percent": 4.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HOLTHAM, Robyn",
+        "Votes": 2801,
+        "Percent": 3.8
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "VOGT, Wolf",
+        "Votes": 740,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HAIDAR, Assyl",
+        "Votes": 411,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DEAN, Frank",
+        "Votes": 331,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WOOLLEY, Graham",
+        "Votes": 186,
+        "Percent": 0.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STERNBERG, Andrew",
+        "Votes": 152,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "La Trobe, VIC   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CHARLES, Bob",
+        "Votes": 37641,
+        "Percent": 46.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STAINDL, Phil",
+        "Votes": 27912,
+        "Percent": 34.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HOLLAND, Tony",
+        "Votes": 6424,
+        "Percent": 7.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SMITH, Craig",
+        "Votes": 5740,
+        "Percent": 7.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SCOTT, June",
+        "Votes": 1304,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VOIGT, Wolfgang",
+        "Votes": 861,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ALLEN, Jason",
+        "Votes": 530,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DEAN, Frank",
+        "Votes": 386,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2004": {
+    "title": "La Trobe, VIC   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WOOD, Jason",
+        "Votes": 39810,
+        "Percent": 51.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DAVIES, Susan",
+        "Votes": 26251,
+        "Percent": 33.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SMITH, Craig",
+        "Votes": 7313,
+        "Percent": 9.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BRIDGES, Darryl",
+        "Votes": 1830,
+        "Percent": 2.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HOLLAND, Tony",
+        "Votes": 1160,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DEAN, Frank",
+        "Votes": 777,
+        "Percent": 1.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "VOIGT, Wolfgang",
+        "Votes": 459,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BEILHARZ, Kurt",
+        "Votes": 131,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2007": {
+    "title": "La Trobe, VIC   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WOOD, Jason",
+        "Votes": 39636,
+        "Percent": 46.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COCKS, Rodney",
+        "Votes": 34448,
+        "Percent": 40.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TAYLOR, Bree",
+        "Votes": 7539,
+        "Percent": 8.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ZUBIC, Jim",
+        "Votes": 2423,
+        "Percent": 2.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BEALE, Craig",
+        "Votes": 1012,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BEILHARZ, Kurt",
+        "Votes": 140,
+        "Percent": 0.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SINGH, Surome",
+        "Votes": 85,
+        "Percent": 0.1
+      }
+    ]
+  },
+  "2010": {
+    "title": "La Trobe, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WOOD, Jason",
+        "Votes": 39053,
+        "Percent": 43.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMYTH, Laura",
+        "Votes": 33970,
+        "Percent": 38.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "REIHER, Jim",
+        "Votes": 10931,
+        "Percent": 12.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LEAHY, Martin",
+        "Votes": 2539,
+        "Percent": 2.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BARROW, David",
+        "Votes": 1917,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BENNETT, Shem",
+        "Votes": 587,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2013": {
+    "title": "La Trobe, VIC   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WOOD, Jason",
+        "Votes": 40925,
+        "Percent": 46.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMYTH, Laura",
+        "Votes": 28488,
+        "Percent": 32.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SCHILLING, Michael",
+        "Votes": 8905,
+        "Percent": 10.0
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "KENNEDY, Jason",
+        "Votes": 4514,
+        "Percent": 5.1
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "LEAHY, Martin",
+        "Votes": 2475,
+        "Percent": 2.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MARTIN, Daniel",
+        "Votes": 1680,
+        "Percent": 1.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "JENKINS, Rachel",
+        "Votes": 1168,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SEAMAN, Kevin",
+        "Votes": 711,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2016": {
+    "title": "La Trobe, VIC   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WOOD, Jason",
+        "Votes": 39108,
+        "Percent": 42.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CURTIS, Simon",
+        "Votes": 29052,
+        "Percent": 31.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CUMMINGS, Tom",
+        "Votes": 9773,
+        "Percent": 10.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOIDGE, Julieanne",
+        "Votes": 3922,
+        "Percent": 4.2
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "FOLLONI, Leah",
+        "Votes": 2677,
+        "Percent": 2.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BARTRAM, Jeffrey",
+        "Votes": 2273,
+        "Percent": 2.5
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "LEAHY, Martin",
+        "Votes": 2103,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FENT, David",
+        "Votes": 1321,
+        "Percent": 1.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "HUGHES, Leslie",
+        "Votes": 1188,
+        "Percent": 1.3
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "QUINN, Margaret",
+        "Votes": 1180,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2019": {
+    "title": "La Trobe, VIC   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WOOD, Jason",
+        "Votes": 45123,
+        "Percent": 45.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CURTIS, Simon",
+        "Votes": 34040,
+        "Percent": 34.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GREGOROVICH, Amy",
+        "Votes": 7752,
+        "Percent": 7.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "BAKER, Esther",
+        "Votes": 4796,
+        "Percent": 4.9
+      },
+      {
+        "Party": "DHJP",
+        "Candidate": "CALWELL-BROWNE, Asher",
+        "Votes": 3525,
+        "Percent": 3.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "DEAN, Duncan",
+        "Votes": 2506,
+        "Percent": 2.5
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "BAKER, Norman",
+        "Votes": 947,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2022": {
+    "title": "La Trobe, VIC   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WOOD, Hon Jason",
+        "Votes": 41786,
+        "Percent": 45.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KUMAR, Abhimanyu",
+        "Votes": 23918,
+        "Percent": 26.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SCHILLING, Michael",
+        "Votes": 9980,
+        "Percent": 10.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MOTT, Merryn",
+        "Votes": 6182,
+        "Percent": 6.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "ERVIN, Hadden",
+        "Votes": 4555,
+        "Percent": 5.0
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "JEGES, Helen",
+        "Votes": 2450,
+        "Percent": 2.7
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "ABELMAN, Michael",
+        "Votes": 1911,
+        "Percent": 2.1
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "SKINNER, Rebecca",
+        "Votes": 890,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2025": {
+    "title": "La Trobe, VIC   2025",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WOOD, Jason",
+        "Votes": 40547,
+        "Percent": 39.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SPRINGFIELD, Jeff",
+        "Votes": 33289,
+        "Percent": 32.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LONGMUIR, Jamie",
+        "Votes": 13386,
+        "Percent": 12.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "PANETTA, Leo",
+        "Votes": 7956,
+        "Percent": 7.7
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "HARDIMAN, Gregory Thomas",
+        "Votes": 4727,
+        "Percent": 4.6
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "MALHOTRA, Ron",
+        "Votes": 3713,
+        "Percent": 3.6
+      }
+    ]
+  }
+}

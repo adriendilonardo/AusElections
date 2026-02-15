@@ -1,0 +1,1076 @@
+{
+  "1949": {
+    "title": "Blaxland, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HARRISON, James",
+        "Votes": 19403,
+        "Percent": 49.3
+      },
+      {
+        "Party": "ALPN",
+        "Candidate": "LANG, Hon Jack",
+        "Votes": 9752,
+        "Percent": 24.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HANDRAN-SMITH, Thomas",
+        "Votes": 9364,
+        "Percent": 23.8
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "KIRBY, Roy",
+        "Votes": 865,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1951": {
+    "title": "Blaxland, NSW   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HARRISON, James",
+        "Votes": "25749",
+        "Percent": 63.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DENNISON, James",
+        "Votes": "14547",
+        "Percent": 36.1
+      }
+    ]
+  },
+  "1954": {
+    "title": "Blaxland, NSW   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HARRISON, James",
+        "Votes": "27621",
+        "Percent": 64.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ALLSOP, Reginald",
+        "Votes": "13604",
+        "Percent": 32.0
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "HUGHES, Jack",
+        "Votes": "1308",
+        "Percent": 3.1
+      }
+    ]
+  },
+  "1955": {
+    "title": "Blaxland, NSW   1955",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HARRISON, James",
+        "Votes": "25577",
+        "Percent": 62.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ALLSOP, Reginald",
+        "Votes": "15371",
+        "Percent": 37.5
+      }
+    ]
+  },
+  "1958": {
+    "title": "Blaxland, NSW   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HARRISON, James",
+        "Votes": 27548,
+        "Percent": 63.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PICKERING, Winston",
+        "Votes": 11908,
+        "Percent": 27.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DALGLEISH, Carlyle",
+        "Votes": 3784,
+        "Percent": 8.8
+      }
+    ]
+  },
+  "1961": {
+    "title": "Blaxland, NSW   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HARRISON, James",
+        "Votes": 29565,
+        "Percent": 66.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "COWAN, David",
+        "Votes": 11319,
+        "Percent": 25.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ATKINSON, Bernard",
+        "Votes": 3742,
+        "Percent": 8.4
+      }
+    ]
+  },
+  "1963": {
+    "title": "Blaxland, NSW   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "DAVIS, Kevin",
+        "Votes": "2883",
+        "Percent": 6.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HARRISON, James",
+        "Votes": "27558",
+        "Percent": 61.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MORRISH, Terence",
+        "Votes": "14741",
+        "Percent": 32.6
+      }
+    ]
+  },
+  "1966": {
+    "title": "Blaxland, NSW   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HARRISON, James",
+        "Votes": 24924,
+        "Percent": 55.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LOVELL, Robert",
+        "Votes": 17411,
+        "Percent": 39.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "KEENAN, Terence",
+        "Votes": 2299,
+        "Percent": 5.2
+      }
+    ]
+  },
+  "1969": {
+    "title": "Blaxland, NSW   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEATING, Paul",
+        "Votes": 32426,
+        "Percent": 61.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GHENT, John",
+        "Votes": 16658,
+        "Percent": 31.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CONROY, Joseph",
+        "Votes": 3493,
+        "Percent": 6.6
+      }
+    ]
+  },
+  "1972": {
+    "title": "Blaxland, NSW   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEATING, Paul",
+        "Votes": 36724,
+        "Percent": 66.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GHENT, John",
+        "Votes": 16317,
+        "Percent": 29.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "YOUNG, Anthony",
+        "Votes": 2020,
+        "Percent": 3.7
+      }
+    ]
+  },
+  "1974": {
+    "title": "Blaxland, NSW   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEATING, Paul",
+        "Votes": 40484,
+        "Percent": 66.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SMALLWOOD, Wallace",
+        "Votes": 17398,
+        "Percent": 28.7
+      },
+      {
+        "Party": "AP",
+        "Candidate": "HIGGS, Kenneth",
+        "Votes": 2689,
+        "Percent": 4.4
+      }
+    ]
+  },
+  "1975": {
+    "title": "Blaxland, NSW   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEATING, Hon Paul",
+        "Votes": 36338,
+        "Percent": 59.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TOUMA, Joseph",
+        "Votes": 22957,
+        "Percent": 37.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SYMES, Robert",
+        "Votes": 1463,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "1977": {
+    "title": "Blaxland, NSW   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEATING, Hon Paul",
+        "Votes": 36109,
+        "Percent": 54.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NAPOLI, Salvatore",
+        "Votes": 21978,
+        "Percent": 33.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SULI, Steven",
+        "Votes": 4500,
+        "Percent": 6.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HAGGERTY, William",
+        "Votes": 3974,
+        "Percent": 6.0
+      }
+    ]
+  },
+  "1980": {
+    "title": "Blaxland, NSW   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEATING, Hon Paul",
+        "Votes": 38493,
+        "Percent": 59.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NAPOLI, Salvatore",
+        "Votes": 20024,
+        "Percent": 31.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOUGHNEY, James",
+        "Votes": 3203,
+        "Percent": 5.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GRATTAN, Phillip",
+        "Votes": 2103,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MARLEY, Craig",
+        "Votes": 802,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1983": {
+    "title": "Blaxland, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEATING, Hon Paul",
+        "Votes": 41609,
+        "Percent": 62.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROWN, David",
+        "Votes": 21604,
+        "Percent": 32.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GRATTAN, Phillip",
+        "Votes": 2504,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GOH, Siong Hoe",
+        "Votes": 388,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1984": {
+    "title": "Blaxland, NSW   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEATING, Hon Paul",
+        "Votes": 35139,
+        "Percent": 61.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "YOUNG, Bob",
+        "Votes": 17581,
+        "Percent": 30.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ADAMS, Samuel",
+        "Votes": 4165,
+        "Percent": 7.3
+      }
+    ]
+  },
+  "1987": {
+    "title": "Blaxland, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEATING, Hon Paul",
+        "Votes": 30968,
+        "Percent": 53.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "THORN, Andrew",
+        "Votes": 19573,
+        "Percent": 33.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLACK, Philip",
+        "Votes": 2782,
+        "Percent": 4.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "YOUNG, John",
+        "Votes": 2222,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEATING, Paul",
+        "Votes": 1239,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LEITAO, Tony",
+        "Votes": 759,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RAYNER, Frank",
+        "Votes": 431,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TUCKER, Kaye",
+        "Votes": 221,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1990": {
+    "title": "Blaxland, NSW   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEATING, Hon Paul",
+        "Votes": 33780,
+        "Percent": 55.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "VOIGHT, David",
+        "Votes": 19243,
+        "Percent": 31.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RICHARDSON, Fiona",
+        "Votes": 5382,
+        "Percent": 8.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ARJA, Mohamad",
+        "Votes": 1313,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MILLER, Stephanie",
+        "Votes": 707,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "IRSAK, Michael",
+        "Votes": 646,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1993": {
+    "title": "Blaxland, NSW   1993",
+    "rows": [
+      {
+        "Party": "CTA",
+        "Candidate": "CARRICK, Trevor",
+        "Votes": "804",
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HILLMAN, Jon",
+        "Votes": "678",
+        "Percent": 1.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KEATING, Hon Paul",
+        "Votes": "48446",
+        "Percent": 69.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TENENBAUM, Linda",
+        "Votes": "413",
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "REID, Bob",
+        "Votes": "388",
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'NEILL, Peter",
+        "Votes": "378",
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "AUSSIE-STONE, Marcus",
+        "Votes": "204",
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KELVIN, Wilfrid",
+        "Votes": "179",
+        "Percent": 0.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "OSMOND, Les",
+        "Votes": "16927",
+        "Percent": 24.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HENNESSY, Peter",
+        "Votes": "1388",
+        "Percent": 2.0
+      }
+    ]
+  },
+  "1996": {
+    "title": "Blaxland, NSW   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEATING, Hon Paul",
+        "Votes": 41444,
+        "Percent": 58.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KOROVIN, Nick",
+        "Votes": 21916,
+        "Percent": 31.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MEIKLE, Jeffrey",
+        "Votes": 2442,
+        "Percent": 3.5
+      },
+      {
+        "Party": "AAFI",
+        "Candidate": "LAVIS, Michael",
+        "Votes": 1944,
+        "Percent": 2.7
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "RAHME, Melodie",
+        "Votes": 936,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SAYEGH, Peter",
+        "Votes": 695,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAWRENCE, Eric",
+        "Votes": 526,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "AUSSIE-STONE, Marc",
+        "Votes": 267,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BEAMS, Nick",
+        "Votes": 244,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Peter",
+        "Votes": 176,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "1998": {
+    "title": "Blaxland, NSW   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HATTON, Michael",
+        "Votes": 44096,
+        "Percent": 61.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SHELLEY, Maureen",
+        "Votes": 15649,
+        "Percent": 21.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "ABOU-GHAIDA, Hussein",
+        "Votes": 5052,
+        "Percent": 7.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HASSAPIS, Harold",
+        "Votes": 2536,
+        "Percent": 3.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HUA, Matthew",
+        "Votes": 1733,
+        "Percent": 2.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "LAURENCE, Kylie",
+        "Votes": 1623,
+        "Percent": 2.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DONNELLY, Benjamin",
+        "Votes": 1107,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "2001": {
+    "title": "Blaxland, NSW   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HATTON, Michael",
+        "Votes": 37956,
+        "Percent": 54.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "OSMOND, Les",
+        "Votes": 18170,
+        "Percent": 25.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "VINNICOMBE, Bob",
+        "Votes": 4248,
+        "Percent": 6.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCDERMOTT, Colin",
+        "Votes": 3461,
+        "Percent": 4.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCKAY, Sonya",
+        "Votes": 1839,
+        "Percent": 2.6
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "PETERSON, Janne",
+        "Votes": 1535,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HAWAT, Dario",
+        "Votes": 1493,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SAYEGH, Peter",
+        "Votes": 975,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MUNTHER, Anny",
+        "Votes": 443,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2004": {
+    "title": "Blaxland, NSW   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HATTON, Mike",
+        "Votes": 37117,
+        "Percent": 53.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MAJEWSKI, Mark",
+        "Votes": 21407,
+        "Percent": 31.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "VINNICOMBE, Bob",
+        "Votes": 3300,
+        "Percent": 4.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MARQUEZ-OBEID, Marlene",
+        "Votes": 3205,
+        "Percent": 4.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "SQUIRES, Matthew",
+        "Votes": 2378,
+        "Percent": 3.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "EVE-MACLEOD, Martine",
+        "Votes": 875,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BASSI, Raul",
+        "Votes": 493,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOATH, Terry",
+        "Votes": 230,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2007": {
+    "title": "Blaxland, NSW   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLARE, Jason",
+        "Votes": 47595,
+        "Percent": 61.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MAJEWSKI, Mark",
+        "Votes": 18665,
+        "Percent": 24.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KY, John",
+        "Votes": 5004,
+        "Percent": 6.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "MCLACHLAN, Chris",
+        "Votes": 1850,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STAVRINOS, Harry",
+        "Votes": 1535,
+        "Percent": 2.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "VINNICOMBE, Bob",
+        "Votes": 1202,
+        "Percent": 1.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "KENT, Gabrielle",
+        "Votes": 1183,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BASSI, Raul",
+        "Votes": 522,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2010": {
+    "title": "Blaxland, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLARE, Hon Jason",
+        "Votes": 37641,
+        "Percent": 51.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MAJEWSKI, Mark",
+        "Votes": 24583,
+        "Percent": 33.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MICHELS, Malikeh",
+        "Votes": 4625,
+        "Percent": 6.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHARAF, Abdul",
+        "Votes": 2131,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PHILLIPS, Richard",
+        "Votes": 2058,
+        "Percent": 2.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "VINNICOMBE, Bob",
+        "Votes": 1351,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BALL, David",
+        "Votes": 1153,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POULSEN, Ronald",
+        "Votes": 288,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2013": {
+    "title": "Blaxland, NSW   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLARE, Hon Jason",
+        "Votes": 43568,
+        "Percent": 55.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KHOURI, Athony",
+        "Votes": 25579,
+        "Percent": 32.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KY, John",
+        "Votes": 2416,
+        "Percent": 3.1
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "BURROWS, Zali",
+        "Votes": 2119,
+        "Percent": 2.7
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "TALEB, Nafez",
+        "Votes": 1921,
+        "Percent": 2.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "NASR, Juliat",
+        "Votes": 1757,
+        "Percent": 2.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ZALLOUA, Boutros",
+        "Votes": 817,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2016": {
+    "title": "Blaxland, NSW   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLARE, Hon Jason",
+        "Votes": 50572,
+        "Percent": 63.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FINDLAY, Felicity",
+        "Votes": 19825,
+        "Percent": 24.8
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "NASR, Clint",
+        "Votes": 4810,
+        "Percent": 6.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "VIRAGO, Suzan",
+        "Votes": 3698,
+        "Percent": 4.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ZABALA, Gabriela",
+        "Votes": 980,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2019": {
+    "title": "Blaxland, NSW   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLARE, Hon Jason",
+        "Votes": 46689,
+        "Percent": 57.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GUNEY, Oz",
+        "Votes": 23289,
+        "Percent": 28.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROONEY, James",
+        "Votes": 4329,
+        "Percent": 5.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "ROWE, Veronica",
+        "Votes": 4173,
+        "Percent": 5.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "ASHRAF, Nadeem",
+        "Votes": 2328,
+        "Percent": 2.9
+      }
+    ]
+  },
+  "2022": {
+    "title": "Blaxland, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLARE, Hon Jason",
+        "Votes": 44905,
+        "Percent": 55.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GUNEY, Oz",
+        "Votes": 22059,
+        "Percent": 27.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "EISLER, Linda",
+        "Votes": 5187,
+        "Percent": 6.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SINOSIC, Elvis",
+        "Votes": 5105,
+        "Percent": 6.3
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "STEPANOFF, Adam",
+        "Votes": 4421,
+        "Percent": 5.4
+      }
+    ]
+  },
+  "2025": {
+    "title": "Blaxland, NSW   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLARE, Jason",
+        "Votes": 40001,
+        "Percent": 46.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NGUYEN, Courtney",
+        "Votes": 17023,
+        "Percent": 19.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "OUF, Ahmed",
+        "Votes": 16302,
+        "Percent": 18.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SAKR, Omar",
+        "Votes": 6854,
+        "Percent": 7.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "KLIEVENS, Mitchell",
+        "Votes": 3086,
+        "Percent": 3.6
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "LUO, Mike",
+        "Votes": 1894,
+        "Percent": 2.2
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "DI GIROLAMO, Jennifer",
+        "Votes": 1726,
+        "Percent": 2.0
+      }
+    ]
+  }
+}

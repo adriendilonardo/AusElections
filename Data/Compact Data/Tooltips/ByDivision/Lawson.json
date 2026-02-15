@@ -1,0 +1,180 @@
+{
+  "1949": {
+    "title": "Lawson, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MANNING, Alan",
+        "Votes": 15969,
+        "Percent": 43.0
+      },
+      {
+        "Party": "CP",
+        "Candidate": "FAILES, Laurence",
+        "Votes": 11531,
+        "Percent": 31.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CROFT, Elwyn",
+        "Votes": 9249,
+        "Percent": 24.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FERGUSON, William",
+        "Votes": 392,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1951": {
+    "title": "Lawson, NSW   1951",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "FAILES, Laurence",
+        "Votes": "19819",
+        "Percent": 53.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MANNING, Alan",
+        "Votes": "17570",
+        "Percent": 47.0
+      }
+    ]
+  },
+  "1954": {
+    "title": "Lawson, NSW   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MANNING, Alan",
+        "Votes": "18998",
+        "Percent": 48.9
+      },
+      {
+        "Party": "CP",
+        "Candidate": "FAILES, Laurence",
+        "Votes": "18497",
+        "Percent": 47.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOURKE, Richard",
+        "Votes": "1373",
+        "Percent": 3.5
+      }
+    ]
+  },
+  "1955": {
+    "title": "Lawson, NSW   1955",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "FAILES, Laurence",
+        "Votes": "22030",
+        "Percent": 56.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIAMSON, John",
+        "Votes": "16845",
+        "Percent": 43.3
+      }
+    ]
+  },
+  "1958": {
+    "title": "Lawson, NSW   1958",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "FAILES, Laurence",
+        "Votes": 19237,
+        "Percent": 49.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TULLY, John",
+        "Votes": 16367,
+        "Percent": 42.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ENGLISH, Edward",
+        "Votes": 3080,
+        "Percent": 8.0
+      }
+    ]
+  },
+  "1961": {
+    "title": "Lawson, NSW   1961",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "FAILES, Laurence",
+        "Votes": 18750,
+        "Percent": 47.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CANOBI, John",
+        "Votes": 18156,
+        "Percent": 46.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SEARLS, Denis",
+        "Votes": 2239,
+        "Percent": 5.7
+      }
+    ]
+  },
+  "1963": {
+    "title": "Lawson, NSW   1963",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "FAILES, Laurence",
+        "Votes": "20991",
+        "Percent": 53.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MORANDINI, Mario",
+        "Votes": "1972",
+        "Percent": 5.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CANOBI, John",
+        "Votes": "16659",
+        "Percent": 42.0
+      }
+    ]
+  },
+  "1966": {
+    "title": "Lawson, NSW   1966",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "FAILES, Laurence",
+        "Votes": 21649,
+        "Percent": 56.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CANOBI, John",
+        "Votes": 14399,
+        "Percent": 37.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MORANDINI, Mario",
+        "Votes": 2239,
+        "Percent": 5.8
+      }
+    ]
+  }
+}

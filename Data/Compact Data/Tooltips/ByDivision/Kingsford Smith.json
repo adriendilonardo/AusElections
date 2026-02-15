@@ -1,0 +1,377 @@
+{
+  "2001": {
+    "title": "Kingsford Smith, NSW   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BRERETON, Hon Laurie",
+        "Votes": 36428,
+        "Percent": 47.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NOTLEY-SMITH, Bruce",
+        "Votes": 26169,
+        "Percent": 34.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HURWITZ, Arthur",
+        "Votes": 5551,
+        "Percent": 7.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ZAKRZEWSKI, Peter",
+        "Votes": 3974,
+        "Percent": 5.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BROWN, Jill",
+        "Votes": 3710,
+        "Percent": 4.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CARMAN, Marina",
+        "Votes": 558,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2004": {
+    "title": "Kingsford Smith, NSW   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GARRETT, Peter",
+        "Votes": 36565,
+        "Percent": 49.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PRASSAS, Nicholas",
+        "Votes": 26639,
+        "Percent": 36.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROBERT, Hannah",
+        "Votes": 5430,
+        "Percent": 7.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MATTHEWS, Charles",
+        "Votes": 2505,
+        "Percent": 3.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "WINTER, Anna",
+        "Votes": 779,
+        "Percent": 1.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TILLOTSON, Nicole",
+        "Votes": 747,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GILROY, Reg",
+        "Votes": 563,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FRANCES, Maureen",
+        "Votes": 273,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COGAN, James",
+        "Votes": 214,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2007": {
+    "title": "Kingsford Smith, NSW   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GARRETT, Peter",
+        "Votes": 45831,
+        "Percent": 52.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BEINKE, Caroline",
+        "Votes": 29402,
+        "Percent": 33.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MAHONY, Sue",
+        "Votes": 8995,
+        "Percent": 10.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "CAMPBELL, Marcus",
+        "Votes": 1402,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SAFARI, Alex",
+        "Votes": 1096,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "Kingsford Smith, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GARRETT, Hon Peter",
+        "Votes": 35957,
+        "Percent": 43.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FENELEY, Michael",
+        "Votes": 33836,
+        "Percent": 41.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SHUREY, Lindsay",
+        "Votes": 9885,
+        "Percent": 12.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CARMONT, Josh",
+        "Votes": 1047,
+        "Percent": 1.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "CUNNINGHAM, John",
+        "Votes": 728,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HAMBIDES, Zac",
+        "Votes": 576,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2013": {
+    "title": "Kingsford Smith, NSW   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FENELEY, Michael",
+        "Votes": 37455,
+        "Percent": 43.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "THISTLETHWAITE, Hon Matt",
+        "Votes": 36177,
+        "Percent": 42.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MACDONALD, James",
+        "Votes": 8431,
+        "Percent": 9.8
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "HAPP, Diane",
+        "Votes": 1611,
+        "Percent": 1.9
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "SHIHA, Jacquie",
+        "Votes": 1379,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LUCAS, Geordie",
+        "Votes": 693,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SOMERFIELD, Danielle",
+        "Votes": 357,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2016": {
+    "title": "Kingsford Smith, NSW   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THISTLETHWAITE, Hon Matt",
+        "Votes": 43642,
+        "Percent": 47.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FENELEY, Dr Michael",
+        "Votes": 34591,
+        "Percent": 37.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MACDONALD, James",
+        "Votes": 9698,
+        "Percent": 10.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "WEATHERSTONE, Andrew",
+        "Votes": 2144,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LEONG, Andrea",
+        "Votes": 2059,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "2019": {
+    "title": "Kingsford Smith, NSW   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THISTLETHWAITE, Hon Matt",
+        "Votes": 42629,
+        "Percent": 45.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WILMOT, Amanda",
+        "Votes": 34380,
+        "Percent": 36.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CRUZ, James",
+        "Votes": 11418,
+        "Percent": 12.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "WATSON, Adam",
+        "Votes": 1649,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JANSSON, James",
+        "Votes": 1595,
+        "Percent": 1.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "MANSON, Adrian",
+        "Votes": 1359,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAMPBELL, Petra",
+        "Votes": 1346,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2022": {
+    "title": "Kingsford Smith, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THISTLETHWAITE, Hon Matt",
+        "Votes": 46697,
+        "Percent": 47.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TAN, Grace",
+        "Votes": 27929,
+        "Percent": 28.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DAVIS, Stuart",
+        "Votes": 16401,
+        "Percent": 16.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "TAWAF, Anthony",
+        "Votes": 3388,
+        "Percent": 3.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MARR, Darrin",
+        "Votes": 3051,
+        "Percent": 3.1
+      }
+    ]
+  },
+  "2025": {
+    "title": "Kingsford Smith, NSW   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THISTLETHWAITE, Matt",
+        "Votes": 50346,
+        "Percent": 50.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "COLE, Brad",
+        "Votes": 25924,
+        "Percent": 26.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BROWN, Keiron",
+        "Votes": 13440,
+        "Percent": 13.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "JELIC, Mark",
+        "Votes": 5865,
+        "Percent": 5.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PARKER, Elsa",
+        "Votes": 3557,
+        "Percent": 3.6
+      }
+    ]
+  }
+}

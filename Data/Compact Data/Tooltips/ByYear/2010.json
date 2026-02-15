@@ -1,0 +1,5846 @@
+{
+  "Banks": {
+    "title": "Banks, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DELEZIO, Ron",
+        "Votes": 38178,
+        "Percent": 45.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MELHAM, Daryl",
+        "Votes": 36034,
+        "Percent": 43.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SPIGHT, Paul",
+        "Votes": 8062,
+        "Percent": 9.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "PARSONS, Michael",
+        "Votes": 1595,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "Barton": {
+    "title": "Barton, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCCLELLAND, Hon Robert",
+        "Votes": 38149,
+        "Percent": 48.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MELA, John La",
+        "Votes": 31998,
+        "Percent": 40.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FRANCIS, Simone",
+        "Votes": 8536,
+        "Percent": 10.9
+      }
+    ]
+  },
+  "Bennelong": {
+    "title": "Bennelong, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ALEXANDER, John",
+        "Votes": 41582,
+        "Percent": 48.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCKEW, Hon Maxine",
+        "Votes": 31803,
+        "Percent": 37.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PETERS, Lindsay",
+        "Votes": 6808,
+        "Percent": 8.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "WORSLEY, Julie",
+        "Votes": 1842,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RAY, Sue",
+        "Votes": 1105,
+        "Percent": 1.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "WATERSON, Victor",
+        "Votes": 725,
+        "Percent": 0.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CHAVURA, Stephen",
+        "Votes": 570,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MOCKLER, Mary",
+        "Votes": 478,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PETERSEN, Terje",
+        "Votes": 344,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POUNDER, Bill",
+        "Votes": 275,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LEVINE, Martin",
+        "Votes": 170,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "Berowra": {
+    "title": "Berowra, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RUDDOCK, Hon Philip",
+        "Votes": 51416,
+        "Percent": 60.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STOVE, Michael",
+        "Votes": 18901,
+        "Percent": 22.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WRIGHT-TURNER, Toni",
+        "Votes": 9762,
+        "Percent": 11.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GALLAGHER, Mick",
+        "Votes": 2455,
+        "Percent": 2.9
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "EVANS, Steve",
+        "Votes": 2350,
+        "Percent": 2.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ELLIS, Christian",
+        "Votes": 840,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "Blaxland": {
+    "title": "Blaxland, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLARE, Hon Jason",
+        "Votes": 37641,
+        "Percent": 51.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MAJEWSKI, Mark",
+        "Votes": 24583,
+        "Percent": 33.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MICHELS, Malikeh",
+        "Votes": 4625,
+        "Percent": 6.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHARAF, Abdul",
+        "Votes": 2131,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PHILLIPS, Richard",
+        "Votes": 2058,
+        "Percent": 2.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "VINNICOMBE, Bob",
+        "Votes": 1351,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BALL, David",
+        "Votes": 1153,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POULSEN, Ronald",
+        "Votes": 288,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "Bradfield": {
+    "title": "Bradfield, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FLETCHER, Paul",
+        "Votes": 56143,
+        "Percent": 64.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GALLARD, Sarah",
+        "Votes": 16742,
+        "Percent": 19.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GEMMELL, Susie",
+        "Votes": 14231,
+        "Percent": 16.3
+      }
+    ]
+  },
+  "Calare": {
+    "title": "Calare, NSW   2010",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "COBB, Hon John",
+        "Votes": 46775,
+        "Percent": 52.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DUFFY, Kevin",
+        "Votes": 25926,
+        "Percent": 29.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BUCKINGHAM, Jeremy",
+        "Votes": 5354,
+        "Percent": 6.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLANCH, Paul",
+        "Votes": 4137,
+        "Percent": 4.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROMANO, Karen",
+        "Votes": 3276,
+        "Percent": 3.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "NORSWORTHY, Jessyka",
+        "Votes": 1957,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MACGREGOR, Ross",
+        "Votes": 1817,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "Charlton": {
+    "title": "Charlton, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COMBET, Hon Greg",
+        "Votes": 44159,
+        "Percent": 53.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCDONALD, John",
+        "Votes": 25514,
+        "Percent": 30.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCKENZIE, Ian",
+        "Votes": 7339,
+        "Percent": 8.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARRY, Patrick",
+        "Votes": 2846,
+        "Percent": 3.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "PICKSTONE, Mitchell",
+        "Votes": 2341,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAWLER, Ann",
+        "Votes": 881,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Chifley": {
+    "title": "Chifley, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HUSIC, Ed",
+        "Votes": 41456,
+        "Percent": 51.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PRIEST, Venus",
+        "Votes": 24369,
+        "Percent": 30.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROBERTSON, Debbie",
+        "Votes": 6776,
+        "Percent": 8.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "VINCENT, Dave",
+        "Votes": 4068,
+        "Percent": 5.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "KEDWELL, Louise",
+        "Votes": 1585,
+        "Percent": 2.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DARLEY, Keith",
+        "Votes": 1174,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COOKSLEY, Terry",
+        "Votes": 943,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "Cook": {
+    "title": "Cook, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MORRISON, Scott",
+        "Votes": 51852,
+        "Percent": 57.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SCAYSBROOK, Peter",
+        "Votes": 25806,
+        "Percent": 28.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WAIZER, Naomi",
+        "Votes": 6924,
+        "Percent": 7.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "SMITH, Beth",
+        "Votes": 1722,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STRANG, Graeme",
+        "Votes": 1568,
+        "Percent": 1.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "PUTRAL, Richard",
+        "Votes": 997,
+        "Percent": 1.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "FOY, Merelyn",
+        "Votes": 719,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "Cowper": {
+    "title": "Cowper, NSW   2010",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "HARTSUYKER, Luke",
+        "Votes": 43242,
+        "Percent": 50.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SEKFY, Paul",
+        "Votes": 23696,
+        "Percent": 27.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ARKAN, John",
+        "Votes": 8446,
+        "Percent": 9.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KING, Dominic",
+        "Votes": 7745,
+        "Percent": 9.1
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "LIONS, Deborah",
+        "Votes": 2039,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "Cunningham": {
+    "title": "Cunningham, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BIRD, Sharon",
+        "Votes": 43769,
+        "Percent": 49.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CLIFFORD, Philip",
+        "Votes": 29241,
+        "Percent": 32.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TAKACS, George",
+        "Votes": 13461,
+        "Percent": 15.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MOORE, Jess",
+        "Votes": 1303,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FLANAGAN, John",
+        "Votes": 1240,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "Dobell": {
+    "title": "Dobell, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THOMSON, Craig",
+        "Votes": 38268,
+        "Percent": 46.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCNAMARA, John",
+        "Votes": 33287,
+        "Percent": 40.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RICKARD, Scott",
+        "Votes": 7121,
+        "Percent": 8.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BRETT, Gavin",
+        "Votes": 2033,
+        "Percent": 2.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "AVASALU, Rhonda",
+        "Votes": 2005,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "Eden-Monaro": {
+    "title": "Eden-Monaro, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KELLY, Hon Dr Mike",
+        "Votes": 37225,
+        "Percent": 43.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GAZARD, David",
+        "Votes": 35714,
+        "Percent": 41.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MOORE, Catherine",
+        "Votes": 8296,
+        "Percent": 9.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "QUILTY, Olga",
+        "Votes": 1152,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCKLEY, Ray",
+        "Votes": 1019,
+        "Percent": 1.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "GRADWELL, Tom",
+        "Votes": 761,
+        "Percent": 0.9
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BENNETT, Ursula",
+        "Votes": 637,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FRAGIACOMO, Frank",
+        "Votes": 559,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Farrer": {
+    "title": "Farrer, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LEY, Hon Sussan",
+        "Votes": 42646,
+        "Percent": 51.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EMMERY, Christian",
+        "Votes": 20931,
+        "Percent": 25.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BURGE, Louise",
+        "Votes": 9350,
+        "Percent": 11.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CARRUTHERS, Peter",
+        "Votes": 4880,
+        "Percent": 5.9
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "MALE, James",
+        "Votes": 2664,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CROTHERS, Mathew",
+        "Votes": 1099,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLANCY, Jason",
+        "Votes": 724,
+        "Percent": 0.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BINGLE, Stephen",
+        "Votes": 603,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Fowler": {
+    "title": "Fowler, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HAYES, Chris",
+        "Votes": 40636,
+        "Percent": 52.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DANG, Thomas",
+        "Votes": 28402,
+        "Percent": 36.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WESTERBERG, Signe",
+        "Votes": 5144,
+        "Percent": 6.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HEAD, Mike",
+        "Votes": 2700,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "Gilmore": {
+    "title": "Gilmore, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GASH, Joanna",
+        "Votes": 44050,
+        "Percent": 50.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "REILLY, Neil",
+        "Votes": 30430,
+        "Percent": 35.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WIJNGAART, Ben van der",
+        "Votes": 8279,
+        "Percent": 9.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BRUMERSKYJ, Bohdan",
+        "Votes": 2310,
+        "Percent": 2.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CUNNINGHAM, Elizabeth",
+        "Votes": 781,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEYS, Don",
+        "Votes": 374,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILLIAMS, Annette",
+        "Votes": 275,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "Grayndler": {
+    "title": "Grayndler, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ALBANESE, Hon Anthony",
+        "Votes": 38369,
+        "Percent": 46.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BYRNE, Sam",
+        "Votes": 21555,
+        "Percent": 25.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DORE, Alexander",
+        "Votes": 20178,
+        "Percent": 24.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GAROFANI, Penny",
+        "Votes": 1074,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COGAN, James",
+        "Votes": 1041,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HINMAN, Pip",
+        "Votes": 1022,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "Greenway": {
+    "title": "Greenway, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ROWLAND, Michelle",
+        "Votes": 33567,
+        "Percent": 42.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DIAZ, Jaymes",
+        "Votes": 32788,
+        "Percent": 41.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TAYLOR, Paul",
+        "Votes": 4769,
+        "Percent": 6.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "GREEN, Allan",
+        "Votes": 2922,
+        "Percent": 3.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MULLER, Iris",
+        "Votes": 1296,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BAIADA, John",
+        "Votes": 815,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PETTITT, Tony",
+        "Votes": 780,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SANTOS, Michael",
+        "Votes": 770,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LIMA, Joaquim De",
+        "Votes": 542,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TANDA, Amarjit",
+        "Votes": 530,
+        "Percent": 0.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "VILLAVER, Ronaldo",
+        "Votes": 529,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Hughes": {
+    "title": "Hughes, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KELLY, Craig",
+        "Votes": 42424,
+        "Percent": 49.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "THOMAS, Brent",
+        "Votes": 32611,
+        "Percent": 37.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROBERTS, Susan",
+        "Votes": 5430,
+        "Percent": 6.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "NAILON, Scott",
+        "Votes": 2112,
+        "Percent": 2.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BUSSA, Peter",
+        "Votes": 1599,
+        "Percent": 1.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HURLEY, Stan",
+        "Votes": 1183,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NGUYEN, Don",
+        "Votes": 948,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Hume": {
+    "title": "Hume, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SCHULTZ, Alby",
+        "Votes": 47137,
+        "Percent": 53.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SAVILLE, Robin",
+        "Votes": 28044,
+        "Percent": 31.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WATCHIRS, Kevin",
+        "Votes": 6737,
+        "Percent": 7.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LIPTAK, Charles",
+        "Votes": 2075,
+        "Percent": 2.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BUTTIGIEG, Karen",
+        "Votes": 1546,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BUTLER, Greg",
+        "Votes": 1280,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MILAT, Lisa",
+        "Votes": 1197,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "Hunter": {
+    "title": "Hunter, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FITZGIBBON, Hon Joel",
+        "Votes": 44159,
+        "Percent": 54.3
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "JOHNSON, Michael",
+        "Votes": 25245,
+        "Percent": 31.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PARKER, Chris",
+        "Votes": 7251,
+        "Percent": 8.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "LEAYR, Jennifer",
+        "Votes": 2721,
+        "Percent": 3.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "RILEY, Wayne",
+        "Votes": 1938,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "Kingsford Smith": {
+    "title": "Kingsford Smith, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GARRETT, Hon Peter",
+        "Votes": 35957,
+        "Percent": 43.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FENELEY, Michael",
+        "Votes": 33836,
+        "Percent": 41.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SHUREY, Lindsay",
+        "Votes": 9885,
+        "Percent": 12.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CARMONT, Josh",
+        "Votes": 1047,
+        "Percent": 1.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "CUNNINGHAM, John",
+        "Votes": 728,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HAMBIDES, Zac",
+        "Votes": 576,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Lindsay": {
+    "title": "Lindsay, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BRADBURY, David",
+        "Votes": 37076,
+        "Percent": 44.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SCOTT, Fiona",
+        "Votes": 36114,
+        "Percent": 43.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WRIGHT, Suzie",
+        "Votes": 3944,
+        "Percent": 4.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "GREEN, Andrew",
+        "Votes": 2502,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, Geoff",
+        "Votes": 1583,
+        "Percent": 1.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "PHILLIPS, John",
+        "Votes": 1032,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SAUNDERS, Mick",
+        "Votes": 976,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "Lyne": {
+    "title": "Lyne, NSW   2010",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "OAKESHOTT, Rob",
+        "Votes": 40061,
+        "Percent": 47.2
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "GILLESPIE, Dr David",
+        "Votes": 29216,
+        "Percent": 34.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LIPS, Frederik",
+        "Votes": 11459,
+        "Percent": 13.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "OXENFORD, Ian",
+        "Votes": 3645,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WRIGHT, Barry",
+        "Votes": 586,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Macarthur": {
+    "title": "Macarthur, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MATHESON, Russell",
+        "Votes": 37069,
+        "Percent": 47.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BLEASDALE, Nick",
+        "Votes": 30151,
+        "Percent": 38.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BLASIO, Jessica Di",
+        "Votes": 4347,
+        "Percent": 5.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MCCULLOCH, Kate",
+        "Votes": 2338,
+        "Percent": 3.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HERBERT, Grant",
+        "Votes": 1757,
+        "Percent": 2.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "NORSWORTHY, Nolene",
+        "Votes": 1377,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MEAD, Clinton",
+        "Votes": 652,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAMMARERI, Domenic",
+        "Votes": 512,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Mackellar": {
+    "title": "Mackellar, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BISHOP, Hon Bronwyn",
+        "Votes": 54110,
+        "Percent": 61.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BEATTIE, Linda",
+        "Votes": 18381,
+        "Percent": 21.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KING, Jonathan",
+        "Votes": 14609,
+        "Percent": 16.8
+      }
+    ]
+  },
+  "Mcmahon": {
+    "title": "Mcmahon, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BOWEN, Hon Chris",
+        "Votes": 40933,
+        "Percent": 51.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ELISHE, Jamal",
+        "Votes": 28950,
+        "Percent": 36.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "O'NEILL, Astrid",
+        "Votes": 6428,
+        "Percent": 8.1
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "POULARAS, Manny",
+        "Votes": 3549,
+        "Percent": 4.4
+      }
+    ]
+  },
+  "Macquarie": {
+    "title": "Macquarie, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MARKUS, Louise",
+        "Votes": 38867,
+        "Percent": 44.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TEMPLEMAN, Susan",
+        "Votes": 28284,
+        "Percent": 32.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCCALLUM, Carmel",
+        "Votes": 12317,
+        "Percent": 14.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WHELAN, Peter",
+        "Votes": 2087,
+        "Percent": 2.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "PORTELLI, Luke",
+        "Votes": 1883,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BELL, Amy",
+        "Votes": 1778,
+        "Percent": 2.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CORNELIUS, Jason",
+        "Votes": 922,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BATES, John",
+        "Votes": 676,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TREMETHICK, Terry",
+        "Votes": 591,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Mitchell": {
+    "title": "Mitchell, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAWKE, Alex",
+        "Votes": 52465,
+        "Percent": 62.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GOULD, Nigel",
+        "Votes": 22046,
+        "Percent": 26.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DAWSON, Colin",
+        "Votes": 6363,
+        "Percent": 7.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "PRENTICE, Brendon",
+        "Votes": 2855,
+        "Percent": 3.4
+      }
+    ]
+  },
+  "New England": {
+    "title": "New England, NSW   2010",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "WINDSOR, Tony",
+        "Votes": 56415,
+        "Percent": 61.9
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "COATES, Tim",
+        "Votes": 22991,
+        "Percent": 25.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Greg",
+        "Votes": 7414,
+        "Percent": 8.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SCHULTZ, Pat",
+        "Votes": 3252,
+        "Percent": 3.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "DETTMANN, Brian",
+        "Votes": 794,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WITTEN, Richard",
+        "Votes": 306,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "Newcastle": {
+    "title": "Newcastle, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRIERSON, Sharon",
+        "Votes": 39253,
+        "Percent": 47.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LUKE, Brad",
+        "Votes": 25680,
+        "Percent": 31.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "OSBORNE, Michael",
+        "Votes": 12677,
+        "Percent": 15.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "CAINE, Milton",
+        "Votes": 1479,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WINTER, Dean",
+        "Votes": 1419,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ALCORN, Zane",
+        "Votes": 829,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOLT, Noel",
+        "Votes": 627,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "North Sydney": {
+    "title": "North Sydney, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOCKEY, Hon Joe",
+        "Votes": 51179,
+        "Percent": 59.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WEBB, Leta",
+        "Votes": 18961,
+        "Percent": 22.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROBJOHNS, Andrew",
+        "Votes": 13314,
+        "Percent": 15.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PEARCE, Daniel",
+        "Votes": 1275,
+        "Percent": 1.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LE, Daniel",
+        "Votes": 980,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Page": {
+    "title": "Page, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SAFFIN, Janelle",
+        "Votes": 39043,
+        "Percent": 45.7
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "HOGAN, Kevin",
+        "Votes": 36263,
+        "Percent": 42.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JOHNSON, Jeff",
+        "Votes": 7325,
+        "Percent": 8.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BEHN, Doug",
+        "Votes": 1259,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SUMMERVILLE, Merle",
+        "Votes": 896,
+        "Percent": 1.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MELLAND, Julia",
+        "Votes": 598,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Parkes": {
+    "title": "Parkes, NSW   2010",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "COULTON, Mark",
+        "Votes": 53154,
+        "Percent": 59.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BROOKS, Andrew",
+        "Votes": 19081,
+        "Percent": 21.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLEMENTS, John",
+        "Votes": 9146,
+        "Percent": 10.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PARMENTER, Matt",
+        "Votes": 5028,
+        "Percent": 5.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COLLESS, Mick",
+        "Votes": 3326,
+        "Percent": 3.7
+      }
+    ]
+  },
+  "Parramatta": {
+    "title": "Parramatta, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "OWENS, Julie",
+        "Votes": 34818,
+        "Percent": 44.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAMENZULI, Charles",
+        "Votes": 31889,
+        "Percent": 40.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BRADLEY, Phil",
+        "Votes": 6237,
+        "Percent": 8.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "SHARAH, Alex",
+        "Votes": 2404,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PATEL, Kalpesh",
+        "Votes": 1436,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GORDON, Chris",
+        "Votes": 1203,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RODEN, Duncan",
+        "Votes": 330,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "Paterson": {
+    "title": "Paterson, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BALDWIN, Hon Bob",
+        "Votes": 42262,
+        "Percent": 51.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ARNEMAN, Jim",
+        "Votes": 31522,
+        "Percent": 38.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DAVIS, Jan",
+        "Votes": 4936,
+        "Percent": 6.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "LEAYR, Kevin",
+        "Votes": 1044,
+        "Percent": 1.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BALFOUR, Anna",
+        "Votes": 870,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WIEDENHORN, Josef",
+        "Votes": 699,
+        "Percent": 0.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LAMBERT, Veronica",
+        "Votes": 674,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HENNELLY, Paul",
+        "Votes": 379,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "Reid": {
+    "title": "Reid, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "COOPER, Peter",
+        "Votes": 34328,
+        "Percent": 43.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MURPHY, Hon John",
+        "Votes": 33051,
+        "Percent": 41.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BUTLER, Adam",
+        "Votes": 8903,
+        "Percent": 11.2
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "SHAILER, Bill",
+        "Votes": 2445,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KENNETT, Carolyn",
+        "Votes": 901,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Richmond": {
+    "title": "Richmond, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIOT, Hon Justine",
+        "Votes": 31679,
+        "Percent": 39.2
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "HUNTER, Alan",
+        "Votes": 17146,
+        "Percent": 21.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LIESHOUT, Joan van",
+        "Votes": 15425,
+        "Percent": 19.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "EBONO, Joe",
+        "Votes": 13056,
+        "Percent": 16.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOYD, Julie",
+        "Votes": 940,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARTLEY, Matthew",
+        "Votes": 805,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HEGEDUS, Stephen",
+        "Votes": 747,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FAULKNER, Nic",
+        "Votes": 536,
+        "Percent": 0.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROBINSON, David",
+        "Votes": 502,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Riverina": {
+    "title": "Riverina, NSW   2010",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "MCCORMACK, Michael",
+        "Votes": 39389,
+        "Percent": 44.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HAKELIS, Robin",
+        "Votes": 19559,
+        "Percent": 22.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NEGLINE, Andrew",
+        "Votes": 14536,
+        "Percent": 16.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOGG, Matthew",
+        "Votes": 5148,
+        "Percent": 5.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FLETCHER, David",
+        "Votes": 3961,
+        "Percent": 4.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "QUILTY, Tim",
+        "Votes": 1703,
+        "Percent": 1.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HESKETH, Craig",
+        "Votes": 1411,
+        "Percent": 1.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "MULHOLLAND, Sylvia",
+        "Votes": 1201,
+        "Percent": 1.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LEVER, Rhonda",
+        "Votes": 1081,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "Robertson": {
+    "title": "Robertson, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JAMESON, Darren",
+        "Votes": 37151,
+        "Percent": 43.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'NEILL, Deborah",
+        "Votes": 33935,
+        "Percent": 39.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FREEWATER, Peter",
+        "Votes": 7671,
+        "Percent": 9.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "FREEMANTLE, Graham",
+        "Votes": 1544,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BATTEN, Melissa",
+        "Votes": 1513,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CASSAR, Jake",
+        "Votes": 1077,
+        "Percent": 1.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "JAKOB, Michael",
+        "Votes": 749,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BEIGER, Nicole",
+        "Votes": 581,
+        "Percent": 0.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "PARKES, Don",
+        "Votes": 568,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MEARES, Michelle",
+        "Votes": 552,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Shortland": {
+    "title": "Shortland, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HALL, Jill",
+        "Votes": 44987,
+        "Percent": 53.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NARAYANAN, Deborah",
+        "Votes": 27758,
+        "Percent": 33.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PARSONS, Phillipa",
+        "Votes": 8646,
+        "Percent": 10.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "ALCHIN, Milton",
+        "Votes": 1726,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILLIAMS, Peter",
+        "Votes": 596,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Sydney": {
+    "title": "Sydney, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PLIBERSEK, Hon Tanya",
+        "Votes": 34362,
+        "Percent": 43.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WEISS, Gordon",
+        "Votes": 22307,
+        "Percent": 28.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HICKEY, Tony",
+        "Votes": 18852,
+        "Percent": 23.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PATERSON, Brett",
+        "Votes": 1256,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WARD, Jane",
+        "Votes": 1226,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "OWEN, Christopher",
+        "Votes": 718,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOHERTY, Denis",
+        "Votes": 656,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "Throsby": {
+    "title": "Throsby, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Stephen",
+        "Votes": 42227,
+        "Percent": 50.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ARKWRIGHT, Juliet",
+        "Votes": 25330,
+        "Percent": 30.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MORAN, Peter",
+        "Votes": 9973,
+        "Percent": 11.9
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "HAY, Alan",
+        "Votes": 4446,
+        "Percent": 5.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARTMAN, Wayne",
+        "Votes": 1595,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "Warringah": {
+    "title": "Warringah, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ABBOTT, Hon Tony",
+        "Votes": 50063,
+        "Percent": 58.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ZOCHLING, Hugh",
+        "Votes": 18385,
+        "Percent": 21.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DRAKE-BROCKMAN, Matthew",
+        "Votes": 13883,
+        "Percent": 16.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GUTMAN, Alexander",
+        "Votes": 2075,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COOKE, Kenneth",
+        "Votes": 566,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Watson": {
+    "title": "Watson, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BURKE, Hon Tony",
+        "Votes": 38707,
+        "Percent": 50.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NAM, Ken",
+        "Votes": 28527,
+        "Percent": 37.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DONAYRE, Christine",
+        "Votes": 7387,
+        "Percent": 9.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHARMA, Mark",
+        "Votes": 2136,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "Wentworth": {
+    "title": "Wentworth, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TURNBULL, Hon Malcolm",
+        "Votes": 51634,
+        "Percent": 59.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LEWIS, Steven",
+        "Votes": 18265,
+        "Percent": 21.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROBERTSON, Matthew",
+        "Votes": 15114,
+        "Percent": 17.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHEIL, Pat",
+        "Votes": 515,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DUNCAN, Malcolm",
+        "Votes": 484,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NEAL, Stuart",
+        "Votes": 389,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "AUGUST, John",
+        "Votes": 275,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "Werriwa": {
+    "title": "Werriwa, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FERGUSON, Hon Laurie",
+        "Votes": 36582,
+        "Percent": 48.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ESKAROS, Sam",
+        "Votes": 29165,
+        "Percent": 38.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MOORE, Lauren",
+        "Votes": 9567,
+        "Percent": 12.7
+      }
+    ]
+  },
+  "Aston": {
+    "title": "Aston, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TUDGE, Alan",
+        "Votes": 39733,
+        "Percent": 46.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EVANS, Rupert",
+        "Votes": 32725,
+        "Percent": 38.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CRAIG, Salore",
+        "Votes": 8206,
+        "Percent": 9.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HANNA, Rachel",
+        "Votes": 4153,
+        "Percent": 4.9
+      }
+    ]
+  },
+  "Ballarat": {
+    "title": "Ballarat, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KING, Catherine",
+        "Votes": 46289,
+        "Percent": 51.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BANWELL, Mark",
+        "Votes": 30364,
+        "Percent": 34.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COATES, Belinda",
+        "Votes": 10140,
+        "Percent": 11.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "RAINEY, Jim",
+        "Votes": 2646,
+        "Percent": 3.0
+      }
+    ]
+  },
+  "Batman": {
+    "title": "Batman, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FERGUSON, Hon Martin",
+        "Votes": 40574,
+        "Percent": 52.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BHATHAL, Alexandra",
+        "Votes": 18189,
+        "Percent": 23.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SOURIS, George",
+        "Votes": 15412,
+        "Percent": 19.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CONLON, Andrew",
+        "Votes": 2465,
+        "Percent": 3.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SARAZEN, Con",
+        "Votes": 823,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Bendigo": {
+    "title": "Bendigo, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GIBBONS, Steve",
+        "Votes": 43965,
+        "Percent": 47.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HUNTER, Craig",
+        "Votes": 33067,
+        "Percent": 35.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DIMOZANTOS, Kymberlie",
+        "Votes": 11341,
+        "Percent": 12.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HOWARD, Alan",
+        "Votes": 3892,
+        "Percent": 4.2
+      }
+    ]
+  },
+  "Bruce": {
+    "title": "Bruce, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRIFFIN, Hon Alan",
+        "Votes": 37794,
+        "Percent": 49.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KABOS, Mike",
+        "Votes": 28580,
+        "Percent": 37.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ZIBELL, Stefan",
+        "Votes": 7222,
+        "Percent": 9.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HEMMERSBACH, Felicity",
+        "Votes": 3151,
+        "Percent": 4.1
+      }
+    ]
+  },
+  "Calwell": {
+    "title": "Calwell, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "VAMVAKINOU, Maria",
+        "Votes": 49580,
+        "Percent": 56.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TSENG, Wayne",
+        "Votes": 22556,
+        "Percent": 25.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "THOMPSON, Lenka",
+        "Votes": 10386,
+        "Percent": 11.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "TRUSCOTT, Jeff",
+        "Votes": 3851,
+        "Percent": 4.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BYRNE, Peter",
+        "Votes": 1181,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "Casey": {
+    "title": "Casey, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SMITH, Hon Tony",
+        "Votes": 40588,
+        "Percent": 48.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HISHEH, Sami",
+        "Votes": 29565,
+        "Percent": 35.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "POWELL, Brendan",
+        "Votes": 9661,
+        "Percent": 11.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HARRISON, Daniel",
+        "Votes": 4083,
+        "Percent": 4.9
+      }
+    ]
+  },
+  "Chisholm": {
+    "title": "Chisholm, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BURKE, Anna",
+        "Votes": 34492,
+        "Percent": 44.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NGUYEN, John",
+        "Votes": 31093,
+        "Percent": 40.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FERGEUS, Josh",
+        "Votes": 9196,
+        "Percent": 11.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "GOODMAN, Phil",
+        "Votes": 2107,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EVANS, Nimrod",
+        "Votes": 562,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Corangamite": {
+    "title": "Corangamite, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HENDERSON, Sarah",
+        "Votes": 42155,
+        "Percent": 45.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CHEESEMAN, Darren",
+        "Votes": 37043,
+        "Percent": 39.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LAWRENCE, Mike",
+        "Votes": 10713,
+        "Percent": 11.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "WOJCZUK, Ann",
+        "Votes": 1850,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, Sally-Anne",
+        "Votes": 1418,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TIMMINS, Nathan",
+        "Votes": 520,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Corio": {
+    "title": "Corio, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MARLES, Hon Richard",
+        "Votes": 42578,
+        "Percent": 51.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GIBSON, Don",
+        "Votes": 25729,
+        "Percent": 31.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BROWN, Gavin",
+        "Votes": 10355,
+        "Percent": 12.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "AMBERLEY, Scott",
+        "Votes": 3028,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BULL, Sue",
+        "Votes": 971,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "Deakin": {
+    "title": "Deakin, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BARRESI, Phil",
+        "Votes": 33553,
+        "Percent": 41.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SYMON, Mike",
+        "Votes": 31941,
+        "Percent": 39.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HOWELL, David",
+        "Votes": 10338,
+        "Percent": 12.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LAKE, Peter",
+        "Votes": 2532,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SEVILOGLOU, Abraham",
+        "Votes": 836,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WALSH, Benjamin",
+        "Votes": 505,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NORWICK, Alex",
+        "Votes": 295,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "Dunkley": {
+    "title": "Dunkley, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BILLSON, Hon Bruce",
+        "Votes": 40602,
+        "Percent": 47.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CONSTANS, Helen",
+        "Votes": 32889,
+        "Percent": 38.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TILLER, Simon",
+        "Votes": 10033,
+        "Percent": 11.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ZILWA, Yasmin De",
+        "Votes": 2276,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "Flinders": {
+    "title": "Flinders, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HUNT, Hon Greg",
+        "Votes": 49146,
+        "Percent": 54.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GAGLIANO-VENTURA, Francis",
+        "Votes": 28747,
+        "Percent": 31.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BROWN, Robert",
+        "Votes": 10410,
+        "Percent": 11.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SMITH, Reade",
+        "Votes": 2198,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "Gellibrand": {
+    "title": "Gellibrand, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ROXON, Hon Nicola",
+        "Votes": 48971,
+        "Percent": 58.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCCONNELL, David",
+        "Votes": 19070,
+        "Percent": 22.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SOLIN, Rodney",
+        "Votes": 12779,
+        "Percent": 15.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MUMBY, Liz",
+        "Votes": 1440,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COURTICE, Ben",
+        "Votes": 528,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BAPTIST, Tania",
+        "Votes": 475,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Gippsland": {
+    "title": "Gippsland, VIC   2010",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "CHESTER, Darren",
+        "Votes": 47020,
+        "Percent": 53.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCCUBBIN, Darren",
+        "Votes": 28008,
+        "Percent": 31.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BOND, Michael",
+        "Votes": 5826,
+        "Percent": 6.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCKLEY, Ben",
+        "Votes": 4895,
+        "Percent": 5.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "JEFFERIS, Heath",
+        "Votes": 2963,
+        "Percent": 3.3
+      }
+    ]
+  },
+  "Goldstein": {
+    "title": "Goldstein, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ROBB, Hon Andrew",
+        "Votes": 44436,
+        "Percent": 52.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EDEN, Nick",
+        "Votes": 25227,
+        "Percent": 29.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PILLING, Neil",
+        "Votes": 13708,
+        "Percent": 16.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "FORSTER, Anthony",
+        "Votes": 1187,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "Gorton": {
+    "title": "Gorton, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, Hon Brendan",
+        "Votes": 58767,
+        "Percent": 60.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RYDER, Damon",
+        "Votes": 23116,
+        "Percent": 23.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WILSON, Steve",
+        "Votes": 9949,
+        "Percent": 10.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MAJOR, Sean",
+        "Votes": 6153,
+        "Percent": 6.3
+      }
+    ]
+  },
+  "Higgins": {
+    "title": "Higgins, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "O'DWYER, Kelly",
+        "Votes": 42086,
+        "Percent": 51.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CLARK, Tony",
+        "Votes": 22700,
+        "Percent": 27.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HIBBINS, Samuel",
+        "Votes": 14559,
+        "Percent": 17.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FAWCETT, David",
+        "Votes": 1225,
+        "Percent": 1.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "TRUTER, Ashley",
+        "Votes": 777,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "Holt": {
+    "title": "Holt, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BYRNE, Hon Anthony",
+        "Votes": 51998,
+        "Percent": 54.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BALANCY, Ricardo",
+        "Votes": 29254,
+        "Percent": 30.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MASCOLO, Frank Di",
+        "Votes": 8745,
+        "Percent": 9.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "GEORGE, Ian",
+        "Votes": 4772,
+        "Percent": 5.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HITCHINS, Mark",
+        "Votes": 776,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "Hotham": {
+    "title": "Hotham, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CREAN, Hon Simon",
+        "Votes": 42920,
+        "Percent": 54.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CADER, Fazal",
+        "Votes": 26110,
+        "Percent": 32.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PAYNE, Geoff",
+        "Votes": 8086,
+        "Percent": 10.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ONG, Gary",
+        "Votes": 1688,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "REARDON, Trent",
+        "Votes": 556,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Indi": {
+    "title": "Indi, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MIRABELLA, Sophie",
+        "Votes": 44555,
+        "Percent": 52.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LESCHEN, Zuvele",
+        "Votes": 23034,
+        "Percent": 27.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "O'CONNOR, Jenny",
+        "Votes": 8000,
+        "Percent": 9.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAPPIN, Alan",
+        "Votes": 4945,
+        "Percent": 5.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CAVEDON, Robert",
+        "Votes": 3190,
+        "Percent": 3.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CAREY, Mark",
+        "Votes": 947,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Isaacs": {
+    "title": "Isaacs, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DREYFUS, Mark",
+        "Votes": 45131,
+        "Percent": 49.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCCLELLAND, Dale",
+        "Votes": 31472,
+        "Percent": 34.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CARMAN, Chris",
+        "Votes": 9980,
+        "Percent": 10.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "WHEATLEY, Heather",
+        "Votes": 3377,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FORD, Gordon W",
+        "Votes": 1355,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "Jagajaga": {
+    "title": "Jagajaga, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MACKLIN, Hon Jenny",
+        "Votes": 40682,
+        "Percent": 47.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BAUCH, Joh",
+        "Votes": 29745,
+        "Percent": 34.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KEARNEY, Chris",
+        "Votes": 12847,
+        "Percent": 15.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SGARLATA, Joe",
+        "Votes": 2109,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARRIS, Peter",
+        "Votes": 560,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Kooyong": {
+    "title": "Kooyong, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FRYDENBERG, Josh",
+        "Votes": 42728,
+        "Percent": 52.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HURD, Steve",
+        "Votes": 22268,
+        "Percent": 27.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BENSON, Des",
+        "Votes": 15019,
+        "Percent": 18.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LAIDLER, John",
+        "Votes": 1272,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "La Trobe": {
+    "title": "La Trobe, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WOOD, Jason",
+        "Votes": 39053,
+        "Percent": 43.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMYTH, Laura",
+        "Votes": 33970,
+        "Percent": 38.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "REIHER, Jim",
+        "Votes": 10931,
+        "Percent": 12.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LEAHY, Martin",
+        "Votes": 2539,
+        "Percent": 2.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BARROW, David",
+        "Votes": 1917,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BENNETT, Shem",
+        "Votes": 587,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Lalor": {
+    "title": "Lalor, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GILLARD, Hon Julia",
+        "Votes": 66298,
+        "Percent": 64.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "INGRAM, Sheridan",
+        "Votes": 23791,
+        "Percent": 23.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TAYLOR, Peter",
+        "Votes": 7045,
+        "Percent": 6.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MCLEAN, Lori",
+        "Votes": 2880,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHEEHAN, Paul",
+        "Votes": 881,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLARKE, Joanne",
+        "Votes": 708,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHAW, Brian",
+        "Votes": 659,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RUDD, Van",
+        "Votes": 516,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "AUSSIE-STONE, Marc",
+        "Votes": 410,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "Mcewen": {
+    "title": "Mcewen, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MITCHELL, Rob",
+        "Votes": 45374,
+        "Percent": 43.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAINE, Cameron",
+        "Votes": 42054,
+        "Percent": 40.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MEACHER, Steve",
+        "Votes": 12440,
+        "Percent": 11.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CLARKSON, Belinda",
+        "Votes": 3358,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BINI, Mark",
+        "Votes": 1332,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GORDON, Robert",
+        "Votes": 549,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "Mcmillan": {
+    "title": "Mcmillan, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BROADBENT, Russell",
+        "Votes": 41870,
+        "Percent": 49.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MAXFIELD, Christine",
+        "Votes": 30212,
+        "Percent": 35.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCKELVIE, Malcolm",
+        "Votes": 8258,
+        "Percent": 9.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "STOKES, Linden",
+        "Votes": 2776,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GATT, Leigh",
+        "Votes": 1844,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "Mallee": {
+    "title": "Mallee, VIC   2010",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "FORREST, John",
+        "Votes": 54399,
+        "Percent": 66.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SCATES, Bob",
+        "Votes": 16198,
+        "Percent": 19.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HEALY, Helen",
+        "Votes": 6400,
+        "Percent": 7.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CARTER, Carl",
+        "Votes": 4456,
+        "Percent": 5.5
+      }
+    ]
+  },
+  "Maribyrnong": {
+    "title": "Maribyrnong, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SHORTEN, Hon Bill",
+        "Votes": 42404,
+        "Percent": 55.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "D'SOUZA, Conrad",
+        "Votes": 22262,
+        "Percent": 29.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LONG, Tim",
+        "Votes": 9077,
+        "Percent": 11.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MOYLE, Colin",
+        "Votes": 1988,
+        "Percent": 2.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LIVESAY, Robert",
+        "Votes": 841,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Melbourne": {
+    "title": "Melbourne, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BOWTELL, Cath",
+        "Votes": 34022,
+        "Percent": 38.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BANDT, Dr Adam",
+        "Votes": 32308,
+        "Percent": 36.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "OLSEN, Simon",
+        "Votes": 18760,
+        "Percent": 21.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MURRAY, Joel",
+        "Votes": 1633,
+        "Percent": 1.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "PEARSON, Georgia",
+        "Votes": 1389,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GREEN, Penelope",
+        "Votes": 613,
+        "Percent": 0.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COLLYER, David",
+        "Votes": 602,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Melbourne Ports": {
+    "title": "Melbourne Ports, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DANBY, Michael",
+        "Votes": 32391,
+        "Percent": 38.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "EKENDAHL, Kevin",
+        "Votes": 32057,
+        "Percent": 37.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PLOWRIGHT, Sue",
+        "Votes": 17528,
+        "Percent": 20.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VEGA, Christian",
+        "Votes": 1851,
+        "Percent": 2.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "EMMERSON, Daniel",
+        "Votes": 632,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STORRER, Gregory",
+        "Votes": 362,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "Menzies": {
+    "title": "Menzies, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ANDREWS, Hon Kevin",
+        "Votes": 43932,
+        "Percent": 53.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BANERJI, Joy",
+        "Votes": 26287,
+        "Percent": 32.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PADGHAM, Chris",
+        "Votes": 8802,
+        "Percent": 10.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SMITHIES, Ken",
+        "Votes": 2892,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "Murray": {
+    "title": "Murray, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "STONE, Hon Dr Sharman",
+        "Votes": 52337,
+        "Percent": 65.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MORTENSEN, Hugh",
+        "Votes": 18842,
+        "Percent": 23.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CHRISTOE, Ian",
+        "Votes": 4906,
+        "Percent": 6.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MOORE, Serena",
+        "Votes": 2958,
+        "Percent": 3.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "MCDONALD, Ewen",
+        "Votes": 632,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAVY, Jeff",
+        "Votes": 493,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLARKE-HANNAFORD, William",
+        "Votes": 380,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "Scullin": {
+    "title": "Scullin, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JENKINS, Hon Harry",
+        "Votes": 49310,
+        "Percent": 62.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WILLIAMS, Max",
+        "Votes": 19142,
+        "Percent": 24.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SEKHON, Gurm",
+        "Votes": 6702,
+        "Percent": 8.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "STRATOV, Ivan",
+        "Votes": 4226,
+        "Percent": 5.3
+      }
+    ]
+  },
+  "Wannon": {
+    "title": "Wannon, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TEHAN, Dan",
+        "Votes": 38813,
+        "Percent": 46.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCNAMARA, Judith",
+        "Votes": 24502,
+        "Percent": 29.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "OWEN, Lisa",
+        "Votes": 5016,
+        "Percent": 6.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PURCELL, James",
+        "Votes": 4652,
+        "Percent": 5.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RAINSFORD, Katrina",
+        "Votes": 4066,
+        "Percent": 4.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LEUTTON, Ralph",
+        "Votes": 2582,
+        "Percent": 3.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CONCEPCION, Jahzeel",
+        "Votes": 1795,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MARSH, Allan",
+        "Votes": 1080,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'BRIEN, Robert",
+        "Votes": 745,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "Wills": {
+    "title": "Wills, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THOMSON, Kelvin",
+        "Votes": 43718,
+        "Percent": 51.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TOMISICH, Claude",
+        "Votes": 20080,
+        "Percent": 23.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RILEY, Mark",
+        "Votes": 17381,
+        "Percent": 20.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MUMBY, Daniel",
+        "Votes": 1320,
+        "Percent": 1.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROBERTSON, Paul",
+        "Votes": 734,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HAWKINS, Trent",
+        "Votes": 726,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ISHERWOOD, Craig",
+        "Votes": 429,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "Blair": {
+    "title": "Blair, QLD   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "NEUMANN, Shayne",
+        "Votes": 30890,
+        "Percent": 42.1
+      },
+      {
+        "Party": "LNP",
+        "Candidate": "ZABEL, Neil",
+        "Votes": 27525,
+        "Percent": 37.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PETERSEN, Patricia",
+        "Votes": 8122,
+        "Percent": 11.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "OLYSLAGERS, Joshua",
+        "Votes": 3605,
+        "Percent": 4.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KING, Brad",
+        "Votes": 3267,
+        "Percent": 4.5
+      }
+    ]
+  },
+  "Bonner": {
+    "title": "Bonner, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "VASTA, Ross",
+        "Votes": 38105,
+        "Percent": 46.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "REA, Kerry",
+        "Votes": 29639,
+        "Percent": 36.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROSIN, Darryl",
+        "Votes": 9188,
+        "Percent": 11.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "FERRANDO, Carolyn",
+        "Votes": 2318,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SOWDEN, Greg",
+        "Votes": 1984,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WELLNER, Utz",
+        "Votes": 931,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Bowman": {
+    "title": "Bowman, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "LAMING, Dr Andrew",
+        "Votes": 45585,
+        "Percent": 55.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PETERS, Jenny",
+        "Votes": 24719,
+        "Percent": 30.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KEOGH, David",
+        "Votes": 8174,
+        "Percent": 10.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "WINDOLF, Karina",
+        "Votes": 1834,
+        "Percent": 2.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "CHIDGEY, Dave",
+        "Votes": 865,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KENT, John",
+        "Votes": 768,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "Brisbane": {
+    "title": "Brisbane, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "GAMBARO, Hon Teresa",
+        "Votes": 37191,
+        "Percent": 45.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BEVIS, Hon Arch",
+        "Votes": 24623,
+        "Percent": 30.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BARTLETT, Andrew",
+        "Votes": 17244,
+        "Percent": 21.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "WHITE, Mark",
+        "Votes": 1274,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SAUNDERS, Ewan",
+        "Votes": 717,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "Capricornia": {
+    "title": "Capricornia, QLD   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LIVERMORE, Kirsten",
+        "Votes": 36793,
+        "Percent": 45.8
+      },
+      {
+        "Party": "LNP",
+        "Candidate": "LANDRY, Michelle",
+        "Votes": 32489,
+        "Percent": 40.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BAMBRICK, Paul",
+        "Votes": 4435,
+        "Percent": 5.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CORNELOUP, Sandra",
+        "Votes": 2802,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GULEY, Shane",
+        "Votes": 2045,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MOWEN, Bevan",
+        "Votes": 1402,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JEFFERY, Steve",
+        "Votes": 414,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "Dawson": {
+    "title": "Dawson, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "CHRISTENSEN, George",
+        "Votes": 37940,
+        "Percent": 45.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRUNKER, Mike",
+        "Votes": 33216,
+        "Percent": 40.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DYKYJ, Jonathan",
+        "Votes": 6406,
+        "Percent": 7.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HERRINGTON, Damian",
+        "Votes": 4100,
+        "Percent": 4.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "INGREY, Bill",
+        "Votes": 1287,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "Dickson": {
+    "title": "Dickson, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "DUTTON, Hon Peter",
+        "Votes": 39880,
+        "Percent": 49.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCNAMARA, Fiona",
+        "Votes": 27264,
+        "Percent": 33.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COLBERT, David",
+        "Votes": 8888,
+        "Percent": 10.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JENKINSON, Rebecca",
+        "Votes": 2558,
+        "Percent": 3.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "REVIE, Alan",
+        "Votes": 2340,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HUNTER, Bob",
+        "Votes": 521,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Fadden": {
+    "title": "Fadden, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "ROBERT, Stuart",
+        "Votes": 42925,
+        "Percent": 58.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WATSON, Rana",
+        "Votes": 20110,
+        "Percent": 27.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MAIZEY, Graeme",
+        "Votes": 6863,
+        "Percent": 9.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "NICHOLSON, Barrie",
+        "Votes": 2513,
+        "Percent": 3.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "ROSSITER, Ian",
+        "Votes": 1181,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "Fairfax": {
+    "title": "Fairfax, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "SOMLYAY, Hon Alex",
+        "Votes": 39102,
+        "Percent": 49.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCINTYRE, Dan",
+        "Votes": 21589,
+        "Percent": 27.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCCARTHY, Narelle",
+        "Votes": 14228,
+        "Percent": 18.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HUNT, Ron",
+        "Votes": 4147,
+        "Percent": 5.2
+      }
+    ]
+  },
+  "Fisher": {
+    "title": "Fisher, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "SLIPPER, Hon Peter",
+        "Votes": 34235,
+        "Percent": 46.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CUMMINS, Chris",
+        "Votes": 22332,
+        "Percent": 30.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CLARIDGE, Garry",
+        "Votes": 11664,
+        "Percent": 15.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ROBERTSON, Robyn",
+        "Votes": 5421,
+        "Percent": 7.4
+      }
+    ]
+  },
+  "Flynn": {
+    "title": "Flynn, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "O'DOWD, Ken",
+        "Votes": 37584,
+        "Percent": 47.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TREVOR, Chris",
+        "Votes": 31894,
+        "Percent": 39.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HANCOCK-MILLS, Di",
+        "Votes": 3586,
+        "Percent": 4.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GODDARD, Anne",
+        "Votes": 3163,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCOTT, Duncan",
+        "Votes": 3025,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCMAHON, John",
+        "Votes": 640,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "Forde": {
+    "title": "Forde, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "MANEN, Bert Van",
+        "Votes": 30967,
+        "Percent": 44.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "RAGUSE, Brett",
+        "Votes": 26268,
+        "Percent": 37.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MAIZEY, Patrina",
+        "Votes": 8583,
+        "Percent": 12.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "RAASSINA, Melissa",
+        "Votes": 4440,
+        "Percent": 6.3
+      }
+    ]
+  },
+  "Griffith": {
+    "title": "Griffith, QLD   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RUDD, Hon Kevin",
+        "Votes": 35445,
+        "Percent": 44.1
+      },
+      {
+        "Party": "LNP",
+        "Candidate": "DOCHERTY, Rebecca",
+        "Votes": 28784,
+        "Percent": 35.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROSE, Emma-Kate",
+        "Votes": 12378,
+        "Percent": 15.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROMANS, Gregory",
+        "Votes": 1866,
+        "Percent": 2.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "WEBB, Jesse",
+        "Votes": 1163,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHITTS, Hamish",
+        "Votes": 601,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PAKALLUS, Jan",
+        "Votes": 175,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "Groom": {
+    "title": "Groom, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "MACFARLANE, Hon Ian",
+        "Votes": 51757,
+        "Percent": 61.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MEIBUSCH, Chris",
+        "Votes": 19153,
+        "Percent": 22.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FORSBERG, Frida",
+        "Votes": 6165,
+        "Percent": 7.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "KIRKWOOD, Rose",
+        "Votes": 4696,
+        "Percent": 5.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JEANNERET, Rod",
+        "Votes": 2730,
+        "Percent": 3.2
+      }
+    ]
+  },
+  "Herbert": {
+    "title": "Herbert, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "JONES, Ewen",
+        "Votes": 36086,
+        "Percent": 45.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MOONEY, Tony",
+        "Votes": 31729,
+        "Percent": 40.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RUBENACH, Mike",
+        "Votes": 6995,
+        "Percent": 8.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "PUNSHON, Michael",
+        "Votes": 4208,
+        "Percent": 5.3
+      }
+    ]
+  },
+  "Hinkler": {
+    "title": "Hinkler, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "NEVILLE, Paul",
+        "Votes": 44382,
+        "Percent": 55.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCNEVEN, Belinda",
+        "Votes": 26246,
+        "Percent": 32.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FITZGIBBON, Jenny",
+        "Votes": 4611,
+        "Percent": 5.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "VERSACE, Trevor",
+        "Votes": 2562,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WONE, Adrian",
+        "Votes": 1698,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "D'OLIVEIRA, Cy",
+        "Votes": 1264,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "Kennedy": {
+    "title": "Kennedy, QLD   2010",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "KATTER, Hon Bob",
+        "Votes": 38170,
+        "Percent": 46.7
+      },
+      {
+        "Party": "LNP",
+        "Candidate": "MORRISON, Ed",
+        "Votes": 21737,
+        "Percent": 26.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TURNOUR, Andrew",
+        "Votes": 16513,
+        "Percent": 20.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JONES, Jess",
+        "Votes": 3669,
+        "Percent": 4.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "DYKSTRA, Fred",
+        "Votes": 1633,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "Leichhardt": {
+    "title": "Leichhardt, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "ENTSCH, Hon Warren",
+        "Votes": 37828,
+        "Percent": 47.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TURNOUR, Jim",
+        "Votes": 27662,
+        "Percent": 34.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JOHN-WOOD, Neville St",
+        "Votes": 7232,
+        "Percent": 9.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SACKLEY, Jen",
+        "Votes": 2556,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BATZKE, Yodie",
+        "Votes": 1700,
+        "Percent": 2.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MCSWEENEY, Shannon",
+        "Votes": 1461,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LANE, Steve",
+        "Votes": 1373,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "Lilley": {
+    "title": "Lilley, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "MCGARVIE, Rod",
+        "Votes": 35835,
+        "Percent": 41.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SWAN, Hon Wayne",
+        "Votes": 35724,
+        "Percent": 41.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JEREMIJENKO, Andrew",
+        "Votes": 10579,
+        "Percent": 12.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HERSCHELL, Andrew",
+        "Votes": 2696,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CROWHURST, Douglas",
+        "Votes": 2111,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "Longman": {
+    "title": "Longman, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "ROY, Wyatt",
+        "Votes": 33011,
+        "Percent": 43.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SULLIVAN, Jon",
+        "Votes": 28396,
+        "Percent": 37.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BLAIR, Rod",
+        "Votes": 6878,
+        "Percent": 9.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MCERLANE, Claire",
+        "Votes": 3206,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "REECE, John",
+        "Votes": 1042,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FOX, Bob",
+        "Votes": 872,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOECKEL, Michael van",
+        "Votes": 856,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VEEN, Joshua van",
+        "Votes": 671,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JACKSON, Andrew",
+        "Votes": 518,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Mcpherson": {
+    "title": "Mcpherson, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "ANDREWS, Karen",
+        "Votes": 42069,
+        "Percent": 53.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BYRON, Dan",
+        "Votes": 22526,
+        "Percent": 28.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "O'CALLAGHAN, Ben",
+        "Votes": 9676,
+        "Percent": 12.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "REEVES, Matthew",
+        "Votes": 3777,
+        "Percent": 4.8
+      }
+    ]
+  },
+  "Maranoa": {
+    "title": "Maranoa, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "SCOTT, Hon Bruce",
+        "Votes": 57100,
+        "Percent": 65.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KEATING, Geoff",
+        "Votes": 17398,
+        "Percent": 20.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NASON, Charles",
+        "Votes": 4597,
+        "Percent": 5.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NEWSON, Grant",
+        "Votes": 4490,
+        "Percent": 5.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MCKAY, Greg",
+        "Votes": 3560,
+        "Percent": 4.1
+      }
+    ]
+  },
+  "Moncrieff": {
+    "title": "Moncrieff, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "CIOBO, Steven",
+        "Votes": 46832,
+        "Percent": 61.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HOUGH, Robert",
+        "Votes": 17776,
+        "Percent": 23.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SPAIN, Sally",
+        "Votes": 8756,
+        "Percent": 11.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "TAYLER, James",
+        "Votes": 2351,
+        "Percent": 3.1
+      }
+    ]
+  },
+  "Moreton": {
+    "title": "Moreton, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "COLE, Malcolm",
+        "Votes": 35182,
+        "Percent": 43.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PERRETT, Graham",
+        "Votes": 29190,
+        "Percent": 36.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JENKINS, Elissa",
+        "Votes": 12882,
+        "Percent": 15.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CHRISTIAN, Steve",
+        "Votes": 2787,
+        "Percent": 3.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NIGHTINGALE, Lee",
+        "Votes": 1018,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "Oxley": {
+    "title": "Oxley, QLD   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RIPOLL, Bernie",
+        "Votes": 31985,
+        "Percent": 44.7
+      },
+      {
+        "Party": "LNP",
+        "Candidate": "SMITH, Tarnya",
+        "Votes": 27431,
+        "Percent": 38.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HOBAN, Des",
+        "Votes": 8436,
+        "Percent": 11.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "STIELER, Timothy",
+        "Votes": 3682,
+        "Percent": 5.2
+      }
+    ]
+  },
+  "Petrie": {
+    "title": "Petrie, QLD   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "D'ATH, Yvette",
+        "Votes": 32677,
+        "Percent": 42.8
+      },
+      {
+        "Party": "LNP",
+        "Candidate": "TEASDALE, Dean",
+        "Votes": 30590,
+        "Percent": 40.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JEREMIJENKO, Peter",
+        "Votes": 6949,
+        "Percent": 9.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "VINCENT, Sally",
+        "Votes": 3829,
+        "Percent": 5.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCKLEY, Gabriel",
+        "Votes": 1604,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ADDISON, Lawrence",
+        "Votes": 715,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "Rankin": {
+    "title": "Rankin, QLD   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EMERSON, Hon Dr Craig",
+        "Votes": 36090,
+        "Percent": 45.2
+      },
+      {
+        "Party": "LNP",
+        "Candidate": "SMITH, Luke",
+        "Votes": 29652,
+        "Percent": 37.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COTTER, Neil",
+        "Votes": 8956,
+        "Percent": 11.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "TODD, Alexandra",
+        "Votes": 5231,
+        "Percent": 6.5
+      }
+    ]
+  },
+  "Ryan": {
+    "title": "Ryan, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "PRENTICE, Jane",
+        "Votes": 40713,
+        "Percent": 45.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MILES, Steven",
+        "Votes": 22274,
+        "Percent": 25.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BAYLEY, Sandra",
+        "Votes": 16884,
+        "Percent": 19.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JOHNSON, Michael",
+        "Votes": 7563,
+        "Percent": 8.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "VINCENT, Allan",
+        "Votes": 1600,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "Wide Bay": {
+    "title": "Wide Bay, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "TRUSS, Hon Warren",
+        "Votes": 47977,
+        "Percent": 58.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ANSELL, Nikolee",
+        "Votes": 19645,
+        "Percent": 24.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCDONALD, Jim",
+        "Votes": 8967,
+        "Percent": 11.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HERSCHELL, Ken",
+        "Votes": 3049,
+        "Percent": 3.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "FERRARO, Santo",
+        "Votes": 1875,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "Wright": {
+    "title": "Wright, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "BUCHHOLTZ, Scott",
+        "Votes": 40031,
+        "Percent": 53.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "RAMSAY, Andrew",
+        "Votes": 20946,
+        "Percent": 27.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BRIDLE, Anna",
+        "Votes": 9010,
+        "Percent": 12.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "FREDERICKS, Jeremy",
+        "Votes": 2923,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DEGEN, Ken",
+        "Votes": 2497,
+        "Percent": 3.3
+      }
+    ]
+  },
+  "Adelaide": {
+    "title": "Adelaide, SA   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIS, Hon Kate",
+        "Votes": 38162,
+        "Percent": 43.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WESTLEY, Luke",
+        "Votes": 32673,
+        "Percent": 37.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BEACH, Ruth",
+        "Votes": 11901,
+        "Percent": 13.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "NEAL, Suzanne",
+        "Votes": 1900,
+        "Percent": 2.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NICHOLLS, Marie",
+        "Votes": 819,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WEEDALL, Gemma",
+        "Votes": 786,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STEELE, Christopher",
+        "Votes": 716,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "Barker": {
+    "title": "Barker, SA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SECKER, Patrick",
+        "Votes": 51810,
+        "Percent": 55.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCDONNELL, Simone",
+        "Votes": 26433,
+        "Percent": 28.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MOFFAT, Sean",
+        "Votes": 8607,
+        "Percent": 9.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HONEYCHURCH, Trevor",
+        "Votes": 5829,
+        "Percent": 6.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAVIES, Steven",
+        "Votes": 1591,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "Boothby": {
+    "title": "Boothby, SA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SOUTHCOTT, Dr Andrew",
+        "Votes": 38248,
+        "Percent": 44.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DIGANCE, Annabel",
+        "Votes": 30515,
+        "Percent": 35.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BLINCO, Fiona",
+        "Votes": 11305,
+        "Percent": 13.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "RESCE, Meredith",
+        "Votes": 2120,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCGHEE, Ray",
+        "Votes": 1689,
+        "Percent": 2.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SALERNO, Thomas",
+        "Votes": 517,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NOACK, Michael",
+        "Votes": 339,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SKILLITZI, Stephen",
+        "Votes": 316,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHAPMAN, Avi",
+        "Votes": 310,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "Grey": {
+    "title": "Grey, SA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RAMSEY, Rowan",
+        "Votes": 49361,
+        "Percent": 55.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SANSBURY, Tauto",
+        "Votes": 27514,
+        "Percent": 31.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MELVILLE-SMITH, Andrew",
+        "Votes": 6876,
+        "Percent": 7.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HOLLAND, Sylvia",
+        "Votes": 4741,
+        "Percent": 5.4
+      }
+    ]
+  },
+  "Hindmarsh": {
+    "title": "Hindmarsh, SA   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GEORGANAS, Steve",
+        "Votes": 39736,
+        "Percent": 44.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WOOD, Jassmine",
+        "Votes": 34831,
+        "Percent": 39.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FISHER, Matthew",
+        "Votes": 10773,
+        "Percent": 12.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "RANDALL, Bob",
+        "Votes": 2563,
+        "Percent": 2.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CROKE, Greg",
+        "Votes": 767,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PAECH, Adrian",
+        "Votes": 554,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Kingston": {
+    "title": "Kingston, SA   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RISHWORTH, Amanda",
+        "Votes": 46882,
+        "Percent": 51.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ZANKER, Chris",
+        "Votes": 26652,
+        "Percent": 29.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MOORE, Palitja",
+        "Votes": 11264,
+        "Percent": 12.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "DOECKE, Geoff",
+        "Votes": 5288,
+        "Percent": 5.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BAKER, Ron",
+        "Votes": 1748,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "Makin": {
+    "title": "Makin, SA   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ZAPPIA, Tony",
+        "Votes": 43114,
+        "Percent": 50.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DAVIES, Liz",
+        "Votes": 25740,
+        "Percent": 30.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROSE, Jasemin",
+        "Votes": 8604,
+        "Percent": 10.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "POTTER, Mark",
+        "Votes": 5089,
+        "Percent": 6.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GAMEAU, Michael",
+        "Votes": 1081,
+        "Percent": 1.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HORVAT, Anton",
+        "Votes": 662,
+        "Percent": 0.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RICH, Wayne",
+        "Votes": 534,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STEWART, Robert",
+        "Votes": 409,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "Mayo": {
+    "title": "Mayo, SA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BRIGGS, Jamie",
+        "Votes": 42976,
+        "Percent": 46.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DAVIS, Sam",
+        "Votes": 22997,
+        "Percent": 25.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ATKINSON, Diane",
+        "Votes": 15593,
+        "Percent": 17.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HICKS, Bruce",
+        "Votes": 5337,
+        "Percent": 5.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SPRAGG, Bill",
+        "Votes": 2404,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PHILLIPS, Andrew",
+        "Votes": 993,
+        "Percent": 1.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "OSMOND, Rebekkah",
+        "Votes": 948,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MICHELMORE, John",
+        "Votes": 655,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Port Adelaide": {
+    "title": "Port Adelaide, SA   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BUTLER, Hon Mark",
+        "Votes": 48638,
+        "Percent": 53.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCKENNA, Nigel",
+        "Votes": 21615,
+        "Percent": 23.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MICENKO, Kalyna",
+        "Votes": 13659,
+        "Percent": 15.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HAMBOUR, Bruce",
+        "Votes": 6467,
+        "Percent": 7.2
+      }
+    ]
+  },
+  "Sturt": {
+    "title": "Sturt, SA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PYNE, Hon Christopher",
+        "Votes": 42418,
+        "Percent": 48.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SARRE, Rick",
+        "Votes": 31989,
+        "Percent": 36.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FIEBIG, Peter",
+        "Votes": 8834,
+        "Percent": 10.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CLEGG, Dale",
+        "Votes": 3346,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLARK, Jess",
+        "Votes": 697,
+        "Percent": 0.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ANDREWS, Darren",
+        "Votes": 558,
+        "Percent": 0.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "KING, Jack",
+        "Votes": 443,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "Wakefield": {
+    "title": "Wakefield, SA   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHAMPION, Nick",
+        "Votes": 43299,
+        "Percent": 49.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "STRAUSS, David",
+        "Votes": 27679,
+        "Percent": 31.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ALCORN, Jane",
+        "Votes": 9948,
+        "Percent": 11.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "COOMBE, Paul",
+        "Votes": 5958,
+        "Percent": 6.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HASSAN, Darren",
+        "Votes": 1129,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "Brand": {
+    "title": "Brand, WA   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRAY, Hon Gary",
+        "Votes": 31832,
+        "Percent": 40.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GORDIN, Donna",
+        "Votes": 30731,
+        "Percent": 39.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JECKS, Dawn",
+        "Votes": 11504,
+        "Percent": 14.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "NEWHOUSE, Andrew",
+        "Votes": 2190,
+        "Percent": 2.8
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BURDETT, Robert",
+        "Votes": 1771,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "Canning": {
+    "title": "Canning, WA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RANDALL, Don",
+        "Votes": 36999,
+        "Percent": 46.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MACTIERNAN, Alannah",
+        "Votes": 32330,
+        "Percent": 40.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HARDIE, Denise",
+        "Votes": 6645,
+        "Percent": 8.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BURGEL, Jamie Van",
+        "Votes": 2470,
+        "Percent": 3.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "VERNEDE, Darren",
+        "Votes": 1231,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TUFFNELL, Ian",
+        "Votes": 446,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Cowan": {
+    "title": "Cowan, WA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SIMPKINS, Luke",
+        "Votes": 40077,
+        "Percent": 50.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HOPKINS, Chas",
+        "Votes": 25975,
+        "Percent": 32.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PHILLIPS, Rob",
+        "Votes": 10033,
+        "Percent": 12.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "KINGSTON, David",
+        "Votes": 2081,
+        "Percent": 2.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LEACH, Alan",
+        "Votes": 1888,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "Curtin": {
+    "title": "Curtin, WA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BISHOP, Hon Julie",
+        "Votes": 50024,
+        "Percent": 61.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MERWE, Sophie van der",
+        "Votes": 15771,
+        "Percent": 19.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CRISP, George",
+        "Votes": 14498,
+        "Percent": 17.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "SEYMOUR, Pat",
+        "Votes": 1534,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "Durack": {
+    "title": "Durack, WA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAASE, Barry",
+        "Votes": 32446,
+        "Percent": 45.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HILL, Shane",
+        "Votes": 17299,
+        "Percent": 24.0
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "CRAIGIE, Lynn",
+        "Votes": 12742,
+        "Percent": 17.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MATHESON, Julie",
+        "Votes": 6661,
+        "Percent": 9.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "FOREMAN, Jane",
+        "Votes": 1729,
+        "Percent": 2.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "FORSYTHE, Mac",
+        "Votes": 1121,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "Forrest": {
+    "title": "Forrest, WA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MARINO, Nola",
+        "Votes": 39460,
+        "Percent": 49.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JARVIS, Jackie",
+        "Votes": 22724,
+        "Percent": 28.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PETERSEN, Luke",
+        "Votes": 10863,
+        "Percent": 13.5
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "HILL, Cale",
+        "Votes": 4822,
+        "Percent": 6.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CUSTERS, Bev",
+        "Votes": 1573,
+        "Percent": 2.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "HERRIDGE, Lee",
+        "Votes": 1158,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "Fremantle": {
+    "title": "Fremantle, WA   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PARKE, Melissa",
+        "Votes": 32063,
+        "Percent": 38.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TAYLOR, Matt",
+        "Votes": 31755,
+        "Percent": 38.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DAVIS, Kate",
+        "Votes": 14531,
+        "Percent": 17.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "PARSONS, Larry",
+        "Votes": 1409,
+        "Percent": 1.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "ROBERTSON, Scott",
+        "Votes": 1294,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ANDREW, Sanna",
+        "Votes": 662,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCENCROE, Keith",
+        "Votes": 622,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "Hasluck": {
+    "title": "Hasluck, WA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WYATT, Ken",
+        "Votes": 34638,
+        "Percent": 42.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JACKSON, Sharryn",
+        "Votes": 30957,
+        "Percent": 37.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SMITH, Glenice",
+        "Votes": 10539,
+        "Percent": 12.8
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BREWER, Linda",
+        "Votes": 2505,
+        "Percent": 3.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MCCOURT, Jim",
+        "Votes": 1861,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HENRY, Dot",
+        "Votes": 1457,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MIDDLETON, Andrew",
+        "Votes": 539,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Moore": {
+    "title": "Moore, WA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WASHER, Dr Mal",
+        "Votes": 44518,
+        "Percent": 54.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BROWN, Jeremy",
+        "Votes": 21678,
+        "Percent": 26.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "YOUNG, Sheridan",
+        "Votes": 11159,
+        "Percent": 13.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BIRCH, Meg",
+        "Votes": 1804,
+        "Percent": 2.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BARRETT, Paul",
+        "Votes": 1573,
+        "Percent": 1.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "GAULT, George",
+        "Votes": 1471,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "O'connor": {
+    "title": "O'connor, WA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TUCKEY, Hon Wilson",
+        "Votes": 31294,
+        "Percent": 38.4
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "CROOK, Tony",
+        "Votes": 23538,
+        "Percent": 28.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BISHOP, Ian",
+        "Votes": 13962,
+        "Percent": 17.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HUNTLEY, Andy",
+        "Votes": 7232,
+        "Percent": 8.9
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "YOUNG, Jacky",
+        "Votes": 2221,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STOKES, Geoffrey",
+        "Votes": 1298,
+        "Percent": 1.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SCALLAN, Pat",
+        "Votes": 1164,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITHSON, Neil",
+        "Votes": 500,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROBINSON, Jean",
+        "Votes": 375,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "Pearce": {
+    "title": "Pearce, WA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MOYLAN, Hon Judi",
+        "Votes": 39248,
+        "Percent": 49.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LEADBETTER, Bill",
+        "Votes": 23214,
+        "Percent": 29.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WARDEN, Toni",
+        "Votes": 10414,
+        "Percent": 13.2
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "MOIR, Darren",
+        "Votes": 1999,
+        "Percent": 2.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BROADSTOCK, Janet",
+        "Votes": 1691,
+        "Percent": 2.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ROSE, Ian",
+        "Votes": 1619,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PEPPER, Chris",
+        "Votes": 456,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Perth": {
+    "title": "Perth, WA   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Hon Stephen",
+        "Votes": 32228,
+        "Percent": 40.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FERRANTE, Joe",
+        "Votes": 31064,
+        "Percent": 38.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HALLETT, Jonathan",
+        "Votes": 12948,
+        "Percent": 16.2
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "CONNELLY, Paul",
+        "Votes": 2093,
+        "Percent": 2.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "IRVINE, Nigel",
+        "Votes": 1243,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BAINBRIDGE, Alex",
+        "Votes": 618,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "Stirling": {
+    "title": "Stirling, WA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KEENAN, Michael",
+        "Votes": 40228,
+        "Percent": 49.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DURACK, Louise",
+        "Votes": 25688,
+        "Percent": 31.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MARTIN, Chris",
+        "Votes": 10399,
+        "Percent": 12.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RE, Elizabeth",
+        "Votes": 1824,
+        "Percent": 2.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "WHATELY, Jenny",
+        "Votes": 1630,
+        "Percent": 2.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CLIFFORD, Peter",
+        "Votes": 838,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "Swan": {
+    "title": "Swan, WA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "IRONS, Steve",
+        "Votes": 36951,
+        "Percent": 46.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HAMMOND, Tim",
+        "Votes": 28023,
+        "Percent": 35.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LEIGHTON, Rebecca",
+        "Votes": 9380,
+        "Percent": 11.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TREASURE, Bret",
+        "Votes": 2060,
+        "Percent": 2.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "KLOMP, Steve",
+        "Votes": 1646,
+        "Percent": 2.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "DRENNAN, Barry",
+        "Votes": 981,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LOPEZ, Joe",
+        "Votes": 398,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "Tangney": {
+    "title": "Tangney, WA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JENSEN, Dr Dennis",
+        "Votes": 46712,
+        "Percent": 55.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DOEPEL, David",
+        "Votes": 21637,
+        "Percent": 25.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BEST, Peter",
+        "Votes": 11311,
+        "Percent": 13.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "CHEW, Ka-ren",
+        "Votes": 2814,
+        "Percent": 3.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "RAPP, Moyna",
+        "Votes": 1399,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "Bass": {
+    "title": "Bass, TAS   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LYONS, Geoff",
+        "Votes": 28448,
+        "Percent": 43.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TITMUS, Steve",
+        "Votes": 26010,
+        "Percent": 39.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COLGRAVE, Sancia",
+        "Votes": 10206,
+        "Percent": 15.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WATTS, Adrian",
+        "Votes": 838,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "Braddon": {
+    "title": "Braddon, TAS   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SIDEBOTTOM, Sid",
+        "Votes": 31890,
+        "Percent": 48.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CARPENTER, Garry",
+        "Votes": 25779,
+        "Percent": 39.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JORDAN, Scott",
+        "Votes": 7836,
+        "Percent": 12.0
+      }
+    ]
+  },
+  "Denison": {
+    "title": "Denison, TAS   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JACKSON, Jonathan",
+        "Votes": 23215,
+        "Percent": 35.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SIMPKINS, Cameron",
+        "Votes": 14688,
+        "Percent": 22.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILKIE, Andrew",
+        "Votes": 13788,
+        "Percent": 21.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COUSER, Geoffrey",
+        "Votes": 12312,
+        "Percent": 19.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARNES, Mel",
+        "Votes": 856,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "Franklin": {
+    "title": "Franklin, TAS   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COLLINS, Julie",
+        "Votes": 28079,
+        "Percent": 42.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HOWLETT, Jane",
+        "Votes": 21938,
+        "Percent": 33.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HEATLEY, Wendy",
+        "Votes": 13675,
+        "Percent": 20.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FORSTER, John",
+        "Votes": 1839,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "Lyons": {
+    "title": "Lyons, TAS   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ADAMS, Hon Dick",
+        "Votes": 32164,
+        "Percent": 48.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HUTCHINSON, Eric",
+        "Votes": 21493,
+        "Percent": 32.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CASSIDY, Karen",
+        "Votes": 11013,
+        "Percent": 16.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NOYES, Lucas",
+        "Votes": 1085,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "Lingiari": {
+    "title": "Lingiari, NT   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SNOWDON, Hon Warren",
+        "Votes": 17205,
+        "Percent": 40.1
+      },
+      {
+        "Party": "CLP",
+        "Candidate": "ABBOTT, Leo",
+        "Votes": 14708,
+        "Percent": 34.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SHAW, Barbara",
+        "Votes": 5403,
+        "Percent": 12.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FINTER, Deirdre",
+        "Votes": 2038,
+        "Percent": 4.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LECHLEITNER, Kenny",
+        "Votes": 1910,
+        "Percent": 4.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FLYNN, Peter",
+        "Votes": 1663,
+        "Percent": 3.9
+      }
+    ]
+  },
+  "Solomon": {
+    "title": "Solomon, NT   2010",
+    "rows": [
+      {
+        "Party": "CLP",
+        "Candidate": "GRIGGS, Natasha",
+        "Votes": 23627,
+        "Percent": 46.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HALE, Damian",
+        "Votes": 18384,
+        "Percent": 36.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "YOUNG, Emma",
+        "Votes": 6772,
+        "Percent": 13.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "KEARNEY, John",
+        "Votes": 1505,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAMPBELL, Trudy",
+        "Votes": 668,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "Canberra": {
+    "title": "Canberra, ACT   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BRODTMANN, Gai",
+        "Votes": 49608,
+        "Percent": 44.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JONES, Giulia",
+        "Votes": 41732,
+        "Percent": 37.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ELLERMAN, Sue",
+        "Votes": 20816,
+        "Percent": 18.6
+      }
+    ]
+  },
+  "Fraser": {
+    "title": "Fraser, ACT   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LEIGH, Dr Andrew",
+        "Votes": 51092,
+        "Percent": 45.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MILLIGAN, James",
+        "Votes": 36148,
+        "Percent": 32.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ESGUERRA, Indra",
+        "Votes": 22126,
+        "Percent": 19.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HEDGES-PHILLIPS, Quintin",
+        "Votes": 2175,
+        "Percent": 2.0
+      }
+    ]
+  }
+}

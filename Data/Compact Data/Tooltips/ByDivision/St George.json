@@ -1,0 +1,488 @@
+{
+  "1949": {
+    "title": "St George, NSW   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GRAHAM, Bruce",
+        "Votes": 19987,
+        "Percent": 52.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NICHOLSON, Joseph",
+        "Votes": 18475,
+        "Percent": 48.0
+      }
+    ]
+  },
+  "1951": {
+    "title": "St George, NSW   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GRAHAM, Bruce",
+        "Votes": "19890",
+        "Percent": 51.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LEMMON, Hon Nelson",
+        "Votes": "18670",
+        "Percent": 48.4
+      }
+    ]
+  },
+  "1954": {
+    "title": "St George, NSW   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LEMMON, Hon Nelson",
+        "Votes": "20173",
+        "Percent": 52.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GRAHAM, Bruce",
+        "Votes": "18084",
+        "Percent": 47.3
+      }
+    ]
+  },
+  "1955": {
+    "title": "St George, NSW   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GRAHAM, Bruce",
+        "Votes": "22171",
+        "Percent": 52.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LEMMON, Hon Nelson",
+        "Votes": "20142",
+        "Percent": 47.6
+      }
+    ]
+  },
+  "1958": {
+    "title": "St George, NSW   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLAY, Lionel",
+        "Votes": 20532,
+        "Percent": 49.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GRAHAM, Bruce",
+        "Votes": 19675,
+        "Percent": 47.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "NAPPA, Mary",
+        "Votes": 1590,
+        "Percent": 3.8
+      }
+    ]
+  },
+  "1961": {
+    "title": "St George, NSW   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLAY, Lionel",
+        "Votes": 22468,
+        "Percent": 54.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "AMOS, Clifford",
+        "Votes": 17580,
+        "Percent": 42.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "TOWNER, Malcolm",
+        "Votes": 1433,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "1963": {
+    "title": "St George, NSW   1963",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BOSMAN, Leonard",
+        "Votes": "20869",
+        "Percent": 50.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CLAY, Lionel",
+        "Votes": "19648",
+        "Percent": 47.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "VANDERGRIFF, John",
+        "Votes": "1169",
+        "Percent": 2.8
+      }
+    ]
+  },
+  "1966": {
+    "title": "St George, NSW   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BOSMAN, Leonard",
+        "Votes": 22091,
+        "Percent": 54.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CAMERON, Malcolm",
+        "Votes": 15406,
+        "Percent": 38.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ANDREASSON, Hans",
+        "Votes": 1713,
+        "Percent": 4.2
+      },
+      {
+        "Party": "LRG",
+        "Candidate": "MANT, John",
+        "Votes": 1304,
+        "Percent": 3.2
+      }
+    ]
+  },
+  "1969": {
+    "title": "St George, NSW   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORRISON, William",
+        "Votes": 25918,
+        "Percent": 48.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BOSMAN, Leonard",
+        "Votes": 24822,
+        "Percent": 46.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BADER, Henry",
+        "Votes": 1805,
+        "Percent": 3.4
+      },
+      {
+        "Party": "AP",
+        "Candidate": "OWENS, Christopher",
+        "Votes": 741,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAWLESS, Archibald",
+        "Votes": 249,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SAID, Emanuel",
+        "Votes": 198,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1972": {
+    "title": "St George, NSW   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORRISON, William",
+        "Votes": 28384,
+        "Percent": 53.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BOSMAN, Leonard",
+        "Votes": 22013,
+        "Percent": 41.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ALLISON, Doris",
+        "Votes": 1754,
+        "Percent": 3.3
+      },
+      {
+        "Party": "AP",
+        "Candidate": "OWENS, Christopher",
+        "Votes": 1165,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BELLCHAMBERS, Edwin",
+        "Votes": 206,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1974": {
+    "title": "St George, NSW   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORRISON, Hon William",
+        "Votes": 31121,
+        "Percent": 55.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BOOTH, Brian",
+        "Votes": 24696,
+        "Percent": 43.6
+      },
+      {
+        "Party": "AP",
+        "Candidate": "JAGERS, Harold",
+        "Votes": 788,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1975": {
+    "title": "St George, NSW   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "NEIL, Maurice",
+        "Votes": 28371,
+        "Percent": 49.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MORRISON, Hon William",
+        "Votes": 28203,
+        "Percent": 48.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GLEESON, Keith",
+        "Votes": 1338,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "1977": {
+    "title": "St George, NSW   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "NEIL, Maurice",
+        "Votes": 32078,
+        "Percent": 47.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WHITLAM, Tony",
+        "Votes": 30227,
+        "Percent": 45.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KIRWOOD, Ronald",
+        "Votes": 4243,
+        "Percent": 6.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KRISS, David",
+        "Votes": 441,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1980": {
+    "title": "St George, NSW   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORRISON, Hon William",
+        "Votes": 34855,
+        "Percent": 53.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NEIL, Maurice",
+        "Votes": 27946,
+        "Percent": 42.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DAVIS, Beverley",
+        "Votes": 2509,
+        "Percent": 3.8
+      }
+    ]
+  },
+  "1983": {
+    "title": "St George, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORRISON, Hon Bill",
+        "Votes": 37570,
+        "Percent": 57.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JAMES, George",
+        "Votes": 23933,
+        "Percent": 36.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COMPTON, Brian",
+        "Votes": 1806,
+        "Percent": 2.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KIRKWOOD, Ronald",
+        "Votes": 1210,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TUMNEY, Dorothy",
+        "Votes": 477,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1984": {
+    "title": "St George, NSW   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DUBOIS, Stephen",
+        "Votes": 32417,
+        "Percent": 53.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GEMELL, Bob",
+        "Votes": 24612,
+        "Percent": 40.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TERRETT, Paul",
+        "Votes": 2599,
+        "Percent": 4.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DUNCAN, Stanley",
+        "Votes": 1008,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COMPTON, Brian",
+        "Votes": 521,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1987": {
+    "title": "St George, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DUBOIS, Stephen",
+        "Votes": 30829,
+        "Percent": 49.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RUSH, Gary",
+        "Votes": 26869,
+        "Percent": 43.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DALRYMPLE, Garry",
+        "Votes": 3241,
+        "Percent": 5.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COMPTON, Brian",
+        "Votes": 927,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1990": {
+    "title": "St George, NSW   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DUBOIS, Stephen",
+        "Votes": 31064,
+        "Percent": 49.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SMITH, Alan",
+        "Votes": 23060,
+        "Percent": 36.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MUKAI, John",
+        "Votes": 6086,
+        "Percent": 9.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COLLINGRIDGE, Don",
+        "Votes": 1430,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOWARD, Brian",
+        "Votes": 579,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRKICH, John",
+        "Votes": 417,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HESSE, Colin",
+        "Votes": 392,
+        "Percent": 0.6
+      }
+    ]
+  }
+}

@@ -1,0 +1,737 @@
+{
+  "1984": {
+    "title": "Brand, WA   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FATIN, Wendy",
+        "Votes": 29321,
+        "Percent": 53.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BOYLE, Christopher",
+        "Votes": 23633,
+        "Percent": 43.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RENFREY, Thomas",
+        "Votes": 1820,
+        "Percent": 3.3
+      }
+    ]
+  },
+  "1987": {
+    "title": "Brand, WA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FATIN, Wendy",
+        "Votes": 32135,
+        "Percent": 52.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MASTERS, Bernie",
+        "Votes": 21985,
+        "Percent": 35.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WILLIS, John",
+        "Votes": 4368,
+        "Percent": 7.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BASS, Peter",
+        "Votes": 3091,
+        "Percent": 5.0
+      }
+    ]
+  },
+  "1990": {
+    "title": "Brand, WA   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FATIN, Wendy",
+        "Votes": 27303,
+        "Percent": 42.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HEALY, Maureen",
+        "Votes": 23757,
+        "Percent": 37.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WALLACE, Jan",
+        "Votes": 5590,
+        "Percent": 8.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GARDINER, Luna",
+        "Votes": 4189,
+        "Percent": 6.6
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "TUXWORTH, Errol",
+        "Votes": 1200,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PLEDGE, Blanche",
+        "Votes": 841,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EVANS, Keith",
+        "Votes": 662,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GALLETLY, Clive",
+        "Votes": 200,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1993": {
+    "title": "Brand, WA   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "DICKS, Norm",
+        "Votes": "613",
+        "Percent": 0.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "EVANS, Andrea",
+        "Votes": "3707",
+        "Percent": 4.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FATIN, Hon Wendy",
+        "Votes": "36413",
+        "Percent": 48.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FAWCETT, Adrian",
+        "Votes": "31174",
+        "Percent": 41.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROBINSON, Jacqui",
+        "Votes": "259",
+        "Percent": 0.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TILBURY, Ray",
+        "Votes": "1865",
+        "Percent": 2.5
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "CANT, Paul",
+        "Votes": "1179",
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1996": {
+    "title": "Brand, WA   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BEAZLEY, Hon Kim",
+        "Votes": 37165,
+        "Percent": 43.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HEARNE, Penny",
+        "Votes": 36060,
+        "Percent": 42.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GOODALE, Bob",
+        "Votes": 3577,
+        "Percent": 4.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCKERCHER, Mal",
+        "Votes": 2969,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GENT, Alan",
+        "Votes": 2016,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "REBE, Phil",
+        "Votes": 943,
+        "Percent": 1.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "WALTON, Malcolm",
+        "Votes": 877,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ANDERSON, Leone",
+        "Votes": 452,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCCARTHY, Brian",
+        "Votes": 373,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GALLETLY, Clive",
+        "Votes": 301,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1998": {
+    "title": "Brand, WA   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BEAZLEY, Hon Kim",
+        "Votes": 36391,
+        "Percent": 52.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PALMER, Richard",
+        "Votes": 19403,
+        "Percent": 27.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "DAWSON, Lee",
+        "Votes": 8308,
+        "Percent": 11.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DUNLOP, Mick",
+        "Votes": 2012,
+        "Percent": 2.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MULLANE, Collin",
+        "Votes": 1630,
+        "Percent": 2.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "LAWN, Graham",
+        "Votes": 402,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DORRINGTON, Kate",
+        "Votes": 399,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LEISHMAN, Anne",
+        "Votes": 343,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROTH, Paul",
+        "Votes": 310,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "REYNOLDS, Kent",
+        "Votes": 308,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GENT, Carolyn",
+        "Votes": 296,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HIGGINS, Ron",
+        "Votes": 167,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "Brand, WA   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BEAZLEY, Hon Kim",
+        "Votes": 36917,
+        "Percent": 51.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "THOMAS, Margaret",
+        "Votes": 17110,
+        "Percent": 24.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WOOLLARD, Dr Keith",
+        "Votes": 8006,
+        "Percent": 11.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "ROBBIE, Steve",
+        "Votes": 4380,
+        "Percent": 6.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DAVIS, Kate",
+        "Votes": 2486,
+        "Percent": 3.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HUBBARD, Paul",
+        "Votes": 1706,
+        "Percent": 2.4
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "IREDALE, Terry",
+        "Votes": 621,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCCARTHY, Brian",
+        "Votes": 164,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2004": {
+    "title": "Brand, WA   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BEAZLEY, Hon Kim",
+        "Votes": 34892,
+        "Percent": 47.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "EDMAN, Phillip",
+        "Votes": 29563,
+        "Percent": 39.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JENKINS, Jean",
+        "Votes": 3578,
+        "Percent": 4.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "STOCKDEN, Garth",
+        "Votes": 2045,
+        "Percent": 2.8
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "VETTOOR, Rajesh",
+        "Votes": 1581,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KETTLE, Gerard",
+        "Votes": 1084,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TOTTEN, Rob",
+        "Votes": 742,
+        "Percent": 1.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PARTRIDGE, John",
+        "Votes": 619,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2007": {
+    "title": "Brand, WA   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRAY, Gary",
+        "Votes": 38131,
+        "Percent": 46.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "EDMAN, Phil",
+        "Votes": 31882,
+        "Percent": 38.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JECKS, Dawn",
+        "Votes": 7110,
+        "Percent": 8.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "TREMAIN, Brent",
+        "Votes": 2061,
+        "Percent": 2.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "NEWHOUSE, Andrew",
+        "Votes": 1482,
+        "Percent": 1.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SCOTT, Robin",
+        "Votes": 1321,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GROSSMITH, Huw",
+        "Votes": 350,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TOTTEN, Rob",
+        "Votes": 295,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2010": {
+    "title": "Brand, WA   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRAY, Hon Gary",
+        "Votes": 31832,
+        "Percent": 40.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GORDIN, Donna",
+        "Votes": 30731,
+        "Percent": 39.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JECKS, Dawn",
+        "Votes": 11504,
+        "Percent": 14.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "NEWHOUSE, Andrew",
+        "Votes": 2190,
+        "Percent": 2.8
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BURDETT, Robert",
+        "Votes": 1771,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "2013": {
+    "title": "Brand, WA   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRAY, Hon Gary",
+        "Votes": 35093,
+        "Percent": 40.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GORDIN, Donna",
+        "Votes": 33634,
+        "Percent": 38.7
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "LAWRENCE, Craig",
+        "Votes": 6518,
+        "Percent": 7.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JECKS, Dawn",
+        "Votes": 6343,
+        "Percent": 7.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "NEWHOUSE, Andrew",
+        "Votes": 2079,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BURDETT, Bob",
+        "Votes": 1685,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "IRIKS, Gabrielle",
+        "Votes": 646,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "YOUNG, Paul",
+        "Votes": 598,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LE-COCQ, Mick",
+        "Votes": 280,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2016": {
+    "title": "Brand, WA   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KING, Madeleine",
+        "Votes": 38803,
+        "Percent": 47.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BUCHANAN, Craig",
+        "Votes": 25843,
+        "Percent": 31.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JECKS, Dawn",
+        "Votes": 9542,
+        "Percent": 11.7
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "SCOTT, Philip",
+        "Votes": 4704,
+        "Percent": 5.8
+      },
+      {
+        "Party": "AC",
+        "Candidate": "BURDETT, Robert",
+        "Votes": 2826,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "2019": {
+    "title": "Brand, WA   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KING, Madeleine",
+        "Votes": 35875,
+        "Percent": 40.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PLEITER, Jack",
+        "Votes": 26510,
+        "Percent": 29.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FREEMAN, Jody",
+        "Votes": 9863,
+        "Percent": 11.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "CARTER, Travis",
+        "Votes": 7524,
+        "Percent": 8.5
+      },
+      {
+        "Party": "AChr",
+        "Candidate": "VEN, Janine Vander",
+        "Votes": 2726,
+        "Percent": 3.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "JONES, Trevor",
+        "Votes": 2570,
+        "Percent": 2.9
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "PHELAN, Blake",
+        "Votes": 2397,
+        "Percent": 2.7
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "MILLS, Karen-Lee",
+        "Votes": 1376,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2022": {
+    "title": "Brand, WA   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KING, Madeleine",
+        "Votes": 48031,
+        "Percent": 50.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HUDSON, Peter",
+        "Votes": 21056,
+        "Percent": 22.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LONSDALE, Heather",
+        "Votes": 10900,
+        "Percent": 11.4
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "TAYLOR, Jake",
+        "Votes": 5139,
+        "Percent": 5.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "PIKE, David",
+        "Votes": 2711,
+        "Percent": 2.8
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "O'LOGHLEN, Michael",
+        "Votes": 2592,
+        "Percent": 2.7
+      },
+      {
+        "Party": "AC",
+        "Candidate": "CRICHTON, Jayne",
+        "Votes": 2090,
+        "Percent": 2.2
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "GLEESON, Andrew",
+        "Votes": 1490,
+        "Percent": 1.6
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MARSHALL, Alison",
+        "Votes": 1074,
+        "Percent": 1.1
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "HEFFERNAN, Malcolm",
+        "Votes": 598,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2025": {
+    "title": "Brand, WA   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KING, Madeleine",
+        "Votes": 43014,
+        "Percent": 45.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MOODY, Claire",
+        "Votes": 18472,
+        "Percent": 19.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FREEMAN, Jody",
+        "Votes": 12412,
+        "Percent": 13.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BOX, Stephen",
+        "Votes": 11960,
+        "Percent": 12.8
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "MATTERS, Jim",
+        "Votes": 7935,
+        "Percent": 8.5
+      }
+    ]
+  }
+}

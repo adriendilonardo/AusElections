@@ -1,0 +1,802 @@
+{
+  "1969": {
+    "title": "Hotham, VIC   1969",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CHIPP, Hon Donald",
+        "Votes": 23776,
+        "Percent": 48.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "VAUGHAN, Kevin",
+        "Votes": 19717,
+        "Percent": 40.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "RADNELL, Ian",
+        "Votes": 4563,
+        "Percent": 9.3
+      },
+      {
+        "Party": "AP",
+        "Candidate": "NOLAN, Kenneth",
+        "Votes": 1238,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1972": {
+    "title": "Hotham, VIC   1972",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CHIPP, Hon Donald",
+        "Votes": 25242,
+        "Percent": 48.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JOHNSTON, Barry",
+        "Votes": 21796,
+        "Percent": 41.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BEVEN, Henry",
+        "Votes": 4211,
+        "Percent": 8.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KENNER, Ian",
+        "Votes": 846,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MURRAY, John",
+        "Votes": 418,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1974": {
+    "title": "Hotham, VIC   1974",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CHIPP, Hon Donald",
+        "Votes": 27826,
+        "Percent": 48.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROSS, Anthony",
+        "Votes": 26822,
+        "Percent": 46.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "GAFFY, Francis",
+        "Votes": 2163,
+        "Percent": 3.7
+      },
+      {
+        "Party": "AP",
+        "Candidate": "FRANKLIN, Richard",
+        "Votes": 801,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MURRAY, John",
+        "Votes": 177,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1975": {
+    "title": "Hotham, VIC   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CHIPP, Hon Donald",
+        "Votes": 32278,
+        "Percent": 54.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROSS, Anthony",
+        "Votes": 24623,
+        "Percent": 41.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "GAFFY, Francis",
+        "Votes": 1948,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MURRAY, John",
+        "Votes": 555,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1977": {
+    "title": "Hotham, VIC   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JOHNSTON, Roger",
+        "Votes": 27663,
+        "Percent": 40.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROSS, Anthony",
+        "Votes": 26144,
+        "Percent": 38.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WEAVER, Kenneth",
+        "Votes": 12587,
+        "Percent": 18.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "WOODS, Edward",
+        "Votes": 2153,
+        "Percent": 3.1
+      }
+    ]
+  },
+  "1980": {
+    "title": "Hotham, VIC   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KENT, Lewis",
+        "Votes": 35201,
+        "Percent": 48.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JOHNSTON, Roger",
+        "Votes": 28054,
+        "Percent": 38.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GROVES, Robyn",
+        "Votes": 8138,
+        "Percent": 11.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "WOODS, Edward",
+        "Votes": 1128,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1983": {
+    "title": "Hotham, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KENT, Lewis",
+        "Votes": 43083,
+        "Percent": 56.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BOLITHO, Peter",
+        "Votes": 28656,
+        "Percent": 37.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FRENKEL, Erwin",
+        "Votes": 4683,
+        "Percent": 6.1
+      }
+    ]
+  },
+  "1984": {
+    "title": "Hotham, VIC   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KENT, Lewis",
+        "Votes": 31821,
+        "Percent": 53.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HEFFERNAN, Michael",
+        "Votes": 20736,
+        "Percent": 34.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CHIPP, Greg",
+        "Votes": 5028,
+        "Percent": 8.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "WOODS, Edward",
+        "Votes": 1845,
+        "Percent": 3.1
+      }
+    ]
+  },
+  "1987": {
+    "title": "Hotham, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KENT, Lewis",
+        "Votes": 33035,
+        "Percent": 52.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCCALL, Peter",
+        "Votes": 25432,
+        "Percent": 40.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KONING, Len de",
+        "Votes": 4402,
+        "Percent": 7.0
+      }
+    ]
+  },
+  "1990": {
+    "title": "Hotham, VIC   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CREAN, Simon",
+        "Votes": 29570,
+        "Percent": 44.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "AYDIN, Erdem",
+        "Votes": 24278,
+        "Percent": 36.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ANDERSON, Phillip",
+        "Votes": 7388,
+        "Percent": 11.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ALFONSO, Vincent",
+        "Votes": 3025,
+        "Percent": 4.5
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "ESMORE, Daryl",
+        "Votes": 1874,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STAMATOPOULOS, Peter",
+        "Votes": 918,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1993": {
+    "title": "Hotham, VIC   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "PHILLIPS, Sue",
+        "Votes": "876",
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PJESIVAC, Petar",
+        "Votes": "765",
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WAN, Gabrielle De",
+        "Votes": "482",
+        "Percent": 0.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CREAN, Hon Simon",
+        "Votes": "42514",
+        "Percent": 59.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HICKS, Robert",
+        "Votes": "25308",
+        "Percent": 35.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SQUILLACCIOTTI, Giancarlo",
+        "Votes": "1743",
+        "Percent": 2.4
+      }
+    ]
+  },
+  "1996": {
+    "title": "Hotham, VIC   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CREAN, Hon Simon",
+        "Votes": 44182,
+        "Percent": 55.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MAUNSELL, Brad",
+        "Votes": 28834,
+        "Percent": 35.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STARKIE, Brad",
+        "Votes": 4271,
+        "Percent": 5.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RUSH, Emma",
+        "Votes": 1511,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CASLEY, John",
+        "Votes": 1176,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CONDON, John",
+        "Votes": 303,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1998": {
+    "title": "Hotham, VIC   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CREAN, Hon Simon",
+        "Votes": 46107,
+        "Percent": 57.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PESUTTO, John",
+        "Votes": 26059,
+        "Percent": 32.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MORGAN, Polly",
+        "Votes": 3720,
+        "Percent": 4.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SALTER, Alan",
+        "Votes": 2559,
+        "Percent": 3.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WALTERS, Susan",
+        "Votes": 1492,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROSENTHAL, Stan",
+        "Votes": 841,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CORDON, John",
+        "Votes": 137,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "Hotham, VIC   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CREAN, Hon Simon",
+        "Votes": 44351,
+        "Percent": 54.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RUFFOLO, Priscilla",
+        "Votes": 28579,
+        "Percent": 35.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JOSS, Jessica",
+        "Votes": 4383,
+        "Percent": 5.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BENNETT, Ollie",
+        "Votes": 3544,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HALL, Simon",
+        "Votes": 598,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2004": {
+    "title": "Hotham, VIC   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CREAN, Hon Simon",
+        "Votes": 40735,
+        "Percent": 51.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MARRINER, Jennifer",
+        "Votes": 30992,
+        "Percent": 39.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PERROTT, Kiera",
+        "Votes": 4287,
+        "Percent": 5.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "COOMBE, Roger",
+        "Votes": 2045,
+        "Percent": 2.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JOSS, Jessica",
+        "Votes": 975,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COX, Josephine",
+        "Votes": 274,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ELLERY, Adam",
+        "Votes": 224,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2007": {
+    "title": "Hotham, VIC   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CREAN, Hon Simon",
+        "Votes": 44853,
+        "Percent": 55.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ARBOREA, Vince",
+        "Votes": 27451,
+        "Percent": 33.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BILLMAN, Matthew",
+        "Votes": 5572,
+        "Percent": 6.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "DORIAN, Peter",
+        "Votes": 1657,
+        "Percent": 2.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CADBY, Craig",
+        "Votes": 800,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FARRELL, Terry",
+        "Votes": 758,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WOODWARD, Mike",
+        "Votes": 240,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "Hotham, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CREAN, Hon Simon",
+        "Votes": 42920,
+        "Percent": 54.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CADER, Fazal",
+        "Votes": 26110,
+        "Percent": 32.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PAYNE, Geoff",
+        "Votes": 8086,
+        "Percent": 10.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ONG, Gary",
+        "Votes": 1688,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "REARDON, Trent",
+        "Votes": 556,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2013": {
+    "title": "Hotham, VIC   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'NEIL, Clare",
+        "Votes": 40512,
+        "Percent": 47.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CADER, Fazal",
+        "Votes": 31929,
+        "Percent": 37.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WYATT, Lorna",
+        "Votes": 7327,
+        "Percent": 8.5
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "PORTER, Samuel",
+        "Votes": 2981,
+        "Percent": 3.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "NOWLAND, Stephen",
+        "Votes": 1818,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VASSILIOU, Peter",
+        "Votes": 1392,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2016": {
+    "title": "Hotham, VIC   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'NEIL, Clare",
+        "Votes": 39881,
+        "Percent": 45.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HUA, George",
+        "Votes": 32512,
+        "Percent": 37.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BENNETT, James",
+        "Votes": 8042,
+        "Percent": 9.2
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "JEGES, Helen",
+        "Votes": 2593,
+        "Percent": 3.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "RATHBONE, Tatiana",
+        "Votes": 2106,
+        "Percent": 2.4
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "VASSILIOU, Peter",
+        "Votes": 2030,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "2019": {
+    "title": "Hotham, VIC   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'NEIL, Clare",
+        "Votes": 43310,
+        "Percent": 45.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HUA, George",
+        "Votes": 37447,
+        "Percent": 39.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GONSALVEZ, Jess",
+        "Votes": 8722,
+        "Percent": 9.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "LUAN, Jin",
+        "Votes": 3483,
+        "Percent": 3.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BILIC, Dennis",
+        "Votes": 1772,
+        "Percent": 1.9
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "DORIAN, Peter",
+        "Votes": 1134,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2022": {
+    "title": "Hotham, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'NEIL, Clare",
+        "Votes": 47135,
+        "Percent": 47.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BEVINAKOPPA, Savitri",
+        "Votes": 25273,
+        "Percent": 25.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WILLOUGHBY, Louisa",
+        "Votes": 12408,
+        "Percent": 12.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "SOK, Edward",
+        "Votes": 6591,
+        "Percent": 6.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "RIDGWAY, Bruce",
+        "Votes": 5869,
+        "Percent": 5.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "TULL, Roger",
+        "Votes": 2926,
+        "Percent": 2.9
+      }
+    ]
+  },
+  "2025": {
+    "title": "Hotham, VIC   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'NEIL, Clare",
+        "Votes": 51880,
+        "Percent": 48.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MATHARU, Harmick Singh",
+        "Votes": 27346,
+        "Percent": 25.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BARRY, Martin",
+        "Votes": 15780,
+        "Percent": 14.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "FOGARTY, Stuart",
+        "Votes": 4959,
+        "Percent": 4.7
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "BROWN, Mark",
+        "Votes": 3592,
+        "Percent": 3.4
+      },
+      {
+        "Party": "CEC",
+        "Candidate": "VAINORAS, Tony",
+        "Votes": 2654,
+        "Percent": 2.5
+      }
+    ]
+  }
+}

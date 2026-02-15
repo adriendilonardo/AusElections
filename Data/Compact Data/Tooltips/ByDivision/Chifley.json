@@ -1,0 +1,874 @@
+{
+  "1969": {
+    "title": "Chifley, NSW   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ARMITAGE, John",
+        "Votes": 31133,
+        "Percent": 61.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KOVJANIC, Milovan",
+        "Votes": 13234,
+        "Percent": 26.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CORCORAN, Victor",
+        "Votes": 4283,
+        "Percent": 8.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ASTER-STATER, Stan",
+        "Votes": 1651,
+        "Percent": 3.3
+      }
+    ]
+  },
+  "1972": {
+    "title": "Chifley, NSW   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ARMITAGE, John",
+        "Votes": 45656,
+        "Percent": 71.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CALABY, Alan",
+        "Votes": 14720,
+        "Percent": 23.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "REA, Francesco",
+        "Votes": 3504,
+        "Percent": 5.5
+      }
+    ]
+  },
+  "1974": {
+    "title": "Chifley, NSW   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ARMITAGE, John",
+        "Votes": 52400,
+        "Percent": 70.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ROBINSON, Patricia",
+        "Votes": 19502,
+        "Percent": 26.4
+      },
+      {
+        "Party": "AP",
+        "Candidate": "LAMBERT, Phillip",
+        "Votes": 2090,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "1975": {
+    "title": "Chifley, NSW   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ARMITAGE, John",
+        "Votes": 48767,
+        "Percent": 61.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SOOKEE, Shirley",
+        "Votes": 30206,
+        "Percent": 38.2
+      }
+    ]
+  },
+  "1977": {
+    "title": "Chifley, NSW   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ARMITAGE, John",
+        "Votes": 39168,
+        "Percent": 60.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TAYLOR, Richard",
+        "Votes": 17745,
+        "Percent": 27.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TOZER, Alfred",
+        "Votes": 6414,
+        "Percent": 9.8
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MUNDEY, Jack",
+        "Votes": 1910,
+        "Percent": 2.9
+      }
+    ]
+  },
+  "1980": {
+    "title": "Chifley, NSW   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ARMITAGE, John",
+        "Votes": 46289,
+        "Percent": 65.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DALY, Philip",
+        "Votes": 19199,
+        "Percent": 27.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WATSON, Keith",
+        "Votes": 2539,
+        "Percent": 3.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COOK, Terence",
+        "Votes": 1918,
+        "Percent": 2.7
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "EVANS, Geoffrey",
+        "Votes": 1091,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1983": {
+    "title": "Chifley, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GORMAN, Russell",
+        "Votes": 44419,
+        "Percent": 61.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MITCHELL, Edna",
+        "Votes": 16565,
+        "Percent": 22.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROI, Christine",
+        "Votes": 4557,
+        "Percent": 6.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COOPER, Jonathan",
+        "Votes": 3744,
+        "Percent": 5.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JONES, Frances",
+        "Votes": 2187,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH/NEW, Jane",
+        "Votes": 1114,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1984": {
+    "title": "Chifley, NSW   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PRICE, Roger",
+        "Votes": 34034,
+        "Percent": 66.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JESSUP, Ken",
+        "Votes": 14115,
+        "Percent": 27.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FANNING, Dominic",
+        "Votes": 2951,
+        "Percent": 5.8
+      }
+    ]
+  },
+  "1987": {
+    "title": "Chifley, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PRICE, Roger",
+        "Votes": 38683,
+        "Percent": 64.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CONLON, Paul",
+        "Votes": 16414,
+        "Percent": 27.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GOLDHAGEN, Philip",
+        "Votes": 4128,
+        "Percent": 6.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CRISP, Cheryl",
+        "Votes": 960,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1990": {
+    "title": "Chifley, NSW   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PRICE, Roger",
+        "Votes": 40085,
+        "Percent": 59.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CONDON, Darren",
+        "Votes": 16772,
+        "Percent": 25.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LOVELL, Nigel",
+        "Votes": 8569,
+        "Percent": 12.7
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "BIRD, Bill",
+        "Votes": 1789,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "1993": {
+    "title": "Chifley, NSW   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "KUMAR, Tom",
+        "Votes": "622",
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BILANA, Yabu",
+        "Votes": "484",
+        "Percent": 0.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PRICE, Hon Roger",
+        "Votes": "47123",
+        "Percent": 68.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRYANT, Joe",
+        "Votes": "4656",
+        "Percent": 6.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "IVOR, F",
+        "Votes": "2014",
+        "Percent": 2.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MACKENZIE, Jennifer",
+        "Votes": "14335",
+        "Percent": 20.7
+      }
+    ]
+  },
+  "1996": {
+    "title": "Chifley, NSW   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PRICE, Hon Roger",
+        "Votes": 42804,
+        "Percent": 58.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GREEN, Jenny",
+        "Votes": 19828,
+        "Percent": 26.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FISHER, Alec",
+        "Votes": 6682,
+        "Percent": 9.1
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "GRIGG, Shirley",
+        "Votes": 2033,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "OWEN, Andrew",
+        "Votes": 1858,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARGREAVES, Louise",
+        "Votes": 653,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1998": {
+    "title": "Chifley, NSW   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PRICE, Hon Roger",
+        "Votes": 43496,
+        "Percent": 59.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "COLES, John",
+        "Votes": 14485,
+        "Percent": 19.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "DAMJANOVIC, Joe",
+        "Votes": 7400,
+        "Percent": 10.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ANDREW, Owen",
+        "Votes": 3595,
+        "Percent": 4.9
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "WYNESS, Joseph",
+        "Votes": 1520,
+        "Percent": 2.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NOLAN, Robert",
+        "Votes": 1014,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PIO, Aooe",
+        "Votes": 969,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VINCENT, Dave",
+        "Votes": 761,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RAZAVIKASHAN, Zahra",
+        "Votes": 162,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "Chifley, NSW   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PRICE, Hon Roger",
+        "Votes": 40203,
+        "Percent": 56.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ASARLOGLOU, Costa",
+        "Votes": 18225,
+        "Percent": 25.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "DAMJANOVIC, Joe",
+        "Votes": 4442,
+        "Percent": 6.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BATES, Barbie",
+        "Votes": 2347,
+        "Percent": 3.3
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "WYNESS, Joseph",
+        "Votes": 1784,
+        "Percent": 2.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CLACK, Steven",
+        "Votes": 1365,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUTLER, Lindsey",
+        "Votes": 1262,
+        "Percent": 1.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CUNNINGHAM, David",
+        "Votes": 1220,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HYLAND, Wayne",
+        "Votes": 565,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2004": {
+    "title": "Chifley, NSW   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PRICE, Hon Roger",
+        "Votes": 39836,
+        "Percent": 55.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ASARLOGLOU, Costa",
+        "Votes": 20814,
+        "Percent": 29.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROBERTSON, Debbie",
+        "Votes": 4326,
+        "Percent": 6.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "VINCENT, Dave",
+        "Votes": 2653,
+        "Percent": 3.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "COOKSLEY, Terry",
+        "Votes": 1579,
+        "Percent": 2.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HEATHCOTE, Robert",
+        "Votes": 1211,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HYLAND, Wayne",
+        "Votes": 850,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RAND, Graham",
+        "Votes": 315,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2007": {
+    "title": "Chifley, NSW   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PRICE, Hon Roger",
+        "Votes": 51568,
+        "Percent": 64.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DIAZ, Jess",
+        "Votes": 19092,
+        "Percent": 23.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FORRESTER, John",
+        "Votes": 2897,
+        "Percent": 3.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "VINCENT, Dave",
+        "Votes": 2751,
+        "Percent": 3.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "KEDWELL, Louise",
+        "Votes": 1183,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COGAN, James",
+        "Votes": 1069,
+        "Percent": 1.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "JEWELL, Evan",
+        "Votes": 1016,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HYLAND, Wayne",
+        "Votes": 484,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TANDA, Amarjit",
+        "Votes": 288,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2010": {
+    "title": "Chifley, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HUSIC, Ed",
+        "Votes": 41456,
+        "Percent": 51.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PRIEST, Venus",
+        "Votes": 24369,
+        "Percent": 30.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROBERTSON, Debbie",
+        "Votes": 6776,
+        "Percent": 8.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "VINCENT, Dave",
+        "Votes": 4068,
+        "Percent": 5.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "KEDWELL, Louise",
+        "Votes": 1585,
+        "Percent": 2.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DARLEY, Keith",
+        "Votes": 1174,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COOKSLEY, Terry",
+        "Votes": 943,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2013": {
+    "title": "Chifley, NSW   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HUSIC, Hon Ed",
+        "Votes": 43044,
+        "Percent": 52.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WHITE, Isabelle",
+        "Votes": 26479,
+        "Percent": 32.2
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "BUTTEL, Christopher",
+        "Votes": 3361,
+        "Percent": 4.1
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "VINCENT, Dave",
+        "Votes": 2862,
+        "Percent": 3.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HAMMOND, Ben",
+        "Votes": 2198,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KHAN, Amar",
+        "Votes": 1749,
+        "Percent": 2.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "POWER, Elizabeth",
+        "Votes": 1402,
+        "Percent": 1.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "WRIGHT, Michael",
+        "Votes": 810,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NORWICK, Alex",
+        "Votes": 396,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2016": {
+    "title": "Chifley, NSW   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HUSIC, Hon Ed",
+        "Votes": 52278,
+        "Percent": 61.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KUMAR, Mohit",
+        "Votes": 19394,
+        "Percent": 22.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "GREEN, Joshua",
+        "Votes": 7820,
+        "Percent": 9.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JAMES, Eliza",
+        "Votes": 3883,
+        "Percent": 4.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KHAN, Ammar",
+        "Votes": 2194,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "2019": {
+    "title": "Chifley, NSW   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HUSIC, Hon Ed",
+        "Votes": 49418,
+        "Percent": 54.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CHETTIPALLY, Livingston",
+        "Votes": 25411,
+        "Percent": 27.9
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "GREEN, Josh",
+        "Votes": 5859,
+        "Percent": 6.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROBERTSON, Brent",
+        "Votes": 4604,
+        "Percent": 5.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "O'CONNOR, Joseph",
+        "Votes": 4133,
+        "Percent": 4.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KHAN, Amar Aziz",
+        "Votes": 1581,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "2022": {
+    "title": "Chifley, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HUSIC, Hon Ed",
+        "Votes": 51236,
+        "Percent": 52.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SINGH, Jugandeep",
+        "Votes": 24046,
+        "Percent": 24.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "BATISH, Amit",
+        "Votes": 6034,
+        "Percent": 6.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SELVENTHIRAN, Sujan",
+        "Votes": 5622,
+        "Percent": 5.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "RASKOV, Zvetanka",
+        "Votes": 5149,
+        "Percent": 5.3
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "ROUGHLEY, Ben",
+        "Votes": 3263,
+        "Percent": 3.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KHAN, Ammar",
+        "Votes": 1839,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "2025": {
+    "title": "Chifley, NSW   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HUSIC, Ed",
+        "Votes": 47078,
+        "Percent": 52.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GREEN, Allan",
+        "Votes": 17613,
+        "Percent": 19.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SINGH, Sukhjinder Pal",
+        "Votes": 8724,
+        "Percent": 9.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "NIKOLIC, Tony",
+        "Votes": 5338,
+        "Percent": 6.0
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "GREEN, Jamie",
+        "Votes": 5336,
+        "Percent": 6.0
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "ARCHER, Ryan",
+        "Votes": 2237,
+        "Percent": 2.5
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "LAXMANALAL, Rohan",
+        "Votes": 1569,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BURNS, Leigh",
+        "Votes": 1519,
+        "Percent": 1.7
+      }
+    ]
+  }
+}

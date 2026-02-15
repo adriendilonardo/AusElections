@@ -1,0 +1,1057 @@
+{
+  "1946": {
+    "title": "Grey, SA   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RUSSELL, Edgar",
+        "Votes": 27479,
+        "Percent": 55.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BADMAN, Albert",
+        "Votes": 22016,
+        "Percent": 44.5
+      }
+    ]
+  },
+  "1949": {
+    "title": "Grey, SA   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RUSSELL, Edgar",
+        "Votes": 20465,
+        "Percent": 54.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ANDREWS, Edward",
+        "Votes": 17145,
+        "Percent": 45.6
+      }
+    ]
+  },
+  "1951": {
+    "title": "Grey, SA   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RUSSELL, Edgar",
+        "Votes": "21384",
+        "Percent": 56.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ANDREWS, Edward",
+        "Votes": "16749",
+        "Percent": 43.9
+      }
+    ]
+  },
+  "1954": {
+    "title": "Grey, SA   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RUSSELL, Edgar",
+        "Votes": "22749",
+        "Percent": 58.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CHEESMAN, Thomas",
+        "Votes": "16253",
+        "Percent": 41.7
+      }
+    ]
+  },
+  "1955": {
+    "title": "Grey, SA   1955",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RUSSELL, Edgar",
+        "Votes": "21836",
+        "Percent": 56.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BOCKELBERG, George",
+        "Votes": "16646",
+        "Percent": 43.3
+      }
+    ]
+  },
+  "1958": {
+    "title": "Grey, SA   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RUSSELL, Edgar",
+        "Votes": 21323,
+        "Percent": 53.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GUNN, David",
+        "Votes": 16233,
+        "Percent": 40.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MILLS, Richard",
+        "Votes": 1755,
+        "Percent": 4.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RIECK, Frank",
+        "Votes": 513,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "1961": {
+    "title": "Grey, SA   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RUSSELL, Edgar",
+        "Votes": 24642,
+        "Percent": 58.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DODGSON, Arthur",
+        "Votes": 16155,
+        "Percent": 38.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MILLS, Richard",
+        "Votes": 1512,
+        "Percent": 3.6
+      }
+    ]
+  },
+  "1963": {
+    "title": "Grey, SA   1963",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORTIMER, Jack",
+        "Votes": "24236",
+        "Percent": 54.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DYASON, Vernon",
+        "Votes": "18749",
+        "Percent": 41.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "AHERN, William",
+        "Votes": "1718",
+        "Percent": 3.8
+      }
+    ]
+  },
+  "1966": {
+    "title": "Grey, SA   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JESSOP, Donald",
+        "Votes": 22562,
+        "Percent": 48.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MORTIMER, Jack",
+        "Votes": 21391,
+        "Percent": 45.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BARNES, Douglas",
+        "Votes": 2811,
+        "Percent": 6.0
+      }
+    ]
+  },
+  "1969": {
+    "title": "Grey, SA   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WALLIS, Laurie",
+        "Votes": 22096,
+        "Percent": 49.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JESSOP, Donald",
+        "Votes": 19257,
+        "Percent": 43.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BARNES, Douglas",
+        "Votes": 1723,
+        "Percent": 3.9
+      },
+      {
+        "Party": "AP",
+        "Candidate": "MANTHORPE, Thomas",
+        "Votes": 1314,
+        "Percent": 3.0
+      }
+    ]
+  },
+  "1972": {
+    "title": "Grey, SA   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WALLIS, Laurie",
+        "Votes": 25941,
+        "Percent": 54.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "REHN, Pat",
+        "Votes": 16698,
+        "Percent": 34.8
+      },
+      {
+        "Party": "AP",
+        "Candidate": "BALL, Derek",
+        "Votes": 3368,
+        "Percent": 7.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "GRAY, David",
+        "Votes": 2015,
+        "Percent": 4.2
+      }
+    ]
+  },
+  "1974": {
+    "title": "Grey, SA   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WALLIS, Laurie",
+        "Votes": 28373,
+        "Percent": 52.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BURMAN, Denis",
+        "Votes": 17337,
+        "Percent": 32.2
+      },
+      {
+        "Party": "CP",
+        "Candidate": "HEADING, Reginald",
+        "Votes": 6112,
+        "Percent": 11.4
+      },
+      {
+        "Party": "AP",
+        "Candidate": "MCMAHON, Edward",
+        "Votes": 1124,
+        "Percent": 2.1
+      },
+      {
+        "Party": "LM",
+        "Candidate": "CLARKE, Nigel",
+        "Votes": 882,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1975": {
+    "title": "Grey, SA   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WALLIS, Laurie",
+        "Votes": 28182,
+        "Percent": 49.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BURMAN, Dennis",
+        "Votes": 26438,
+        "Percent": 46.4
+      },
+      {
+        "Party": "LM",
+        "Candidate": "ECKERSLEY, Arnold",
+        "Votes": 2371,
+        "Percent": 4.2
+      }
+    ]
+  },
+  "1977": {
+    "title": "Grey, SA   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WALLIS, Laurie",
+        "Votes": 31221,
+        "Percent": 46.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "OSWALD, John",
+        "Votes": 26166,
+        "Percent": 39.2
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "HENDERSON, John",
+        "Votes": 6065,
+        "Percent": 9.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MOULDS, Ronald",
+        "Votes": 3331,
+        "Percent": 5.0
+      }
+    ]
+  },
+  "1980": {
+    "title": "Grey, SA   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WALLIS, Laurie",
+        "Votes": 33871,
+        "Percent": 50.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FITZGERALD, Brian",
+        "Votes": 27263,
+        "Percent": 40.4
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "HASKETT, Anthony",
+        "Votes": 3342,
+        "Percent": 4.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GOOD, Mary",
+        "Votes": 3084,
+        "Percent": 4.6
+      }
+    ]
+  },
+  "1983": {
+    "title": "Grey, SA   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'NEIL, Lloyd",
+        "Votes": 35276,
+        "Percent": 51.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BALUCH, Joy",
+        "Votes": 24114,
+        "Percent": 34.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BABBAGE, Jack",
+        "Votes": 3981,
+        "Percent": 5.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "HASKETT, Anthony",
+        "Votes": 3454,
+        "Percent": 5.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CRONIN, James",
+        "Votes": 1556,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HAWKES, Kerry",
+        "Votes": 732,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1984": {
+    "title": "Grey, SA   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'NEIL, Lloyd",
+        "Votes": 31518,
+        "Percent": 52.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "REID, Russell",
+        "Votes": 22584,
+        "Percent": 37.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FOLKERS, Harm",
+        "Votes": 3626,
+        "Percent": 6.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "DIXON-THOMPSON, Robin",
+        "Votes": 2354,
+        "Percent": 3.9
+      }
+    ]
+  },
+  "1987": {
+    "title": "Grey, SA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'NEIL, Lloyd",
+        "Votes": 32005,
+        "Percent": 51.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "REID, Russell",
+        "Votes": 21759,
+        "Percent": 35.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "DIXON-THOMPSON, Robin",
+        "Votes": 4189,
+        "Percent": 6.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JAMES, Chris",
+        "Votes": 3286,
+        "Percent": 5.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEALY, Leonce",
+        "Votes": 480,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1990": {
+    "title": "Grey, SA   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'NEIL, Lloyd",
+        "Votes": 30600,
+        "Percent": 47.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MAN, Jonathan",
+        "Votes": 22601,
+        "Percent": 35.2
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "HEYNE, Ern",
+        "Votes": 5006,
+        "Percent": 7.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FOLKERS, Harm",
+        "Votes": 4608,
+        "Percent": 7.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLARK, Peter",
+        "Votes": 904,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FISHER, John",
+        "Votes": 414,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1993": {
+    "title": "Grey, SA   1993",
+    "rows": [
+      {
+        "Party": "CTA",
+        "Candidate": "WILSON, Anne",
+        "Votes": "813",
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CROWE, G R",
+        "Votes": "6248",
+        "Percent": 8.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VINCENT, Colin",
+        "Votes": "445",
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MUNCHENBERG, Jeff",
+        "Votes": "354",
+        "Percent": 0.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WAKELIN, Barry",
+        "Votes": "34703",
+        "Percent": 44.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FISHER, John",
+        "Votes": "307",
+        "Percent": 0.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PILTZ, Barry",
+        "Votes": "29963",
+        "Percent": 38.2
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "NETTLE, Rod",
+        "Votes": "2878",
+        "Percent": 3.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROGERS, Matthew",
+        "Votes": "2318",
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SOLOMON, Peter",
+        "Votes": "220",
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "OATES, Roger",
+        "Votes": "124",
+        "Percent": 0.2
+      }
+    ]
+  },
+  "1996": {
+    "title": "Grey, SA   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WAKELIN, Barry",
+        "Votes": 41625,
+        "Percent": 54.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CRISP, Denis",
+        "Votes": 27929,
+        "Percent": 36.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JACKSON, Martin",
+        "Votes": 5298,
+        "Percent": 6.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TYMUKAS, Julia",
+        "Votes": 1813,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "1998": {
+    "title": "Grey, SA   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WAKELIN, Barry",
+        "Votes": 35669,
+        "Percent": 47.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BUCKLAND, Geoff",
+        "Votes": 23581,
+        "Percent": 31.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "DICKSON, Noel",
+        "Votes": 9469,
+        "Percent": 12.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WEETMAN, Nick",
+        "Votes": 3802,
+        "Percent": 5.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "GRAY, Ian",
+        "Votes": 1592,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JACKSON, Martin",
+        "Votes": 729,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, Paul",
+        "Votes": 325,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2001": {
+    "title": "Grey, SA   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WAKELIN, Barry",
+        "Votes": 42270,
+        "Percent": 54.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'NEILL, Conleth",
+        "Votes": 24344,
+        "Percent": 31.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HOLLAND, Sylvia",
+        "Votes": 5275,
+        "Percent": 6.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROBERTSON, Gil",
+        "Votes": 3672,
+        "Percent": 4.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MARTIN, Felicity",
+        "Votes": 1847,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "2004": {
+    "title": "Grey, SA   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WAKELIN, Barry",
+        "Votes": 49155,
+        "Percent": 56.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HACKETT, John",
+        "Votes": 26375,
+        "Percent": 30.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "KLEINIG, Roger",
+        "Votes": 4397,
+        "Percent": 5.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MARTIN, Felicity",
+        "Votes": 2872,
+        "Percent": 3.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROBERTSON, Gil",
+        "Votes": 2036,
+        "Percent": 2.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "FITZPATRICK, Peter",
+        "Votes": 1903,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SIEBERT, Paul",
+        "Votes": 270,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2007": {
+    "title": "Grey, SA   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RAMSEY, Rowan",
+        "Votes": 42132,
+        "Percent": 47.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BOLTON, Karin",
+        "Votes": 34466,
+        "Percent": 38.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HOLLAND, Mal",
+        "Votes": 4009,
+        "Percent": 4.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GARLAND, Rosalie",
+        "Votes": 3669,
+        "Percent": 4.1
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "KLEIN, Wilbur",
+        "Votes": 2725,
+        "Percent": 3.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROBERTSON, Gil",
+        "Votes": 1094,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WRIGHT, David",
+        "Votes": 1050,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2010": {
+    "title": "Grey, SA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RAMSEY, Rowan",
+        "Votes": 49361,
+        "Percent": 55.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SANSBURY, Tauto",
+        "Votes": 27514,
+        "Percent": 31.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MELVILLE-SMITH, Andrew",
+        "Votes": 6876,
+        "Percent": 7.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HOLLAND, Sylvia",
+        "Votes": 4741,
+        "Percent": 5.4
+      }
+    ]
+  },
+  "2013": {
+    "title": "Grey, SA   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RAMSEY, Rowan",
+        "Votes": 49334,
+        "Percent": 55.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BROWNE, Ben",
+        "Votes": 24205,
+        "Percent": 27.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "KAMINSKI, Cheryl",
+        "Votes": 4878,
+        "Percent": 5.5
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "REES, Kristian",
+        "Votes": 4457,
+        "Percent": 5.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SENTANCE, Alison",
+        "Votes": 3289,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FIDGE, Greg",
+        "Votes": 2488,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "2016": {
+    "title": "Grey, SA   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RAMSEY, Rowan",
+        "Votes": 38409,
+        "Percent": 42.7
+      },
+      {
+        "Party": "NXT",
+        "Candidate": "BROADFOOT, Andrea",
+        "Votes": 24936,
+        "Percent": 27.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MARTIN, Scott",
+        "Votes": 19373,
+        "Percent": 21.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "KAMINSKI, Cheryl",
+        "Votes": 3710,
+        "Percent": 4.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MARSH, Jillian",
+        "Votes": 2304,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GOURLAY, Phillip",
+        "Votes": 1144,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2019": {
+    "title": "Grey, SA   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RAMSEY, Rowan",
+        "Votes": 52392,
+        "Percent": 50.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BOLTON, Karin",
+        "Votes": 23612,
+        "Percent": 22.8
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "STONE, David",
+        "Votes": 8990,
+        "Percent": 8.7
+      },
+      {
+        "Party": "CA",
+        "Candidate": "BROADFOOT, Andrea",
+        "Votes": 5324,
+        "Percent": 5.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CHAMPION, Candace",
+        "Votes": 4760,
+        "Percent": 4.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "WARREN, Alexander",
+        "Votes": 3891,
+        "Percent": 3.8
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "EDGECOMBE, Jacqui",
+        "Votes": 2681,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CARMODY, Richard",
+        "Votes": 1797,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "2022": {
+    "title": "Grey, SA   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RAMSEY, Rowan",
+        "Votes": 46730,
+        "Percent": 45.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WATSON, Julie",
+        "Votes": 22068,
+        "Percent": 21.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HABERMANN, Liz",
+        "Votes": 11613,
+        "Percent": 11.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WHITE, Tim",
+        "Votes": 6994,
+        "Percent": 6.8
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "WHITE, Kerry Ann",
+        "Votes": 6542,
+        "Percent": 6.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "WATERS, Suzanne",
+        "Votes": 5781,
+        "Percent": 5.6
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MILLER, Peter",
+        "Votes": 1427,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CARMODY, Richard",
+        "Votes": 1332,
+        "Percent": 1.3
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "DEMPSEY, Tracey",
+        "Votes": 721,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2025": {
+    "title": "Grey, SA   2025",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "VENNING, Tom",
+        "Votes": 37287,
+        "Percent": 34.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BOLTON, Karin",
+        "Votes": 24053,
+        "Percent": 22.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KUSS, Anita",
+        "Votes": 18745,
+        "Percent": 17.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "TURTON, Brandon",
+        "Votes": 10652,
+        "Percent": 10.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HARDWICK-FRANCO, Kathryn",
+        "Votes": 6323,
+        "Percent": 5.9
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "EVANS, Kylie",
+        "Votes": 3856,
+        "Percent": 3.6
+      },
+      {
+        "Party": "NP",
+        "Candidate": "BORDA, Peter",
+        "Votes": 3288,
+        "Percent": 3.1
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "BAIS, Laury Hendrik",
+        "Votes": 2677,
+        "Percent": 2.5
+      }
+    ]
+  }
+}

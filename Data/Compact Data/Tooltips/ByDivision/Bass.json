@@ -1,0 +1,949 @@
+{
+  "1946": {
+    "title": "Bass, TAS   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BARNARD, Claude",
+        "Votes": 13495,
+        "Percent": 50.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SPOTSWOOD, Henry",
+        "Votes": 8219,
+        "Percent": 30.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ORCHARD, John",
+        "Votes": 5281,
+        "Percent": 19.6
+      }
+    ]
+  },
+  "1949": {
+    "title": "Bass, TAS   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KEKWICK, Bruce",
+        "Votes": 15686,
+        "Percent": 50.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BARNARD, Hon Claude",
+        "Votes": 15312,
+        "Percent": 49.4
+      }
+    ]
+  },
+  "1951": {
+    "title": "Bass, TAS   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KEKWICK, Bruce",
+        "Votes": "16469",
+        "Percent": 53.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'BYRNE, Colman",
+        "Votes": "14346",
+        "Percent": 46.6
+      }
+    ]
+  },
+  "1954": {
+    "title": "Bass, TAS   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BARNARD, Lance",
+        "Votes": "16623",
+        "Percent": 51.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KEKWICK, Bruce",
+        "Votes": "15946",
+        "Percent": 49.0
+      }
+    ]
+  },
+  "1955": {
+    "title": "Bass, TAS   1955",
+    "rows": [
+      {
+        "Party": "ALPAC",
+        "Candidate": "DUKE, Leslie",
+        "Votes": "2589",
+        "Percent": 7.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BARNARD, Lance",
+        "Votes": "18197",
+        "Percent": 55.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WHITE, Frederick",
+        "Votes": "12009",
+        "Percent": 36.6
+      }
+    ]
+  },
+  "1958": {
+    "title": "Bass, TAS   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BARNARD, Lance",
+        "Votes": 18800,
+        "Percent": 55.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BUSHBY, Maxwell",
+        "Votes": 12394,
+        "Percent": 36.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ARNOLD, Leslie",
+        "Votes": 2610,
+        "Percent": 7.7
+      }
+    ]
+  },
+  "1961": {
+    "title": "Bass, TAS   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BARNARD, Lance",
+        "Votes": 21601,
+        "Percent": 62.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MARRIOTT, Frederick",
+        "Votes": 11326,
+        "Percent": 32.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BOLAND, Francis",
+        "Votes": 1532,
+        "Percent": 4.4
+      }
+    ]
+  },
+  "1963": {
+    "title": "Bass, TAS   1963",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BARNARD, Lance",
+        "Votes": "21182",
+        "Percent": 58.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "KAYE, Frederick",
+        "Votes": "2055",
+        "Percent": 5.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WARDLAW, James",
+        "Votes": "13078",
+        "Percent": 36.0
+      }
+    ]
+  },
+  "1966": {
+    "title": "Bass, TAS   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BARNARD, Lance",
+        "Votes": 21262,
+        "Percent": 57.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BARRENGER, Timothy",
+        "Votes": 13739,
+        "Percent": 36.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DELANY, Richard",
+        "Votes": 2183,
+        "Percent": 5.9
+      }
+    ]
+  },
+  "1969": {
+    "title": "Bass, TAS   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BARNARD, Lance",
+        "Votes": 20214,
+        "Percent": 52.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PITT, Neil",
+        "Votes": 15955,
+        "Percent": 41.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FERRALL, Peter",
+        "Votes": 1094,
+        "Percent": 2.8
+      },
+      {
+        "Party": "AP",
+        "Candidate": "KENT, John",
+        "Votes": 1069,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BATTEN, Geoffrey",
+        "Votes": 398,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1972": {
+    "title": "Bass, TAS   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BARNARD, Lance",
+        "Votes": 23439,
+        "Percent": 58.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BESWICK, Richard",
+        "Votes": 14661,
+        "Percent": 36.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "NERMUT, Jindrich",
+        "Votes": 1783,
+        "Percent": 4.5
+      }
+    ]
+  },
+  "1974": {
+    "title": "Bass, TAS   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BARNARD, Hon Lance",
+        "Votes": 23677,
+        "Percent": 54.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BESWICK, Richard",
+        "Votes": 20137,
+        "Percent": 46.0
+      }
+    ]
+  },
+  "1975": {
+    "title": "Bass, TAS   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "NEWMAN, Kevin",
+        "Votes": 28382,
+        "Percent": 63.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCLAUGHLIN, Michael",
+        "Votes": 15574,
+        "Percent": 34.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHAFFEY, Kevin",
+        "Votes": 1001,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1977": {
+    "title": "Bass, TAS   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "NEWMAN, Hon Kevin",
+        "Votes": 28022,
+        "Percent": 55.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILLEY, Mary",
+        "Votes": 18447,
+        "Percent": 36.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CARTLEDGE, Dennis",
+        "Votes": 3795,
+        "Percent": 7.6
+      }
+    ]
+  },
+  "1980": {
+    "title": "Bass, TAS   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "NEWMAN, Hon Kevin",
+        "Votes": 27586,
+        "Percent": 53.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WARN, Patti",
+        "Votes": 23199,
+        "Percent": 44.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCULLY, Olga",
+        "Votes": 1310,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1983": {
+    "title": "Bass, TAS   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "NEWMAN, Hon Kevin",
+        "Votes": 28448,
+        "Percent": 53.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCDONALD, John",
+        "Votes": 19590,
+        "Percent": 36.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GOLDIE, Nick",
+        "Votes": 3291,
+        "Percent": 6.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HUTCHISON, Richard",
+        "Votes": 1884,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "1984": {
+    "title": "Bass, TAS   1984",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SMITH, Warwick",
+        "Votes": 27226,
+        "Percent": 52.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BUCHANAN, Vicki",
+        "Votes": 22544,
+        "Percent": 43.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PREECE, Michael",
+        "Votes": 2624,
+        "Percent": 5.0
+      }
+    ]
+  },
+  "1987": {
+    "title": "Bass, TAS   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SMITH, Warwick",
+        "Votes": 28149,
+        "Percent": 51.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TAYLOR, Richard",
+        "Votes": 23311,
+        "Percent": 42.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PREECE, Michael",
+        "Votes": 2910,
+        "Percent": 5.4
+      }
+    ]
+  },
+  "1990": {
+    "title": "Bass, TAS   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SMITH, Warwick",
+        "Votes": 28441,
+        "Percent": 49.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Silvia",
+        "Votes": 21619,
+        "Percent": 37.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SAXON, Rae",
+        "Votes": 4449,
+        "Percent": 7.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHESTER, John",
+        "Votes": 2479,
+        "Percent": 4.4
+      }
+    ]
+  },
+  "1993": {
+    "title": "Bass, TAS   1993",
+    "rows": [
+      {
+        "Party": "GRN",
+        "Candidate": "HUNNERUP, David",
+        "Votes": "3907",
+        "Percent": 6.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SMITH, Warwick",
+        "Votes": "29187",
+        "Percent": 47.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Silvia",
+        "Votes": "27014",
+        "Percent": 43.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "AUSTEN, Brian",
+        "Votes": "1572",
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1996": {
+    "title": "Bass, TAS   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SMITH, Warwick",
+        "Votes": 31875,
+        "Percent": 51.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Silvia",
+        "Votes": 25034,
+        "Percent": 40.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NICKLASON, Kristina",
+        "Votes": 3093,
+        "Percent": 5.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BUTLER, Debbie",
+        "Votes": 2214,
+        "Percent": 3.6
+      }
+    ]
+  },
+  "1998": {
+    "title": "Bass, TAS   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SMITH, Hon Warwick",
+        "Votes": 27974,
+        "Percent": 45.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O\u0092BYRNE, Michelle",
+        "Votes": 25864,
+        "Percent": 42.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BAIRD, Stuart",
+        "Votes": 2595,
+        "Percent": 4.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "LOCKHART, Allan",
+        "Votes": 2057,
+        "Percent": 3.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MUIR, Brian",
+        "Votes": 1491,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Harvey",
+        "Votes": 1165,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "2001": {
+    "title": "Bass, TAS   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'BYRNE, Michelle",
+        "Votes": 25987,
+        "Percent": 42.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BENNEWORTH, Tony",
+        "Votes": 25156,
+        "Percent": 41.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BOOTH, Kim",
+        "Votes": 3788,
+        "Percent": 6.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COLGRAVE, Sancia",
+        "Votes": 2178,
+        "Percent": 3.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "COLLINS, Denis",
+        "Votes": 1836,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOCKRAY, Margy",
+        "Votes": 966,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARDMAN, Ian",
+        "Votes": 621,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LARNER, Caroline",
+        "Votes": 159,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2004": {
+    "title": "Bass, TAS   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FERGUSON, Michael",
+        "Votes": 30678,
+        "Percent": 49.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'BYRNE, Michelle",
+        "Votes": 24491,
+        "Percent": 39.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BALL, Jeremy",
+        "Votes": 5059,
+        "Percent": 8.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BERGMAN, Christine",
+        "Votes": 1145,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LARNER, Caroline",
+        "Votes": 847,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LANDELLES, Meredith De",
+        "Votes": 219,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2007": {
+    "title": "Bass, TAS   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FERGUSON, Michael",
+        "Votes": 27769,
+        "Percent": 43.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CAMPBELL, Jodie",
+        "Votes": 23764,
+        "Percent": 37.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MILLEN, Tom",
+        "Votes": 9745,
+        "Percent": 15.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WIENER, Sven",
+        "Votes": 1123,
+        "Percent": 1.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HAAN, Ixa de",
+        "Votes": 930,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BENNETT, Shem",
+        "Votes": 285,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WATTS, Adrian",
+        "Votes": 219,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "Bass, TAS   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LYONS, Geoff",
+        "Votes": 28448,
+        "Percent": 43.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TITMUS, Steve",
+        "Votes": 26010,
+        "Percent": 39.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COLGRAVE, Sancia",
+        "Votes": 10206,
+        "Percent": 15.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WATTS, Adrian",
+        "Votes": 838,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2013": {
+    "title": "Bass, TAS   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "NIKOLIC, Andrew",
+        "Votes": 31267,
+        "Percent": 47.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LYONS, Geoff",
+        "Votes": 22643,
+        "Percent": 34.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LANDON-LANE, Lucy",
+        "Votes": 5160,
+        "Percent": 7.9
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "DOBSON, Christopher",
+        "Votes": 3520,
+        "Percent": 5.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BERGMAN, Christine",
+        "Votes": 1407,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KROEZE, Ray",
+        "Votes": 963,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHOI, Jin-oh",
+        "Votes": 384,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2016": {
+    "title": "Bass, TAS   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HART, Ross",
+        "Votes": 26803,
+        "Percent": 40.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NIKOLIC, Andrew",
+        "Votes": 25609,
+        "Percent": 38.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RILEY-GIBSON, Terrill",
+        "Votes": 7154,
+        "Percent": 10.8
+      },
+      {
+        "Party": "ARFP",
+        "Candidate": "TAPSELL, Mark",
+        "Votes": 3231,
+        "Percent": 4.9
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BEATTIE, Malcolm",
+        "Votes": 1765,
+        "Percent": 2.7
+      },
+      {
+        "Party": "REP",
+        "Candidate": "RAMAGE, Roy",
+        "Votes": 1613,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "2019": {
+    "title": "Bass, TAS   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ARCHER, Bridget",
+        "Votes": 29094,
+        "Percent": 42.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HART, Ross",
+        "Votes": 23878,
+        "Percent": 34.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HALL, Tom",
+        "Votes": 7202,
+        "Percent": 10.5
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "ROARK, Allan",
+        "Votes": 3342,
+        "Percent": 4.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAMBERT, Todd",
+        "Votes": 2607,
+        "Percent": 3.8
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "WOODBURY, Susan",
+        "Votes": 1667,
+        "Percent": 2.4
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "COOPER, Carl",
+        "Votes": 943,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2022": {
+    "title": "Bass, TAS   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ARCHER, Bridget",
+        "Votes": 27257,
+        "Percent": 39.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HART, Ross",
+        "Votes": 19630,
+        "Percent": 28.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROSOL, Cecily",
+        "Votes": 7614,
+        "Percent": 11.1
+      },
+      {
+        "Party": "JLN",
+        "Candidate": "SALT, Bob",
+        "Votes": 4587,
+        "Percent": 6.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RAZAY, George",
+        "Votes": 3450,
+        "Percent": 5.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "DAVY, Melanie",
+        "Votes": 3230,
+        "Percent": 4.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SQUIBB, Kyle",
+        "Votes": 1140,
+        "Percent": 1.7
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "BAKER, Alison",
+        "Votes": 969,
+        "Percent": 1.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "HUMBLE, Stephen",
+        "Votes": 732,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2025": {
+    "title": "Bass, TAS   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "TEESDALE, Jess",
+        "Votes": 28375,
+        "Percent": 39.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ARCHER, Bridget Kathleen",
+        "Votes": 22511,
+        "Percent": 31.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "McLENNAN, Charlene",
+        "Votes": 9229,
+        "Percent": 12.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "POTTER, Jordan",
+        "Votes": 4639,
+        "Percent": 6.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RAZAY, George",
+        "Votes": 3852,
+        "Percent": 5.4
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "BROOMHALL, Ray",
+        "Votes": 2287,
+        "Percent": 3.2
+      },
+      {
+        "Party": "CEC",
+        "Candidate": "LARNER, Caroline",
+        "Votes": 701,
+        "Percent": 1.0
+      }
+    ]
+  }
+}

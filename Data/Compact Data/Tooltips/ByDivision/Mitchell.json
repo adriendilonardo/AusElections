@@ -1,0 +1,1010 @@
+{
+  "1949": {
+    "title": "Mitchell, NSW   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WHEELER, Roy",
+        "Votes": 23274,
+        "Percent": 56.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WHITE, Joseph",
+        "Votes": 17643,
+        "Percent": 43.1
+      }
+    ]
+  },
+  "1951": {
+    "title": "Mitchell, NSW   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WHEELER, Roy",
+        "Votes": "23028",
+        "Percent": 53.8
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MCCALMAN, Melville",
+        "Votes": "2158",
+        "Percent": 5.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WHITE, Joseph",
+        "Votes": "17580",
+        "Percent": 41.1
+      }
+    ]
+  },
+  "1954": {
+    "title": "Mitchell, NSW   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WHEELER, Roy",
+        "Votes": "24391",
+        "Percent": 50.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BOWD, Douglas",
+        "Votes": "23151",
+        "Percent": 47.5
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MCCALMAN, Melville",
+        "Votes": "1186",
+        "Percent": 2.4
+      }
+    ]
+  },
+  "1955": {
+    "title": "Mitchell, NSW   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WHEELER, Roy",
+        "Votes": "24077",
+        "Percent": 59.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BOWD, Douglas",
+        "Votes": "16239",
+        "Percent": 40.3
+      }
+    ]
+  },
+  "1958": {
+    "title": "Mitchell, NSW   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WHEELER, Roy",
+        "Votes": 26536,
+        "Percent": 54.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BYRNE, Reginald",
+        "Votes": 20062,
+        "Percent": 41.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MOFFITT, Francis",
+        "Votes": 2039,
+        "Percent": 4.2
+      }
+    ]
+  },
+  "1961": {
+    "title": "Mitchell, NSW   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ARMITAGE, John",
+        "Votes": 36363,
+        "Percent": 52.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WHEELER, Roy",
+        "Votes": 29887,
+        "Percent": 42.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DWYER, Allan",
+        "Votes": 3011,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MANTOVA, John",
+        "Votes": 404,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1963": {
+    "title": "Mitchell, NSW   1963",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "ASHE, John",
+        "Votes": "438",
+        "Percent": 0.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "IRWIN, Leslie",
+        "Votes": "39230",
+        "Percent": 49.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ARMITAGE, John",
+        "Votes": "35301",
+        "Percent": 44.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "TOWNER, Malcolm",
+        "Votes": "2943",
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ACKERMAN, Albert",
+        "Votes": "1604",
+        "Percent": 2.0
+      }
+    ]
+  },
+  "1966": {
+    "title": "Mitchell, NSW   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "IRWIN, Leslie",
+        "Votes": 48570,
+        "Percent": 54.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCLOUGHLIN, Peter",
+        "Votes": 30070,
+        "Percent": 33.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MURRAY, William",
+        "Votes": 3528,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BONNOR, Francis",
+        "Votes": 2885,
+        "Percent": 3.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DIEHM, Andrew",
+        "Votes": 2878,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JONES, Alan",
+        "Votes": 433,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DEECKE, Michael",
+        "Votes": 414,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "REES, Dennis",
+        "Votes": 373,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MARTIN, Kevin",
+        "Votes": 318,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1969": {
+    "title": "Mitchell, NSW   1969",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "IRWIN, Leslie",
+        "Votes": 25560,
+        "Percent": 47.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ASHLEY-BROWN, Alfred",
+        "Votes": 23907,
+        "Percent": 44.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MAGUIRE, John",
+        "Votes": 1773,
+        "Percent": 3.3
+      },
+      {
+        "Party": "AP",
+        "Candidate": "WALLER, Gordon",
+        "Votes": 1244,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLIFT, Harvey",
+        "Votes": 1055,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "1972": {
+    "title": "Mitchell, NSW   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ASHLEY-BROWN, Alfred",
+        "Votes": 31631,
+        "Percent": 47.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "IRWIN, Leslie",
+        "Votes": 29702,
+        "Percent": 44.6
+      },
+      {
+        "Party": "AP",
+        "Candidate": "BERZIN, Patricia",
+        "Votes": 2729,
+        "Percent": 4.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SANSON, David",
+        "Votes": 1925,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCARTHUR, David",
+        "Votes": 329,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "F, Ivor",
+        "Votes": 226,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1974": {
+    "title": "Mitchell, NSW   1974",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CADMAN, Alan",
+        "Votes": 39009,
+        "Percent": 50.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ASHLEY-BROWN, Alfred",
+        "Votes": 36283,
+        "Percent": 46.9
+      },
+      {
+        "Party": "AP",
+        "Candidate": "BUTTERWORTH, John",
+        "Votes": 2080,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "1975": {
+    "title": "Mitchell, NSW   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CADMAN, Alan",
+        "Votes": 50875,
+        "Percent": 62.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SAVAGE, David",
+        "Votes": 28970,
+        "Percent": 35.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "YUILLE, Duncan",
+        "Votes": 999,
+        "Percent": 1.2
+      },
+      {
+        "Party": "AP",
+        "Candidate": "MUNRO, Alexander",
+        "Votes": 705,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MIKULASEV, Dimitar",
+        "Votes": 246,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "F, Ivor",
+        "Votes": 225,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1977": {
+    "title": "Mitchell, NSW   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CADMAN, Allan",
+        "Votes": 39454,
+        "Percent": 60.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "THOMPSON, Ellen",
+        "Votes": 17733,
+        "Percent": 27.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HARTNELL, Michael",
+        "Votes": 5988,
+        "Percent": 9.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ALLAN, Ronald",
+        "Votes": 1817,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MIKULASEV, Dimitar",
+        "Votes": 353,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1980": {
+    "title": "Mitchell, NSW   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CADMAN, Alan",
+        "Votes": 48860,
+        "Percent": 63.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCARDLE, Patrick",
+        "Votes": 23703,
+        "Percent": 30.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MASON, Rosemary",
+        "Votes": 4744,
+        "Percent": 6.1
+      }
+    ]
+  },
+  "1983": {
+    "title": "Mitchell, NSW   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CADMAN, Alan",
+        "Votes": 48797,
+        "Percent": 58.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LLEWELLYN, Arthur",
+        "Votes": 30298,
+        "Percent": 36.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SAMUELS, Rona",
+        "Votes": 4450,
+        "Percent": 5.3
+      }
+    ]
+  },
+  "1984": {
+    "title": "Mitchell, NSW   1984",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CADMAN, Alan",
+        "Votes": 37568,
+        "Percent": 67.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MASON, Edward",
+        "Votes": 14188,
+        "Percent": 25.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PAGE, Alan",
+        "Votes": 3928,
+        "Percent": 7.1
+      }
+    ]
+  },
+  "1987": {
+    "title": "Mitchell, NSW   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CADMAN, Alan",
+        "Votes": 46473,
+        "Percent": 72.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROBINSON, Geoff",
+        "Votes": 17603,
+        "Percent": 27.5
+      }
+    ]
+  },
+  "1990": {
+    "title": "Mitchell, NSW   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CADMAN, Alan",
+        "Votes": 45050,
+        "Percent": 62.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCILVEEN, Graeme",
+        "Votes": 15704,
+        "Percent": 21.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WATTS, Jan",
+        "Votes": 8982,
+        "Percent": 12.5
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "MORTON, Harold",
+        "Votes": 1854,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "1993": {
+    "title": "Mitchell, NSW   1993",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CADMAN, Alan",
+        "Votes": "43819",
+        "Percent": 64.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "POSGATE, Roger",
+        "Votes": "3664",
+        "Percent": 5.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KANAGHINES, Julie",
+        "Votes": "19036",
+        "Percent": 28.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ANDERSON, Charles",
+        "Votes": "1005",
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1996": {
+    "title": "Mitchell, NSW   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CADMAN, Alan",
+        "Votes": 48541,
+        "Percent": 67.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LEWIS, Erica",
+        "Votes": 13790,
+        "Percent": 19.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KRASON, Colleen",
+        "Votes": 5930,
+        "Percent": 8.2
+      },
+      {
+        "Party": "AAFI",
+        "Candidate": "PETTITT, Tony",
+        "Votes": 2688,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HUTCHINSON, John",
+        "Votes": 699,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PRICE, Penny",
+        "Votes": 338,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1998": {
+    "title": "Mitchell, NSW   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CADMAN, Hon Alan",
+        "Votes": 46203,
+        "Percent": 60.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ELLARD, Anthony",
+        "Votes": 16263,
+        "Percent": 21.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BURKE, Stephen",
+        "Votes": 5090,
+        "Percent": 6.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCAULIFFE, Helen",
+        "Votes": 3852,
+        "Percent": 5.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "UZUNOSKI, Ilo",
+        "Votes": 1988,
+        "Percent": 2.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TAYLOR, Cindy",
+        "Votes": 1719,
+        "Percent": 2.2
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "GREGORY, Ken",
+        "Votes": 1235,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LYONS, Michael",
+        "Votes": 145,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "Mitchell, NSW   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CADMAN, Hon Alan",
+        "Votes": 49995,
+        "Percent": 63.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCSHANE, John",
+        "Votes": 16987,
+        "Percent": 21.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BAGGS, David",
+        "Votes": 3769,
+        "Percent": 4.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TAYLOR, Cindy",
+        "Votes": 2470,
+        "Percent": 3.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "ELDER, Dale",
+        "Votes": 2183,
+        "Percent": 2.8
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "GREGORY, Ken",
+        "Votes": 1681,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MUDGEE, David",
+        "Votes": 1235,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BURKE, Stephen",
+        "Votes": 712,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2004": {
+    "title": "Mitchell, NSW   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CADMAN, Hon Alan",
+        "Votes": 54582,
+        "Percent": 64.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WALIA, Harmohan",
+        "Votes": 17673,
+        "Percent": 20.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JARECKI, Sheryl",
+        "Votes": 5258,
+        "Percent": 6.2
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "HORGAN, Michael",
+        "Votes": 2161,
+        "Percent": 2.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TALEBI, Kamran Keshavarz",
+        "Votes": 1440,
+        "Percent": 1.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MONTGOMERY, Joy",
+        "Votes": 1140,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BURKE, Stephen",
+        "Votes": 1048,
+        "Percent": 1.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BYLEVELD, Norman",
+        "Votes": 1037,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BODLAY, Jordie",
+        "Votes": 476,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2007": {
+    "title": "Mitchell, NSW   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAWKE, Alex",
+        "Votes": 46115,
+        "Percent": 56.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GOULD, Nigel",
+        "Votes": 25211,
+        "Percent": 31.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WRIGHT-TURNER, Toni",
+        "Votes": 4302,
+        "Percent": 5.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "ALLEN, Darryl",
+        "Votes": 2099,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FIANDER, James",
+        "Votes": 1715,
+        "Percent": 2.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "GRAETZ, Jarrod",
+        "Votes": 1022,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BODLAY, Jordie",
+        "Votes": 815,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2010": {
+    "title": "Mitchell, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAWKE, Alex",
+        "Votes": 52465,
+        "Percent": 62.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GOULD, Nigel",
+        "Votes": 22046,
+        "Percent": 26.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DAWSON, Colin",
+        "Votes": 6363,
+        "Percent": 7.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "PRENTICE, Brendon",
+        "Votes": 2855,
+        "Percent": 3.4
+      }
+    ]
+  },
+  "2013": {
+    "title": "Mitchell, NSW   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAWKE, Alex",
+        "Votes": 56706,
+        "Percent": 65.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PUNCH, Andrew",
+        "Votes": 17775,
+        "Percent": 20.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BELLSTEDT, Michael",
+        "Votes": 5554,
+        "Percent": 6.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "ALLEN, Darryl",
+        "Votes": 2794,
+        "Percent": 3.2
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "SCHULTZ, Murray",
+        "Votes": 2792,
+        "Percent": 3.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DODD, Nathan",
+        "Votes": 987,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2016": {
+    "title": "Mitchell, NSW   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAWKE, Hon Alex",
+        "Votes": 55168,
+        "Percent": 60.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PUNCH, Andrew",
+        "Votes": 22440,
+        "Percent": 24.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BELLSTEDT, Michael",
+        "Votes": 7287,
+        "Percent": 8.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "ALLEN, Darryl",
+        "Votes": 6303,
+        "Percent": 6.9
+      }
+    ]
+  },
+  "2019": {
+    "title": "Mitchell, NSW   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAWKE, Hon Alex",
+        "Votes": 61202,
+        "Percent": 62.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SELVARAJ, Immanuel",
+        "Votes": 23613,
+        "Percent": 23.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MURPHY, Lawrence",
+        "Votes": 7955,
+        "Percent": 8.1
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "HALL, Craig",
+        "Votes": 3156,
+        "Percent": 3.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HOPPENBROUWER, Roy",
+        "Votes": 2705,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "2022": {
+    "title": "Mitchell, NSW   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAWKE, Hon Alex",
+        "Votes": 56918,
+        "Percent": 52.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SELVARAJ, Immanuel",
+        "Votes": 27597,
+        "Percent": 25.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COX, Matt",
+        "Votes": 12796,
+        "Percent": 11.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "DANIEL, Linda",
+        "Votes": 3916,
+        "Percent": 3.6
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MEAD, Clinton",
+        "Votes": 3708,
+        "Percent": 3.4
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MCKENZIE, Donald",
+        "Votes": 3258,
+        "Percent": 3.0
+      }
+    ]
+  },
+  "2025": {
+    "title": "Mitchell, NSW   2025",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAWKE, Alex",
+        "Votes": 50758,
+        "Percent": 46.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BIRCAN, Dilvan",
+        "Votes": 36396,
+        "Percent": 33.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SPEECHLY, Ben",
+        "Votes": 15044,
+        "Percent": 13.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "McCREANOR, Brendan",
+        "Votes": 4680,
+        "Percent": 4.3
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "CROCKER, Mark",
+        "Votes": 2675,
+        "Percent": 2.4
+      }
+    ]
+  }
+}

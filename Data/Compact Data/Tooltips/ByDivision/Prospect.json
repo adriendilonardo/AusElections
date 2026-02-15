@@ -1,0 +1,520 @@
+{
+  "1969": {
+    "title": "Prospect, NSW   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KLUGMAN, Dr Richard",
+        "Votes": 28155,
+        "Percent": 57.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KELLY, Stanislaus",
+        "Votes": 16687,
+        "Percent": 33.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FERGUSON, John",
+        "Votes": 4517,
+        "Percent": 9.2
+      }
+    ]
+  },
+  "1972": {
+    "title": "Prospect, NSW   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KLUGMAN, Dr Richard",
+        "Votes": 37242,
+        "Percent": 64.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KELLY, Stanislaus",
+        "Votes": 16577,
+        "Percent": 28.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DUNBAR, William",
+        "Votes": 3523,
+        "Percent": 6.1
+      }
+    ]
+  },
+  "1974": {
+    "title": "Prospect, NSW   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KLUGMAN, Dr Richard",
+        "Votes": 44082,
+        "Percent": 67.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MACDONALD, Donald",
+        "Votes": 19591,
+        "Percent": 30.0
+      },
+      {
+        "Party": "AP",
+        "Candidate": "THOMAS, Geoffrey",
+        "Votes": 1693,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "1975": {
+    "title": "Prospect, NSW   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KLUGMAN, Dr Richard",
+        "Votes": 38487,
+        "Percent": 57.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MACDONALD, Donald",
+        "Votes": 27695,
+        "Percent": 41.1
+      },
+      {
+        "Party": "AP",
+        "Candidate": "THOMAS, Geoffrey",
+        "Votes": 1284,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "1977": {
+    "title": "Prospect, NSW   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KLUGMAN, Dr Richard",
+        "Votes": 34933,
+        "Percent": 54.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BYERS, Alan",
+        "Votes": 21591,
+        "Percent": 33.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BOURKE, Laurence",
+        "Votes": 7421,
+        "Percent": 11.6
+      }
+    ]
+  },
+  "1980": {
+    "title": "Prospect, NSW   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KLUGMAN, Dr Richard",
+        "Votes": 39419,
+        "Percent": 57.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BYERS, Alan",
+        "Votes": 24967,
+        "Percent": 36.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GOODERE, Robert",
+        "Votes": 3751,
+        "Percent": 5.5
+      }
+    ]
+  },
+  "1983": {
+    "title": "Prospect, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KLUGMAN, Dr Dick",
+        "Votes": 46793,
+        "Percent": 63.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RYERS, Alan",
+        "Votes": 25315,
+        "Percent": 34.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NICHOLS, Richard",
+        "Votes": 1320,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VIITALA, Eric",
+        "Votes": 714,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1984": {
+    "title": "Prospect, NSW   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KLUGMAN, Dr Dick",
+        "Votes": 38475,
+        "Percent": 66.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BURKE, Adrian",
+        "Votes": 16085,
+        "Percent": 27.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NEESAM, Robert",
+        "Votes": 2987,
+        "Percent": 5.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NICHOLS, Dick",
+        "Votes": 791,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1987": {
+    "title": "Prospect, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KLUGMAN, Dr Richard",
+        "Votes": 33367,
+        "Percent": 52.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "INGRAM, Robert",
+        "Votes": 18018,
+        "Percent": 28.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARONE, Sam",
+        "Votes": 9354,
+        "Percent": 14.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "UTTERSON, William",
+        "Votes": 3194,
+        "Percent": 5.0
+      }
+    ]
+  },
+  "1990": {
+    "title": "Prospect, NSW   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CROSIO, Hon Janice",
+        "Votes": 37866,
+        "Percent": 56.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NEWTON, Paul",
+        "Votes": 20058,
+        "Percent": 29.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WRIGHT, Kate",
+        "Votes": 6639,
+        "Percent": 9.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ZANELLA, Jenny",
+        "Votes": 1455,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NICHOLS, Dick",
+        "Votes": 920,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BEAMS, Nick",
+        "Votes": 648,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1993": {
+    "title": "Prospect, NSW   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "BYLEVELD, Norman",
+        "Votes": "777",
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BULL, Sue",
+        "Votes": "763",
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BYERS, Alan",
+        "Votes": "757",
+        "Percent": 1.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CROSIO, Hon Janice",
+        "Votes": "44039",
+        "Percent": 65.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PALING, Reg",
+        "Votes": "397",
+        "Percent": 0.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PIKE, Dick",
+        "Votes": "3044",
+        "Percent": 4.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NEWTON, Paul",
+        "Votes": "17593",
+        "Percent": 26.1
+      }
+    ]
+  },
+  "1996": {
+    "title": "Prospect, NSW   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CROSIO, Hon Janice",
+        "Votes": 39318,
+        "Percent": 56.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAMERON, Ron",
+        "Votes": 22182,
+        "Percent": 32.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "POULARIS, Manny",
+        "Votes": 6951,
+        "Percent": 10.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COGGER, Linda",
+        "Votes": 922,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "1998": {
+    "title": "Prospect, NSW   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CROSIO, Hon Janice",
+        "Votes": 41310,
+        "Percent": 59.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "AZIZ, Nahid",
+        "Votes": 15965,
+        "Percent": 23.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HUTCHINSON, John",
+        "Votes": 5199,
+        "Percent": 7.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "POULARIS, Manny",
+        "Votes": 3405,
+        "Percent": 4.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TONGSUMRITH, Somchai",
+        "Votes": 2199,
+        "Percent": 3.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HARRIS, Chris",
+        "Votes": 1074,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COGGER, Linda",
+        "Votes": 235,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2001": {
+    "title": "Prospect, NSW   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CROSIO, Hon Janice",
+        "Votes": 41603,
+        "Percent": 55.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PERKINS, Gareth",
+        "Votes": 20773,
+        "Percent": 27.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FILIPCZYK, Rebecca",
+        "Votes": 3457,
+        "Percent": 4.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HUTCHINSON, John",
+        "Votes": 3395,
+        "Percent": 4.5
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "HAROON, Lewis",
+        "Votes": 1947,
+        "Percent": 2.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PEACOCK, Tom",
+        "Votes": 1738,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "OATES, Garry",
+        "Votes": 1277,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TAI, Kek",
+        "Votes": 1029,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2004": {
+    "title": "Prospect, NSW   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BOWEN, Chris",
+        "Votes": 37802,
+        "Percent": 50.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JACOBUCCI, Robert",
+        "Votes": 28828,
+        "Percent": 38.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MARKS, Kelly",
+        "Votes": 4009,
+        "Percent": 5.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "POULARAS, Manny",
+        "Votes": 2285,
+        "Percent": 3.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "ABROMAS, John",
+        "Votes": 1438,
+        "Percent": 1.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ARTHUR, Lily",
+        "Votes": 1131,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "2007": {
+    "title": "Prospect, NSW   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BOWEN, Chris",
+        "Votes": 46135,
+        "Percent": 58.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ARTHUR, Lily",
+        "Votes": 24705,
+        "Percent": 31.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GEBILAGIN, Lizza",
+        "Votes": 3618,
+        "Percent": 4.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LEVER, Carolyn",
+        "Votes": 2655,
+        "Percent": 3.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "CALLANDER, Jason",
+        "Votes": 2187,
+        "Percent": 2.8
+      }
+    ]
+  }
+}

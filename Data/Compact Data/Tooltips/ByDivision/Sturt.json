@@ -1,0 +1,998 @@
+{
+  "1949": {
+    "title": "Sturt, SA   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Keith",
+        "Votes": 21157,
+        "Percent": 50.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCMULLIN, Leslie",
+        "Votes": 18828,
+        "Percent": 45.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Leonard",
+        "Votes": 1628,
+        "Percent": 3.9
+      }
+    ]
+  },
+  "1951": {
+    "title": "Sturt, SA   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Keith",
+        "Votes": "22599",
+        "Percent": 52.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCMULLIN, Leslie",
+        "Votes": "20554",
+        "Percent": 47.6
+      }
+    ]
+  },
+  "1954": {
+    "title": "Sturt, SA   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MAKIN, Hon Norman",
+        "Votes": "25857",
+        "Percent": 53.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Keith",
+        "Votes": "22890",
+        "Percent": 47.0
+      }
+    ]
+  },
+  "1955": {
+    "title": "Sturt, SA   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Keith",
+        "Votes": "24306",
+        "Percent": 60.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HANSFORD, Frederick",
+        "Votes": "16022",
+        "Percent": 39.7
+      }
+    ]
+  },
+  "1958": {
+    "title": "Sturt, SA   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Keith",
+        "Votes": 24325,
+        "Percent": 57.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HAUSLER, Siegfried",
+        "Votes": 16013,
+        "Percent": 37.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "VOWLES, Norman",
+        "Votes": 2266,
+        "Percent": 5.3
+      }
+    ]
+  },
+  "1961": {
+    "title": "Sturt, SA   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Keith",
+        "Votes": 23392,
+        "Percent": 52.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PENN, Arthur",
+        "Votes": 17430,
+        "Percent": 38.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DORAN, Walter",
+        "Votes": 4000,
+        "Percent": 8.9
+      }
+    ]
+  },
+  "1963": {
+    "title": "Sturt, SA   1963",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Keith",
+        "Votes": "26469",
+        "Percent": 56.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DORAN, Walter",
+        "Votes": "2551",
+        "Percent": 5.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FOSTER, Norman",
+        "Votes": "18264",
+        "Percent": 38.6
+      }
+    ]
+  },
+  "1966": {
+    "title": "Sturt, SA   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Ian",
+        "Votes": 31479,
+        "Percent": 63.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PAGE, Keith Le",
+        "Votes": 15941,
+        "Percent": 32.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DORAN, Walter",
+        "Votes": 2157,
+        "Percent": 4.4
+      }
+    ]
+  },
+  "1969": {
+    "title": "Sturt, SA   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FOSTER, Norman",
+        "Votes": 24007,
+        "Percent": 50.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Ian",
+        "Votes": 22800,
+        "Percent": 47.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HUBERT, Paul",
+        "Votes": 1164,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "1972": {
+    "title": "Sturt, SA   1972",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Ian",
+        "Votes": 28056,
+        "Percent": 50.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FOSTER, Norman",
+        "Votes": 25689,
+        "Percent": 46.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DORAN, Walter",
+        "Votes": 1479,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILKINSON, Peter",
+        "Votes": 321,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1974": {
+    "title": "Sturt, SA   1974",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Ian",
+        "Votes": 28799,
+        "Percent": 45.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MAGUIRE, Graham",
+        "Votes": 28088,
+        "Percent": 44.2
+      },
+      {
+        "Party": "LM",
+        "Candidate": "HALL, Betty",
+        "Votes": 4553,
+        "Percent": 7.2
+      },
+      {
+        "Party": "AP",
+        "Candidate": "MARSHMAN, Roger",
+        "Votes": 1034,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FIGALLO, Anthony",
+        "Votes": 1018,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1975": {
+    "title": "Sturt, SA   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Ian",
+        "Votes": 37087,
+        "Percent": 54.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MAGUIRE, Graham",
+        "Votes": 25510,
+        "Percent": 37.3
+      },
+      {
+        "Party": "LM",
+        "Candidate": "LAKE, Barry",
+        "Votes": 3835,
+        "Percent": 5.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FORSTER, William",
+        "Votes": 2043,
+        "Percent": 3.0
+      }
+    ]
+  },
+  "1977": {
+    "title": "Sturt, SA   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Ian",
+        "Votes": 35300,
+        "Percent": 51.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PENGELLY, Ann",
+        "Votes": 24639,
+        "Percent": 35.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BENDALL, Dean",
+        "Votes": 9335,
+        "Percent": 13.5
+      }
+    ]
+  },
+  "1980": {
+    "title": "Sturt, SA   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Ian",
+        "Votes": 37018,
+        "Percent": 50.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DUNSTAN, Andrew",
+        "Votes": 29457,
+        "Percent": 40.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "D'ANGELO, David",
+        "Votes": 5903,
+        "Percent": 8.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WUTTKE, Colin",
+        "Votes": 354,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1983": {
+    "title": "Sturt, SA   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Hon Ian",
+        "Votes": 36656,
+        "Percent": 48.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "UBALDI, Sergio",
+        "Votes": 32350,
+        "Percent": 42.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DOLLING, Alison",
+        "Votes": 6764,
+        "Percent": 8.9
+      }
+    ]
+  },
+  "1984": {
+    "title": "Sturt, SA   1984",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Hon Ian",
+        "Votes": 32404,
+        "Percent": 52.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GALE, Jim",
+        "Votes": 24901,
+        "Percent": 40.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DOLLING, Alison",
+        "Votes": 4443,
+        "Percent": 7.2
+      }
+    ]
+  },
+  "1987": {
+    "title": "Sturt, SA   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Hon Ian",
+        "Votes": 32262,
+        "Percent": 51.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROBINS, Phil",
+        "Votes": 23946,
+        "Percent": 38.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COLEMAN, Karen",
+        "Votes": 5191,
+        "Percent": 8.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "SILSBURY, Loma",
+        "Votes": 1050,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MATTHEWS, Graeme",
+        "Votes": 419,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1990": {
+    "title": "Sturt, SA   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Hon Ian",
+        "Votes": 33129,
+        "Percent": 49.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HOUGH, Mark",
+        "Votes": 21278,
+        "Percent": 31.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TOMBLESON, Arlyn",
+        "Votes": 9989,
+        "Percent": 15.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BULIS, Elena",
+        "Votes": 1357,
+        "Percent": 2.0
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "CURNOW, Tom",
+        "Votes": 1034,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1993": {
+    "title": "Sturt, SA   1993",
+    "rows": [
+      {
+        "Party": "CTA",
+        "Candidate": "CURNOW, Tom",
+        "Votes": "783",
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FREER, Geoff",
+        "Votes": "689",
+        "Percent": 0.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WILLIAMS, Elizabeth",
+        "Votes": "6085",
+        "Percent": 8.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PYNE, Christopher",
+        "Votes": "29121",
+        "Percent": 39.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CHELLIS, Marco de",
+        "Votes": "25293",
+        "Percent": 34.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LORENZON, Vladimir",
+        "Votes": "1167",
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PRATT, Michael",
+        "Votes": "10756",
+        "Percent": 14.6
+      }
+    ]
+  },
+  "1996": {
+    "title": "Sturt, SA   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PYNE, Christopher",
+        "Votes": 38810,
+        "Percent": 54.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "VANCO, George",
+        "Votes": 22906,
+        "Percent": 31.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "OEHME, Keith",
+        "Votes": 7408,
+        "Percent": 10.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WILKINS, Craig",
+        "Votes": 2078,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LORENZON, Vladimir",
+        "Votes": 572,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1998": {
+    "title": "Sturt, SA   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PYNE, Christopher",
+        "Votes": 34703,
+        "Percent": 47.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WORRALL, Lance",
+        "Votes": 23766,
+        "Percent": 32.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DEARING, Jackie",
+        "Votes": 8174,
+        "Percent": 11.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SISSONS, Paul",
+        "Votes": 4385,
+        "Percent": 6.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VINCENT, Lyndal",
+        "Votes": 917,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KINASZ, Michal",
+        "Votes": 701,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2001": {
+    "title": "Sturt, SA   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PYNE, Christopher",
+        "Votes": 39480,
+        "Percent": 50.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SIMMONS, Lindsay",
+        "Votes": 23122,
+        "Percent": 29.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FARROW, Tim",
+        "Votes": 8424,
+        "Percent": 10.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CULLEN, Mark",
+        "Votes": 3249,
+        "Percent": 4.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "RICHARDS, Brian",
+        "Votes": 2454,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "AITCHISON, Neil",
+        "Votes": 1086,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2004": {
+    "title": "Sturt, SA   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PYNE, Hon Christopher",
+        "Votes": 45007,
+        "Percent": 51.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BARCA, Tony",
+        "Votes": 30099,
+        "Percent": 34.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "YOUNG, Zane",
+        "Votes": 5279,
+        "Percent": 6.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MCPHERSON, Sally",
+        "Votes": 4167,
+        "Percent": 4.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PINE, Kerrin",
+        "Votes": 1970,
+        "Percent": 2.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "RICHARDS, Brian",
+        "Votes": 597,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2007": {
+    "title": "Sturt, SA   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PYNE, Hon Christopher",
+        "Votes": 42731,
+        "Percent": 47.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HANDSHIN, Mia",
+        "Votes": 37565,
+        "Percent": 41.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "REID, Sally",
+        "Votes": 5806,
+        "Percent": 6.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "JANSEN, Carol",
+        "Votes": 3102,
+        "Percent": 3.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROWSE, Paul",
+        "Votes": 1064,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TILBROOK, Felicity",
+        "Votes": 327,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2010": {
+    "title": "Sturt, SA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PYNE, Hon Christopher",
+        "Votes": 42418,
+        "Percent": 48.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SARRE, Rick",
+        "Votes": 31989,
+        "Percent": 36.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FIEBIG, Peter",
+        "Votes": 8834,
+        "Percent": 10.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CLEGG, Dale",
+        "Votes": 3346,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLARK, Jess",
+        "Votes": 697,
+        "Percent": 0.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ANDREWS, Darren",
+        "Votes": 558,
+        "Percent": 0.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "KING, Jack",
+        "Votes": 443,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2013": {
+    "title": "Sturt, SA   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PYNE, Hon Christopher",
+        "Votes": 49429,
+        "Percent": 54.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SARRE, Rick",
+        "Votes": 26258,
+        "Percent": 28.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WALKER, Anne",
+        "Votes": 8902,
+        "Percent": 9.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BARNES, Kylie",
+        "Votes": 3565,
+        "Percent": 3.9
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "SCALI, Gabriella",
+        "Votes": 2713,
+        "Percent": 3.0
+      }
+    ]
+  },
+  "2016": {
+    "title": "Sturt, SA   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PYNE, Hon Christopher",
+        "Votes": 41351,
+        "Percent": 44.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LOADER, Matt",
+        "Votes": 20653,
+        "Percent": 22.2
+      },
+      {
+        "Party": "NXT",
+        "Candidate": "WRIGHT, Dr Matthew",
+        "Votes": 19684,
+        "Percent": 21.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GALDIES, Rebecca",
+        "Votes": 6575,
+        "Percent": 7.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BOWYER, Craig",
+        "Votes": 2912,
+        "Percent": 3.1
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "RUSSELL, Geoff",
+        "Votes": 1220,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "AITCHISON, Neil",
+        "Votes": 637,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2019": {
+    "title": "Sturt, SA   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "STEVENS, James",
+        "Votes": 55490,
+        "Percent": 50.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'HANLON, Cressida",
+        "Votes": 32766,
+        "Percent": 29.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BOUNDY, Paul",
+        "Votes": 12263,
+        "Percent": 11.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LARCOMBE, Nick",
+        "Votes": 2906,
+        "Percent": 2.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HARDING, Hedley",
+        "Votes": 2657,
+        "Percent": 2.4
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "ROBERTS, Harbinda",
+        "Votes": 1866,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THOMAS, Colin",
+        "Votes": 1219,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FULCO, Angela",
+        "Votes": 565,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2022": {
+    "title": "Sturt, SA   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "STEVENS, James",
+        "Votes": 48579,
+        "Percent": 43.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BARAM, Sonja",
+        "Votes": 34528,
+        "Percent": 30.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCCUSKER, Katie",
+        "Votes": 18454,
+        "Percent": 16.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "GRANT, Stephen",
+        "Votes": 3008,
+        "Percent": 2.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "ALLWOOD, Alexander",
+        "Votes": 2893,
+        "Percent": 2.6
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "SHERLOCK, David",
+        "Votes": 1531,
+        "Percent": 1.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MCMAHON, Thomas",
+        "Votes": 1147,
+        "Percent": 1.0
+      },
+      {
+        "Party": "DPDA",
+        "Candidate": "ELHAM, Inty",
+        "Votes": 1007,
+        "Percent": 0.9
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "SCARBOROUGH, Kathy",
+        "Votes": 755,
+        "Percent": 0.7
+      },
+      {
+        "Party": "Prog",
+        "Candidate": "FULCO, Angela",
+        "Votes": 457,
+        "Percent": 0.4
+      },
+      {
+        "Party": "TNL",
+        "Candidate": "SCHMIDT, Chris",
+        "Votes": 251,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2025": {
+    "title": "Sturt, SA   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLUTTERHAM, Claire",
+        "Votes": 41333,
+        "Percent": 35.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "STEVENS, James",
+        "Votes": 40228,
+        "Percent": 34.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "McCUSKER, Katie",
+        "Votes": 18295,
+        "Percent": 15.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COOPER, Verity",
+        "Votes": 8413,
+        "Percent": 7.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BOGATEC, Peter",
+        "Votes": 4035,
+        "Percent": 3.4
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "DUFFIELD, Nicholas",
+        "Votes": 2553,
+        "Percent": 2.2
+      },
+      {
+        "Party": "FFP",
+        "Candidate": NaN,
+        "Votes": 2280,
+        "Percent": 1.9
+      }
+    ]
+  }
+}

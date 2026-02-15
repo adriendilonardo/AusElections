@@ -1,0 +1,352 @@
+{
+  "1946": {
+    "title": "Wilmot, TAS   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DUTHIE, Gil",
+        "Votes": 13032,
+        "Percent": 51.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GUY, Hon Allan",
+        "Votes": 12177,
+        "Percent": 48.3
+      }
+    ]
+  },
+  "1949": {
+    "title": "Wilmot, TAS   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DUTHIE, Gilbert",
+        "Votes": 16150,
+        "Percent": 52.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FURMAGE, Richard",
+        "Votes": 14532,
+        "Percent": 47.4
+      }
+    ]
+  },
+  "1951": {
+    "title": "Wilmot, TAS   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DUTHIE, Gilbert",
+        "Votes": "16746",
+        "Percent": 53.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROWNING, Lionel",
+        "Votes": "14794",
+        "Percent": 46.9
+      }
+    ]
+  },
+  "1954": {
+    "title": "Wilmot, TAS   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DUTHIE, Gilbert",
+        "Votes": "19193",
+        "Percent": 56.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROWNING, Lionel",
+        "Votes": "14959",
+        "Percent": 43.8
+      }
+    ]
+  },
+  "1955": {
+    "title": "Wilmot, TAS   1955",
+    "rows": [
+      {
+        "Party": "ALPAC",
+        "Candidate": "DOHERTY, Owen",
+        "Votes": "1834",
+        "Percent": 5.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DUTHIE, Gilbert",
+        "Votes": "17606",
+        "Percent": 55.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BETHELL, Robert",
+        "Votes": "12546",
+        "Percent": 39.2
+      }
+    ]
+  },
+  "1958": {
+    "title": "Wilmot, TAS   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DUTHIE, Gilbert",
+        "Votes": 19417,
+        "Percent": 59.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAMERON, Ralph",
+        "Votes": 11328,
+        "Percent": 34.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "LILLIS, Francis",
+        "Votes": 1845,
+        "Percent": 5.7
+      }
+    ]
+  },
+  "1961": {
+    "title": "Wilmot, TAS   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DUTHIE, Gilbert",
+        "Votes": 20503,
+        "Percent": 62.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "THOMAS, Richard",
+        "Votes": 6271,
+        "Percent": 19.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RINGROSE, Royston",
+        "Votes": 3280,
+        "Percent": 10.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DAVIDSON, Alastair",
+        "Votes": 2718,
+        "Percent": 8.3
+      }
+    ]
+  },
+  "1963": {
+    "title": "Wilmot, TAS   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "DAVIDSON, Alastair",
+        "Votes": "2792",
+        "Percent": 8.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DUTHIE, Gilbert",
+        "Votes": "19908",
+        "Percent": 58.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PATERSON, Donald",
+        "Votes": "11231",
+        "Percent": 33.1
+      }
+    ]
+  },
+  "1966": {
+    "title": "Wilmot, TAS   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DUTHIE, Gil",
+        "Votes": 19215,
+        "Percent": 55.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PATERSON, Donald",
+        "Votes": 13350,
+        "Percent": 38.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "WRIGHT, Robert",
+        "Votes": 1824,
+        "Percent": 5.3
+      }
+    ]
+  },
+  "1969": {
+    "title": "Wilmot, TAS   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DUTHIE, Gilbert",
+        "Votes": 22866,
+        "Percent": 56.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PATERSON, Donald",
+        "Votes": 16027,
+        "Percent": 39.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SULZBERGER, Darryl",
+        "Votes": 1720,
+        "Percent": 4.2
+      }
+    ]
+  },
+  "1972": {
+    "title": "Wilmot, TAS   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DUTHIE, Gilbert",
+        "Votes": 25075,
+        "Percent": 60.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HARDY, Ian",
+        "Votes": 13071,
+        "Percent": 31.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BUTTERWORTH, Ronald",
+        "Votes": 3557,
+        "Percent": 8.5
+      }
+    ]
+  },
+  "1974": {
+    "title": "Wilmot, TAS   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DUTHIE, Gilbert",
+        "Votes": 24248,
+        "Percent": 52.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BURR, Maxwell",
+        "Votes": 21764,
+        "Percent": 47.3
+      }
+    ]
+  },
+  "1975": {
+    "title": "Wilmot, TAS   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BURR, Max",
+        "Votes": 25407,
+        "Percent": 52.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DUTHIE, Gil",
+        "Votes": 21365,
+        "Percent": 44.2
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "GRIFFIN, Robert",
+        "Votes": 1165,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WOODS, William",
+        "Votes": 353,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1977": {
+    "title": "Wilmot, TAS   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BURR, Max",
+        "Votes": 26066,
+        "Percent": 53.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LLEWELLYN, David",
+        "Votes": 20415,
+        "Percent": 42.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GOURLAY, Leon",
+        "Votes": 2157,
+        "Percent": 4.4
+      }
+    ]
+  },
+  "1980": {
+    "title": "Wilmot, TAS   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BURR, Maxwell",
+        "Votes": 25607,
+        "Percent": 50.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LLEWELLYN, David",
+        "Votes": 25515,
+        "Percent": 49.9
+      }
+    ]
+  },
+  "1983": {
+    "title": "Wilmot, TAS   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BURR, Max",
+        "Votes": 28520,
+        "Percent": 53.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LLEWELLYN, David",
+        "Votes": 22783,
+        "Percent": 42.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HOLLOWAY, Liz",
+        "Votes": 1336,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHUGG, Bill",
+        "Votes": 702,
+        "Percent": 1.3
+      }
+    ]
+  }
+}

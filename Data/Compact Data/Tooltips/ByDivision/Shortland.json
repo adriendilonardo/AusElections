@@ -1,0 +1,1034 @@
+{
+  "1949": {
+    "title": "Shortland, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRIFFITHS, Charles",
+        "Votes": 21921,
+        "Percent": 54.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DAISLEY, Harold",
+        "Votes": 10513,
+        "Percent": 26.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOA, Alfred",
+        "Votes": 6423,
+        "Percent": 15.9
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MARSHALL, Eugene",
+        "Votes": 882,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LONGWORTH, Isabel",
+        "Votes": 570,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1951": {
+    "title": "Shortland, NSW   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRIFFITHS, Charles",
+        "Votes": "26708",
+        "Percent": 65.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DOWNEY, Arthur",
+        "Votes": "14369",
+        "Percent": 35.0
+      }
+    ]
+  },
+  "1954": {
+    "title": "Shortland, NSW   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRIFFITHS, Charles",
+        "Votes": "27226",
+        "Percent": 64.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DOWNEY, Arthur",
+        "Votes": "15044",
+        "Percent": 35.6
+      }
+    ]
+  },
+  "1955": {
+    "title": "Shortland, NSW   1955",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRIFFITHS, Charles",
+        "Votes": "26066",
+        "Percent": 63.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GREIG, Gordon",
+        "Votes": "15179",
+        "Percent": 36.8
+      }
+    ]
+  },
+  "1958": {
+    "title": "Shortland, NSW   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRIFFITHS, Charles",
+        "Votes": 27366,
+        "Percent": 61.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FALLINS, Hilary",
+        "Votes": 11861,
+        "Percent": 26.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BURKE, Robert",
+        "Votes": 4096,
+        "Percent": 9.1
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "QUINN, William",
+        "Votes": 1561,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "1961": {
+    "title": "Shortland, NSW   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRIFFITHS, Charles",
+        "Votes": 32127,
+        "Percent": 64.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PITTS, Allan",
+        "Votes": 12100,
+        "Percent": 24.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BURKE, Robert",
+        "Votes": 4047,
+        "Percent": 8.2
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "CURTHOYS, Geoffrey",
+        "Votes": 1341,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "1963": {
+    "title": "Shortland, NSW   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "BURKE, Robert",
+        "Votes": "4922",
+        "Percent": 9.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GRIFFITHS, Charles",
+        "Votes": "32270",
+        "Percent": 60.6
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "CURTHOYS, Barbara",
+        "Votes": "1538",
+        "Percent": 2.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GILCHRIST, William",
+        "Votes": "14535",
+        "Percent": 27.3
+      }
+    ]
+  },
+  "1966": {
+    "title": "Shortland, NSW   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRIFFITHS, Charles",
+        "Votes": 30309,
+        "Percent": 53.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BLACKSHAW, Douglas",
+        "Votes": 20956,
+        "Percent": 36.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BURKE, Robert",
+        "Votes": 2747,
+        "Percent": 4.8
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "CURTHOYS, Geoffrey",
+        "Votes": 1600,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MILLINGTON, Stanley",
+        "Votes": 1262,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1969": {
+    "title": "Shortland, NSW   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRIFFITHS, Charles",
+        "Votes": 29371,
+        "Percent": 60.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CLARKSON, Paul",
+        "Votes": 14909,
+        "Percent": 30.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BURKE, Robert",
+        "Votes": 2502,
+        "Percent": 5.1
+      },
+      {
+        "Party": "AP",
+        "Candidate": "HOCKINGS, Charles",
+        "Votes": 1149,
+        "Percent": 2.3
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "CURTHOYS, Geoffrey",
+        "Votes": 991,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "1972": {
+    "title": "Shortland, NSW   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Peter",
+        "Votes": 29604,
+        "Percent": 55.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CLARKSON, Paul",
+        "Votes": 14287,
+        "Percent": 27.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GATELY, Leo",
+        "Votes": 3905,
+        "Percent": 7.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ANSELL, Hugh",
+        "Votes": 2549,
+        "Percent": 4.8
+      },
+      {
+        "Party": "AP",
+        "Candidate": "HOCKINGS, Charles",
+        "Votes": 1669,
+        "Percent": 3.2
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "CURTHOYS, Geoffrey",
+        "Votes": 594,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAMBKIN, Lionel",
+        "Votes": 356,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1974": {
+    "title": "Shortland, NSW   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Peter",
+        "Votes": 37031,
+        "Percent": 63.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MORRIS, David",
+        "Votes": 17756,
+        "Percent": 30.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAMBKIN, Lionel",
+        "Votes": 2063,
+        "Percent": 3.5
+      },
+      {
+        "Party": "AP",
+        "Candidate": "STEELE, John",
+        "Votes": 1493,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "1975": {
+    "title": "Shortland, NSW   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Peter",
+        "Votes": 34182,
+        "Percent": 56.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BEVAN, Richard",
+        "Votes": 24215,
+        "Percent": 40.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TIMMINS, Barbara",
+        "Votes": 872,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAMBKIN, Lionel",
+        "Votes": 800,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "1977": {
+    "title": "Shortland, NSW   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Peter",
+        "Votes": 37406,
+        "Percent": 54.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BEVAN, Richard",
+        "Votes": 24178,
+        "Percent": 35.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LAMBKIN, Lionel",
+        "Votes": 7058,
+        "Percent": 10.3
+      }
+    ]
+  },
+  "1980": {
+    "title": "Shortland, NSW   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Peter",
+        "Votes": 45509,
+        "Percent": 61.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NAMIR, Eddie",
+        "Votes": 20611,
+        "Percent": 27.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LAMBKIN, Lionel",
+        "Votes": 5111,
+        "Percent": 6.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUHLER, Robert",
+        "Votes": 3422,
+        "Percent": 4.6
+      }
+    ]
+  },
+  "1983": {
+    "title": "Shortland, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Peter",
+        "Votes": 49275,
+        "Percent": 62.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Peter",
+        "Votes": 20781,
+        "Percent": 26.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GODFREY, Lyn",
+        "Votes": 4677,
+        "Percent": 6.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ABRAHAMSON, Peter",
+        "Votes": 2584,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUHLER, Robert",
+        "Votes": 1280,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1984": {
+    "title": "Shortland, NSW   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Hon Peter",
+        "Votes": 36855,
+        "Percent": 58.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAINE, Milton",
+        "Votes": 20459,
+        "Percent": 32.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "AITKEN, John",
+        "Votes": 5058,
+        "Percent": 8.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POWER, Jane",
+        "Votes": 1005,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1987": {
+    "title": "Shortland, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Hon Peter",
+        "Votes": 35916,
+        "Percent": 55.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAINE, Milton",
+        "Votes": 20652,
+        "Percent": 31.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCCABE, Derek",
+        "Votes": 8727,
+        "Percent": 13.4
+      }
+    ]
+  },
+  "1990": {
+    "title": "Shortland, NSW   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Hon Peter",
+        "Votes": 35269,
+        "Percent": 51.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HALL, Lynne",
+        "Votes": 15535,
+        "Percent": 22.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RECKENBERG, Michael",
+        "Votes": 7975,
+        "Percent": 11.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WELSH, Lorraine",
+        "Votes": 5839,
+        "Percent": 8.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOOTH, Mark",
+        "Votes": 2983,
+        "Percent": 4.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ELLIS, Geoff",
+        "Votes": 771,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROBINSON, Clay",
+        "Votes": 187,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1993": {
+    "title": "Shortland, NSW   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "COOK, Terry",
+        "Votes": "737",
+        "Percent": 1.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Hon Peter",
+        "Votes": "43012",
+        "Percent": 61.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RANDALL, Brett",
+        "Votes": "413",
+        "Percent": 0.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RECKENBERG, Michael",
+        "Votes": "3864",
+        "Percent": 5.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PAYNE, Geoff",
+        "Votes": "329",
+        "Percent": 0.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "COGHLAN, Laurie",
+        "Votes": "20082",
+        "Percent": 28.9
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "MORROW, Ivan",
+        "Votes": "1113",
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1996": {
+    "title": "Shortland, NSW   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Hon Peter",
+        "Votes": 36603,
+        "Percent": 50.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PARKER, David",
+        "Votes": 24812,
+        "Percent": 34.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WESTBURY, Kaye",
+        "Votes": 4977,
+        "Percent": 6.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCKENZIE, Ian",
+        "Votes": 3102,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HILL, Richard",
+        "Votes": 1898,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COOK, Terry",
+        "Votes": 547,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1998": {
+    "title": "Shortland, NSW   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HALL, Jill",
+        "Votes": 38004,
+        "Percent": 51.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CRAIG, Peter",
+        "Votes": 20733,
+        "Percent": 28.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "GARDNIR, Ron",
+        "Votes": 7499,
+        "Percent": 10.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MORONEY, Rebecca",
+        "Votes": 2681,
+        "Percent": 3.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "POLLNITZ, Aysha",
+        "Votes": 2605,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WELSH, Ivan",
+        "Votes": 1878,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "2001": {
+    "title": "Shortland, NSW   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HALL, Jill",
+        "Votes": 39139,
+        "Percent": 49.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PERREM, Brian",
+        "Votes": 27302,
+        "Percent": 34.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "CANDLISH, Iris",
+        "Votes": 3686,
+        "Percent": 4.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LAMBERT, Joan",
+        "Votes": 3242,
+        "Percent": 4.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ADAMS, Steven",
+        "Votes": 2484,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CRAIG, Peter",
+        "Votes": 2312,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GARDNIR, Ron",
+        "Votes": 590,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2004": {
+    "title": "Shortland, NSW   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HALL, Jill",
+        "Votes": 40069,
+        "Percent": 49.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TSCHANTER, Dell",
+        "Votes": 28745,
+        "Percent": 35.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PHILLIPS, Bob",
+        "Votes": 6333,
+        "Percent": 7.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "ROBERTS, Florence",
+        "Votes": 2113,
+        "Percent": 2.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "DIXON, Brian",
+        "Votes": 1804,
+        "Percent": 2.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LEE, Peter",
+        "Votes": 1211,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "2007": {
+    "title": "Shortland, NSW   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HALL, Jill",
+        "Votes": 48525,
+        "Percent": 56.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KEALY, Jon",
+        "Votes": 26620,
+        "Percent": 31.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PARSONS, Keith",
+        "Votes": 7097,
+        "Percent": 8.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "WALLACE, Les",
+        "Votes": 1655,
+        "Percent": 1.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "REEVES, Matthew",
+        "Votes": 1644,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "2010": {
+    "title": "Shortland, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HALL, Jill",
+        "Votes": 44987,
+        "Percent": 53.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NARAYANAN, Deborah",
+        "Votes": 27758,
+        "Percent": 33.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PARSONS, Phillipa",
+        "Votes": 8646,
+        "Percent": 10.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "ALCHIN, Milton",
+        "Votes": 1726,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILLIAMS, Peter",
+        "Votes": 596,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2013": {
+    "title": "Shortland, NSW   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HALL, Jill",
+        "Votes": 41892,
+        "Percent": 48.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CHURCH, John",
+        "Votes": 32532,
+        "Percent": 37.8
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "BALDWIN, Philip",
+        "Votes": 5341,
+        "Percent": 6.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "OAKLEY, Jane",
+        "Votes": 5198,
+        "Percent": 6.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "WEATHERSTONE, Andrew",
+        "Votes": 1081,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2016": {
+    "title": "Shortland, NSW   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CONROY, Pat",
+        "Votes": 50164,
+        "Percent": 51.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BARRIE, Jenny",
+        "Votes": 34514,
+        "Percent": 35.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MACFADYEN, Ivan",
+        "Votes": 9279,
+        "Percent": 9.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "COX, Morgan",
+        "Votes": 4081,
+        "Percent": 4.2
+      }
+    ]
+  },
+  "2019": {
+    "title": "Shortland, NSW   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CONROY, Pat",
+        "Votes": 41126,
+        "Percent": 41.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCGILL, Nell",
+        "Votes": 37363,
+        "Percent": 37.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CAMPBELL, Wylie",
+        "Votes": 8256,
+        "Percent": 8.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "RIFAI, Dani",
+        "Votes": 4532,
+        "Percent": 4.5
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "MCGRATH, Bryan",
+        "Votes": 3596,
+        "Percent": 3.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NEWBURY, Susan",
+        "Votes": 3097,
+        "Percent": 3.1
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "YU, Xing",
+        "Votes": 2010,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "2022": {
+    "title": "Shortland, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CONROY, Pat",
+        "Votes": 40135,
+        "Percent": 40.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCGILL, Nell",
+        "Votes": 32215,
+        "Percent": 32.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GRIERSON, Kim",
+        "Votes": 9910,
+        "Percent": 9.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "KING, Quintin",
+        "Votes": 6397,
+        "Percent": 6.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MAXWELL, Kenneth",
+        "Votes": 3125,
+        "Percent": 3.1
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "REED, Barry",
+        "Votes": 2984,
+        "Percent": 3.0
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "ROBERTS, Bree",
+        "Votes": 2979,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PAYNTER, Basil",
+        "Votes": 2554,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "2025": {
+    "title": "Shortland, NSW   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CONROY, Pat",
+        "Votes": 48222,
+        "Percent": 44.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KING, Emma",
+        "Votes": 28331,
+        "Percent": 26.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DOYLE, Therese",
+        "Votes": 12257,
+        "Percent": 11.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "REED, Barry",
+        "Votes": 9813,
+        "Percent": 9.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PHEILS, James",
+        "Votes": 4805,
+        "Percent": 4.4
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "DI GIROLAMO, Pietro",
+        "Votes": 2958,
+        "Percent": 2.7
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "ROBERTSON, Geoffrey Mark",
+        "Votes": 1722,
+        "Percent": 1.6
+      }
+    ]
+  }
+}

@@ -1,0 +1,544 @@
+{
+  "1998": {
+    "title": "Blair, QLD   1998",
+    "rows": [
+      {
+        "Party": "ON",
+        "Candidate": "HANSON, Pauline",
+        "Votes": 24516,
+        "Percent": 36.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CLARKE, Virginia",
+        "Votes": 17239,
+        "Percent": 25.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "THOMPSON, Cameron",
+        "Votes": 14787,
+        "Percent": 21.7
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "WHITE, Brett",
+        "Votes": 6989,
+        "Percent": 10.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCKENZIE, Neil",
+        "Votes": 2478,
+        "Percent": 3.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CONNORS, Libby",
+        "Votes": 1230,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROBERTS, Lee",
+        "Votes": 556,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BASSINGTHWAITE, Owen",
+        "Votes": 199,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SLOAN, Mark",
+        "Votes": 170,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "Blair, QLD   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "THOMPSON, Cameron",
+        "Votes": 31933,
+        "Percent": 45.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WENDT, Wayne",
+        "Votes": 19397,
+        "Percent": 27.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "TURNER, Dr Gary",
+        "Votes": 10467,
+        "Percent": 15.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCKENZIE, Neil",
+        "Votes": 2284,
+        "Percent": 3.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KYSON, Phil",
+        "Votes": 2273,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JOHNSTON, Selwyn",
+        "Votes": 2131,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RYAN, Dan",
+        "Votes": 921,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COSGROVE, Lindsay",
+        "Votes": 215,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2004": {
+    "title": "Blair, QLD   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "THOMPSON, Cameron",
+        "Votes": 42683,
+        "Percent": 52.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NEUMANN, Shayne",
+        "Votes": 25709,
+        "Percent": 31.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "CHIDGEY, David",
+        "Votes": 4330,
+        "Percent": 5.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SMITH, Priscilla",
+        "Votes": 2982,
+        "Percent": 3.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "O'REILLY-REIS, Sarai",
+        "Votes": 2406,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PRICE, Alan",
+        "Votes": 1691,
+        "Percent": 2.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCKENZIE, Neal",
+        "Votes": 1049,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BENNETT, John",
+        "Votes": 473,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STAPLETON, Rodney",
+        "Votes": 458,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2007": {
+    "title": "Blair, QLD   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "NEUMANN, Shayne",
+        "Votes": 40663,
+        "Percent": 48.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "THOMPSON, Cameron",
+        "Votes": 35133,
+        "Percent": 42.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LUXTON, Peter",
+        "Votes": 3262,
+        "Percent": 3.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SMITH, Bevan",
+        "Votes": 1718,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHORLEY, Dale",
+        "Votes": 1429,
+        "Percent": 1.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WHITE, David",
+        "Votes": 735,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SWANBOROUGH, Doug",
+        "Votes": 196,
+        "Percent": 0.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THIES, Robert",
+        "Votes": 143,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2010": {
+    "title": "Blair, QLD   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "NEUMANN, Shayne",
+        "Votes": 30890,
+        "Percent": 42.1
+      },
+      {
+        "Party": "LNP",
+        "Candidate": "ZABEL, Neil",
+        "Votes": 27525,
+        "Percent": 37.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PETERSEN, Patricia",
+        "Votes": 8122,
+        "Percent": 11.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "OLYSLAGERS, Joshua",
+        "Votes": 3605,
+        "Percent": 4.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KING, Brad",
+        "Votes": 3267,
+        "Percent": 4.5
+      }
+    ]
+  },
+  "2013": {
+    "title": "Blair, QLD   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "NEUMANN, Hon Shayne",
+        "Votes": 32818,
+        "Percent": 41.6
+      },
+      {
+        "Party": "LNP",
+        "Candidate": "HARDING, Teresa",
+        "Votes": 26734,
+        "Percent": 33.9
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "STANTON, Anthony",
+        "Votes": 9805,
+        "Percent": 12.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RUDKIN, Clare",
+        "Votes": 3359,
+        "Percent": 4.3
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "CHORLEY, Dale",
+        "Votes": 2491,
+        "Percent": 3.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "DENMAN, Elwyn",
+        "Votes": 2257,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DEGUARA, Shannon",
+        "Votes": 1011,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MACKIN, Anthony",
+        "Votes": 504,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2016": {
+    "title": "Blair, QLD   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "NEUMANN, Hon Shayne",
+        "Votes": 35691,
+        "Percent": 42.0
+      },
+      {
+        "Party": "LNP",
+        "Candidate": "HARDING, Teresa",
+        "Votes": 24455,
+        "Percent": 28.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "AGGETT, Troy",
+        "Votes": 13273,
+        "Percent": 15.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WALSH, Pat",
+        "Votes": 5266,
+        "Percent": 6.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "DARR, Geoff",
+        "Votes": 2406,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TURNER, Sandy",
+        "Votes": 1913,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PETERSEN, Patricia",
+        "Votes": 1439,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EMMS, Jonathan",
+        "Votes": 744,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2019": {
+    "title": "Blair, QLD   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "NEUMANN, Hon Shayne",
+        "Votes": 29987,
+        "Percent": 31.3
+      },
+      {
+        "Party": "LNP",
+        "Candidate": "SHEARMAN, Robert",
+        "Votes": 27844,
+        "Percent": 29.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "BELL, Sharon",
+        "Votes": 16114,
+        "Percent": 16.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DUNCAN, Michelle",
+        "Votes": 8325,
+        "Percent": 8.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KARANDREWS, Simone",
+        "Votes": 3849,
+        "Percent": 4.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "ZIMPEL, Majella",
+        "Votes": 3261,
+        "Percent": 3.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "QUINN, John",
+        "Votes": 2418,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TURNER, John",
+        "Votes": 2118,
+        "Percent": 2.2
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "FITZPATRICK, Peter",
+        "Votes": 2009,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "2022": {
+    "title": "Blair, QLD   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "NEUMANN, Hon Shayne",
+        "Votes": 36494,
+        "Percent": 35.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BIGGINS, Sam",
+        "Votes": 30122,
+        "Percent": 28.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MUTTON, Danielle",
+        "Votes": 13113,
+        "Percent": 12.6
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "SUDUK, Liz",
+        "Votes": 10419,
+        "Percent": 10.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "CUNNINGHAM, Quinton",
+        "Votes": 6353,
+        "Percent": 6.1
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "JAQUES, Michelle",
+        "Votes": 3080,
+        "Percent": 3.0
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "LOWERY, Angela",
+        "Votes": 2563,
+        "Percent": 2.5
+      },
+      {
+        "Party": "AVP",
+        "Candidate": "PITMAN, Maria",
+        "Votes": 2103,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "2025": {
+    "title": "Blair, QLD   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "NEUMANN, Shayne",
+        "Votes": 42825,
+        "Percent": 36.6
+      },
+      {
+        "Party": "LNP",
+        "Candidate": "MUTZELBURG, Carl",
+        "Votes": 31797,
+        "Percent": 27.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TONER, Paul",
+        "Votes": 12104,
+        "Percent": 10.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "KROSS, Brendan",
+        "Votes": 11344,
+        "Percent": 9.7
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "HOPKINS, Anthony",
+        "Votes": 5353,
+        "Percent": 4.6
+      },
+      {
+        "Party": "GRPF",
+        "Candidate": "CHADWICK, Kathryn",
+        "Votes": 4421,
+        "Percent": 3.8
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "McDONALD, Edward",
+        "Votes": 3769,
+        "Percent": 3.2
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "PURDON, John Frederick",
+        "Votes": 2334,
+        "Percent": 2.0
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "LOWERY, Angela",
+        "Votes": 1874,
+        "Percent": 1.6
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "BULL, Anthony",
+        "Votes": 1132,
+        "Percent": 1.0
+      }
+    ]
+  }
+}

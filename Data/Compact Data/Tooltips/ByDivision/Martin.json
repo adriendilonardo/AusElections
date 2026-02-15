@@ -1,0 +1,106 @@
+{
+  "1946": {
+    "title": "Martin, NSW   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DALY, Fred",
+        "Votes": 35998,
+        "Percent": 55.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JACOBS, Frederick",
+        "Votes": 29507,
+        "Percent": 45.0
+      }
+    ]
+  },
+  "1949": {
+    "title": "Martin, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, William",
+        "Votes": 20603,
+        "Percent": 53.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MANN, Frederick",
+        "Votes": 14550,
+        "Percent": 37.8
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "DOWLING, Thomas",
+        "Votes": 1847,
+        "Percent": 4.8
+      },
+      {
+        "Party": "ALPN",
+        "Candidate": "MOSS, Frank",
+        "Votes": 808,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "IVEY, Malinda",
+        "Votes": 681,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "1951": {
+    "title": "Martin, NSW   1951",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "IVEY, Malinda",
+        "Votes": "908",
+        "Percent": 2.4
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "GORDON, Terence",
+        "Votes": "2379",
+        "Percent": 6.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, William",
+        "Votes": "20362",
+        "Percent": 53.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "READ, George",
+        "Votes": "14132",
+        "Percent": 37.4
+      }
+    ]
+  },
+  "1954": {
+    "title": "Martin, NSW   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, William",
+        "Votes": "21430",
+        "Percent": 59.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LEWIS, Elton",
+        "Votes": "13708",
+        "Percent": 37.8
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "THORNTON, Ernest",
+        "Votes": "1134",
+        "Percent": 3.1
+      }
+    ]
+  }
+}

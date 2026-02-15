@@ -1,0 +1,647 @@
+{
+  "1984": {
+    "title": "Hinkler, QLD   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COURTICE, Brian",
+        "Votes": 27981,
+        "Percent": 47.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "CONQUEST, Bryan",
+        "Votes": 25856,
+        "Percent": 43.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "OWEN, Ronald",
+        "Votes": 2940,
+        "Percent": 5.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COULTHARD, Frank",
+        "Votes": 2322,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PLATEN, Marcus",
+        "Votes": 287,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1987": {
+    "title": "Hinkler, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COURTICE, Brian",
+        "Votes": 30814,
+        "Percent": 48.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "CONQUEST, Bryan",
+        "Votes": 27665,
+        "Percent": 43.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WILLIAMS, John",
+        "Votes": 3604,
+        "Percent": 5.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BOSHELL, Geoff",
+        "Votes": 2039,
+        "Percent": 3.2
+      }
+    ]
+  },
+  "1990": {
+    "title": "Hinkler, QLD   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COURTICE, Brian",
+        "Votes": 32995,
+        "Percent": 47.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "EVANS, John",
+        "Votes": 23453,
+        "Percent": 33.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CULLEN, Ronald",
+        "Votes": 6630,
+        "Percent": 9.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HIBBLE, Frank",
+        "Votes": 6618,
+        "Percent": 9.5
+      }
+    ]
+  },
+  "1993": {
+    "title": "Hinkler, QLD   1993",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ABBOTT, John",
+        "Votes": "9767",
+        "Percent": 12.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MAY, Bill",
+        "Votes": "3628",
+        "Percent": 4.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COURTICE, Brian",
+        "Votes": "33162",
+        "Percent": 42.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CLARK, Terry",
+        "Votes": "3044",
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HETHERINGTON, Maurice",
+        "Votes": "2732",
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JOHNSON, Colin",
+        "Votes": "253",
+        "Percent": 0.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "NEVILLE, Paul",
+        "Votes": "23447",
+        "Percent": 30.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CAMPBELL, Lorrelle",
+        "Votes": "1451",
+        "Percent": 1.9
+      }
+    ]
+  },
+  "1996": {
+    "title": "Hinkler, QLD   1996",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "NEVILLE, Paul",
+        "Votes": 43497,
+        "Percent": 55.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COURTICE, Brian",
+        "Votes": 28326,
+        "Percent": 36.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DABBAGH, Taha",
+        "Votes": 4019,
+        "Percent": 5.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SOETERBOEK, Adrian",
+        "Votes": 1820,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JOHNSON, Colin",
+        "Votes": 758,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1998": {
+    "title": "Hinkler, QLD   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DORRON, Cheryl",
+        "Votes": 29021,
+        "Percent": 40.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "NEVILLE, Paul",
+        "Votes": 26471,
+        "Percent": 36.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "RINGUET, Marcus",
+        "Votes": 13739,
+        "Percent": 19.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HALL, Lance",
+        "Votes": 1677,
+        "Percent": 2.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PEARCE, Ray",
+        "Votes": 1139,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROLLS, Cindy",
+        "Votes": 309,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2001": {
+    "title": "Hinkler, QLD   2001",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "NEVILLE, Paul",
+        "Votes": 29231,
+        "Percent": 39.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DORRAN, Cheryl",
+        "Votes": 28483,
+        "Percent": 38.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MELVILLE, Peter",
+        "Votes": 7147,
+        "Percent": 9.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "JANKE, Martin",
+        "Votes": 6562,
+        "Percent": 8.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BATES, Theresa",
+        "Votes": 1904,
+        "Percent": 2.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WHITE, Lisa",
+        "Votes": 1393,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "2004": {
+    "title": "Hinkler, QLD   2004",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "NEVILLE, Paul",
+        "Votes": 40040,
+        "Percent": 47.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DORRON, Cheryl",
+        "Votes": 33167,
+        "Percent": 39.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "RUB, Cameron",
+        "Votes": 4010,
+        "Percent": 4.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GEORGE, Greg",
+        "Votes": 2824,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WELLS, Roy",
+        "Votes": 2782,
+        "Percent": 3.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JENSEN, Alison",
+        "Votes": 906,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ZERK, Tracey",
+        "Votes": 734,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROLLS, Cindy",
+        "Votes": 306,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2007": {
+    "title": "Hinkler, QLD   2007",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "NEVILLE, Paul",
+        "Votes": 38194,
+        "Percent": 46.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PARR, Garry",
+        "Votes": 35267,
+        "Percent": 42.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DICKES, Charles",
+        "Votes": 3383,
+        "Percent": 4.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "RUB, Cameron",
+        "Votes": 2886,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WELLS, Roy D",
+        "Votes": 1887,
+        "Percent": 2.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BROMWICH, Robert",
+        "Votes": 632,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2010": {
+    "title": "Hinkler, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "NEVILLE, Paul",
+        "Votes": 44382,
+        "Percent": 55.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCNEVEN, Belinda",
+        "Votes": 26246,
+        "Percent": 32.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FITZGIBBON, Jenny",
+        "Votes": 4611,
+        "Percent": 5.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "VERSACE, Trevor",
+        "Votes": 2562,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WONE, Adrian",
+        "Votes": 1698,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "D'OLIVEIRA, Cy",
+        "Votes": 1264,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2013": {
+    "title": "Hinkler, QLD   2013",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "PITT, Keith",
+        "Votes": 38005,
+        "Percent": 44.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DONALDSON, Leanne",
+        "Votes": 23442,
+        "Percent": 27.6
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "MESSENGER, Robert",
+        "Votes": 14990,
+        "Percent": 17.7
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "DALGLEISH, David",
+        "Votes": 3887,
+        "Percent": 4.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SIMPSON, Mark",
+        "Votes": 2308,
+        "Percent": 2.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SULLIVAN, Troy",
+        "Votes": 1590,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCHIRMER, Reid",
+        "Votes": 706,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2016": {
+    "title": "Hinkler, QLD   2016",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "PITT, Hon Keith",
+        "Votes": 38887,
+        "Percent": 43.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LAWSON, Tim",
+        "Votes": 23678,
+        "Percent": 26.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HUXHAM, Damian",
+        "Votes": 16987,
+        "Percent": 19.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROBERTS, Tim",
+        "Votes": 3477,
+        "Percent": 3.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LYNCH, Stephen",
+        "Votes": 2250,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FOSTER, Bill",
+        "Votes": 1720,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WINDRED, Robert",
+        "Votes": 1670,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "2019": {
+    "title": "Hinkler, QLD   2019",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "PITT, Hon Keith",
+        "Votes": 42374,
+        "Percent": 46.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PASCOE, Richard",
+        "Votes": 21110,
+        "Percent": 22.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "HUXHAM, Damian",
+        "Votes": 13625,
+        "Percent": 14.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "ELLUL, Josepp",
+        "Votes": 4029,
+        "Percent": 4.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JACKSON, Anne",
+        "Votes": 3422,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TURAGA, Moe",
+        "Votes": 2583,
+        "Percent": 2.8
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "ERSKINE, Aaron",
+        "Votes": 1471,
+        "Percent": 1.6
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "BYRNES, Amy",
+        "Votes": 1391,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NORMAN, David",
+        "Votes": 1327,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WONE, Adrian",
+        "Votes": 735,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2022": {
+    "title": "Hinkler, QLD   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "PITT, Hon Keith",
+        "Votes": 42720,
+        "Percent": 42.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SCANES, Jason",
+        "Votes": 23634,
+        "Percent": 23.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DEMPSEY, Jack",
+        "Votes": 13236,
+        "Percent": 13.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MENHENNETT, Zak",
+        "Votes": 8837,
+        "Percent": 8.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "NASH, Kristie",
+        "Votes": 7417,
+        "Percent": 7.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCLEAN, Andrew",
+        "Votes": 5562,
+        "Percent": 5.5
+      }
+    ]
+  },
+  "2025": {
+    "title": "Hinkler, QLD   2025",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "BATT, David",
+        "Votes": 41569,
+        "Percent": 38.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MEARS, Trish",
+        "Votes": 34104,
+        "Percent": 31.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "CARMAN, Tyler",
+        "Votes": 14498,
+        "Percent": 13.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "McLEAN, Andrew",
+        "Votes": 8000,
+        "Percent": 7.3
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "BLOHBERGER, Robert",
+        "Votes": 4220,
+        "Percent": 3.9
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "PETRUS, Kerry",
+        "Votes": 3778,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'BRIEN, Michael",
+        "Votes": 3201,
+        "Percent": 2.9
+      }
+    ]
+  }
+}

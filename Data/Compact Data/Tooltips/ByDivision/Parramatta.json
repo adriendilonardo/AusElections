@@ -1,0 +1,1141 @@
+{
+  "1946": {
+    "title": "Parramatta, NSW   1946",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BEALE, Howard",
+        "Votes": 43070,
+        "Percent": 60.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JEFFREE, Dudley",
+        "Votes": 28645,
+        "Percent": 39.9
+      }
+    ]
+  },
+  "1949": {
+    "title": "Parramatta, NSW   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BEALE, Howard",
+        "Votes": 25411,
+        "Percent": 62.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JACKSON, Clement",
+        "Votes": 15211,
+        "Percent": 37.4
+      }
+    ]
+  },
+  "1951": {
+    "title": "Parramatta, NSW   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BEALE, Hon Howard",
+        "Votes": "26852",
+        "Percent": 63.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HOLMES, John",
+        "Votes": "15422",
+        "Percent": 36.5
+      }
+    ]
+  },
+  "1954": {
+    "title": "Parramatta, NSW   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BEALE, Hon Howard",
+        "Votes": "27941",
+        "Percent": 59.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HOLMES, John",
+        "Votes": "18760",
+        "Percent": 40.2
+      }
+    ]
+  },
+  "1955": {
+    "title": "Parramatta, NSW   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BEALE, Hon Howard",
+        "Votes": "25854",
+        "Percent": 62.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HEAZLEWOOD, John",
+        "Votes": "15631",
+        "Percent": 37.7
+      }
+    ]
+  },
+  "1958": {
+    "title": "Parramatta, NSW   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BARWICK, Sir Garfield",
+        "Votes": 27344,
+        "Percent": 56.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Raymond",
+        "Votes": 19141,
+        "Percent": 39.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "KILDEA, William",
+        "Votes": 1693,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "1961": {
+    "title": "Parramatta, NSW   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BARWICK, Hon Sir Garfield",
+        "Votes": 26200,
+        "Percent": 50.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCLAREN, Maxwell",
+        "Votes": 22401,
+        "Percent": 42.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ANDREWS, Reginald",
+        "Votes": 2936,
+        "Percent": 5.6
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MUNRO, Matthew",
+        "Votes": 771,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1963": {
+    "title": "Parramatta, NSW   1963",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BARWICK, Hon Sir Garfield",
+        "Votes": "31660",
+        "Percent": 56.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BECK, Edward",
+        "Votes": "3088",
+        "Percent": 5.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCLAREN, Maxwell",
+        "Votes": "21791",
+        "Percent": 38.5
+      }
+    ]
+  },
+  "1966": {
+    "title": "Parramatta, NSW   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BOWEN, Nigel",
+        "Votes": 33087,
+        "Percent": 56.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILDE, Barry",
+        "Votes": 18518,
+        "Percent": 31.8
+      },
+      {
+        "Party": "LRG",
+        "Candidate": "COOK, Kenneth",
+        "Votes": 3380,
+        "Percent": 5.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BECK, Edward",
+        "Votes": 2982,
+        "Percent": 5.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NOLAN, Paul",
+        "Votes": 322,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1969": {
+    "title": "Parramatta, NSW   1969",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BOWEN, Hon Nigel",
+        "Votes": 27131,
+        "Percent": 47.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILDE, Barry",
+        "Votes": 25732,
+        "Percent": 44.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ANDREASSON, Hans",
+        "Votes": 2508,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEEFFE, John",
+        "Votes": 2066,
+        "Percent": 3.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KIERNAN, Leonard",
+        "Votes": 240,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1972": {
+    "title": "Parramatta, NSW   1972",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BOWEN, Hon Nigel",
+        "Votes": 28463,
+        "Percent": 46.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WHELAN, Michael",
+        "Votes": 28458,
+        "Percent": 46.0
+      },
+      {
+        "Party": "AP",
+        "Candidate": "MULHERON, James",
+        "Votes": 2144,
+        "Percent": 3.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BRAUER, Doris",
+        "Votes": 1509,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARKER, Derek",
+        "Votes": 1120,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COURTNEY, Graham",
+        "Votes": 191,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1974": {
+    "title": "Parramatta, NSW   1974",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RUDDOCK, Philip",
+        "Votes": 33916,
+        "Percent": 49.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILDE, Barry",
+        "Votes": 32246,
+        "Percent": 46.8
+      },
+      {
+        "Party": "AP",
+        "Candidate": "MACKENZIE, Robert",
+        "Votes": 1481,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARKER, Derek",
+        "Votes": 1188,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "1975": {
+    "title": "Parramatta, NSW   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RUDDOCK, Philip",
+        "Votes": 40761,
+        "Percent": 56.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BROWN, John",
+        "Votes": 29055,
+        "Percent": 40.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCKINNON, Malcolm",
+        "Votes": 1307,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AP",
+        "Candidate": "O'NEILL, Astrid",
+        "Votes": 801,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1977": {
+    "title": "Parramatta, NSW   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BROWN, John",
+        "Votes": 34405,
+        "Percent": 52.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "COX, Douglas",
+        "Votes": 26315,
+        "Percent": 39.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LUKUNIC, Peter",
+        "Votes": 5397,
+        "Percent": 8.2
+      }
+    ]
+  },
+  "1980": {
+    "title": "Parramatta, NSW   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BROWN, John",
+        "Votes": 35810,
+        "Percent": 54.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SHAW, Lance",
+        "Votes": 23058,
+        "Percent": 34.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BARBER, Warwick",
+        "Votes": 6191,
+        "Percent": 9.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SALEAM, James",
+        "Votes": 1248,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "1983": {
+    "title": "Parramatta, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BROWN, John",
+        "Votes": 41951,
+        "Percent": 62.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HARKER-MORTLOCK, James",
+        "Votes": 20608,
+        "Percent": 30.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LAMEY, Patricia",
+        "Votes": 3361,
+        "Percent": 5.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAREY, Mark",
+        "Votes": 1519,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1984": {
+    "title": "Parramatta, NSW   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BROWN, Hon John",
+        "Votes": 35077,
+        "Percent": 58.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "STANLEY, Charles",
+        "Votes": 21176,
+        "Percent": 35.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BUTTERWORTH, John",
+        "Votes": 4256,
+        "Percent": 7.0
+      }
+    ]
+  },
+  "1987": {
+    "title": "Parramatta, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BROWN, Hon John",
+        "Votes": 32304,
+        "Percent": 52.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HAMER, Paul",
+        "Votes": 23881,
+        "Percent": 38.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LEVETT, Rodney",
+        "Votes": 5378,
+        "Percent": 8.7
+      }
+    ]
+  },
+  "1990": {
+    "title": "Parramatta, NSW   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIOTT, Paul",
+        "Votes": 30575,
+        "Percent": 49.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BARWICK, Ross",
+        "Votes": 22884,
+        "Percent": 37.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ANTRUM, Michael",
+        "Votes": 7119,
+        "Percent": 11.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VERNON, Kerry",
+        "Votes": 1016,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1993": {
+    "title": "Parramatta, NSW   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "WILSON, John",
+        "Votes": "458",
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FORSHAW, Rodney",
+        "Votes": "431",
+        "Percent": 0.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIOTT, Paul",
+        "Votes": "35793",
+        "Percent": 49.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RAWNSLEY, Max",
+        "Votes": "30681",
+        "Percent": 42.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROSIER, Bill",
+        "Votes": "2399",
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PAPADOPOULOS, Sam",
+        "Votes": "1887",
+        "Percent": 2.6
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "SHIELDS, John",
+        "Votes": "1044",
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1996": {
+    "title": "Parramatta, NSW   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CAMERON, Ross",
+        "Votes": 34310,
+        "Percent": 47.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIOTT, Hon Paul",
+        "Votes": 28390,
+        "Percent": 39.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "AVILA, Eduardo",
+        "Votes": 3912,
+        "Percent": 5.4
+      },
+      {
+        "Party": "AAFI",
+        "Candidate": "KRUMINS, Peter",
+        "Votes": 2005,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCOTT, Heidi",
+        "Votes": 1103,
+        "Percent": 1.5
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "JONSSON, Dee",
+        "Votes": 1066,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COGGER, John",
+        "Votes": 775,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHIDIAC, Joseph",
+        "Votes": 440,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1998": {
+    "title": "Parramatta, NSW   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CAMERON, Ross",
+        "Votes": 31060,
+        "Percent": 43.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIOTT, Hon Paul",
+        "Votes": 27521,
+        "Percent": 38.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HALE, Ian",
+        "Votes": 4495,
+        "Percent": 6.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WONG, Matthew",
+        "Votes": 3073,
+        "Percent": 4.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MULLIGAN, Peter",
+        "Votes": 2033,
+        "Percent": 2.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WRIGHT, Peter",
+        "Votes": 1195,
+        "Percent": 1.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "JONSSON, Dee",
+        "Votes": 899,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCHEMBRI, Tina",
+        "Votes": 707,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COGGER, John",
+        "Votes": 108,
+        "Percent": 0.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CONSANDINE, Peter",
+        "Votes": 79,
+        "Percent": 0.1
+      }
+    ]
+  },
+  "2001": {
+    "title": "Parramatta, NSW   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CAMERON, Ross",
+        "Votes": 35356,
+        "Percent": 45.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BORGER, David",
+        "Votes": 31867,
+        "Percent": 41.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CLARK, Anthony",
+        "Votes": 2622,
+        "Percent": 3.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GEORGE, Felicity",
+        "Votes": 2380,
+        "Percent": 3.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SATCHWELL, John",
+        "Votes": 2279,
+        "Percent": 3.0
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "JONSSON, Dee",
+        "Votes": 1177,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TONGSUMRITH, Somchai",
+        "Votes": 1131,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WATSON, Will",
+        "Votes": 148,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2004": {
+    "title": "Parramatta, NSW   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CAMERON, Hon Ross",
+        "Votes": 33073,
+        "Percent": 44.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "OWENS, Julie",
+        "Votes": 31166,
+        "Percent": 41.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WILLIAMSON, Doug",
+        "Votes": 3973,
+        "Percent": 5.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BAISSARI, Sam",
+        "Votes": 1948,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GUEST, Mark",
+        "Votes": 985,
+        "Percent": 1.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SATCHWELL, John",
+        "Votes": 859,
+        "Percent": 1.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCFARLANE, Robert",
+        "Votes": 798,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PENIAZEV, Alex",
+        "Votes": 777,
+        "Percent": 1.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MARKWELL, Andrew",
+        "Votes": 674,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SAAD, Simon",
+        "Votes": 581,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLOOR, Margaret",
+        "Votes": 175,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2007": {
+    "title": "Parramatta, NSW   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "OWENS, Julie",
+        "Votes": 43083,
+        "Percent": 50.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ROBINSON, Colin",
+        "Votes": 32155,
+        "Percent": 37.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "O'NEILL, Astrid",
+        "Votes": 4288,
+        "Percent": 5.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BAISSARI, Sam",
+        "Votes": 2403,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EVANS, Rachel",
+        "Votes": 1015,
+        "Percent": 1.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HERNANDEZ, Rene",
+        "Votes": 888,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCKLEY, Brian",
+        "Votes": 639,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NICKOLS, Graham",
+        "Votes": 274,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GORDON, Chris",
+        "Votes": 261,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MACDONALD, Alasdair",
+        "Votes": 174,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2010": {
+    "title": "Parramatta, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "OWENS, Julie",
+        "Votes": 34818,
+        "Percent": 44.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAMENZULI, Charles",
+        "Votes": 31889,
+        "Percent": 40.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BRADLEY, Phil",
+        "Votes": 6237,
+        "Percent": 8.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "SHARAH, Alex",
+        "Votes": 2404,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PATEL, Kalpesh",
+        "Votes": 1436,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GORDON, Chris",
+        "Votes": 1203,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RODEN, Duncan",
+        "Votes": 330,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2013": {
+    "title": "Parramatta, NSW   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ZAITER, Martin",
+        "Votes": 35724,
+        "Percent": 44.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "OWENS, Julie",
+        "Votes": 33261,
+        "Percent": 41.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BRADLEY, Phil",
+        "Votes": 4261,
+        "Percent": 5.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "SHARAH, Alaex",
+        "Votes": 1957,
+        "Percent": 2.4
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "LOKE, Ganesh",
+        "Votes": 1760,
+        "Percent": 2.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "WILLIAMS, Miechele",
+        "Votes": 1626,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PATEL, Kalpesh",
+        "Votes": 1204,
+        "Percent": 1.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "ROLLINSON, Tania",
+        "Votes": 822,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2016": {
+    "title": "Parramatta, NSW   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "OWENS, Julie",
+        "Votes": 38109,
+        "Percent": 46.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BECKWITH, Michael",
+        "Votes": 28194,
+        "Percent": 34.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BRADLEY, Phil",
+        "Votes": 5640,
+        "Percent": 6.9
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "PIPER, Keith",
+        "Votes": 4347,
+        "Percent": 5.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MAHESH, Raj",
+        "Votes": 2048,
+        "Percent": 2.5
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "GUEST, Mark",
+        "Votes": 2013,
+        "Percent": 2.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "WU, Mikaela",
+        "Votes": 1202,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DRIESSEN, Andrew",
+        "Votes": 469,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2019": {
+    "title": "Parramatta, NSW   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "OWENS, Julie",
+        "Votes": 38171,
+        "Percent": 45.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAMENZULI, Charles",
+        "Votes": 34954,
+        "Percent": 41.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BRADLEY, Phil",
+        "Votes": 6131,
+        "Percent": 7.2
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "PAYARA, Asma",
+        "Votes": 2526,
+        "Percent": 3.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "LOKE, Ganesh",
+        "Votes": 2186,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRENFELL, Oscar",
+        "Votes": 702,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2022": {
+    "title": "Parramatta, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHARLTON, Dr Andrew",
+        "Votes": 34258,
+        "Percent": 40.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KOVACIC, Maria",
+        "Votes": 29492,
+        "Percent": 35.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BRADLEY, Phil",
+        "Votes": 7546,
+        "Percent": 9.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "FAYAD, Julian",
+        "Votes": 4269,
+        "Percent": 5.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHRISTOU, Steve",
+        "Votes": 2982,
+        "Percent": 3.6
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "LAXMANALAL, Rohan",
+        "Votes": 2397,
+        "Percent": 2.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "FREEMAN, Heather",
+        "Votes": 2011,
+        "Percent": 2.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "TAZEWELL, Liza",
+        "Votes": 1310,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2025": {
+    "title": "Parramatta, NSW   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHARLTON, Andrew",
+        "Votes": 46427,
+        "Percent": 47.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MULLENS, Katie",
+        "Votes": 29860,
+        "Percent": 30.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TILLY, Liz",
+        "Votes": 11766,
+        "Percent": 12.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MATZEN, Nicholas",
+        "Votes": 2653,
+        "Percent": 2.7
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "LOKE, Ganesh",
+        "Votes": 2445,
+        "Percent": 2.5
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "SOMERSON, Ben",
+        "Votes": 1522,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "QUINN, Tanya-lee",
+        "Votes": 1499,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MALINI, Maa",
+        "Votes": 1018,
+        "Percent": 1.0
+      }
+    ]
+  }
+}

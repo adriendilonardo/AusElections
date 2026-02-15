@@ -1,0 +1,4420 @@
+{
+  "Banks": {
+    "title": "Banks, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MOUNTFORD, John",
+        "Votes": 32687,
+        "Percent": 52.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PARKER, Max",
+        "Votes": 24430,
+        "Percent": 39.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GREEN, Monty",
+        "Votes": 4819,
+        "Percent": 7.8
+      }
+    ]
+  },
+  "Barton": {
+    "title": "Barton, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PUNCH, Gary",
+        "Votes": 31773,
+        "Percent": 48.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GEMMELL, Bob",
+        "Votes": 29473,
+        "Percent": 45.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCLEAN, Jim",
+        "Votes": 3724,
+        "Percent": 5.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BELLCHAMBERS, Edwin",
+        "Votes": 600,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "Bennelong": {
+    "title": "Bennelong, NSW   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOWARD, Hon John",
+        "Votes": 36266,
+        "Percent": 56.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SHARPE, Beverley",
+        "Votes": 21533,
+        "Percent": 33.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TAYLOR, Paul",
+        "Votes": 4603,
+        "Percent": 7.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAVIDSON, Stephen",
+        "Votes": 710,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAWSON, John",
+        "Votes": 573,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "Berowra": {
+    "title": "Berowra, NSW   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "EDWARDS, Dr Harry",
+        "Votes": 40288,
+        "Percent": 62.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DEANE, Sue",
+        "Votes": 18173,
+        "Percent": 28.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MARKHAM, Peter",
+        "Votes": 6122,
+        "Percent": 9.5
+      }
+    ]
+  },
+  "Blaxland": {
+    "title": "Blaxland, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEATING, Hon Paul",
+        "Votes": 30968,
+        "Percent": 53.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "THORN, Andrew",
+        "Votes": 19573,
+        "Percent": 33.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLACK, Philip",
+        "Votes": 2782,
+        "Percent": 4.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "YOUNG, John",
+        "Votes": 2222,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEATING, Paul",
+        "Votes": 1239,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LEITAO, Tony",
+        "Votes": 759,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RAYNER, Frank",
+        "Votes": 431,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TUCKER, Kaye",
+        "Votes": 221,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "Bradfield": {
+    "title": "Bradfield, NSW   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CONNOLLY, David",
+        "Votes": 45630,
+        "Percent": 71.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FRY, Michael",
+        "Votes": 12359,
+        "Percent": 19.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RICHARDSON, Fiona",
+        "Votes": 5745,
+        "Percent": 9.0
+      }
+    ]
+  },
+  "Calare": {
+    "title": "Calare, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SIMMONS, David",
+        "Votes": 31988,
+        "Percent": 48.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ENGLISH, Mick",
+        "Votes": 16319,
+        "Percent": 25.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "HESPE, Stewart",
+        "Votes": 13653,
+        "Percent": 20.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DOLTON, Bob",
+        "Votes": 2767,
+        "Percent": 4.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUSCOMBE, Eve",
+        "Votes": 656,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "Charlton": {
+    "title": "Charlton, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BROWN, Robert",
+        "Votes": 36113,
+        "Percent": 57.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BLAKE, Mollie",
+        "Votes": 17084,
+        "Percent": 27.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GODFREY, Lyn",
+        "Votes": 7252,
+        "Percent": 11.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHAUDHARY, Vishnu",
+        "Votes": 2110,
+        "Percent": 3.4
+      }
+    ]
+  },
+  "Chifley": {
+    "title": "Chifley, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PRICE, Roger",
+        "Votes": 38683,
+        "Percent": 64.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CONLON, Paul",
+        "Votes": 16414,
+        "Percent": 27.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GOLDHAGEN, Philip",
+        "Votes": 4128,
+        "Percent": 6.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CRISP, Cheryl",
+        "Votes": 960,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "Cook": {
+    "title": "Cook, NSW   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DOBIE, Hon Donald",
+        "Votes": 34590,
+        "Percent": 53.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ADDISON, Michael",
+        "Votes": 25987,
+        "Percent": 40.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FREEMAN, Mark",
+        "Votes": 3805,
+        "Percent": 5.9
+      }
+    ]
+  },
+  "Cowper": {
+    "title": "Cowper, NSW   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "NEHL, Garry",
+        "Votes": 33328,
+        "Percent": 50.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MURPHY, John",
+        "Votes": 23393,
+        "Percent": 35.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "REES, David",
+        "Votes": 4273,
+        "Percent": 6.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "THOMPSON, Dorothy",
+        "Votes": 4122,
+        "Percent": 6.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "AUSTIN, Max",
+        "Votes": 1132,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "Cunningham": {
+    "title": "Cunningham, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WEST, Hon Stewart",
+        "Votes": 34365,
+        "Percent": 59.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "THOMSON, Jeff",
+        "Votes": 17171,
+        "Percent": 29.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DARGAVEL, Ray",
+        "Votes": 6038,
+        "Percent": 10.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PASARA, Rudy",
+        "Votes": 568,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "Dobell": {
+    "title": "Dobell, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LEE, Michael",
+        "Votes": 33719,
+        "Percent": 53.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NUNN, Les",
+        "Votes": 24168,
+        "Percent": 38.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WARD, Graeme",
+        "Votes": 5657,
+        "Percent": 8.9
+      }
+    ]
+  },
+  "Dundas": {
+    "title": "Dundas, NSW   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RUDDOCK, Philip",
+        "Votes": 35747,
+        "Percent": 57.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HUSTED, Veronica",
+        "Votes": 20786,
+        "Percent": 33.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SPRINGETT, Robert",
+        "Votes": 5738,
+        "Percent": 9.2
+      }
+    ]
+  },
+  "Eden-Monaro": {
+    "title": "Eden-Monaro, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SNOW, James",
+        "Votes": 30335,
+        "Percent": 48.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "EVANS, David",
+        "Votes": 18088,
+        "Percent": 28.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "COCHRAN, Peter",
+        "Votes": 10316,
+        "Percent": 16.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCGLYNN, John",
+        "Votes": 3582,
+        "Percent": 5.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KIRCHNER, Horst",
+        "Votes": 405,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Farrer": {
+    "title": "Farrer, NSW   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "FISCHER, Tim",
+        "Votes": 37753,
+        "Percent": 58.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MARKS, Barry",
+        "Votes": 21129,
+        "Percent": 32.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROOKS, Ray",
+        "Votes": 5977,
+        "Percent": 9.2
+      }
+    ]
+  },
+  "Fowler": {
+    "title": "Fowler, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRACE, Ted",
+        "Votes": 33563,
+        "Percent": 58.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FISHLOCK, Jeff",
+        "Votes": 18639,
+        "Percent": 32.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NEESAM, Robert",
+        "Votes": 4809,
+        "Percent": 8.4
+      }
+    ]
+  },
+  "Gilmore": {
+    "title": "Gilmore, NSW   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "SHARP, John",
+        "Votes": 32216,
+        "Percent": 52.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WRIGHT, John",
+        "Votes": 25207,
+        "Percent": 40.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BLACKSHAW, Alan",
+        "Votes": 2849,
+        "Percent": 4.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DIXON, Reen",
+        "Votes": 1356,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "Grayndler": {
+    "title": "Grayndler, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCLEAY, Leo",
+        "Votes": 31240,
+        "Percent": 52.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TARTAK, Karl",
+        "Votes": 20698,
+        "Percent": 34.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HENNESSY, Peter",
+        "Votes": 3602,
+        "Percent": 6.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHANAHAN, Jack",
+        "Votes": 2108,
+        "Percent": 3.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PAPANIKITAS, Nick",
+        "Votes": 1686,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "Greenway": {
+    "title": "Greenway, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GORMAN, Russell",
+        "Votes": 35386,
+        "Percent": 59.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MUSGRAVE, Warren",
+        "Votes": 23700,
+        "Percent": 40.1
+      }
+    ]
+  },
+  "Gwydir": {
+    "title": "Gwydir, NSW   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "HUNT, Hon Ralph",
+        "Votes": 35934,
+        "Percent": 57.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ELKS, Trevor",
+        "Votes": 23200,
+        "Percent": 36.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FLEMING, Lloyd",
+        "Votes": 3695,
+        "Percent": 5.9
+      }
+    ]
+  },
+  "Hughes": {
+    "title": "Hughes, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "TICKNER, Robert",
+        "Votes": 31636,
+        "Percent": 49.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MASON, Cliff",
+        "Votes": 26433,
+        "Percent": 41.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TERRETT, Paul",
+        "Votes": 5416,
+        "Percent": 8.5
+      }
+    ]
+  },
+  "Hume": {
+    "title": "Hume, NSW   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FIFE, Hon Wallace",
+        "Votes": 33687,
+        "Percent": 52.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MILLIKEN, Rod",
+        "Votes": 24516,
+        "Percent": 38.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MILNE, Scott",
+        "Votes": 2498,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ELDRIDGE, Jim",
+        "Votes": 1843,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MARSHALL, Duncan",
+        "Votes": 1105,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HERALD, David",
+        "Votes": 243,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "Hunter": {
+    "title": "Hunter, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FITZGIBBON, Eric",
+        "Votes": 31656,
+        "Percent": 48.9
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "TURNER, John",
+        "Votes": 16067,
+        "Percent": 24.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DUNKLEY, Graham",
+        "Votes": 13053,
+        "Percent": 20.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SIMPSON, Maureen",
+        "Votes": 3902,
+        "Percent": 6.0
+      }
+    ]
+  },
+  "Kingsford-Smith": {
+    "title": "Kingsford-Smith, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BOWEN, Hon Lionel",
+        "Votes": 36478,
+        "Percent": 59.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "O'CONNOR, Carolyn",
+        "Votes": 19903,
+        "Percent": 32.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LEEHY, Philippa",
+        "Votes": 4765,
+        "Percent": 7.8
+      }
+    ]
+  },
+  "Lindsay": {
+    "title": "Lindsay, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FREE, Ross",
+        "Votes": 32949,
+        "Percent": 52.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HAYNE, Glynis",
+        "Votes": 23193,
+        "Percent": 36.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GREGORY, Michael",
+        "Votes": 5276,
+        "Percent": 8.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PERRY, Ian",
+        "Votes": 1414,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "Lowe": {
+    "title": "Lowe, NSW   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WOODS, Dr Bob",
+        "Votes": 29724,
+        "Percent": 47.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MAHER, Michael",
+        "Votes": 29644,
+        "Percent": 47.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TURNER, George",
+        "Votes": 2197,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FARRELL, Tony",
+        "Votes": 1432,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "Lyne": {
+    "title": "Lyne, NSW   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "COWAN, Bruce",
+        "Votes": 36467,
+        "Percent": 55.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WORTH, Garry",
+        "Votes": 24252,
+        "Percent": 36.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "AITKEN, John",
+        "Votes": 5534,
+        "Percent": 8.4
+      }
+    ]
+  },
+  "Macarthur": {
+    "title": "Macarthur, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MARTIN, Stephen",
+        "Votes": 32404,
+        "Percent": 53.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FORRESTER, Ron",
+        "Votes": 22106,
+        "Percent": 36.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SAMPSON, Meg",
+        "Votes": 5862,
+        "Percent": 9.7
+      }
+    ]
+  },
+  "Mackellar": {
+    "title": "Mackellar, NSW   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CARLTON, Hon James",
+        "Votes": 35225,
+        "Percent": 56.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BLACKMORE, Eileen",
+        "Votes": 19254,
+        "Percent": 31.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MACLENNAN, Graeme",
+        "Votes": 6189,
+        "Percent": 10.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FOLEY, Maurice",
+        "Votes": 1274,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "Macquarie": {
+    "title": "Macquarie, NSW   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WEBSTER, Alasdair",
+        "Votes": 30010,
+        "Percent": 50.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MARCH, David",
+        "Votes": 23096,
+        "Percent": 38.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FORBES, Bruce",
+        "Votes": 6582,
+        "Percent": 11.0
+      }
+    ]
+  },
+  "Mitchell": {
+    "title": "Mitchell, NSW   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CADMAN, Alan",
+        "Votes": 46473,
+        "Percent": 72.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROBINSON, Geoff",
+        "Votes": 17603,
+        "Percent": 27.5
+      }
+    ]
+  },
+  "New England": {
+    "title": "New England, NSW   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "SINCLAIR, Rt Hon Ian",
+        "Votes": 33306,
+        "Percent": 50.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HORAN, Joe",
+        "Votes": 24938,
+        "Percent": 37.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'REGAN, Bevan",
+        "Votes": 4412,
+        "Percent": 6.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MOODY, Eunice",
+        "Votes": 3190,
+        "Percent": 4.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BALDWIN, Lance",
+        "Votes": 632,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "Newcastle": {
+    "title": "Newcastle, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Allan",
+        "Votes": 31095,
+        "Percent": 51.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEEGAN, George",
+        "Votes": 16362,
+        "Percent": 27.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TAGGART, Alan",
+        "Votes": 9978,
+        "Percent": 16.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RENDLE, Rae",
+        "Votes": 2948,
+        "Percent": 4.9
+      }
+    ]
+  },
+  "North Sydney": {
+    "title": "North Sydney, NSW   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SPENDER, John",
+        "Votes": 36290,
+        "Percent": 58.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRITT, Eddie",
+        "Votes": 18303,
+        "Percent": 29.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DOMINISH, Rod",
+        "Votes": 7396,
+        "Percent": 11.9
+      }
+    ]
+  },
+  "Page": {
+    "title": "Page, NSW   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "ROBINSON, Hon Ian",
+        "Votes": 27756,
+        "Percent": 44.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ELLEM, Trevor",
+        "Votes": 21357,
+        "Percent": 34.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EGERTON, William",
+        "Votes": 9149,
+        "Percent": 14.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BROWN, Ivor",
+        "Votes": 4586,
+        "Percent": 7.3
+      }
+    ]
+  },
+  "Parkes": {
+    "title": "Parkes, NSW   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "COBB, Michael",
+        "Votes": 31433,
+        "Percent": 50.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LUND, Graham",
+        "Votes": 22773,
+        "Percent": 36.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MURFORD, Max",
+        "Votes": 5272,
+        "Percent": 8.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COLLISON, Gloria",
+        "Votes": 2229,
+        "Percent": 3.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'DONNELL, Bill",
+        "Votes": 528,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "Parramatta": {
+    "title": "Parramatta, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BROWN, Hon John",
+        "Votes": 32304,
+        "Percent": 52.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HAMER, Paul",
+        "Votes": 23881,
+        "Percent": 38.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LEVETT, Rodney",
+        "Votes": 5378,
+        "Percent": 8.7
+      }
+    ]
+  },
+  "Phillip": {
+    "title": "Phillip, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCHUGH, Jeannette",
+        "Votes": 31552,
+        "Percent": 49.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "COLLINS, Ray",
+        "Votes": 27508,
+        "Percent": 42.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SOWADA, Karin",
+        "Votes": 4339,
+        "Percent": 6.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRINKMAN, Fred",
+        "Votes": 844,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "Prospect": {
+    "title": "Prospect, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KLUGMAN, Dr Richard",
+        "Votes": 33367,
+        "Percent": 52.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "INGRAM, Robert",
+        "Votes": 18018,
+        "Percent": 28.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARONE, Sam",
+        "Votes": 9354,
+        "Percent": 14.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "UTTERSON, William",
+        "Votes": 3194,
+        "Percent": 5.0
+      }
+    ]
+  },
+  "Reid": {
+    "title": "Reid, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "UREN, Hon Tom",
+        "Votes": 35738,
+        "Percent": 58.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCDOWELL, Lynne",
+        "Votes": 21175,
+        "Percent": 34.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROVEEN, John",
+        "Votes": 4274,
+        "Percent": 7.0
+      }
+    ]
+  },
+  "Richmond": {
+    "title": "Richmond, NSW   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "BLUNT, Charles",
+        "Votes": 31164,
+        "Percent": 51.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WOLDRING, Klaas",
+        "Votes": 21509,
+        "Percent": 35.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BROWN, Anne",
+        "Votes": 4308,
+        "Percent": 7.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NICOLSON, Mac",
+        "Votes": 4061,
+        "Percent": 6.7
+      }
+    ]
+  },
+  "Riverina-Darling": {
+    "title": "Riverina-Darling, NSW   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "HICKS, Noel",
+        "Votes": 32238,
+        "Percent": 53.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BLACK, Peter",
+        "Votes": 28017,
+        "Percent": 46.5
+      }
+    ]
+  },
+  "Robertson": {
+    "title": "Robertson, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COHEN, Hon Barry",
+        "Votes": 31983,
+        "Percent": 49.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CLAIR, Paul St",
+        "Votes": 27220,
+        "Percent": 41.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GRIFFITHS, Glenice",
+        "Votes": 6132,
+        "Percent": 9.4
+      }
+    ]
+  },
+  "Shortland": {
+    "title": "Shortland, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Hon Peter",
+        "Votes": 35916,
+        "Percent": 55.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAINE, Milton",
+        "Votes": 20652,
+        "Percent": 31.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCCABE, Derek",
+        "Votes": 8727,
+        "Percent": 13.4
+      }
+    ]
+  },
+  "St George": {
+    "title": "St George, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DUBOIS, Stephen",
+        "Votes": 30829,
+        "Percent": 49.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RUSH, Gary",
+        "Votes": 26869,
+        "Percent": 43.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DALRYMPLE, Garry",
+        "Votes": 3241,
+        "Percent": 5.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COMPTON, Brian",
+        "Votes": 927,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "Sydney": {
+    "title": "Sydney, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BALDWIN, Peter",
+        "Votes": 29795,
+        "Percent": 50.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MORKA, Les",
+        "Votes": 14911,
+        "Percent": 25.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MUNDEY, Jack",
+        "Votes": 7918,
+        "Percent": 13.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COLE, William",
+        "Votes": 4916,
+        "Percent": 8.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RADICE, Vito",
+        "Votes": 1457,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "Throsby": {
+    "title": "Throsby, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOLLIS, Colin",
+        "Votes": 30354,
+        "Percent": 51.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FREDERICKS, Neville",
+        "Votes": 20456,
+        "Percent": 34.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BUTLER, Greg",
+        "Votes": 4458,
+        "Percent": 7.5
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "WOOD, David",
+        "Votes": 3812,
+        "Percent": 6.5
+      }
+    ]
+  },
+  "Warringah": {
+    "title": "Warringah, NSW   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MACKELLAR, Hon Michael",
+        "Votes": 37855,
+        "Percent": 59.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DOUGLAS, Ian",
+        "Votes": 19805,
+        "Percent": 31.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WIDMAIR, Christian",
+        "Votes": 5773,
+        "Percent": 9.1
+      }
+    ]
+  },
+  "Wentworth": {
+    "title": "Wentworth, NSW   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HEWSON, Dr John",
+        "Votes": 32099,
+        "Percent": 54.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WHITTAKER, Anne-Marie",
+        "Votes": 20181,
+        "Percent": 34.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JAYAWARDENA, Yvonne",
+        "Votes": 6533,
+        "Percent": 11.1
+      }
+    ]
+  },
+  "Werriwa": {
+    "title": "Werriwa, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KERIN, Hon John",
+        "Votes": 43094,
+        "Percent": 63.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROCK, David",
+        "Votes": 24600,
+        "Percent": 36.3
+      }
+    ]
+  },
+  "Aston": {
+    "title": "Aston, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SAUNDERSON, John",
+        "Votes": 30817,
+        "Percent": 48.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ASHLEY, Gordon",
+        "Votes": 26595,
+        "Percent": 41.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BRICKNELL, Jan",
+        "Votes": 5134,
+        "Percent": 8.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "GURNEY, Hugh",
+        "Votes": 1113,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "Ballarat": {
+    "title": "Ballarat, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MILDREN, John",
+        "Votes": 31447,
+        "Percent": 47.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RONAN, John",
+        "Votes": 24059,
+        "Percent": 36.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BOLAND, John",
+        "Votes": 8250,
+        "Percent": 12.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HENSELEIT, Phil",
+        "Votes": 2685,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GREANY, Martin",
+        "Votes": 392,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Batman": {
+    "title": "Batman, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOWE, Hon Brian",
+        "Votes": 35285,
+        "Percent": 64.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DUNN, Ron",
+        "Votes": 13408,
+        "Percent": 24.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROBERTS, Jan",
+        "Votes": 5321,
+        "Percent": 9.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PHILLIPS, Sue",
+        "Votes": 632,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHAPMAN, Darren",
+        "Votes": 466,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "Bendigo": {
+    "title": "Bendigo, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BRUMBY, John",
+        "Votes": 32312,
+        "Percent": 48.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RADFORD, Hon John",
+        "Votes": 16508,
+        "Percent": 24.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BEST, Ron",
+        "Votes": 14703,
+        "Percent": 22.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SWANTON, Kaye",
+        "Votes": 2700,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SOMERVILLE, John",
+        "Votes": 330,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'GRADY, Sharyne",
+        "Votes": 126,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "Bruce": {
+    "title": "Bruce, VIC   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ALDRED, Kenneth",
+        "Votes": 28568,
+        "Percent": 47.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROBINSON, Patrick",
+        "Votes": 25866,
+        "Percent": 43.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CARR, Kate",
+        "Votes": 4820,
+        "Percent": 8.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POOLEY, Terence",
+        "Votes": 910,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "Burke": {
+    "title": "Burke, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'KEEFE, Neil",
+        "Votes": 32738,
+        "Percent": 49.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DALE, Peter",
+        "Votes": 25534,
+        "Percent": 38.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MULLINGTON, Susan",
+        "Votes": 4793,
+        "Percent": 7.2
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "MCLEOD, Barry",
+        "Votes": 3278,
+        "Percent": 4.9
+      }
+    ]
+  },
+  "Calwell": {
+    "title": "Calwell, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THEOPHANOUS, Dr Andrew",
+        "Votes": 36614,
+        "Percent": 61.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DIMITRIJEVIC, Chris",
+        "Votes": 16244,
+        "Percent": 27.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STEWART, Louise",
+        "Votes": 5938,
+        "Percent": 9.9
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "PAVLEKOVICH-SMITH, Ivan",
+        "Votes": 1130,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "Casey": {
+    "title": "Casey, VIC   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HALVERSON, Robert",
+        "Votes": 30225,
+        "Percent": 46.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCKENZIE, David",
+        "Votes": 27891,
+        "Percent": 43.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MAR, Chris",
+        "Votes": 5071,
+        "Percent": 7.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "HAFFENDEN, Roy",
+        "Votes": 861,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MADDEN, Flo",
+        "Votes": 617,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "Chisholm": {
+    "title": "Chisholm, VIC   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WOOLDRIDGE, Dr Michael",
+        "Votes": 29705,
+        "Percent": 46.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MAYER, Helen",
+        "Votes": 28094,
+        "Percent": 43.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROBBINS, Fran",
+        "Votes": 4222,
+        "Percent": 6.6
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "WAJSBREM, Edward",
+        "Votes": 1101,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RODECK, Ernest",
+        "Votes": 637,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRATION, Barry",
+        "Votes": 226,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "Corangamite": {
+    "title": "Corangamite, VIC   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCARTHUR, Stewart",
+        "Votes": 32341,
+        "Percent": 48.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CALDWELL, Ian",
+        "Votes": 27620,
+        "Percent": 41.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MANN, Rob",
+        "Votes": 4225,
+        "Percent": 6.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "MCDONALD, John",
+        "Votes": 2813,
+        "Percent": 4.2
+      }
+    ]
+  },
+  "Corio": {
+    "title": "Corio, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SCHOLES, Hon Gordon",
+        "Votes": 34064,
+        "Percent": 54.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CONHEADY, Patrick",
+        "Votes": 20220,
+        "Percent": 32.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PEARCE, Greta",
+        "Votes": 3775,
+        "Percent": 6.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DIXON, Danielle",
+        "Votes": 2602,
+        "Percent": 4.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAVIES, Tom",
+        "Votes": 1378,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "Deakin": {
+    "title": "Deakin, VIC   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BEALE, Julian",
+        "Votes": 30665,
+        "Percent": 48.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MYATT, Madelyn",
+        "Votes": 27884,
+        "Percent": 44.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BOSCH, Marcus",
+        "Votes": 3992,
+        "Percent": 6.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WRIGHT, Rick",
+        "Votes": 401,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SPEIRS, Gil",
+        "Votes": 267,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "Dunkley": {
+    "title": "Dunkley, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHYNOWETH, Robert",
+        "Votes": 28740,
+        "Percent": 46.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WARWICK, Tom",
+        "Votes": 26267,
+        "Percent": 42.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KIRBY, Robyn",
+        "Votes": 3881,
+        "Percent": 6.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LIESHOUT, Chris van",
+        "Votes": 1898,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MURRAY, Andrew",
+        "Votes": 615,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JOHNSON, Les",
+        "Votes": 193,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "Flinders": {
+    "title": "Flinders, VIC   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "REITH, Peter",
+        "Votes": 31737,
+        "Percent": 47.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LACK, Tony",
+        "Votes": 29469,
+        "Percent": 43.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SUTTIE, Andrew",
+        "Votes": 3655,
+        "Percent": 5.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MILN, Jonathan",
+        "Votes": 1449,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MAUD, Noel",
+        "Votes": 986,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "Gellibrand": {
+    "title": "Gellibrand, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIS, Hon Ralph",
+        "Votes": 38451,
+        "Percent": 64.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WARNER, Tim",
+        "Votes": 14506,
+        "Percent": 24.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HOLMES, Susan",
+        "Votes": 3665,
+        "Percent": 6.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VICARI, Rosalba",
+        "Votes": 1569,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOUGHNEY, James",
+        "Votes": 1097,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "Gippsland": {
+    "title": "Gippsland, VIC   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "MCGAURAN, Peter",
+        "Votes": 29084,
+        "Percent": 44.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CHILD, Zona",
+        "Votes": 20056,
+        "Percent": 30.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PEARCE, Grant",
+        "Votes": 12384,
+        "Percent": 18.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FORCIER, Pierre",
+        "Votes": 2785,
+        "Percent": 4.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ANDERSON, Rod",
+        "Votes": 1350,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "Goldstein": {
+    "title": "Goldstein, VIC   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MACPHEE, Hon Ian",
+        "Votes": 35029,
+        "Percent": 55.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCINNES, Murray",
+        "Votes": 22343,
+        "Percent": 35.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BOALER, Maureen",
+        "Votes": 3654,
+        "Percent": 5.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ROWE, Michael",
+        "Votes": 1436,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CASLEY, Tiger",
+        "Votes": 739,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "Henty": {
+    "title": "Henty, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHILD, Hon Joan",
+        "Votes": 30695,
+        "Percent": 50.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MICHELSON, Rudi",
+        "Votes": 25138,
+        "Percent": 41.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HEGARTY, Paul",
+        "Votes": 4992,
+        "Percent": 8.2
+      }
+    ]
+  },
+  "Higgins": {
+    "title": "Higgins, VIC   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SHIPTON, Roger",
+        "Votes": 36139,
+        "Percent": 59.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HIGGINS, Barbara",
+        "Votes": 19899,
+        "Percent": 32.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JACKSON, Clive",
+        "Votes": 5188,
+        "Percent": 8.5
+      }
+    ]
+  },
+  "Holt": {
+    "title": "Holt, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DUFFY, Hon Michael",
+        "Votes": 32026,
+        "Percent": 56.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BATEMAN, Janice",
+        "Votes": 20764,
+        "Percent": 36.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HERBERT, Geoff",
+        "Votes": 4282,
+        "Percent": 7.5
+      }
+    ]
+  },
+  "Hotham": {
+    "title": "Hotham, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KENT, Lewis",
+        "Votes": 33035,
+        "Percent": 52.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCCALL, Peter",
+        "Votes": 25432,
+        "Percent": 40.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KONING, Len de",
+        "Votes": 4402,
+        "Percent": 7.0
+      }
+    ]
+  },
+  "Indi": {
+    "title": "Indi, VIC   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CAMERON, Ewen",
+        "Votes": 24844,
+        "Percent": 37.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WALSH, Danny",
+        "Votes": 22065,
+        "Percent": 33.2
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "PULLAR, Philip",
+        "Votes": 13435,
+        "Percent": 20.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TAYLOR, Rob",
+        "Votes": 5415,
+        "Percent": 8.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LUMSDEN, Brian",
+        "Votes": 665,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "Isaacs": {
+    "title": "Isaacs, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHARLES, David",
+        "Votes": 29325,
+        "Percent": 47.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ATKINSON, Rod",
+        "Votes": 26448,
+        "Percent": 43.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ASPINALL, Maxine",
+        "Votes": 4428,
+        "Percent": 7.2
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BUCHANAN, Bill",
+        "Votes": 833,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ELY, Linda",
+        "Votes": 395,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Jagajaga": {
+    "title": "Jagajaga, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "STAPLES, Peter",
+        "Votes": 29698,
+        "Percent": 51.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PASQUARELLI, John",
+        "Votes": 21479,
+        "Percent": 37.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCCALLUM, Howard",
+        "Votes": 5023,
+        "Percent": 8.7
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "KIRWAN, Laurie",
+        "Votes": 977,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MANNING, Lynette",
+        "Votes": 757,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "Kooyong": {
+    "title": "Kooyong, VIC   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PEACOCK, Hon Andrew",
+        "Votes": 36608,
+        "Percent": 59.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WOODS, Lindsay",
+        "Votes": 19030,
+        "Percent": 30.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TAFT, Peter",
+        "Votes": 4593,
+        "Percent": 7.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COLE, Margaret",
+        "Votes": 1685,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "La Trobe": {
+    "title": "La Trobe, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MILTON, Peter",
+        "Votes": 31510,
+        "Percent": 50.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CHARLES, Bob",
+        "Votes": 24013,
+        "Percent": 38.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BENTON, John",
+        "Votes": 6461,
+        "Percent": 10.4
+      }
+    ]
+  },
+  "Lalor": {
+    "title": "Lalor, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Hon Barry",
+        "Votes": 42087,
+        "Percent": 63.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FARQUHAR, Darren",
+        "Votes": 17966,
+        "Percent": 27.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JEFFCOAT, Heather",
+        "Votes": 5899,
+        "Percent": 8.9
+      }
+    ]
+  },
+  "Mcewen": {
+    "title": "Mcewen, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLEELAND, Peter",
+        "Votes": 31052,
+        "Percent": 48.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MILLIE, David",
+        "Votes": 24021,
+        "Percent": 37.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LORMAN, Doug",
+        "Votes": 4551,
+        "Percent": 7.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "COLLER, Andrew",
+        "Votes": 4038,
+        "Percent": 6.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILSON, Robert",
+        "Votes": 369,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Mcmillan": {
+    "title": "Mcmillan, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CUNNINGHAM, Barry",
+        "Votes": 30610,
+        "Percent": 48.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KIELY, John",
+        "Votes": 19846,
+        "Percent": 31.7
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "O'BRIEN, Pat",
+        "Votes": 7544,
+        "Percent": 12.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "OLLQUIST, Ross",
+        "Votes": 3319,
+        "Percent": 5.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LORRAINE, Anne",
+        "Votes": 833,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WALSH, Thomas",
+        "Votes": 404,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Mallee": {
+    "title": "Mallee, VIC   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "FISHER, Peter",
+        "Votes": 31192,
+        "Percent": 48.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FREEDMAN, Linda",
+        "Votes": 18461,
+        "Percent": 28.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KIDD, Adrian",
+        "Votes": 12151,
+        "Percent": 18.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LEHMANN, Neil",
+        "Votes": 3208,
+        "Percent": 4.9
+      }
+    ]
+  },
+  "Maribyrnong": {
+    "title": "Maribyrnong, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRIFFITHS, Alan",
+        "Votes": 31502,
+        "Percent": 52.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RUDEWYCH, Victor",
+        "Votes": 22505,
+        "Percent": 37.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MACKAY, David",
+        "Votes": 3940,
+        "Percent": 6.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BESHARA, Mark",
+        "Votes": 1898,
+        "Percent": 3.2
+      }
+    ]
+  },
+  "Melbourne": {
+    "title": "Melbourne, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HAND, Gerry",
+        "Votes": 35873,
+        "Percent": 62.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RANDLE, Frank",
+        "Votes": 15267,
+        "Percent": 26.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FRANCHI, Peter La",
+        "Votes": 5374,
+        "Percent": 9.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FERRARI, James",
+        "Votes": 757,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "Melbourne Ports": {
+    "title": "Melbourne Ports, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOLDING, Hon Clyde",
+        "Votes": 29831,
+        "Percent": 50.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PAULL, Allan",
+        "Votes": 20683,
+        "Percent": 34.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BRETHERTON, Dr Di",
+        "Votes": 5568,
+        "Percent": 9.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, Alan",
+        "Votes": 3483,
+        "Percent": 5.9
+      }
+    ]
+  },
+  "Menzies": {
+    "title": "Menzies, VIC   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BROWN, Hon Neil",
+        "Votes": 32401,
+        "Percent": 53.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CSAR, Ivana",
+        "Votes": 22505,
+        "Percent": 36.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WHITE, Marjorie",
+        "Votes": 5266,
+        "Percent": 8.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PLAIN, Bruce",
+        "Votes": 972,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "Murray": {
+    "title": "Murray, VIC   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "LLOYD, Bruce",
+        "Votes": 32738,
+        "Percent": 50.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ANDERSON, Mark",
+        "Votes": 16919,
+        "Percent": 26.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NORDEN, Brendan",
+        "Votes": 9545,
+        "Percent": 14.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LINFORD, Ralph",
+        "Votes": 2631,
+        "Percent": 4.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARGREAVES, John",
+        "Votes": 2574,
+        "Percent": 4.0
+      }
+    ]
+  },
+  "Scullin": {
+    "title": "Scullin, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JENKINS, Harry",
+        "Votes": 37158,
+        "Percent": 68.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KABOS, Mike",
+        "Votes": 12991,
+        "Percent": 24.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PRIVITELLI, Joe",
+        "Votes": 3900,
+        "Percent": 7.2
+      }
+    ]
+  },
+  "Streeton": {
+    "title": "Streeton, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LAMB, Tony",
+        "Votes": 29038,
+        "Percent": 46.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROADBENT, Russell",
+        "Votes": 26288,
+        "Percent": 42.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MASON, Rika",
+        "Votes": 5063,
+        "Percent": 8.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "TREMBATH, Ken",
+        "Votes": 998,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CUNNINGHAM, Tessa",
+        "Votes": 822,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "Wannon": {
+    "title": "Wannon, VIC   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAWKER, David",
+        "Votes": 38838,
+        "Percent": 60.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WATT, Kevin",
+        "Votes": 21478,
+        "Percent": 33.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JENNINGS, Julie",
+        "Votes": 4235,
+        "Percent": 6.6
+      }
+    ]
+  },
+  "Wills": {
+    "title": "Wills, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HAWKE, Hon Bob",
+        "Votes": 35849,
+        "Percent": 61.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "VENABLES, Olga",
+        "Votes": 15318,
+        "Percent": 26.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ELEY, Ken",
+        "Votes": 3729,
+        "Percent": 6.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCKS, Fast",
+        "Votes": 1400,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TEATHER, Lyn",
+        "Votes": 1092,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SYKES, Ian",
+        "Votes": 650,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Bowman": {
+    "title": "Bowman, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SCIACCA, Con",
+        "Votes": 31223,
+        "Percent": 48.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CROWE, Andrew",
+        "Votes": 14866,
+        "Percent": 23.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BARRY-COTTER, Bill",
+        "Votes": 11696,
+        "Percent": 18.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TAYLOR, Diana",
+        "Votes": 5800,
+        "Percent": 9.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CULLEN, Barry",
+        "Votes": 1123,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "Brisbane": {
+    "title": "Brisbane, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CROSS, Manfred",
+        "Votes": 32125,
+        "Percent": 51.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DRAKE, David",
+        "Votes": 17543,
+        "Percent": 28.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "NEWMAN, Cliff",
+        "Votes": 8495,
+        "Percent": 13.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PROOYEN, Michael van",
+        "Votes": 3799,
+        "Percent": 6.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KENNEY, William",
+        "Votes": 792,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "Capricornia": {
+    "title": "Capricornia, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WRIGHT, Keith",
+        "Votes": 34147,
+        "Percent": 54.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "PRICE, Ted",
+        "Votes": 21272,
+        "Percent": 33.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "YOUNG, Tom",
+        "Votes": 6084,
+        "Percent": 9.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PAGE, J S",
+        "Votes": 1718,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "Dawson": {
+    "title": "Dawson, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WELCH, Bill",
+        "Votes": 30232,
+        "Percent": 46.9
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BRAITHWAITE, Raymond",
+        "Votes": 29698,
+        "Percent": 46.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "POTTINGER, Paul",
+        "Votes": 4553,
+        "Percent": 7.1
+      }
+    ]
+  },
+  "Fadden": {
+    "title": "Fadden, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WILSON, Peter",
+        "Votes": 24481,
+        "Percent": 41.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JULL, David",
+        "Votes": 21258,
+        "Percent": 35.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "ROBINSON, Peter",
+        "Votes": 9581,
+        "Percent": 16.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DAVIES, Kenneth",
+        "Votes": 4065,
+        "Percent": 6.8
+      }
+    ]
+  },
+  "Fairfax": {
+    "title": "Fairfax, QLD   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "ADERMANN, Hon Evan",
+        "Votes": 24817,
+        "Percent": 39.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Alison",
+        "Votes": 21953,
+        "Percent": 35.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BRANNELLY, Joy",
+        "Votes": 10733,
+        "Percent": 17.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STOCKWELL, Brian",
+        "Votes": 4786,
+        "Percent": 7.7
+      }
+    ]
+  },
+  "Fisher": {
+    "title": "Fisher, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LAVARCH, Michael",
+        "Votes": 30181,
+        "Percent": 44.7
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "SLIPPER, Peter",
+        "Votes": 24522,
+        "Percent": 36.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MUTCH, Ian",
+        "Votes": 8208,
+        "Percent": 12.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SPICER, Glen",
+        "Votes": 4597,
+        "Percent": 6.8
+      }
+    ]
+  },
+  "Forde": {
+    "title": "Forde, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CRAWFORD, Mary",
+        "Votes": 27441,
+        "Percent": 46.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WATSON, Dr David",
+        "Votes": 20957,
+        "Percent": 35.5
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "PHILBRICK, Tony",
+        "Votes": 7107,
+        "Percent": 12.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RIEFF, Sheila",
+        "Votes": 3582,
+        "Percent": 6.1
+      }
+    ]
+  },
+  "Griffith": {
+    "title": "Griffith, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HUMPHREYS, Ben",
+        "Votes": 33442,
+        "Percent": 54.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BLACK, Wayne",
+        "Votes": 14778,
+        "Percent": 24.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "COUSINS, Sean",
+        "Votes": 8550,
+        "Percent": 13.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WINTER, Lance",
+        "Votes": 4647,
+        "Percent": 7.6
+      }
+    ]
+  },
+  "Groom": {
+    "title": "Groom, QLD   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "MCVEIGH, Hon Tom",
+        "Votes": 32054,
+        "Percent": 48.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DWYER, Linda",
+        "Votes": 21217,
+        "Percent": 32.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MUNRO, Alexander",
+        "Votes": 8754,
+        "Percent": 13.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CAREW, Mark",
+        "Votes": 3556,
+        "Percent": 5.4
+      }
+    ]
+  },
+  "Herbert": {
+    "title": "Herbert, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LINDSAY, Ted",
+        "Votes": 33507,
+        "Percent": 51.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "GOICOECHEA, Jose",
+        "Votes": 18206,
+        "Percent": 27.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PAVEY, Rosemary",
+        "Votes": 10571,
+        "Percent": 16.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SWANTON, Paul",
+        "Votes": 3344,
+        "Percent": 5.1
+      }
+    ]
+  },
+  "Hinkler": {
+    "title": "Hinkler, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COURTICE, Brian",
+        "Votes": 30814,
+        "Percent": 48.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "CONQUEST, Bryan",
+        "Votes": 27665,
+        "Percent": 43.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WILLIAMS, John",
+        "Votes": 3604,
+        "Percent": 5.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BOSHELL, Geoff",
+        "Votes": 2039,
+        "Percent": 3.2
+      }
+    ]
+  },
+  "Kennedy": {
+    "title": "Kennedy, QLD   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "KATTER, Hon Robert",
+        "Votes": 28585,
+        "Percent": 47.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BYRNE, James",
+        "Votes": 27208,
+        "Percent": 45.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "COOPER, Ross",
+        "Votes": 4584,
+        "Percent": 7.6
+      }
+    ]
+  },
+  "Leichhardt": {
+    "title": "Leichhardt, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GAYLER, John",
+        "Votes": 31601,
+        "Percent": 50.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BYRNE, Kevin",
+        "Votes": 22551,
+        "Percent": 36.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BARRY, Ronald",
+        "Votes": 5942,
+        "Percent": 9.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TAPAU, Wilfred",
+        "Votes": 2085,
+        "Percent": 3.4
+      }
+    ]
+  },
+  "Lilley": {
+    "title": "Lilley, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DARLING, Elaine",
+        "Votes": 36248,
+        "Percent": 57.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GATES, John",
+        "Votes": 17181,
+        "Percent": 27.2
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BROWN, Andrew",
+        "Votes": 9842,
+        "Percent": 15.6
+      }
+    ]
+  },
+  "Mcpherson": {
+    "title": "Mcpherson, QLD   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WHITE, Peter",
+        "Votes": 27147,
+        "Percent": 38.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STERN, Pat",
+        "Votes": 23850,
+        "Percent": 33.7
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "MCMAHON, Max",
+        "Votes": 15974,
+        "Percent": 22.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STOELHORST, Yvonne",
+        "Votes": 3746,
+        "Percent": 5.3
+      }
+    ]
+  },
+  "Maranoa": {
+    "title": "Maranoa, QLD   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "CAMERON, Ian",
+        "Votes": 35594,
+        "Percent": 55.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PAROZ, Raymond",
+        "Votes": 20596,
+        "Percent": 32.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CHRISTIE, Bruce",
+        "Votes": 5364,
+        "Percent": 8.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCCARTHY, Richard",
+        "Votes": 2605,
+        "Percent": 4.1
+      }
+    ]
+  },
+  "Moncrieff": {
+    "title": "Moncrieff, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BOYCE, Robert",
+        "Votes": 23067,
+        "Percent": 35.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SULLIVAN, Kathryn",
+        "Votes": 22271,
+        "Percent": 34.7
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "HUGHES, Lester",
+        "Votes": 15405,
+        "Percent": 24.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SPENCER, George",
+        "Votes": 3444,
+        "Percent": 5.4
+      }
+    ]
+  },
+  "Moreton": {
+    "title": "Moreton, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GIBSON, Garrie",
+        "Votes": 28053,
+        "Percent": 45.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAMERON, Donald",
+        "Votes": 23740,
+        "Percent": 38.2
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "FRECKLETON, Peter",
+        "Votes": 6712,
+        "Percent": 10.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WILLINGER, Manfred",
+        "Votes": 3665,
+        "Percent": 5.9
+      }
+    ]
+  },
+  "Oxley": {
+    "title": "Oxley, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HAYDEN, Hon Bill",
+        "Votes": 36246,
+        "Percent": 59.9
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "HOFFENSETZ, Barry",
+        "Votes": 12248,
+        "Percent": 20.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "AKROYD, Janice",
+        "Votes": 8948,
+        "Percent": 14.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LOUGHNEY, John",
+        "Votes": 3081,
+        "Percent": 5.1
+      }
+    ]
+  },
+  "Petrie": {
+    "title": "Petrie, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JOHNS, Gary",
+        "Votes": 30537,
+        "Percent": 46.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HODGES, Hon John",
+        "Votes": 21780,
+        "Percent": 33.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "CROSS, Gerard",
+        "Votes": 9375,
+        "Percent": 14.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROBINSON, Isobel",
+        "Votes": 4404,
+        "Percent": 6.7
+      }
+    ]
+  },
+  "Rankin": {
+    "title": "Rankin, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BEDDALL, David",
+        "Votes": 29118,
+        "Percent": 49.2
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "WALSH, Gerard",
+        "Votes": 13256,
+        "Percent": 22.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PATTERSON, John",
+        "Votes": 7769,
+        "Percent": 13.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "JORGENSON, Peter",
+        "Votes": 5708,
+        "Percent": 9.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COPE, Miriam",
+        "Votes": 2599,
+        "Percent": 4.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DUNNE, Michael",
+        "Votes": 670,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAVANAGH, Terri",
+        "Votes": 99,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "Ryan": {
+    "title": "Ryan, QLD   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MOORE, Hon John",
+        "Votes": 28356,
+        "Percent": 42.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "YUILE, Fleur",
+        "Votes": 23538,
+        "Percent": 35.4
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "WALTERS, Steve",
+        "Votes": 9015,
+        "Percent": 13.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WOODHOUSE, Daphne",
+        "Votes": 5657,
+        "Percent": 8.5
+      }
+    ]
+  },
+  "Wide Bay": {
+    "title": "Wide Bay, QLD   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "MILLAR, Clarrie",
+        "Votes": 30699,
+        "Percent": 50.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FOLEY, Andrew",
+        "Votes": 22815,
+        "Percent": 37.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PRIMAVERA, Cam",
+        "Votes": 4616,
+        "Percent": 7.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BARRY, Ray",
+        "Votes": 2714,
+        "Percent": 4.5
+      }
+    ]
+  },
+  "Adelaide": {
+    "title": "Adelaide, SA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HURFORD, Hon Chris",
+        "Votes": 31572,
+        "Percent": 48.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PANAGARIS, Peter",
+        "Votes": 22943,
+        "Percent": 35.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WURM, Chris",
+        "Votes": 5857,
+        "Percent": 9.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "STOKES, Bryan",
+        "Votes": 3287,
+        "Percent": 5.1
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "SMITH, Graham",
+        "Votes": 535,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHAHIN, Charles",
+        "Votes": 368,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Barker": {
+    "title": "Barker, SA   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PORTER, James",
+        "Votes": 33296,
+        "Percent": 52.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HENDER, Bill",
+        "Votes": 21221,
+        "Percent": 33.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "VAWSER, Max",
+        "Votes": 3924,
+        "Percent": 6.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TAYLOR, Glenn",
+        "Votes": 3602,
+        "Percent": 5.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PFEUFFER, Harry",
+        "Votes": 884,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GIANNOUKLAS, Tom",
+        "Votes": 451,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BANNISTER, Allan",
+        "Votes": 385,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Bonython": {
+    "title": "Bonython, SA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BLEWETT, Hon Dr Neal",
+        "Votes": 38150,
+        "Percent": 61.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BUECHNER, Bernhard",
+        "Votes": 15115,
+        "Percent": 24.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MAAS, Colin",
+        "Votes": 5887,
+        "Percent": 9.5
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "LINEDALE, Cathryn",
+        "Votes": 2233,
+        "Percent": 3.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LONGHURST, John",
+        "Votes": 825,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "Boothby": {
+    "title": "Boothby, SA   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HALL, Steele",
+        "Votes": 35150,
+        "Percent": 54.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TAYLOR, Jayne",
+        "Votes": 20837,
+        "Percent": 32.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WILLIAMS, Margaret-Ann",
+        "Votes": 6523,
+        "Percent": 10.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "DIETMAN, Clarrie",
+        "Votes": 1930,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ANGOVE, Kevin",
+        "Votes": 494,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "Grey": {
+    "title": "Grey, SA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'NEIL, Lloyd",
+        "Votes": 32005,
+        "Percent": 51.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "REID, Russell",
+        "Votes": 21759,
+        "Percent": 35.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "DIXON-THOMPSON, Robin",
+        "Votes": 4189,
+        "Percent": 6.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JAMES, Chris",
+        "Votes": 3286,
+        "Percent": 5.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEALY, Leonce",
+        "Votes": 480,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "Hawker": {
+    "title": "Hawker, SA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HARVEY, Elizabeth",
+        "Votes": 29560,
+        "Percent": 46.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JACOBS, Kim",
+        "Votes": 28116,
+        "Percent": 43.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PAMOUNT, Graham",
+        "Votes": 4439,
+        "Percent": 6.9
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "DWYER, David",
+        "Votes": 1203,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DRAPER, Keith",
+        "Votes": 719,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Hindmarsh": {
+    "title": "Hindmarsh, SA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SCOTT, John",
+        "Votes": 30782,
+        "Percent": 49.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LEWIS, Barry",
+        "Votes": 23792,
+        "Percent": 37.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MITCHELL, Jim",
+        "Votes": 5239,
+        "Percent": 8.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "JARVIS, Glenn",
+        "Votes": 2074,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MAVROGEORGIS, Sofia",
+        "Votes": 544,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLARKE, Stewart",
+        "Votes": 405,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Kingston": {
+    "title": "Kingston, SA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BILNEY, Gordon",
+        "Votes": 30138,
+        "Percent": 48.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NOBLE, Richard",
+        "Votes": 23997,
+        "Percent": 38.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MILLER, Colin",
+        "Votes": 5819,
+        "Percent": 9.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "LARKIN, Gerald",
+        "Votes": 1874,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PROWSE, Michael",
+        "Votes": 539,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "Makin": {
+    "title": "Makin, SA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DUNCAN, Hon Peter",
+        "Votes": 29361,
+        "Percent": 47.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JOYCE, Neville",
+        "Votes": 24465,
+        "Percent": 39.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KANCK, Sandra",
+        "Votes": 5606,
+        "Percent": 9.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "RICHARDSON, Natalie",
+        "Votes": 1505,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TAPLIN, Kenneth",
+        "Votes": 671,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WUNDERLICH, A",
+        "Votes": 441,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Mayo": {
+    "title": "Mayo, SA   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DOWNER, Alexander",
+        "Votes": 35040,
+        "Percent": 54.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SKORIN, Delia",
+        "Votes": 19685,
+        "Percent": 30.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PEDRICK, Merilyn",
+        "Votes": 6246,
+        "Percent": 9.6
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "GLANVILLE, Wesley",
+        "Votes": 2550,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCGREGOR-DEY, Dorothy",
+        "Votes": 783,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GATER, George",
+        "Votes": 607,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "Port Adelaide": {
+    "title": "Port Adelaide, SA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "YOUNG, Hon Mick",
+        "Votes": 38196,
+        "Percent": 61.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BLUNDELL, Barry",
+        "Votes": 17780,
+        "Percent": 28.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BALL, Derek",
+        "Votes": 3785,
+        "Percent": 6.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "SCARBOROUGH, Rod",
+        "Votes": 1283,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUIK, John",
+        "Votes": 509,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MANHIRE, Bob",
+        "Votes": 418,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROONEY, Brian",
+        "Votes": 294,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "Sturt": {
+    "title": "Sturt, SA   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Hon Ian",
+        "Votes": 32262,
+        "Percent": 51.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROBINS, Phil",
+        "Votes": 23946,
+        "Percent": 38.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COLEMAN, Karen",
+        "Votes": 5191,
+        "Percent": 8.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "SILSBURY, Loma",
+        "Votes": 1050,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MATTHEWS, Graeme",
+        "Votes": 419,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Wakefield": {
+    "title": "Wakefield, SA   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ANDREW, Neil",
+        "Votes": 36503,
+        "Percent": 55.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STEPHENS, Susan",
+        "Votes": 21592,
+        "Percent": 33.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "ADAMS, Bill",
+        "Votes": 3826,
+        "Percent": 5.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BARLOW, Barbara",
+        "Votes": 2683,
+        "Percent": 4.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HAUSLER, Anne",
+        "Votes": 757,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "Brand": {
+    "title": "Brand, WA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FATIN, Wendy",
+        "Votes": 32135,
+        "Percent": 52.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MASTERS, Bernie",
+        "Votes": 21985,
+        "Percent": 35.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WILLIS, John",
+        "Votes": 4368,
+        "Percent": 7.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BASS, Peter",
+        "Votes": 3091,
+        "Percent": 5.0
+      }
+    ]
+  },
+  "Canning": {
+    "title": "Canning, WA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GEAR, George",
+        "Votes": 29223,
+        "Percent": 49.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JOHNSTON, Ricky",
+        "Votes": 22247,
+        "Percent": 37.4
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "CHAPMAN, Bob",
+        "Votes": 4122,
+        "Percent": 6.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BEADLE, Mark",
+        "Votes": 3909,
+        "Percent": 6.6
+      }
+    ]
+  },
+  "Cowan": {
+    "title": "Cowan, WA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JAKOBSEN, Carolyn",
+        "Votes": 32481,
+        "Percent": 52.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FILING, Paul",
+        "Votes": 27048,
+        "Percent": 43.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BAKER, Neil",
+        "Votes": 2973,
+        "Percent": 4.8
+      }
+    ]
+  },
+  "Curtin": {
+    "title": "Curtin, WA   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ROCHER, Allan",
+        "Votes": 32912,
+        "Percent": 53.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LASKARIS, Philip",
+        "Votes": 20371,
+        "Percent": 33.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BLAKE, Joe",
+        "Votes": 4967,
+        "Percent": 8.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "GILMOUR, John",
+        "Votes": 2942,
+        "Percent": 4.8
+      }
+    ]
+  },
+  "Forrest": {
+    "title": "Forrest, WA   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PROSSER, Geoffrey",
+        "Votes": 27925,
+        "Percent": 44.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "THOMPSON, Gerry",
+        "Votes": 26764,
+        "Percent": 42.2
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "CHAMBERS, Joe",
+        "Votes": 5175,
+        "Percent": 8.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CHURCHES, David",
+        "Votes": 3553,
+        "Percent": 5.6
+      }
+    ]
+  },
+  "Fremantle": {
+    "title": "Fremantle, WA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DAWKINS, Hon John",
+        "Votes": 36646,
+        "Percent": 61.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HOEK, Jenny van den",
+        "Votes": 19487,
+        "Percent": 32.5
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "CLARKE, Jack",
+        "Votes": 3834,
+        "Percent": 6.4
+      }
+    ]
+  },
+  "Kalgoorlie": {
+    "title": "Kalgoorlie, WA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CAMPBELL, Graeme",
+        "Votes": 30841,
+        "Percent": 52.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JOHNSTON, David",
+        "Votes": 21850,
+        "Percent": 37.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "SMALES, Ron",
+        "Votes": 3363,
+        "Percent": 5.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CHULUNG, Frank",
+        "Votes": 2593,
+        "Percent": 4.4
+      }
+    ]
+  },
+  "Moore": {
+    "title": "Moore, WA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BLANCHARD, Allen",
+        "Votes": 33022,
+        "Percent": 53.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CRAWLEY, Jim",
+        "Votes": 23370,
+        "Percent": 38.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "GILL, Geoff",
+        "Votes": 5138,
+        "Percent": 8.4
+      }
+    ]
+  },
+  "O'connor": {
+    "title": "O'connor, WA   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TUCKEY, Wilson",
+        "Votes": 31329,
+        "Percent": 49.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CHANCE, Kimberley",
+        "Votes": 15865,
+        "Percent": 25.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "FLUGGE, Trevor",
+        "Votes": 14632,
+        "Percent": 23.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PEEBLES, Shyama",
+        "Votes": 1503,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "Perth": {
+    "title": "Perth, WA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHARLESWORTH, Dr Richard",
+        "Votes": 34003,
+        "Percent": 55.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAMPBELL, Bob",
+        "Votes": 24494,
+        "Percent": 39.9
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "LISLE, Ted",
+        "Votes": 2857,
+        "Percent": 4.7
+      }
+    ]
+  },
+  "Stirling": {
+    "title": "Stirling, WA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EDWARDS, Ronald",
+        "Votes": 29342,
+        "Percent": 49.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROWN, Bill",
+        "Votes": 24544,
+        "Percent": 41.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BARCLAY, Harvard",
+        "Votes": 2799,
+        "Percent": 4.7
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BEVERIDGE, Malcolm",
+        "Votes": 2345,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUSSELL, Alf",
+        "Votes": 594,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "Swan": {
+    "title": "Swan, WA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BEAZLEY, Hon Kim",
+        "Votes": 32201,
+        "Percent": 54.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KLAPP, Harry",
+        "Votes": 21555,
+        "Percent": 36.5
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BERNARD, Adelia",
+        "Votes": 2750,
+        "Percent": 4.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MOTION, Georgina",
+        "Votes": 2518,
+        "Percent": 4.3
+      }
+    ]
+  },
+  "Tangney": {
+    "title": "Tangney, WA   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SHACK, Peter",
+        "Votes": 33520,
+        "Percent": 52.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MASTERTON, Ray",
+        "Votes": 24599,
+        "Percent": 38.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JEFFREYS, Richard",
+        "Votes": 3610,
+        "Percent": 5.7
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "WITHAM, William",
+        "Votes": 1649,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "Bass": {
+    "title": "Bass, TAS   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SMITH, Warwick",
+        "Votes": 28149,
+        "Percent": 51.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TAYLOR, Richard",
+        "Votes": 23311,
+        "Percent": 42.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PREECE, Michael",
+        "Votes": 2910,
+        "Percent": 5.4
+      }
+    ]
+  },
+  "Braddon": {
+    "title": "Braddon, TAS   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MILES, Christopher",
+        "Votes": 32108,
+        "Percent": 57.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CURRIE, David",
+        "Votes": 23307,
+        "Percent": 42.1
+      }
+    ]
+  },
+  "Denison": {
+    "title": "Denison, TAS   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KERR, Duncan",
+        "Votes": 26732,
+        "Percent": 48.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HODGMAN, Hon Michael",
+        "Votes": 24590,
+        "Percent": 44.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BELL, Robert",
+        "Votes": 4054,
+        "Percent": 7.3
+      }
+    ]
+  },
+  "Franklin": {
+    "title": "Franklin, TAS   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GOODLUCK, Bruce",
+        "Votes": 27725,
+        "Percent": 50.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SHERRY, Nick",
+        "Votes": 22292,
+        "Percent": 40.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HARMSEN, Patsy",
+        "Votes": 5171,
+        "Percent": 9.4
+      }
+    ]
+  },
+  "Lyons": {
+    "title": "Lyons, TAS   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BURR, Max",
+        "Votes": 27645,
+        "Percent": 50.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ADAMS, Hon Dick",
+        "Votes": 22435,
+        "Percent": 41.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HOLLOWAY, Liz",
+        "Votes": 4236,
+        "Percent": 7.8
+      }
+    ]
+  },
+  "Northern Territory": {
+    "title": "Northern Territory, NT   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SNOWDON, Warren",
+        "Votes": 28195,
+        "Percent": 46.9
+      },
+      {
+        "Party": "CLP",
+        "Candidate": "PAROULAKIS, Peter",
+        "Votes": 21668,
+        "Percent": 36.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LIDDLE, Bob",
+        "Votes": 10273,
+        "Percent": 17.1
+      }
+    ]
+  },
+  "Canberra": {
+    "title": "Canberra, ACT   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KELLY, Ros",
+        "Votes": 39175,
+        "Percent": 53.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LOUTTIT, John",
+        "Votes": 23039,
+        "Percent": 31.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ENGLISH, Frances",
+        "Votes": 4712,
+        "Percent": 6.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WARREN, Chris",
+        "Votes": 3060,
+        "Percent": 4.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAINS, Beverley",
+        "Votes": 2015,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FARRELL, John",
+        "Votes": 742,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "Fraser": {
+    "title": "Fraser, ACT   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LANGMORE, John",
+        "Votes": 40616,
+        "Percent": 54.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FARROW, Ian",
+        "Votes": 21767,
+        "Percent": 28.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HAYES, Peter",
+        "Votes": 5412,
+        "Percent": 7.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Gareth",
+        "Votes": 3852,
+        "Percent": 5.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CASLEY-SMITH, Dawn",
+        "Votes": 2050,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'SULLIVAN, Larry",
+        "Votes": 539,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WISE, Kevin",
+        "Votes": 536,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRUNORO, Emile",
+        "Votes": 473,
+        "Percent": 0.6
+      }
+    ]
+  }
+}

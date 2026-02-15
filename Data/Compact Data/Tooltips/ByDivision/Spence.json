@@ -1,0 +1,137 @@
+{
+  "2019": {
+    "title": "Spence, SA   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHAMPION, Nick",
+        "Votes": 51791,
+        "Percent": 51.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BOURNE, Kathleen",
+        "Votes": 26252,
+        "Percent": 25.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JURY, Daniel",
+        "Votes": 7330,
+        "Percent": 7.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "FIEDLER, Ron",
+        "Votes": 7157,
+        "Percent": 7.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HERBERT, Nathan",
+        "Votes": 5473,
+        "Percent": 5.4
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "KUHLMANN, Rita",
+        "Votes": 3626,
+        "Percent": 3.6
+      }
+    ]
+  },
+  "2022": {
+    "title": "Spence, SA   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BURNELL, Matt",
+        "Votes": 46596,
+        "Percent": 43.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LOCK, Shawn",
+        "Votes": 27153,
+        "Percent": 25.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DEEX, David",
+        "Votes": 12052,
+        "Percent": 11.4
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "CHAMPION, Linda",
+        "Votes": 11532,
+        "Percent": 10.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "WARREN, Alvin",
+        "Votes": 7158,
+        "Percent": 6.7
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "BAWDEN, Matilda",
+        "Votes": 1736,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2025": {
+    "title": "Spence, SA   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BURNELL, Matt",
+        "Votes": 49463,
+        "Percent": 44.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WILD, Daniel",
+        "Votes": 20852,
+        "Percent": 18.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SKINNER, Luke",
+        "Votes": 16166,
+        "Percent": 14.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BOTHE, Darryl",
+        "Votes": 10654,
+        "Percent": 9.5
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "BENNETT, John William",
+        "Votes": 4901,
+        "Percent": 4.4
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "MORRELL, Paul Michael",
+        "Votes": 4454,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HANTON, Kym",
+        "Votes": 2749,
+        "Percent": 2.5
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "SMITH, Miranda Joyce",
+        "Votes": 2343,
+        "Percent": 2.1
+      }
+    ]
+  }
+}

@@ -1,0 +1,991 @@
+{
+  "1946": {
+    "title": "Lilley, QLD   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HADLEY, James",
+        "Votes": 32780,
+        "Percent": 45.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Charles",
+        "Votes": 31072,
+        "Percent": 43.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MOCATTA, George",
+        "Votes": 7776,
+        "Percent": 10.9
+      }
+    ]
+  },
+  "1949": {
+    "title": "Lilley, QLD   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WIGHT, Bruce",
+        "Votes": 22488,
+        "Percent": 59.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HADLEY, James",
+        "Votes": 15368,
+        "Percent": 40.6
+      }
+    ]
+  },
+  "1951": {
+    "title": "Lilley, QLD   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WIGHT, Bruce",
+        "Votes": "22945",
+        "Percent": 57.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COLLINGS, Walter",
+        "Votes": "1681",
+        "Percent": 4.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HADLEY, James",
+        "Votes": "15055",
+        "Percent": 37.9
+      }
+    ]
+  },
+  "1954": {
+    "title": "Lilley, QLD   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WIGHT, Bruce",
+        "Votes": "24777",
+        "Percent": 58.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIAMS, Bernard",
+        "Votes": "17824",
+        "Percent": 41.8
+      }
+    ]
+  },
+  "1955": {
+    "title": "Lilley, QLD   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WIGHT, Bruce",
+        "Votes": "23186",
+        "Percent": 58.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MELLOY, Jack",
+        "Votes": "16742",
+        "Percent": 41.9
+      }
+    ]
+  },
+  "1958": {
+    "title": "Lilley, QLD   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WIGHT, Bruce",
+        "Votes": 21272,
+        "Percent": 51.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MELLOY, John",
+        "Votes": 14170,
+        "Percent": 34.3
+      },
+      {
+        "Party": "QLP",
+        "Candidate": "BARNES, Walter",
+        "Votes": 5606,
+        "Percent": 13.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GOLDSTIVER, Mervyn",
+        "Votes": 312,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1961": {
+    "title": "Lilley, QLD   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CAMERON, Donald",
+        "Votes": 20186,
+        "Percent": 46.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WIGHT, Bruce",
+        "Votes": 18755,
+        "Percent": 43.3
+      },
+      {
+        "Party": "QLP",
+        "Candidate": "ANDREWS, Francis",
+        "Votes": 4361,
+        "Percent": 10.1
+      }
+    ]
+  },
+  "1963": {
+    "title": "Lilley, QLD   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "ANDREWS, Francis",
+        "Votes": "3934",
+        "Percent": 8.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CAMERON, Donald",
+        "Votes": "20548",
+        "Percent": 45.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAIRNS, Kevin",
+        "Votes": "20503",
+        "Percent": 45.6
+      }
+    ]
+  },
+  "1966": {
+    "title": "Lilley, QLD   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CAIRNS, Kevin",
+        "Votes": 24001,
+        "Percent": 51.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MELIT, Frank",
+        "Votes": 18695,
+        "Percent": 40.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "LINCOLN, Reginald",
+        "Votes": 3402,
+        "Percent": 7.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROSS, Sarah",
+        "Votes": 334,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1969": {
+    "title": "Lilley, QLD   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DOYLE, Frank",
+        "Votes": 24940,
+        "Percent": 47.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAIRNS, Kevin",
+        "Votes": 23360,
+        "Percent": 44.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "AITKEN, Andrew",
+        "Votes": 4619,
+        "Percent": 8.7
+      }
+    ]
+  },
+  "1972": {
+    "title": "Lilley, QLD   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DOYLE, Francis",
+        "Votes": 25236,
+        "Percent": 47.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAIRNS, Hon Kevin",
+        "Votes": 23555,
+        "Percent": 44.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MORRISSEY, James",
+        "Votes": 2970,
+        "Percent": 5.5
+      },
+      {
+        "Party": "AP",
+        "Candidate": "PROUD, David",
+        "Votes": 1520,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILLIAMS, Ralph",
+        "Votes": 234,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1974": {
+    "title": "Lilley, QLD   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DOYLE, Francis",
+        "Votes": 27974,
+        "Percent": 47.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAIRNS, Hon Kevin",
+        "Votes": 26442,
+        "Percent": 44.9
+      },
+      {
+        "Party": "CP",
+        "Candidate": "POSTLE, Albert",
+        "Votes": 3786,
+        "Percent": 6.4
+      },
+      {
+        "Party": "AP",
+        "Candidate": "WEBB, James",
+        "Votes": 713,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1975": {
+    "title": "Lilley, QLD   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CAIRNS, Hon Kevin",
+        "Votes": 31018,
+        "Percent": 51.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DOYLE, Francis",
+        "Votes": 25142,
+        "Percent": 41.7
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "ADDISON, Peter",
+        "Votes": 4194,
+        "Percent": 6.9
+      }
+    ]
+  },
+  "1977": {
+    "title": "Lilley, QLD   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CAIRNS, Hon Kevin",
+        "Votes": 30542,
+        "Percent": 48.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DARLING, Elaine",
+        "Votes": 24661,
+        "Percent": 39.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MAYNE, Albert",
+        "Votes": 5302,
+        "Percent": 8.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ANDREWS, Francis",
+        "Votes": 1970,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STURGESS, Gary",
+        "Votes": 386,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1980": {
+    "title": "Lilley, QLD   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DARLING, Elaine",
+        "Votes": 29434,
+        "Percent": 48.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAIRNS, Hon Kevin",
+        "Votes": 28964,
+        "Percent": 47.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HADLEY, Joan",
+        "Votes": 2920,
+        "Percent": 4.8
+      }
+    ]
+  },
+  "1983": {
+    "title": "Lilley, QLD   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DARLING, Elaine",
+        "Votes": 35350,
+        "Percent": 57.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ANDERSON, Walter",
+        "Votes": 24249,
+        "Percent": 39.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PAUL, Gael",
+        "Votes": 1779,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CATIP, Anthony",
+        "Votes": 375,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1984": {
+    "title": "Lilley, QLD   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DARLING, Elaine",
+        "Votes": 33348,
+        "Percent": 54.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PARMINTER, Ian",
+        "Votes": 15102,
+        "Percent": 24.7
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "FREW, John",
+        "Votes": 11958,
+        "Percent": 19.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CATIP, Anthony",
+        "Votes": 821,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "1987": {
+    "title": "Lilley, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DARLING, Elaine",
+        "Votes": 36248,
+        "Percent": 57.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GATES, John",
+        "Votes": 17181,
+        "Percent": 27.2
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BROWN, Andrew",
+        "Votes": 9842,
+        "Percent": 15.6
+      }
+    ]
+  },
+  "1990": {
+    "title": "Lilley, QLD   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DARLING, Elaine",
+        "Votes": 32453,
+        "Percent": 50.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NANKERVIS, Ronald",
+        "Votes": 22644,
+        "Percent": 34.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROWLAND, Elizabeth",
+        "Votes": 7023,
+        "Percent": 10.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "PURTILL, Steve",
+        "Votes": 2217,
+        "Percent": 3.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RILEY, Dave",
+        "Votes": 557,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1993": {
+    "title": "Lilley, QLD   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "MCDONALD, Graham",
+        "Votes": "844",
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DENNISON, Cyril",
+        "Votes": "549",
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COATES, Andrew",
+        "Votes": "492",
+        "Percent": 0.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SWAN, Wayne",
+        "Votes": "36960",
+        "Percent": 49.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ANDREWS, Frank",
+        "Votes": "339",
+        "Percent": 0.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SMITH, Caroline",
+        "Votes": "3044",
+        "Percent": 4.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "FOGGO, Doug",
+        "Votes": "2738",
+        "Percent": 3.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LEVERITT, Bill",
+        "Votes": "26715",
+        "Percent": 36.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RIELLY, Michelle",
+        "Votes": "2333",
+        "Percent": 3.2
+      }
+    ]
+  },
+  "1996": {
+    "title": "Lilley, QLD   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GRACE, Elizabeth",
+        "Votes": 36053,
+        "Percent": 46.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SWAN, Wayne",
+        "Votes": 33765,
+        "Percent": 43.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HIPWOOD, Michael",
+        "Votes": 5145,
+        "Percent": 6.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CLOTHIER, Noel",
+        "Votes": 2221,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BERTWISTLE, Daryl",
+        "Votes": 796,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BECKETT, Gloria",
+        "Votes": 210,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1998": {
+    "title": "Lilley, QLD   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SWAN, Wayne",
+        "Votes": 35617,
+        "Percent": 45.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GRACE, Elizabeth",
+        "Votes": 30185,
+        "Percent": 38.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BRAY, Warren",
+        "Votes": 6702,
+        "Percent": 8.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FRASER, Kirsty",
+        "Votes": 3863,
+        "Percent": 4.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MEEHAN, Sue",
+        "Votes": 1785,
+        "Percent": 2.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "O]KEEFFE, Gerard",
+        "Votes": 711,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2001": {
+    "title": "Lilley, QLD   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SWAN, Wayne",
+        "Votes": 37713,
+        "Percent": 47.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ROSS, David",
+        "Votes": 31855,
+        "Percent": 39.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCDONOUGH, Rod",
+        "Votes": 4565,
+        "Percent": 5.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MEEHAN, Sue",
+        "Votes": 3011,
+        "Percent": 3.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BOCQUEE, Pierre",
+        "Votes": 2914,
+        "Percent": 3.6
+      }
+    ]
+  },
+  "2004": {
+    "title": "Lilley, QLD   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SWAN, Wayne",
+        "Votes": 40234,
+        "Percent": 48.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BOULTON, Alan",
+        "Votes": 33902,
+        "Percent": 41.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MEEHAN, Sue",
+        "Votes": 4630,
+        "Percent": 5.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HILL, Brad",
+        "Votes": 2314,
+        "Percent": 2.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FORSYTH, Dawn",
+        "Votes": 1230,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "2007": {
+    "title": "Lilley, QLD   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SWAN, Wayne",
+        "Votes": 43058,
+        "Percent": 51.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCCONNEL, Scott",
+        "Votes": 31944,
+        "Percent": 38.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KEAN-HAMMERSON, Simon",
+        "Votes": 5654,
+        "Percent": 6.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "GRAY, Karen",
+        "Votes": 1376,
+        "Percent": 1.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CLUSE, Jennifer",
+        "Votes": 1015,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLARK, Aubrey",
+        "Votes": 455,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2010": {
+    "title": "Lilley, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "MCGARVIE, Rod",
+        "Votes": 35835,
+        "Percent": 41.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SWAN, Hon Wayne",
+        "Votes": 35724,
+        "Percent": 41.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JEREMIJENKO, Andrew",
+        "Votes": 10579,
+        "Percent": 12.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HERSCHELL, Andrew",
+        "Votes": 2696,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CROWHURST, Douglas",
+        "Votes": 2111,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "2013": {
+    "title": "Lilley, QLD   2013",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "MCGARVIE, Rod",
+        "Votes": 37232,
+        "Percent": 41.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SWAN, Hon Wayne",
+        "Votes": 36228,
+        "Percent": 40.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FORSTER, Nic",
+        "Votes": 6908,
+        "Percent": 7.7
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "FIGUEROA, Benedict",
+        "Votes": 6193,
+        "Percent": 6.9
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "RYAN, James",
+        "Votes": 1899,
+        "Percent": 2.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "VINCENT, Allan",
+        "Votes": 1297,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CONTARINO, Nick",
+        "Votes": 344,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2016": {
+    "title": "Lilley, QLD   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SWAN, Hon Wayne",
+        "Votes": 41819,
+        "Percent": 43.5
+      },
+      {
+        "Party": "LNP",
+        "Candidate": "KINGSTON, David",
+        "Votes": 37545,
+        "Percent": 39.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "OGDEN, Claire",
+        "Votes": 11137,
+        "Percent": 11.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HALL, Sharan",
+        "Votes": 3451,
+        "Percent": 3.6
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "HOLMICK, Simon",
+        "Votes": 2202,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "2019": {
+    "title": "Lilley, QLD   2019",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "CARSWELL, Brad",
+        "Votes": 39392,
+        "Percent": 40.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WELLS, Anika",
+        "Votes": 34434,
+        "Percent": 35.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MEYER, John",
+        "Votes": 13539,
+        "Percent": 14.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "BELL-HENSELIN, Tracey",
+        "Votes": 5165,
+        "Percent": 5.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MCCLAER, David",
+        "Votes": 2177,
+        "Percent": 2.3
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "COLES, Don",
+        "Votes": 1155,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CROOK, Mike",
+        "Votes": 743,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2022": {
+    "title": "Lilley, QLD   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WELLS, Anika",
+        "Votes": 41424,
+        "Percent": 41.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LOBO, Vivian",
+        "Votes": 29530,
+        "Percent": 29.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "STEVENS, Melissa",
+        "Votes": 16916,
+        "Percent": 17.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "WILDE, Michelle",
+        "Votes": 4027,
+        "Percent": 4.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HOOGLAND, Gerardine",
+        "Votes": 3320,
+        "Percent": 3.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "FRESHWATER, Daniel",
+        "Votes": 2412,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "MCGRATH, Stephen",
+        "Votes": 1378,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2025": {
+    "title": "Lilley, QLD   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WELLS, Anika",
+        "Votes": 48582,
+        "Percent": 46.1
+      },
+      {
+        "Party": "LNP",
+        "Candidate": "WASHINGTON, Kimberley",
+        "Votes": 29205,
+        "Percent": 27.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "STEVENS, Melissa",
+        "Votes": 17294,
+        "Percent": 16.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "McKAY, Michelle",
+        "Votes": 4485,
+        "Percent": 4.3
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "MORRISON, Joshua",
+        "Votes": 3128,
+        "Percent": 3.0
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "DENARO, Alan",
+        "Votes": 2746,
+        "Percent": 2.6
+      }
+    ]
+  }
+}

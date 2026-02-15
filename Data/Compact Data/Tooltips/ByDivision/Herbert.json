@@ -1,0 +1,1159 @@
+{
+  "1946": {
+    "title": "Herbert, QLD   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EDMONDS, William",
+        "Votes": 28246,
+        "Percent": 46.0
+      },
+      {
+        "Party": "CP",
+        "Candidate": "ROBERTS, Lloyd",
+        "Votes": 20804,
+        "Percent": 33.9
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "HENRY, John",
+        "Votes": 9404,
+        "Percent": 15.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POLLARD, Joseph",
+        "Votes": 1668,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCNAMEE, Alexander",
+        "Votes": 1236,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "1949": {
+    "title": "Herbert, QLD   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EDMONDS, William",
+        "Votes": 17395,
+        "Percent": 49.4
+      },
+      {
+        "Party": "CP",
+        "Candidate": "JEFFREY, Douglas",
+        "Votes": 15973,
+        "Percent": 45.4
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "HENDERSON, James",
+        "Votes": 1847,
+        "Percent": 5.2
+      }
+    ]
+  },
+  "1951": {
+    "title": "Herbert, QLD   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EDMONDS, William",
+        "Votes": "19445",
+        "Percent": 54.1
+      },
+      {
+        "Party": "CP",
+        "Candidate": "JEFFREY, Douglas",
+        "Votes": "15332",
+        "Percent": 42.7
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "PHELAN, Gwendoline",
+        "Votes": "1160",
+        "Percent": 3.2
+      }
+    ]
+  },
+  "1954": {
+    "title": "Herbert, QLD   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EDMONDS, William",
+        "Votes": "20894",
+        "Percent": 55.8
+      },
+      {
+        "Party": "CP",
+        "Candidate": "PURDIE, Frederick",
+        "Votes": "15239",
+        "Percent": 40.7
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "JONES, Claude",
+        "Votes": "1323",
+        "Percent": 3.5
+      }
+    ]
+  },
+  "1955": {
+    "title": "Herbert, QLD   1955",
+    "rows": [
+      {
+        "Party": "CPA",
+        "Candidate": "BISHOP, Francis",
+        "Votes": "2416",
+        "Percent": 6.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EDMONDS, William",
+        "Votes": "18825",
+        "Percent": 50.7
+      },
+      {
+        "Party": "CP",
+        "Candidate": "WHITE, Arnold",
+        "Votes": "15885",
+        "Percent": 42.8
+      }
+    ]
+  },
+  "1958": {
+    "title": "Herbert, QLD   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MURRAY, John",
+        "Votes": 16669,
+        "Percent": 42.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EDMONDS, William",
+        "Votes": 16249,
+        "Percent": 41.5
+      },
+      {
+        "Party": "QLP",
+        "Candidate": "BODERO, Victor",
+        "Votes": 5496,
+        "Percent": 14.1
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "FAY, Hugh",
+        "Votes": 702,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "1961": {
+    "title": "Herbert, QLD   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HARDING, Ted",
+        "Votes": 20839,
+        "Percent": 49.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MURRAY, John",
+        "Votes": 18296,
+        "Percent": 43.1
+      },
+      {
+        "Party": "QLP",
+        "Candidate": "BODERO, Victor",
+        "Votes": 2181,
+        "Percent": 5.1
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "BISHOP, Francis",
+        "Votes": 1171,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "1963": {
+    "title": "Herbert, QLD   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "DORNEY, Kiernan",
+        "Votes": "8410",
+        "Percent": 18.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HARDING, Ted",
+        "Votes": "21062",
+        "Percent": 46.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "POPE, Roy",
+        "Votes": "14805",
+        "Percent": 32.7
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "BISHOP, Francis",
+        "Votes": "1063",
+        "Percent": 2.3
+      }
+    ]
+  },
+  "1966": {
+    "title": "Herbert, QLD   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HARDING, Ted",
+        "Votes": 22212,
+        "Percent": 45.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BONNETT, Robert",
+        "Votes": 18721,
+        "Percent": 38.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DORNEY, Kiernan",
+        "Votes": 8053,
+        "Percent": 16.4
+      }
+    ]
+  },
+  "1969": {
+    "title": "Herbert, QLD   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HARDING, Ted",
+        "Votes": 21318,
+        "Percent": 46.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BONNETT, Robert",
+        "Votes": 19738,
+        "Percent": 42.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DORNEY, Kiernan",
+        "Votes": 5181,
+        "Percent": 11.2
+      }
+    ]
+  },
+  "1972": {
+    "title": "Herbert, QLD   1972",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BONNETT, Robert",
+        "Votes": 22601,
+        "Percent": 44.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SWEENEY, Fabian",
+        "Votes": 21873,
+        "Percent": 43.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DORNEY, Kiernan",
+        "Votes": 4719,
+        "Percent": 9.3
+      },
+      {
+        "Party": "AP",
+        "Candidate": "WEBER, Leonard",
+        "Votes": 1311,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "1974": {
+    "title": "Herbert, QLD   1974",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BONNETT, Robert",
+        "Votes": 30908,
+        "Percent": 53.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROCKETT, John",
+        "Votes": 25712,
+        "Percent": 44.2
+      },
+      {
+        "Party": "AP",
+        "Candidate": "WEBER, Leonard",
+        "Votes": 1601,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "1975": {
+    "title": "Herbert, QLD   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BONNETT, Robert",
+        "Votes": 34620,
+        "Percent": 58.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROCKETT, John",
+        "Votes": 25096,
+        "Percent": 42.0
+      }
+    ]
+  },
+  "1977": {
+    "title": "Herbert, QLD   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LINDSAY, Ted",
+        "Votes": 22668,
+        "Percent": 37.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DEAN, Gordon",
+        "Votes": 20559,
+        "Percent": 33.5
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "ARNOLD, Charles",
+        "Votes": 12357,
+        "Percent": 20.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KIPPING, Kenneth",
+        "Votes": 4799,
+        "Percent": 7.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WELLS, Grahame",
+        "Votes": 418,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FINLAY, Coral",
+        "Votes": 250,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DUNN, Peter",
+        "Votes": 236,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1980": {
+    "title": "Herbert, QLD   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DEAN, Gordon",
+        "Votes": 31538,
+        "Percent": 47.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LINDSAY, Ted",
+        "Votes": 30575,
+        "Percent": 46.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LAMB, John",
+        "Votes": 3690,
+        "Percent": 5.6
+      }
+    ]
+  },
+  "1983": {
+    "title": "Herbert, QLD   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LINDSAY, Ted",
+        "Votes": 35368,
+        "Percent": 50.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DEAN, Gordon",
+        "Votes": 23875,
+        "Percent": 33.9
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "AUBREY, John",
+        "Votes": 9562,
+        "Percent": 13.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LAMB, John",
+        "Votes": 1597,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "1984": {
+    "title": "Herbert, QLD   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LINDSAY, Ted",
+        "Votes": 29589,
+        "Percent": 50.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "KIPPIN, Victoria",
+        "Votes": 18602,
+        "Percent": 31.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "THEOFANES, Theo",
+        "Votes": 8326,
+        "Percent": 14.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BRISTOWE-LAMB, Ana",
+        "Votes": 2273,
+        "Percent": 3.9
+      }
+    ]
+  },
+  "1987": {
+    "title": "Herbert, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LINDSAY, Ted",
+        "Votes": 33507,
+        "Percent": 51.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "GOICOECHEA, Jose",
+        "Votes": 18206,
+        "Percent": 27.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PAVEY, Rosemary",
+        "Votes": 10571,
+        "Percent": 16.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SWANTON, Paul",
+        "Votes": 3344,
+        "Percent": 5.1
+      }
+    ]
+  },
+  "1990": {
+    "title": "Herbert, QLD   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LINDSAY, Ted",
+        "Votes": 32166,
+        "Percent": 45.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HAZARD, Peter",
+        "Votes": 17384,
+        "Percent": 24.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "ANDERTON, Rick",
+        "Votes": 12749,
+        "Percent": 18.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PARKER, Colin",
+        "Votes": 7885,
+        "Percent": 11.2
+      }
+    ]
+  },
+  "1993": {
+    "title": "Herbert, QLD   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "HARVEY, Warren",
+        "Votes": "640",
+        "Percent": 0.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "QUICK, Robyn",
+        "Votes": "5374",
+        "Percent": 7.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SETTER, Bill",
+        "Votes": "515",
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PRYOR, Cilla",
+        "Votes": "495",
+        "Percent": 0.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LINDSAY, Ted",
+        "Votes": "31349",
+        "Percent": 40.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PARKER, Col",
+        "Votes": "2848",
+        "Percent": 3.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HAZARD, Peter",
+        "Votes": "24300",
+        "Percent": 31.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KIMBLE, Dave",
+        "Votes": "1771",
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROBINSON, John",
+        "Votes": "10002",
+        "Percent": 12.9
+      }
+    ]
+  },
+  "1996": {
+    "title": "Herbert, QLD   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LINDSAY, Peter",
+        "Votes": 29405,
+        "Percent": 38.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LINDSAY, Hon Ted",
+        "Votes": 27812,
+        "Percent": 36.7
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "KIPPING, Ken",
+        "Votes": 11468,
+        "Percent": 15.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "EDWARDS, Colin",
+        "Votes": 4473,
+        "Percent": 5.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SAILOR, Josephine",
+        "Votes": 1338,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMALLWOOD, David",
+        "Votes": 730,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CALDWELL, Alex",
+        "Votes": 660,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1998": {
+    "title": "Herbert, QLD   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LINDSAY, Peter",
+        "Votes": 30683,
+        "Percent": 39.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LINDSAY, Hon Ted",
+        "Votes": 28588,
+        "Percent": 37.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SWAIN, Mark",
+        "Votes": 10991,
+        "Percent": 14.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SMITH, Althea",
+        "Votes": 1979,
+        "Percent": 2.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SMITH, Rebecca",
+        "Votes": 1747,
+        "Percent": 2.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "EDMISTON, John",
+        "Votes": 948,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STELEY, Elaine",
+        "Votes": 816,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WOODBRIDGE, Pauline",
+        "Votes": 619,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRADLEY, Bob",
+        "Votes": 503,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2001": {
+    "title": "Herbert, QLD   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LINDSAY, Peter",
+        "Votes": 35349,
+        "Percent": 43.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HILL, Jennifer",
+        "Votes": 29897,
+        "Percent": 36.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, Conway",
+        "Votes": 6473,
+        "Percent": 7.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "WEIL, Anthony",
+        "Votes": 5827,
+        "Percent": 7.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HOOLIHAN, Richard",
+        "Votes": 2494,
+        "Percent": 3.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GODDARD, Anne",
+        "Votes": 2205,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "2004": {
+    "title": "Herbert, QLD   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LINDSAY, Peter",
+        "Votes": 38792,
+        "Percent": 49.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PHILLIPS, Anita",
+        "Votes": 28260,
+        "Percent": 36.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "STIRLING, Jenny",
+        "Votes": 3915,
+        "Percent": 5.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "EATON, Cathy",
+        "Votes": 2993,
+        "Percent": 3.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BRENNAN, William",
+        "Votes": 2675,
+        "Percent": 3.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HOOLIHAN, Richard",
+        "Votes": 1025,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MARSDEN, Les",
+        "Votes": 323,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2007": {
+    "title": "Herbert, QLD   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LINDSAY, Hon Peter",
+        "Votes": 37397,
+        "Percent": 45.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COLBRAN, George",
+        "Votes": 35838,
+        "Percent": 43.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "STIRLING, Jenny",
+        "Votes": 4201,
+        "Percent": 5.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "PUNSHON, Michael",
+        "Votes": 1283,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRENNAN, Billy",
+        "Votes": 900,
+        "Percent": 1.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "PAULER, Francis H",
+        "Votes": 748,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THOMPSON, Ben",
+        "Votes": 505,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LYNCH, Garrie J",
+        "Votes": 487,
+        "Percent": 0.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SHERIDAN, Sharon",
+        "Votes": 476,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2010": {
+    "title": "Herbert, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "JONES, Ewen",
+        "Votes": 36086,
+        "Percent": 45.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MOONEY, Tony",
+        "Votes": 31729,
+        "Percent": 40.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RUBENACH, Mike",
+        "Votes": 6995,
+        "Percent": 8.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "PUNSHON, Michael",
+        "Votes": 4208,
+        "Percent": 5.3
+      }
+    ]
+  },
+  "2013": {
+    "title": "Herbert, QLD   2013",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "JONES, Ewen",
+        "Votes": 36952,
+        "Percent": 43.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O\u0092TOOLE, Cathy",
+        "Votes": 25051,
+        "Percent": 29.4
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "BREWSTER, Martin",
+        "Votes": 7573,
+        "Percent": 8.9
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "WALKER, Bronwyn",
+        "Votes": 6890,
+        "Percent": 8.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HAMILTON, Gail",
+        "Votes": 4463,
+        "Percent": 5.2
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "GEORGE, Costa",
+        "Votes": 1576,
+        "Percent": 1.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "PUNSHON, Michael",
+        "Votes": 1106,
+        "Percent": 1.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MOIR, Steve",
+        "Votes": 710,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MAROLLA, Nino",
+        "Votes": 549,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BELL, Margaret",
+        "Votes": 383,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2016": {
+    "title": "Herbert, QLD   2016",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "JONES, Ewen",
+        "Votes": 31361,
+        "Percent": 35.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'TOOLE, Cathy",
+        "Votes": 26900,
+        "Percent": 30.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "VIRGO, Geoff",
+        "Votes": 11950,
+        "Percent": 13.5
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "DWYER, Colin",
+        "Votes": 6070,
+        "Percent": 6.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TUBMAN, Wendy",
+        "Votes": 5533,
+        "Percent": 6.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "PUNSHON, Michael",
+        "Votes": 3175,
+        "Percent": 3.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RAFFIN, Aaron",
+        "Votes": 1937,
+        "Percent": 2.2
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "HARRIS, David",
+        "Votes": 1096,
+        "Percent": 1.2
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "BREWSTER, Martin",
+        "Votes": 315,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2019": {
+    "title": "Herbert, QLD   2019",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "THOMPSON, Phillip",
+        "Votes": 34112,
+        "Percent": 37.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'TOOLE, Cathy",
+        "Votes": 23393,
+        "Percent": 25.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "LOHSE, Amy",
+        "Votes": 10189,
+        "Percent": 11.1
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "RADECK, Nanette",
+        "Votes": 9007,
+        "Percent": 9.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BLACKADDER, Sam",
+        "Votes": 6721,
+        "Percent": 7.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "DOWLING, Greg",
+        "Votes": 5239,
+        "Percent": 5.7
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "DURANT, Tamara",
+        "Votes": 1671,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "SEVERNS, Mackenzie",
+        "Votes": 1585,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "2022": {
+    "title": "Herbert, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "THOMPSON, Phillip",
+        "Votes": 43453,
+        "Percent": 47.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "RING, John",
+        "Votes": 19971,
+        "Percent": 21.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HUMPHREYS, Scott",
+        "Votes": 7596,
+        "Percent": 8.2
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "HAWKS, Clynton",
+        "Votes": 6472,
+        "Percent": 7.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "PEPE, Diane",
+        "Votes": 4874,
+        "Percent": 5.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EGAN, Angela",
+        "Votes": 2983,
+        "Percent": 3.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "DOWLING, Greg",
+        "Votes": 2383,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "MCMAHON, Toni",
+        "Votes": 1658,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "MCCORMACK, Toni",
+        "Votes": 1359,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLARE, Steven",
+        "Votes": 942,
+        "Percent": 1.0
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "BALLARD, Larna",
+        "Votes": 749,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2025": {
+    "title": "Herbert, QLD   2025",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "THOMPSON, Phillip",
+        "Votes": 47941,
+        "Percent": 48.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ANDREW, Edwina",
+        "Votes": 22646,
+        "Percent": 23.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "EVANS, Chris",
+        "Votes": 9228,
+        "Percent": 9.4
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "CASSON, Darryn",
+        "Votes": 6559,
+        "Percent": 6.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MacDONALD, Ross",
+        "Votes": 5100,
+        "Percent": 5.2
+      },
+      {
+        "Party": "GRPF",
+        "Candidate": "COLE, Felicity",
+        "Votes": 3255,
+        "Percent": 3.3
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "BREWSTER, Martin",
+        "Votes": 2173,
+        "Percent": 2.2
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "ROSER, Felicity",
+        "Votes": 1460,
+        "Percent": 1.5
+      }
+    ]
+  }
+}

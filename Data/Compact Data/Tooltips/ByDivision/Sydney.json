@@ -1,0 +1,994 @@
+{
+  "1969": {
+    "title": "Sydney, NSW   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COPE, James",
+        "Votes": 31822,
+        "Percent": 65.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ROBERTSON, Graham",
+        "Votes": 9805,
+        "Percent": 20.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ORIGLASS, Nicholas",
+        "Votes": 3362,
+        "Percent": 6.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BOYLE, Norma",
+        "Votes": 2381,
+        "Percent": 4.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LEWIS, Donald",
+        "Votes": 623,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHANNELL, Ian",
+        "Votes": 571,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WATSON, Dr Shane",
+        "Votes": 316,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1972": {
+    "title": "Sydney, NSW   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COPE, James",
+        "Votes": 31585,
+        "Percent": 70.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ROBERTSON, Graham",
+        "Votes": 6609,
+        "Percent": 14.7
+      },
+      {
+        "Party": "AP",
+        "Candidate": "SORRENSEN, Allan",
+        "Votes": 3431,
+        "Percent": 7.6
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "AARONS, Laurence",
+        "Votes": 2236,
+        "Percent": 5.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLANCY, Patrick",
+        "Votes": 1062,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "1974": {
+    "title": "Sydney, NSW   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COPE, Hon James",
+        "Votes": 32244,
+        "Percent": 71.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WALLACE, Janis",
+        "Votes": 8876,
+        "Percent": 19.8
+      },
+      {
+        "Party": "AP",
+        "Candidate": "BOVARD, Julia",
+        "Votes": 2598,
+        "Percent": 5.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLANCY, Patrick",
+        "Votes": 1132,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1975": {
+    "title": "Sydney, NSW   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCMAHON, Leslie",
+        "Votes": 31493,
+        "Percent": 66.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WALLACE, Janis",
+        "Votes": 12268,
+        "Percent": 25.8
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "AARONS, Lawrence",
+        "Votes": 2667,
+        "Percent": 5.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GIESEKAM, Merilyn",
+        "Votes": 644,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MACNEIL, Roderick",
+        "Votes": 537,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1977": {
+    "title": "Sydney, NSW   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCMAHON, Leslie",
+        "Votes": 39307,
+        "Percent": 63.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MORRISON, Andrew",
+        "Votes": 14158,
+        "Percent": 22.7
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "BEAVER, Aileen",
+        "Votes": 3935,
+        "Percent": 6.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROBERTS, Judith",
+        "Votes": 3428,
+        "Percent": 5.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLACK, Harry",
+        "Votes": 847,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MAYERS, Naomi",
+        "Votes": 560,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1980": {
+    "title": "Sydney, NSW   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCMAHON, Leslie",
+        "Votes": 36720,
+        "Percent": 62.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "REECE, Cliff",
+        "Votes": 13364,
+        "Percent": 22.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ADAMS, Maxwell",
+        "Votes": 4816,
+        "Percent": 8.1
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MUNDEY, Judith",
+        "Votes": 2850,
+        "Percent": 4.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEIG, Juanita",
+        "Votes": 1477,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1983": {
+    "title": "Sydney, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BALDWIN, Peter",
+        "Votes": 40360,
+        "Percent": 67.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CIBAS, Romualdas",
+        "Votes": 12559,
+        "Percent": 20.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MACLEOD, Jennifer",
+        "Votes": 4286,
+        "Percent": 7.1
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "BEAVER, Aileen",
+        "Votes": 2066,
+        "Percent": 3.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PERCY, James",
+        "Votes": 758,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "1984": {
+    "title": "Sydney, NSW   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BALDWIN, Peter",
+        "Votes": 32412,
+        "Percent": 57.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HARKER-MORTLOCK, James",
+        "Votes": 12847,
+        "Percent": 22.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WALSH, Michael",
+        "Votes": 4600,
+        "Percent": 8.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GOLLAN, Daphne",
+        "Votes": 3118,
+        "Percent": 5.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RADICE, Vito",
+        "Votes": 2219,
+        "Percent": 3.9
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "BEAVER, Aileen",
+        "Votes": 1213,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HAZARD, Noel",
+        "Votes": 290,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1987": {
+    "title": "Sydney, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BALDWIN, Peter",
+        "Votes": 29795,
+        "Percent": 50.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MORKA, Les",
+        "Votes": 14911,
+        "Percent": 25.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MUNDEY, Jack",
+        "Votes": 7918,
+        "Percent": 13.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COLE, William",
+        "Votes": 4916,
+        "Percent": 8.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RADICE, Vito",
+        "Votes": 1457,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1990": {
+    "title": "Sydney, NSW   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BALDWIN, Peter",
+        "Votes": 30648,
+        "Percent": 50.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WOODHILL, Stephen",
+        "Votes": 13047,
+        "Percent": 21.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DAWSON, Bob",
+        "Votes": 7697,
+        "Percent": 12.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HARRIS, Tony",
+        "Votes": 6745,
+        "Percent": 11.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HENDERSON, Ken",
+        "Votes": 1106,
+        "Percent": 1.8
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "DAVERN, John",
+        "Votes": 757,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PONNUSWAMY, Nadar",
+        "Votes": 274,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1993": {
+    "title": "Sydney, NSW   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "HATFIELD, Bronia",
+        "Votes": "639",
+        "Percent": 0.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BERRIMAN, Mark",
+        "Votes": "5513",
+        "Percent": 7.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BALDWIN, Hon Peter",
+        "Votes": "41621",
+        "Percent": 58.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DAWSON, Bob",
+        "Votes": "2805",
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GLEESON, Margaret",
+        "Votes": "1914",
+        "Percent": 2.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FISHER, James",
+        "Votes": "18493",
+        "Percent": 26.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'HALLORAN, Donald",
+        "Votes": "183",
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1996": {
+    "title": "Sydney, NSW   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BALDWIN, Hon Peter",
+        "Votes": 35788,
+        "Percent": 48.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FUSSELL, Peter",
+        "Votes": 20430,
+        "Percent": 27.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NEDERLOF, Paul",
+        "Votes": 6471,
+        "Percent": 8.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BACON, Wendy",
+        "Votes": 5042,
+        "Percent": 6.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "STOCK, Sue",
+        "Votes": 4285,
+        "Percent": 5.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FLETCHER, Karen",
+        "Votes": 584,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUSHBY, Peter",
+        "Votes": 537,
+        "Percent": 0.7
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "PETERSON, Janne",
+        "Votes": 483,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LIPPMANN, Michael",
+        "Votes": 242,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'HALLORAN, Donald",
+        "Votes": 112,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "1998": {
+    "title": "Sydney, NSW   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PLIBERSEK, Tanya",
+        "Votes": 38920,
+        "Percent": 51.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MORROW, Bruce",
+        "Votes": 20899,
+        "Percent": 27.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HANSON, Ben",
+        "Votes": 5092,
+        "Percent": 6.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RYDE, Jenny",
+        "Votes": 4683,
+        "Percent": 6.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HENSLEY, Warren",
+        "Votes": 1917,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ABDURAHMAN, Flavia",
+        "Votes": 1676,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MUNRO, Jenny",
+        "Votes": 591,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PERCY, John",
+        "Votes": 568,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LUNSMANN, Anna",
+        "Votes": 538,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOHERTY, Denis",
+        "Votes": 441,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LIPPMANN, Michael",
+        "Votes": 112,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "Sydney, NSW   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PLIBERSEK, Tanya",
+        "Votes": 32962,
+        "Percent": 44.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PETTETT, Jeffrey",
+        "Votes": 22380,
+        "Percent": 30.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PARKER, Jamie",
+        "Votes": 10924,
+        "Percent": 14.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HICKMAN, Sydney",
+        "Votes": 8093,
+        "Percent": 10.9
+      }
+    ]
+  },
+  "2004": {
+    "title": "Sydney, NSW   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PLIBERSEK, Tanya",
+        "Votes": 36766,
+        "Percent": 44.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SHEVERS, Michael",
+        "Votes": 23419,
+        "Percent": 28.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LEONG, Jenny",
+        "Votes": 17784,
+        "Percent": 21.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BLEICHER, Michelle",
+        "Votes": 1701,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WARD, Jane",
+        "Votes": 1346,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PRICE, Susan",
+        "Votes": 564,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WEBB, Michael",
+        "Votes": 553,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FORD, Adrian",
+        "Votes": 150,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2007": {
+    "title": "Sydney, NSW   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PLIBERSEK, Tanya",
+        "Votes": 37506,
+        "Percent": 49.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ANDERSON, Georgina",
+        "Votes": 20440,
+        "Percent": 26.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LEONG, Jenny",
+        "Votes": 15854,
+        "Percent": 20.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WARD, Jane",
+        "Votes": 979,
+        "Percent": 1.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MATERAZZO, Mayo",
+        "Votes": 874,
+        "Percent": 1.1
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "LEE, John",
+        "Votes": 727,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FORD, Adrian",
+        "Votes": 184,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2010": {
+    "title": "Sydney, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PLIBERSEK, Hon Tanya",
+        "Votes": 34362,
+        "Percent": 43.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WEISS, Gordon",
+        "Votes": 22307,
+        "Percent": 28.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HICKEY, Tony",
+        "Votes": 18852,
+        "Percent": 23.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PATERSON, Brett",
+        "Votes": 1256,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WARD, Jane",
+        "Votes": 1226,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "OWEN, Christopher",
+        "Votes": 718,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOHERTY, Denis",
+        "Votes": 656,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2013": {
+    "title": "Sydney, NSW   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PLIBERSEK, Hon Tanya",
+        "Votes": 40579,
+        "Percent": 46.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "O'CONNOR, Sean",
+        "Votes": 26901,
+        "Percent": 30.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HILES, Dianne",
+        "Votes": 15273,
+        "Percent": 17.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WARD, Jane",
+        "Votes": 1408,
+        "Percent": 1.6
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "KELLY, Timothy",
+        "Votes": 1261,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GARTNER, Leah",
+        "Votes": 791,
+        "Percent": 0.9
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "MASON, Lesley",
+        "Votes": 723,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOYLE, Peter",
+        "Votes": 613,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RZETELSKI, Joanna",
+        "Votes": 602,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2016": {
+    "title": "Sydney, NSW   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PLIBERSEK, Hon Tanya",
+        "Votes": 38449,
+        "Percent": 43.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WINTERS, Geoffrey",
+        "Votes": 25622,
+        "Percent": 29.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ELLSMORE, Sylvie",
+        "Votes": 16537,
+        "Percent": 18.8
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "BERRIMAN, Mark",
+        "Votes": 1497,
+        "Percent": 1.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "FALANGA, Ula",
+        "Votes": 1489,
+        "Percent": 1.7
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "LANNING, Rebecca",
+        "Votes": 1456,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GEISER, Tom",
+        "Votes": 1361,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SPIKE, Kris",
+        "Votes": 606,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOYLE, Peter",
+        "Votes": 500,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TZORAS, Tula",
+        "Votes": 383,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2019": {
+    "title": "Sydney, NSW   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PLIBERSEK, Hon Tanya",
+        "Votes": 46850,
+        "Percent": 49.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MUNRO, Jacqui",
+        "Votes": 25230,
+        "Percent": 26.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "THOMPSON, Matthew",
+        "Votes": 17134,
+        "Percent": 18.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HAMMOND, Aaron",
+        "Votes": 3240,
+        "Percent": 3.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HOLT, Adam",
+        "Votes": 1366,
+        "Percent": 1.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "REDDIN, Rebecca",
+        "Votes": 995,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2022": {
+    "title": "Sydney, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PLIBERSEK, Hon Tanya",
+        "Votes": 52410,
+        "Percent": 50.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SAHAI, Chetan",
+        "Votes": 23732,
+        "Percent": 23.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ANDRUSKA, Alexander",
+        "Votes": 20276,
+        "Percent": 19.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MCALISTER, Ryan",
+        "Votes": 2298,
+        "Percent": 2.3
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "FERGUSON, Ben",
+        "Votes": 1889,
+        "Percent": 1.8
+      },
+      {
+        "Party": "SAll",
+        "Candidate": "CHUTER, Andrew",
+        "Votes": 1518,
+        "Percent": 1.5
+      },
+      {
+        "Party": "ACP",
+        "Candidate": "ZHOU, Wen",
+        "Votes": 1002,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2025": {
+    "title": "Sydney, NSW   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PLIBERSEK, Tanya",
+        "Votes": 59153,
+        "Percent": 55.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "VELEZ, Luc",
+        "Votes": 23162,
+        "Percent": 21.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "XU, Alex",
+        "Votes": 18860,
+        "Percent": 17.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "TORBARAC, Vedran",
+        "Votes": 3698,
+        "Percent": 3.4
+      },
+      {
+        "Party": "SAL",
+        "Candidate": "EVANS, Rachel",
+        "Votes": 2376,
+        "Percent": 2.2
+      }
+    ]
+  }
+}

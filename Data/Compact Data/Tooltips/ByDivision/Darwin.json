@@ -1,0 +1,76 @@
+{
+  "1946": {
+    "title": "Darwin, TAS   1946",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LYONS, Dame Enid",
+        "Votes": 15835,
+        "Percent": 54.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KIRKPATRICK, Harold",
+        "Votes": 13392,
+        "Percent": 45.8
+      }
+    ]
+  },
+  "1949": {
+    "title": "Darwin, TAS   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LYONS, Dame Enid",
+        "Votes": 16455,
+        "Percent": 56.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KIRKPATRICK, Harold",
+        "Votes": 12602,
+        "Percent": 43.4
+      }
+    ]
+  },
+  "1951": {
+    "title": "Darwin, TAS   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "POULTER, Maxwell",
+        "Votes": "9820",
+        "Percent": 32.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FOSTER, Arthur",
+        "Votes": "5171",
+        "Percent": 17.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LUCK, Aubrey",
+        "Votes": "14819",
+        "Percent": 49.7
+      }
+    ]
+  },
+  "1954": {
+    "title": "Darwin, TAS   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LUCK, Aubrey",
+        "Votes": "16447",
+        "Percent": 50.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FOSTER, Arthur",
+        "Votes": "16117",
+        "Percent": 49.5
+      }
+    ]
+  }
+}

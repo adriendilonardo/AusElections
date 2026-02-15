@@ -1,0 +1,799 @@
+{
+  "1946": {
+    "title": "Kalgoorlie, WA   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JOHNSON, Hon Victor",
+        "Votes": 22655,
+        "Percent": 68.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "VINCENT, Victor",
+        "Votes": 10646,
+        "Percent": 32.0
+      }
+    ]
+  },
+  "1949": {
+    "title": "Kalgoorlie, WA   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JOHNSON, Hon Victor",
+        "Votes": 18127,
+        "Percent": 62.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PORTEUS, John",
+        "Votes": 10902,
+        "Percent": 37.6
+      }
+    ]
+  },
+  "1951": {
+    "title": "Kalgoorlie, WA   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JOHNSON, Hon Victor",
+        "Votes": "Unopposed",
+        "Percent": 100.0
+      }
+    ]
+  },
+  "1954": {
+    "title": "Kalgoorlie, WA   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ILLINGWORTH, Harold",
+        "Votes": "8991",
+        "Percent": 34.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JOHNSON, Hon Victor",
+        "Votes": "17130",
+        "Percent": 65.6
+      }
+    ]
+  },
+  "1955": {
+    "title": "Kalgoorlie, WA   1955",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JOHNSON, Hon Victor",
+        "Votes": "17033",
+        "Percent": 61.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ILLINGWORTH, Harold",
+        "Votes": "10844",
+        "Percent": 38.9
+      }
+    ]
+  },
+  "1958": {
+    "title": "Kalgoorlie, WA   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COLLARD, Fred",
+        "Votes": 12519,
+        "Percent": 44.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROWNE, Peter",
+        "Votes": 10337,
+        "Percent": 36.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BERKHOUT, Antonius",
+        "Votes": 3363,
+        "Percent": 11.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ILLINGWORTH, Harold",
+        "Votes": 2056,
+        "Percent": 7.3
+      }
+    ]
+  },
+  "1961": {
+    "title": "Kalgoorlie, WA   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COLLARD, Fred",
+        "Votes": 14231,
+        "Percent": 47.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROWNE, Peter",
+        "Votes": 12850,
+        "Percent": 43.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "JENSEN, George",
+        "Votes": 1578,
+        "Percent": 5.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ILLINGWORTH, Harold",
+        "Votes": 1050,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "1963": {
+    "title": "Kalgoorlie, WA   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "BERKHOUT, Antonius",
+        "Votes": "751",
+        "Percent": 2.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COLLARD, Fred",
+        "Votes": "16180",
+        "Percent": 52.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ARDAGH, James",
+        "Votes": "1328",
+        "Percent": 4.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROWNE, Peter",
+        "Votes": "12668",
+        "Percent": 41.0
+      }
+    ]
+  },
+  "1966": {
+    "title": "Kalgoorlie, WA   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COLLARD, Fred",
+        "Votes": 18393,
+        "Percent": 59.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JONAS, Grahame",
+        "Votes": 10762,
+        "Percent": 34.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SANDS, Geoffrey",
+        "Votes": 1765,
+        "Percent": 5.7
+      }
+    ]
+  },
+  "1969": {
+    "title": "Kalgoorlie, WA   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COLLARD, Fred",
+        "Votes": 23138,
+        "Percent": 59.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SAMSON, James",
+        "Votes": 14064,
+        "Percent": 35.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SANDS, Geoffrey",
+        "Votes": 1983,
+        "Percent": 5.1
+      }
+    ]
+  },
+  "1972": {
+    "title": "Kalgoorlie, WA   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COLLARD, Fred",
+        "Votes": 26648,
+        "Percent": 58.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GLOSTER, Gerald",
+        "Votes": 15837,
+        "Percent": 35.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SANDS, Geoffrey",
+        "Votes": 2801,
+        "Percent": 6.2
+      }
+    ]
+  },
+  "1974": {
+    "title": "Kalgoorlie, WA   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COLLARD, Fred",
+        "Votes": 22925,
+        "Percent": 50.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "COTTER, John",
+        "Votes": 19072,
+        "Percent": 41.9
+      },
+      {
+        "Party": NaN,
+        "Candidate": "KYROS, George",
+        "Votes": 2520,
+        "Percent": 5.5
+      },
+      {
+        "Party": "AP",
+        "Candidate": "KELLY, Ian",
+        "Votes": 555,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JACKSON, James",
+        "Votes": 487,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1975": {
+    "title": "Kalgoorlie, WA   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "COTTER, John",
+        "Votes": 25994,
+        "Percent": 51.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COLLARD, Fred",
+        "Votes": 22734,
+        "Percent": 45.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MILLS, Graham",
+        "Votes": 1538,
+        "Percent": 3.1
+      }
+    ]
+  },
+  "1977": {
+    "title": "Kalgoorlie, WA   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "COTTER, John",
+        "Votes": 27512,
+        "Percent": 49.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CONWAY, Brian",
+        "Votes": 20862,
+        "Percent": 37.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROUTLEY, Edwin",
+        "Votes": 3534,
+        "Percent": 6.3
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "FLETCHER, Squire",
+        "Votes": 2399,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MILLS, Graham",
+        "Votes": 1529,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "1980": {
+    "title": "Kalgoorlie, WA   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "COTTER, Mick",
+        "Votes": 26562,
+        "Percent": 46.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CAMPBELL, Graeme",
+        "Votes": 25845,
+        "Percent": 45.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BUTLER, Trevor",
+        "Votes": 4723,
+        "Percent": 8.3
+      }
+    ]
+  },
+  "1983": {
+    "title": "Kalgoorlie, WA   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CAMPBELL, Graeme",
+        "Votes": 34843,
+        "Percent": 56.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KREPP, Douglas",
+        "Votes": 23069,
+        "Percent": 37.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NANCARROW, Blair",
+        "Votes": 1856,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOSCHETTI, Joseph",
+        "Votes": 1778,
+        "Percent": 2.9
+      }
+    ]
+  },
+  "1984": {
+    "title": "Kalgoorlie, WA   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CAMPBELL, Graeme",
+        "Votes": 27903,
+        "Percent": 51.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KREPP, Douglas",
+        "Votes": 22241,
+        "Percent": 40.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NOURISH, David",
+        "Votes": 2623,
+        "Percent": 4.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MASON, William",
+        "Votes": 1649,
+        "Percent": 3.0
+      }
+    ]
+  },
+  "1987": {
+    "title": "Kalgoorlie, WA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CAMPBELL, Graeme",
+        "Votes": 30841,
+        "Percent": 52.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JOHNSTON, David",
+        "Votes": 21850,
+        "Percent": 37.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "SMALES, Ron",
+        "Votes": 3363,
+        "Percent": 5.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CHULUNG, Frank",
+        "Votes": 2593,
+        "Percent": 4.4
+      }
+    ]
+  },
+  "1990": {
+    "title": "Kalgoorlie, WA   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CAMPBELL, Graeme",
+        "Votes": 29883,
+        "Percent": 49.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CARNICELLI, Louie",
+        "Votes": 19441,
+        "Percent": 32.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COOPER, Vin",
+        "Votes": 4839,
+        "Percent": 8.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CHAPPLE, Robin",
+        "Votes": 3815,
+        "Percent": 6.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "WECKERT, Dascia",
+        "Votes": 1810,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SACINO, Josh",
+        "Votes": 606,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1993": {
+    "title": "Kalgoorlie, WA   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "RIGBY, Byron",
+        "Votes": "723",
+        "Percent": 1.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CAMPBELL, Graeme",
+        "Votes": "35187",
+        "Percent": 54.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CHAPPLE, Robin",
+        "Votes": "2702",
+        "Percent": 4.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GREEN, Don",
+        "Votes": "22406",
+        "Percent": 34.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'KENNY, James",
+        "Votes": "2001",
+        "Percent": 3.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PEEBLES, Shyama",
+        "Votes": "1713",
+        "Percent": 2.7
+      }
+    ]
+  },
+  "1996": {
+    "title": "Kalgoorlie, WA   1996",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "CAMPBELL, Graeme",
+        "Votes": 21895,
+        "Percent": 35.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TAYLOR, Hon Ian",
+        "Votes": 21648,
+        "Percent": 34.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WYATT, Cedric",
+        "Votes": 15144,
+        "Percent": 24.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BOTICA, Deborah",
+        "Votes": 2324,
+        "Percent": 3.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "THACKRAH, David",
+        "Votes": 1318,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "1998": {
+    "title": "Kalgoorlie, WA   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAASE, Barry",
+        "Votes": 19169,
+        "Percent": 28.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BUTSON, Clark",
+        "Votes": 18890,
+        "Percent": 27.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAMPBELL, Graeme",
+        "Votes": 15585,
+        "Percent": 22.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SMITH, Neville",
+        "Votes": 5737,
+        "Percent": 8.4
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "FINLAYSON, Kathy",
+        "Votes": 4088,
+        "Percent": 6.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CHAPPLE, Robin",
+        "Votes": 2899,
+        "Percent": 4.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RICHTER, Dean",
+        "Votes": 1367,
+        "Percent": 2.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "SUGG, Laurie",
+        "Votes": 466,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BURT, Ian",
+        "Votes": 185,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2001": {
+    "title": "Kalgoorlie, WA   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAASE, Barry",
+        "Votes": 28810,
+        "Percent": 42.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BROWNING, Paul",
+        "Votes": 23712,
+        "Percent": 35.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SCOTT, Robin",
+        "Votes": 5818,
+        "Percent": 8.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MILLER, Laurie",
+        "Votes": 2554,
+        "Percent": 3.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HODDY, Don",
+        "Votes": 2383,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUTSON, Clark",
+        "Votes": 1947,
+        "Percent": 2.9
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "MCCUMSTIE, Peter",
+        "Votes": 1379,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Neville",
+        "Votes": 474,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BURT, Ian",
+        "Votes": 447,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PAYNE, Callum",
+        "Votes": 111,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2004": {
+    "title": "Kalgoorlie, WA   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAASE, Barry",
+        "Votes": 29475,
+        "Percent": 45.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STEPHENS, Hon Tom",
+        "Votes": 20691,
+        "Percent": 31.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAMPBELL, Graeme",
+        "Votes": 6654,
+        "Percent": 10.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MUIR, Kado",
+        "Votes": 4101,
+        "Percent": 6.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SCOTT, Robin",
+        "Votes": 1511,
+        "Percent": 2.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "HENDRY, Craig",
+        "Votes": 827,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COOK, Brendon",
+        "Votes": 506,
+        "Percent": 0.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HODDY, Don",
+        "Votes": 496,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THOMAS, Lorraine",
+        "Votes": 318,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROWLAND, Nabil",
+        "Votes": 252,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2007": {
+    "title": "Kalgoorlie, WA   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAASE, Barry",
+        "Votes": 31565,
+        "Percent": 48.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "THIEL, Sharon",
+        "Votes": 26653,
+        "Percent": 40.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CHAPPLE, Robin",
+        "Votes": 4045,
+        "Percent": 6.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MAJOR, Derek",
+        "Votes": 1075,
+        "Percent": 1.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "PATTERSON, Ross",
+        "Votes": 962,
+        "Percent": 1.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ROSE, Ian",
+        "Votes": 820,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BURT, Ian",
+        "Votes": 275,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DALTON, Charles",
+        "Votes": 176,
+        "Percent": 0.3
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "1946": {
+    "title": "Darling, NSW   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLARK, Joseph",
+        "Votes": 27449,
+        "Percent": 60.7
+      },
+      {
+        "Party": "CP",
+        "Candidate": "MCGIRR, John",
+        "Votes": 12229,
+        "Percent": 27.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GLASSOP, Cyril",
+        "Votes": 5533,
+        "Percent": 12.2
+      }
+    ]
+  },
+  "1949": {
+    "title": "Darling, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLARK, Joseph",
+        "Votes": 20843,
+        "Percent": 63.8
+      },
+      {
+        "Party": "CP",
+        "Candidate": "WHYTE, Elson",
+        "Votes": 10348,
+        "Percent": 31.7
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "CONNORS, Cecil",
+        "Votes": 1017,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROBERTS, Madge",
+        "Votes": 450,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1951": {
+    "title": "Darling, NSW   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLARK, Joseph",
+        "Votes": "22610",
+        "Percent": 68.8
+      },
+      {
+        "Party": "CP",
+        "Candidate": "WHYTE, Elson",
+        "Votes": "10253",
+        "Percent": 31.2
+      }
+    ]
+  },
+  "1954": {
+    "title": "Darling, NSW   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLARK, Joseph",
+        "Votes": "23875",
+        "Percent": 70.5
+      },
+      {
+        "Party": "CP",
+        "Candidate": "DAWSON, Rodan",
+        "Votes": "10012",
+        "Percent": 29.5
+      }
+    ]
+  },
+  "1955": {
+    "title": "Darling, NSW   1955",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLARK, Joseph",
+        "Votes": "23428",
+        "Percent": 67.5
+      },
+      {
+        "Party": "CP",
+        "Candidate": "MARTIN, Ewen",
+        "Votes": "11282",
+        "Percent": 32.5
+      }
+    ]
+  },
+  "1958": {
+    "title": "Darling, NSW   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLARK, Joseph",
+        "Votes": 24815,
+        "Percent": 70.5
+      },
+      {
+        "Party": "CP",
+        "Candidate": "WHYTE, Elson",
+        "Votes": 9055,
+        "Percent": 25.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'DONNELL, Francis",
+        "Votes": 1349,
+        "Percent": 3.8
+      }
+    ]
+  },
+  "1961": {
+    "title": "Darling, NSW   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLARK, Joseph",
+        "Votes": 25235,
+        "Percent": 72.6
+      },
+      {
+        "Party": "CP",
+        "Candidate": "DAWSON, Rodan",
+        "Votes": 9537,
+        "Percent": 27.4
+      }
+    ]
+  },
+  "1963": {
+    "title": "Darling, NSW   1963",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLARK, Joseph",
+        "Votes": "23352",
+        "Percent": 67.4
+      },
+      {
+        "Party": "CP",
+        "Candidate": "HARDING, Frederick",
+        "Votes": "11299",
+        "Percent": 32.6
+      }
+    ]
+  },
+  "1966": {
+    "title": "Darling, NSW   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLARK, Joseph",
+        "Votes": 20848,
+        "Percent": 60.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CONNELL, Allan",
+        "Votes": 13714,
+        "Percent": 39.7
+      }
+    ]
+  },
+  "1969": {
+    "title": "Darling, NSW   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FITZPATRICK, John",
+        "Votes": 23168,
+        "Percent": 57.5
+      },
+      {
+        "Party": "CP",
+        "Candidate": "OVERTON, Maxwell",
+        "Votes": 9474,
+        "Percent": 23.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BONNEY, Jack",
+        "Votes": 7650,
+        "Percent": 19.0
+      }
+    ]
+  },
+  "1972": {
+    "title": "Darling, NSW   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FITZPATRICK, John",
+        "Votes": 25310,
+        "Percent": 61.0
+      },
+      {
+        "Party": "CP",
+        "Candidate": "OVERTON, Maxwell",
+        "Votes": 9360,
+        "Percent": 22.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DONOHOE, James",
+        "Votes": 4029,
+        "Percent": 9.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DARCY, John",
+        "Votes": 2826,
+        "Percent": 6.8
+      }
+    ]
+  },
+  "1974": {
+    "title": "Darling, NSW   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FITZPATRICK, John",
+        "Votes": 26188,
+        "Percent": 59.6
+      },
+      {
+        "Party": "CP",
+        "Candidate": "OVERTON, Maxwell",
+        "Votes": 10750,
+        "Percent": 24.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "THORNTON, William",
+        "Votes": 5143,
+        "Percent": 11.7
+      },
+      {
+        "Party": "AP",
+        "Candidate": "FARRY, Peter",
+        "Votes": 1871,
+        "Percent": 4.3
+      }
+    ]
+  },
+  "1975": {
+    "title": "Darling, NSW   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FITZPATRICK, John",
+        "Votes": 25579,
+        "Percent": 56.8
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "MITCHELL, Walter",
+        "Votes": 18874,
+        "Percent": 41.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MILLER, Walter",
+        "Votes": 603,
+        "Percent": 1.3
+      }
+    ]
+  }
+}

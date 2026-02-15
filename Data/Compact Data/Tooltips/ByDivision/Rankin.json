@@ -1,0 +1,671 @@
+{
+  "1984": {
+    "title": "Rankin, QLD   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BEDDALL, David",
+        "Votes": 23820,
+        "Percent": 46.7
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "JAMIESON, Cec",
+        "Votes": 16998,
+        "Percent": 33.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MACKENZIE-FORBES, Bruce",
+        "Votes": 7324,
+        "Percent": 14.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PEEREBOOM, Bev",
+        "Votes": 2880,
+        "Percent": 5.6
+      }
+    ]
+  },
+  "1987": {
+    "title": "Rankin, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BEDDALL, David",
+        "Votes": 29118,
+        "Percent": 49.2
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "WALSH, Gerard",
+        "Votes": 13256,
+        "Percent": 22.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PATTERSON, John",
+        "Votes": 7769,
+        "Percent": 13.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "JORGENSON, Peter",
+        "Votes": 5708,
+        "Percent": 9.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COPE, Miriam",
+        "Votes": 2599,
+        "Percent": 4.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DUNNE, Michael",
+        "Votes": 670,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAVANAGH, Terri",
+        "Votes": 99,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "1990": {
+    "title": "Rankin, QLD   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BEDDALL, David",
+        "Votes": 31782,
+        "Percent": 46.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MILES, John",
+        "Votes": 16014,
+        "Percent": 23.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "FRASER, Huan",
+        "Votes": 11065,
+        "Percent": 16.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HOSKINS, John",
+        "Votes": 7512,
+        "Percent": 10.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WHITEMAN, Richard",
+        "Votes": 1865,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CRISP, Cheryl",
+        "Votes": 465,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1993": {
+    "title": "Rankin, QLD   1993",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "SCHWARZ, Marian",
+        "Votes": "5051",
+        "Percent": 7.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BELL, Debbie",
+        "Votes": "419",
+        "Percent": 0.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BEDDALL, Hon David",
+        "Votes": "32157",
+        "Percent": 45.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WERBA, Susan",
+        "Votes": "3106",
+        "Percent": 4.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ATKINSON, Sallyanne",
+        "Votes": "25635",
+        "Percent": 36.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NIELSEN, Richard",
+        "Votes": "1775",
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "REID, Ian",
+        "Votes": "1722",
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "REAVES, Lester",
+        "Votes": "1290",
+        "Percent": 1.8
+      }
+    ]
+  },
+  "1996": {
+    "title": "Rankin, QLD   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BEDDALL, Hon David",
+        "Votes": 31869,
+        "Percent": 45.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SCOTT, Amanda",
+        "Votes": 29046,
+        "Percent": 41.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DICKSON, Alan",
+        "Votes": 6050,
+        "Percent": 8.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NIELSEN, Richard",
+        "Votes": 1977,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BELL, Rosemary",
+        "Votes": 976,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NGUYEN, Xuan",
+        "Votes": 899,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "1998": {
+    "title": "Rankin, QLD   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EMERSON, Dr Craig",
+        "Votes": 32924,
+        "Percent": 47.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BUI, Cuong",
+        "Votes": 20736,
+        "Percent": 29.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "FROOD, Ron",
+        "Votes": 8749,
+        "Percent": 12.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HERNANDEZ, Robert",
+        "Votes": 2923,
+        "Percent": 4.2
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "HAGE, Ann",
+        "Votes": 1556,
+        "Percent": 2.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TINTEREN, Sara van",
+        "Votes": 1536,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARNES, Lorraine",
+        "Votes": 456,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NORTON, Brian",
+        "Votes": 456,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2001": {
+    "title": "Rankin, QLD   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EMERSON, Dr Craig",
+        "Votes": 36875,
+        "Percent": 49.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WOOD, Paul",
+        "Votes": 27524,
+        "Percent": 36.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MACKENZIE, Mark",
+        "Votes": 4724,
+        "Percent": 6.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DOBSON, Darryl",
+        "Votes": 3572,
+        "Percent": 4.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LLOYD, Daniel",
+        "Votes": 1875,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "2004": {
+    "title": "Rankin, QLD   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EMERSON, Dr Craig",
+        "Votes": 34471,
+        "Percent": 43.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CREIGHTON, Wendy",
+        "Votes": 28819,
+        "Percent": 36.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POWER, Darren",
+        "Votes": 5134,
+        "Percent": 6.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "WILSON, Ross",
+        "Votes": 4036,
+        "Percent": 5.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HINTON, Julian",
+        "Votes": 2422,
+        "Percent": 3.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HANDS, Margaret",
+        "Votes": 1601,
+        "Percent": 2.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BOYD, Mike",
+        "Votes": 1187,
+        "Percent": 1.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SPORLE, Catherine",
+        "Votes": 653,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MEYERS, Robert",
+        "Votes": 158,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2007": {
+    "title": "Rankin, QLD   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EMERSON, Dr Craig",
+        "Votes": 44858,
+        "Percent": 56.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "COULSON, Pete",
+        "Votes": 27299,
+        "Percent": 34.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COTTER, Neil",
+        "Votes": 3773,
+        "Percent": 4.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MANEN, Bert Van",
+        "Votes": 2827,
+        "Percent": 3.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "EL-MEREBI, Salam",
+        "Votes": 590,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TJIA, Liam",
+        "Votes": 463,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MEYERS, Robert",
+        "Votes": 273,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "Rankin, QLD   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EMERSON, Hon Dr Craig",
+        "Votes": 36090,
+        "Percent": 45.2
+      },
+      {
+        "Party": "LNP",
+        "Candidate": "SMITH, Luke",
+        "Votes": 29652,
+        "Percent": 37.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COTTER, Neil",
+        "Votes": 8956,
+        "Percent": 11.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "TODD, Alexandra",
+        "Votes": 5231,
+        "Percent": 6.5
+      }
+    ]
+  },
+  "2013": {
+    "title": "Rankin, QLD   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHALMERS, Dr Jim",
+        "Votes": 35098,
+        "Percent": 42.2
+      },
+      {
+        "Party": "LNP",
+        "Candidate": "LIN, David",
+        "Votes": 30260,
+        "Percent": 36.4
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "ROGAN, William",
+        "Votes": 9228,
+        "Percent": 11.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COTTER, Neil",
+        "Votes": 4405,
+        "Percent": 5.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LAWRIE, Chris",
+        "Votes": 2514,
+        "Percent": 3.0
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "CLAYDON, Chris",
+        "Votes": 1697,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "2016": {
+    "title": "Rankin, QLD   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHALMERS, Dr Jim",
+        "Votes": 42147,
+        "Percent": 49.3
+      },
+      {
+        "Party": "LNP",
+        "Candidate": "OSTAPOVITCH, Freya",
+        "Votes": 24455,
+        "Percent": 28.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COTTER, Neil",
+        "Votes": 5373,
+        "Percent": 6.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LAWRIE, Christopher",
+        "Votes": 5011,
+        "Percent": 5.9
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "DAVIES, Ric",
+        "Votes": 3513,
+        "Percent": 4.1
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "HOLLEY, Shane",
+        "Votes": 2874,
+        "Percent": 3.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HODGES, Jeffrey",
+        "Votes": 2050,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "2019": {
+    "title": "Rankin, QLD   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHALMERS, Dr Jim",
+        "Votes": 35156,
+        "Percent": 41.4
+      },
+      {
+        "Party": "LNP",
+        "Candidate": "PATTISON, Clinton",
+        "Votes": 26608,
+        "Percent": 31.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COTTER, Neil",
+        "Votes": 7709,
+        "Percent": 9.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "SCHNEIDER, Jesse",
+        "Votes": 7261,
+        "Percent": 8.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "REDDY, Shaymal",
+        "Votes": 3134,
+        "Percent": 3.7
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "DAVIES, Ric",
+        "Votes": 2379,
+        "Percent": 2.8
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "ANDREWS, Peter",
+        "Votes": 1593,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MOHAMMAD, Yusuf",
+        "Votes": 1024,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2022": {
+    "title": "Rankin, QLD   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHALMERS, Dr Jim",
+        "Votes": 38596,
+        "Percent": 44.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DARWEN, Paul",
+        "Votes": 25478,
+        "Percent": 29.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COTTER, Neil",
+        "Votes": 9394,
+        "Percent": 10.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "COOKSON, Glen",
+        "Votes": 7006,
+        "Percent": 8.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "CRANK, Jeff",
+        "Votes": 5064,
+        "Percent": 5.8
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "CLARKE, Suzanne",
+        "Votes": 2284,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "2025": {
+    "title": "Rankin, QLD   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHALMERS, Jim",
+        "Votes": 45303,
+        "Percent": 49.4
+      },
+      {
+        "Party": "LNP",
+        "Candidate": "DARWEN, Paul",
+        "Votes": 18101,
+        "Percent": 19.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RIETHMULLER, Joshua",
+        "Votes": 10032,
+        "Percent": 10.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "LENTZ, Kyle",
+        "Votes": 6021,
+        "Percent": 6.6
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "ORDISH, Carol",
+        "Votes": 3862,
+        "Percent": 4.2
+      },
+      {
+        "Party": "GRPF",
+        "Candidate": "HUDSON, Lana",
+        "Votes": 3416,
+        "Percent": 3.7
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "LINDBOM, Janet",
+        "Votes": 3300,
+        "Percent": 3.6
+      },
+      {
+        "Party": "SAL",
+        "Candidate": "BAINBRIDGE, Alex",
+        "Votes": 1634,
+        "Percent": 1.8
+      }
+    ]
+  }
+}

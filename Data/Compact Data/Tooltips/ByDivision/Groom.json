@@ -1,0 +1,665 @@
+{
+  "1984": {
+    "title": "Groom, QLD   1984",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "MCVEIGH, Hon Tom",
+        "Votes": 34047,
+        "Percent": 56.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CULLIN, Ronald",
+        "Votes": 19142,
+        "Percent": 31.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MUNRO, Alexander",
+        "Votes": 5417,
+        "Percent": 8.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DOW, Raymond",
+        "Votes": 2160,
+        "Percent": 3.6
+      }
+    ]
+  },
+  "1987": {
+    "title": "Groom, QLD   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "MCVEIGH, Hon Tom",
+        "Votes": 32054,
+        "Percent": 48.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DWYER, Linda",
+        "Votes": 21217,
+        "Percent": 32.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MUNRO, Alexander",
+        "Votes": 8754,
+        "Percent": 13.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CAREW, Mark",
+        "Votes": 3556,
+        "Percent": 5.4
+      }
+    ]
+  },
+  "1990": {
+    "title": "Groom, QLD   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TAYLOR, Bill",
+        "Votes": 29041,
+        "Percent": 40.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SCOTT-IRVING, Stewart",
+        "Votes": 22103,
+        "Percent": 31.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "DAY, Terry",
+        "Votes": 11664,
+        "Percent": 16.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "IVES, Trevor",
+        "Votes": 8319,
+        "Percent": 11.7
+      }
+    ]
+  },
+  "1993": {
+    "title": "Groom, QLD   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "MCCARTHY, Wally",
+        "Votes": "905",
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BERGHOFER, Garry",
+        "Votes": "7672",
+        "Percent": 10.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MAY, Alan",
+        "Votes": "2839",
+        "Percent": 3.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TAYLOR, Bill",
+        "Votes": "25915",
+        "Percent": 34.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WEBBER, Ray",
+        "Votes": "20198",
+        "Percent": 26.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HARRISON, Carey",
+        "Votes": "1712",
+        "Percent": 2.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "HANNA, Joe",
+        "Votes": "16131",
+        "Percent": 21.4
+      }
+    ]
+  },
+  "1996": {
+    "title": "Groom, QLD   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TAYLOR, Bill",
+        "Votes": 50046,
+        "Percent": 64.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GREEN, Neville",
+        "Votes": 17085,
+        "Percent": 22.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CAREW, Mark",
+        "Votes": 4459,
+        "Percent": 5.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MOLES, Sarah",
+        "Votes": 1789,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "OUSBY, Peter",
+        "Votes": 1657,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCKLEY, Ray",
+        "Votes": 1578,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCCARTHY, W J",
+        "Votes": 595,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1998": {
+    "title": "Groom, QLD   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MACFARLANE, Ian",
+        "Votes": 24631,
+        "Percent": 33.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BROWN, Geoff",
+        "Votes": 18787,
+        "Percent": 25.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BAYNES, Avril",
+        "Votes": 13382,
+        "Percent": 18.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "GREEN, Bruce",
+        "Votes": 11335,
+        "Percent": 15.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "POLSON, Glenn",
+        "Votes": 1993,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MAYNE, Cynthia",
+        "Votes": 1629,
+        "Percent": 2.2
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "HARRY, Paul",
+        "Votes": 1409,
+        "Percent": 1.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MOLES, Sarah",
+        "Votes": 1307,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "2001": {
+    "title": "Groom, QLD   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MACFARLANE, Hon Ian",
+        "Votes": 36573,
+        "Percent": 46.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KING, Leeann",
+        "Votes": 18467,
+        "Percent": 23.7
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "WUERSCHING, Barbara",
+        "Votes": 8563,
+        "Percent": 11.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HOY, David",
+        "Votes": 6958,
+        "Percent": 8.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KANE, Michael",
+        "Votes": 2774,
+        "Percent": 3.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "EYRES, Steven",
+        "Votes": 2521,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BERRY, Rob",
+        "Votes": 2192,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "2004": {
+    "title": "Groom, QLD   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MACFARLANE, Hon Ian",
+        "Votes": 49131,
+        "Percent": 60.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KING, Paul",
+        "Votes": 19516,
+        "Percent": 24.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "FINDLAY, Peter",
+        "Votes": 5168,
+        "Percent": 6.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HARRISON, Karey",
+        "Votes": 3252,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JEANNERET, Rod",
+        "Votes": 1929,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WIECK, Noel",
+        "Votes": 1230,
+        "Percent": 1.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DONGES, Chris",
+        "Votes": 860,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CARTER, Oliver",
+        "Votes": 310,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2007": {
+    "title": "Groom, QLD   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MACFARLANE, Hon Ian",
+        "Votes": 43880,
+        "Percent": 52.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MEIBUSCH, Chris",
+        "Votes": 28994,
+        "Percent": 34.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COLLINS, Pauline",
+        "Votes": 4028,
+        "Percent": 4.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "FINDLAY, Peter",
+        "Votes": 3649,
+        "Percent": 4.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BERRY, Rob",
+        "Votes": 715,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VOLKER, Grahame",
+        "Votes": 616,
+        "Percent": 0.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NAJEEB, Shalina",
+        "Votes": 608,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JEANNERET, Rod",
+        "Votes": 497,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JONES, Irene",
+        "Votes": 263,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "Groom, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "MACFARLANE, Hon Ian",
+        "Votes": 51757,
+        "Percent": 61.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MEIBUSCH, Chris",
+        "Votes": 19153,
+        "Percent": 22.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FORSBERG, Frida",
+        "Votes": 6165,
+        "Percent": 7.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "KIRKWOOD, Rose",
+        "Votes": 4696,
+        "Percent": 5.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JEANNERET, Rod",
+        "Votes": 2730,
+        "Percent": 3.2
+      }
+    ]
+  },
+  "2013": {
+    "title": "Groom, QLD   2013",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "MACFARLANE, Hon Ian",
+        "Votes": 48966,
+        "Percent": 55.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MURRAY, Troy",
+        "Votes": 19451,
+        "Percent": 22.1
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "MATHIESON, Ewen",
+        "Votes": 8225,
+        "Percent": 9.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SMITH, Trevor",
+        "Votes": 3823,
+        "Percent": 4.3
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "WHITTY, Chris",
+        "Votes": 3243,
+        "Percent": 3.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "TODD, Alex",
+        "Votes": 2342,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ARMITAGE, Rick",
+        "Votes": 1210,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THIES, Robert",
+        "Votes": 743,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2016": {
+    "title": "Groom, QLD   2016",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "MCVEIGH, Dr John",
+        "Votes": 49270,
+        "Percent": 54.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HERBERTSON, Bronwyn",
+        "Votes": 20259,
+        "Percent": 22.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SANDS, John",
+        "Votes": 9140,
+        "Percent": 10.0
+      },
+      {
+        "Party": "NXT",
+        "Candidate": "TOWNSEND, Josie",
+        "Votes": 6960,
+        "Percent": 7.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GEUNS, Antonia van",
+        "Votes": 5618,
+        "Percent": 6.0
+      }
+    ]
+  },
+  "2019": {
+    "title": "Groom, QLD   2019",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "MCVEIGH, Hon Dr John",
+        "Votes": 50908,
+        "Percent": 53.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KAY, Troy",
+        "Votes": 17811,
+        "Percent": 18.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "KING, David",
+        "Votes": 12493,
+        "Percent": 13.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NELLIGAN, Allyce",
+        "Votes": 7598,
+        "Percent": 8.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "LAW, Kenneth",
+        "Votes": 3784,
+        "Percent": 4.0
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "ADRELEUS, Perry",
+        "Votes": 2854,
+        "Percent": 3.0
+      }
+    ]
+  },
+  "2022": {
+    "title": "Groom, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAMILTON, Garth",
+        "Votes": 41971,
+        "Percent": 43.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ALLPASS, Gen",
+        "Votes": 17985,
+        "Percent": 18.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "ABRAHAM, Grant",
+        "Votes": 9181,
+        "Percent": 9.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOLT, Suzie",
+        "Votes": 7932,
+        "Percent": 8.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMOLENSKI, Kirstie",
+        "Votes": 6858,
+        "Percent": 7.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BERRY, Mickey",
+        "Votes": 5616,
+        "Percent": 5.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "BANNISTER, Melissa",
+        "Votes": 4922,
+        "Percent": 5.1
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "OTTO, Ryan",
+        "Votes": 1539,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2025": {
+    "title": "Groom, QLD   2025",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "HAMILTON, Garth",
+        "Votes": 42302,
+        "Percent": 41.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOLT, Suzie",
+        "Votes": 17694,
+        "Percent": 17.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EDWARDS, Richard",
+        "Votes": 17172,
+        "Percent": 16.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "KONZ, Rebecca",
+        "Votes": 9860,
+        "Percent": 9.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NELLIGAN, Alyce",
+        "Votes": 5757,
+        "Percent": 5.6
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "TODD, Alexandra",
+        "Votes": 3894,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMOLENSKI, Kirstie",
+        "Votes": 3701,
+        "Percent": 3.6
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "MARR, Jamie",
+        "Votes": 2839,
+        "Percent": 2.8
+      }
+    ]
+  }
+}

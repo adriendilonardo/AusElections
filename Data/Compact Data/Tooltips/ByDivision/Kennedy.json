@@ -1,0 +1,985 @@
+{
+  "1946": {
+    "title": "Kennedy, QLD   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RIORDAN, William",
+        "Votes": 25404,
+        "Percent": 57.5
+      },
+      {
+        "Party": "CP",
+        "Candidate": "CUMMINGS, Clement",
+        "Votes": 18769,
+        "Percent": 42.5
+      }
+    ]
+  },
+  "1949": {
+    "title": "Kennedy, QLD   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RIORDAN, Hon William",
+        "Votes": 15127,
+        "Percent": 55.1
+      },
+      {
+        "Party": "CP",
+        "Candidate": "BROWNE, Sylvester",
+        "Votes": 11397,
+        "Percent": 41.5
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "WYPER, Eric",
+        "Votes": 947,
+        "Percent": 3.4
+      }
+    ]
+  },
+  "1951": {
+    "title": "Kennedy, QLD   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RIORDAN, Hon William",
+        "Votes": "16700",
+        "Percent": 60.2
+      },
+      {
+        "Party": "CP",
+        "Candidate": "BROWNE, Sylvester",
+        "Votes": "11038",
+        "Percent": 39.8
+      }
+    ]
+  },
+  "1954": {
+    "title": "Kennedy, QLD   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RIORDAN, Hon William",
+        "Votes": "17585",
+        "Percent": 60.2
+      },
+      {
+        "Party": "CP",
+        "Candidate": "LANHAM, Clifford",
+        "Votes": "11650",
+        "Percent": 39.8
+      }
+    ]
+  },
+  "1955": {
+    "title": "Kennedy, QLD   1955",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RIORDAN, Hon William",
+        "Votes": "17366",
+        "Percent": 58.2
+      },
+      {
+        "Party": "CP",
+        "Candidate": "DONNELLY, Timothy",
+        "Votes": "12457",
+        "Percent": 41.8
+      }
+    ]
+  },
+  "1958": {
+    "title": "Kennedy, QLD   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RIORDAN, Hon William",
+        "Votes": 16075,
+        "Percent": 50.9
+      },
+      {
+        "Party": "CP",
+        "Candidate": "HINDSON, Alexander",
+        "Votes": 10466,
+        "Percent": 33.2
+      },
+      {
+        "Party": "QLP",
+        "Candidate": "KATTER, Robert",
+        "Votes": 5026,
+        "Percent": 15.9
+      }
+    ]
+  },
+  "1961": {
+    "title": "Kennedy, QLD   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RIORDAN, Hon William",
+        "Votes": 21124,
+        "Percent": 62.1
+      },
+      {
+        "Party": "CP",
+        "Candidate": "HALLORAN, Thomas",
+        "Votes": 10723,
+        "Percent": 31.5
+      },
+      {
+        "Party": "QLP",
+        "Candidate": "WRIGHT, Harold",
+        "Votes": 2163,
+        "Percent": 6.4
+      }
+    ]
+  },
+  "1963": {
+    "title": "Kennedy, QLD   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "JUDGE, John",
+        "Votes": "2174",
+        "Percent": 6.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "RIORDAN, Hon William",
+        "Votes": "21182",
+        "Percent": 61.4
+      },
+      {
+        "Party": "CP",
+        "Candidate": "SIEMON, Keith",
+        "Votes": "11144",
+        "Percent": 32.3
+      }
+    ]
+  },
+  "1966": {
+    "title": "Kennedy, QLD   1966",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "KATTER, Robert",
+        "Votes": 15387,
+        "Percent": 44.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DITTMER, Felix",
+        "Votes": 15250,
+        "Percent": 44.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BENNETT, Edward",
+        "Votes": 2762,
+        "Percent": 8.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DONALDSON, John",
+        "Votes": 942,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "1969": {
+    "title": "Kennedy, QLD   1969",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "KATTER, Robert",
+        "Votes": 21931,
+        "Percent": 54.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Norman",
+        "Votes": 16860,
+        "Percent": 41.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HURNEY, Brian",
+        "Votes": 1419,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "1972": {
+    "title": "Kennedy, QLD   1972",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "KATTER, Hon Robert",
+        "Votes": 23921,
+        "Percent": 57.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCGRADY, Tony",
+        "Votes": 16261,
+        "Percent": 39.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "RUTHERFORD, Paul",
+        "Votes": 1366,
+        "Percent": 3.3
+      }
+    ]
+  },
+  "1974": {
+    "title": "Kennedy, QLD   1974",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "KATTER, Hon Robert",
+        "Votes": 29093,
+        "Percent": 62.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCGRADY, Anthony",
+        "Votes": 17363,
+        "Percent": 37.4
+      }
+    ]
+  },
+  "1975": {
+    "title": "Kennedy, QLD   1975",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "KATTER, Hon Robert",
+        "Votes": 29704,
+        "Percent": 62.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GLEESON, Robert",
+        "Votes": 16981,
+        "Percent": 35.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RENDALL, Charles",
+        "Votes": 837,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "1977": {
+    "title": "Kennedy, QLD   1977",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "KATTER, Hon Robert",
+        "Votes": 33453,
+        "Percent": 61.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GLEESON, Robert",
+        "Votes": 17814,
+        "Percent": 32.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "OLDHAM, Raymond",
+        "Votes": 1744,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COMINOS, Vrettos",
+        "Votes": 987,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HICKS, Marelle",
+        "Votes": 521,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1980": {
+    "title": "Kennedy, QLD   1980",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "KATTER, Hon Robert",
+        "Votes": 33744,
+        "Percent": 60.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HADLOW, Susan",
+        "Votes": 20194,
+        "Percent": 36.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FRYAR, James",
+        "Votes": 2103,
+        "Percent": 3.8
+      }
+    ]
+  },
+  "1983": {
+    "title": "Kennedy, QLD   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "KATTER, Hon Robert",
+        "Votes": 32871,
+        "Percent": 56.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WALSH, Brigid",
+        "Votes": 22407,
+        "Percent": 38.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HANNAFORD, George",
+        "Votes": 2757,
+        "Percent": 4.8
+      }
+    ]
+  },
+  "1984": {
+    "title": "Kennedy, QLD   1984",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "KATTER, Hon Robert",
+        "Votes": 29323,
+        "Percent": 50.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WALSH, Brigid",
+        "Votes": 25033,
+        "Percent": 42.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PORTER, Gerald",
+        "Votes": 2358,
+        "Percent": 4.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WINTER, Lance",
+        "Votes": 1586,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "1987": {
+    "title": "Kennedy, QLD   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "KATTER, Hon Robert",
+        "Votes": 28585,
+        "Percent": 47.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BYRNE, James",
+        "Votes": 27208,
+        "Percent": 45.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "COOPER, Ross",
+        "Votes": 4584,
+        "Percent": 7.6
+      }
+    ]
+  },
+  "1990": {
+    "title": "Kennedy, QLD   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HULLS, Rob",
+        "Votes": 28936,
+        "Percent": 44.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "SHANNON, Ross",
+        "Votes": 21751,
+        "Percent": 33.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TRITTON, Fred",
+        "Votes": 9134,
+        "Percent": 14.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BANZHAF, Patricia",
+        "Votes": 5473,
+        "Percent": 8.4
+      }
+    ]
+  },
+  "1993": {
+    "title": "Kennedy, QLD   1993",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CASHMORE, Dave",
+        "Votes": "7882",
+        "Percent": 10.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JOHNSON, Norman",
+        "Votes": "401",
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LOGAN, Donald",
+        "Votes": "323",
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PETRIE, Bill",
+        "Votes": "3162",
+        "Percent": 4.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HULLS, Rob",
+        "Votes": "30920",
+        "Percent": 42.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "KATTER, Hon Robert",
+        "Votes": "27805",
+        "Percent": 37.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PAINE, Kevin",
+        "Votes": "1906",
+        "Percent": 2.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RIDDER, Saeed de",
+        "Votes": "1241",
+        "Percent": 1.7
+      }
+    ]
+  },
+  "1996": {
+    "title": "Kennedy, QLD   1996",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "KATTER, Hon Robert",
+        "Votes": 45074,
+        "Percent": 59.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DONOVAN, Fay",
+        "Votes": 22257,
+        "Percent": 29.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PARKER, Col",
+        "Votes": 4973,
+        "Percent": 6.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "VALENTINE, Jo",
+        "Votes": 1807,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WALDEN, Clarence",
+        "Votes": 1124,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1998": {
+    "title": "Kennedy, QLD   1998",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "KATTER, Hon Robert",
+        "Votes": 33352,
+        "Percent": 44.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STARK, Kenneth",
+        "Votes": 22117,
+        "Percent": 29.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "DALTON, Jayson",
+        "Votes": 14237,
+        "Percent": 18.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POHLMANN, Greg",
+        "Votes": 2217,
+        "Percent": 2.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ISHERWOOD, Alan",
+        "Votes": 1907,
+        "Percent": 2.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PARKER, Ken",
+        "Votes": 1034,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THEODORE, Steve",
+        "Votes": 476,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARRIS, Judy",
+        "Votes": 256,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2001": {
+    "title": "Kennedy, QLD   2001",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "KATTER, Hon Robert",
+        "Votes": 35555,
+        "Percent": 47.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NEILAN, Alan",
+        "Votes": 17613,
+        "Percent": 23.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "LYLE, Mary",
+        "Votes": 10718,
+        "Percent": 14.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BURNETT, Jerry",
+        "Votes": 7460,
+        "Percent": 9.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WALL, Jo",
+        "Votes": 2307,
+        "Percent": 3.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RIVAS, Cherie",
+        "Votes": 1601,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARRIS, Judith",
+        "Votes": 229,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2004": {
+    "title": "Kennedy, QLD   2004",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "KATTER, Hon Bob",
+        "Votes": 32688,
+        "Percent": 40.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "DOYLE, James",
+        "Votes": 19413,
+        "Percent": 23.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NEILAN, Alan",
+        "Votes": 19296,
+        "Percent": 23.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HANKIN, Bill",
+        "Votes": 3698,
+        "Percent": 4.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JONES, Angela",
+        "Votes": 2879,
+        "Percent": 3.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "DOUGLAS, Keith",
+        "Votes": 2592,
+        "Percent": 3.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HENNESEY, Terry",
+        "Votes": 575,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARRIS, Judith",
+        "Votes": 316,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2007": {
+    "title": "Kennedy, QLD   2007",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "KATTER, Hon Bob",
+        "Votes": 32537,
+        "Percent": 39.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NEILAN, Alan",
+        "Votes": 23122,
+        "Percent": 28.1
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "MORRISON, Ed",
+        "Votes": 20292,
+        "Percent": 24.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "REILLY, Frank",
+        "Votes": 2649,
+        "Percent": 3.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "DOUGLAS, Keith",
+        "Votes": 1674,
+        "Percent": 2.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HANKIN, Bill",
+        "Votes": 1441,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ASPLIN, Nigel",
+        "Votes": 604,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2010": {
+    "title": "Kennedy, QLD   2010",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "KATTER, Hon Bob",
+        "Votes": 38170,
+        "Percent": 46.7
+      },
+      {
+        "Party": "LNP",
+        "Candidate": "MORRISON, Ed",
+        "Votes": 21737,
+        "Percent": 26.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TURNOUR, Andrew",
+        "Votes": 16513,
+        "Percent": 20.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JONES, Jess",
+        "Votes": 3669,
+        "Percent": 4.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "DYKSTRA, Fred",
+        "Votes": 1633,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "2013": {
+    "title": "Kennedy, QLD   2013",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "IKIN, Noelene",
+        "Votes": 34344,
+        "Percent": 40.8
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "KATTER, Hon Bob",
+        "Votes": 24691,
+        "Percent": 29.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TURNOUR, Andrew",
+        "Votes": 13777,
+        "Percent": 16.4
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "BRAZIER, Ronald",
+        "Votes": 6419,
+        "Percent": 7.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "STIRLING, Jenny",
+        "Votes": 2727,
+        "Percent": 3.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "VOGLER, Dan",
+        "Votes": 1064,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TUXFORD, Chester",
+        "Votes": 571,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HECHT, Pam",
+        "Votes": 508,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2016": {
+    "title": "Kennedy, QLD   2016",
+    "rows": [
+      {
+        "Party": "KAP",
+        "Candidate": "KATTER, Hon Bob",
+        "Votes": 34277,
+        "Percent": 39.9
+      },
+      {
+        "Party": "LNP",
+        "Candidate": "PAVETTO, Jonathan",
+        "Votes": 27806,
+        "Percent": 32.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JACOBSEN, Norm",
+        "Votes": 16480,
+        "Percent": 19.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WEIER, Valerie",
+        "Votes": 4213,
+        "Percent": 4.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "GALLEHAWK, Donna",
+        "Votes": 3234,
+        "Percent": 3.8
+      }
+    ]
+  },
+  "2019": {
+    "title": "Kennedy, QLD   2019",
+    "rows": [
+      {
+        "Party": "KAP",
+        "Candidate": "KATTER, Hon Bob",
+        "Votes": 37665,
+        "Percent": 41.0
+      },
+      {
+        "Party": "LNP",
+        "Candidate": "BEVERIDGE, Frank",
+        "Votes": 25264,
+        "Percent": 27.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCGUIRE, Brett",
+        "Votes": 15612,
+        "Percent": 17.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "BERTUCH, Sue",
+        "Votes": 6124,
+        "Percent": 6.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BURNESS, Lyle",
+        "Votes": 4751,
+        "Percent": 5.2
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "HACKWELL, Ian",
+        "Votes": 2532,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "2022": {
+    "title": "Kennedy, QLD   2022",
+    "rows": [
+      {
+        "Party": "KAP",
+        "Candidate": "KATTER, Hon Bob",
+        "Votes": 39036,
+        "Percent": 41.7
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "MACDONALD, Bryce",
+        "Votes": 26387,
+        "Percent": 28.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRANDON, Jason",
+        "Votes": 15033,
+        "Percent": 16.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COX, Jennifer",
+        "Votes": 6013,
+        "Percent": 6.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "CAMPION, Peter",
+        "Votes": 4154,
+        "Percent": 4.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SACKLEY, Jen",
+        "Votes": 2981,
+        "Percent": 3.2
+      }
+    ]
+  },
+  "2025": {
+    "title": "Kennedy, QLD   2025",
+    "rows": [
+      {
+        "Party": "KAP",
+        "Candidate": "KATTER, Bob",
+        "Votes": 39219,
+        "Percent": 40.4
+      },
+      {
+        "Party": "LNP",
+        "Candidate": "SWAINE, Annette",
+        "Votes": 23135,
+        "Percent": 23.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WINN, Sharon",
+        "Votes": 15917,
+        "Percent": 16.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HARRIS, Kate",
+        "Votes": 7541,
+        "Percent": 7.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "STANFORD, Carole",
+        "Votes": 5761,
+        "Percent": 5.9
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "WESTCOTT, Mark",
+        "Votes": 2283,
+        "Percent": 2.3
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "LUSH, Douglas",
+        "Votes": 1681,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLARE, Steven",
+        "Votes": 1625,
+        "Percent": 1.7
+      }
+    ]
+  }
+}

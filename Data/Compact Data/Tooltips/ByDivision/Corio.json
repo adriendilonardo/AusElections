@@ -1,0 +1,1063 @@
+{
+  "1946": {
+    "title": "Corio, VIC   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DEDMAN, Hon John",
+        "Votes": 34330,
+        "Percent": 56.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WALLACE, Frederick",
+        "Votes": 25546,
+        "Percent": 42.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WEST, Winifred",
+        "Votes": 968,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1949": {
+    "title": "Corio, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "OPPERMAN, Hubert",
+        "Votes": 20018,
+        "Percent": 50.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DEDMAN, Hon John",
+        "Votes": 19783,
+        "Percent": 49.7
+      }
+    ]
+  },
+  "1951": {
+    "title": "Corio, VIC   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "OPPERMAN, Hubert",
+        "Votes": "20731",
+        "Percent": 50.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DEDMAN, Hon John",
+        "Votes": "20592",
+        "Percent": 49.8
+      }
+    ]
+  },
+  "1954": {
+    "title": "Corio, VIC   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "OPPERMAN, Hubert",
+        "Votes": "22703",
+        "Percent": 51.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DEDMAN, Hon John",
+        "Votes": "21487",
+        "Percent": 48.6
+      }
+    ]
+  },
+  "1955": {
+    "title": "Corio, VIC   1955",
+    "rows": [
+      {
+        "Party": "ALPAC",
+        "Candidate": "SINGLETON, Francis",
+        "Votes": "3929",
+        "Percent": 9.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "OPPERMAN, Hubert",
+        "Votes": "19959",
+        "Percent": 49.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LOADER, Charles",
+        "Votes": "16632",
+        "Percent": 41.0
+      }
+    ]
+  },
+  "1958": {
+    "title": "Corio, VIC   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "OPPERMAN, Hubert",
+        "Votes": 20019,
+        "Percent": 47.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'LEARY, Bernard",
+        "Votes": 16508,
+        "Percent": 38.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MAHONEY, James",
+        "Votes": 5920,
+        "Percent": 13.9
+      }
+    ]
+  },
+  "1961": {
+    "title": "Corio, VIC   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "OPPERMAN, Hon Hubert",
+        "Votes": 19790,
+        "Percent": 43.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROMEY, Lindsay",
+        "Votes": 19149,
+        "Percent": 41.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MAHONEY, James",
+        "Votes": 6791,
+        "Percent": 14.9
+      }
+    ]
+  },
+  "1963": {
+    "title": "Corio, VIC   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "MAHONEY, James",
+        "Votes": "5004",
+        "Percent": 10.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HAWKE, Bob",
+        "Votes": "21933",
+        "Percent": 45.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "OPPERMAN, Hon Hubert",
+        "Votes": "21185",
+        "Percent": 44.0
+      }
+    ]
+  },
+  "1966": {
+    "title": "Corio, VIC   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "OPPERMAN, Hon Hubert",
+        "Votes": 22519,
+        "Percent": 45.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SCHOLES, Gordon",
+        "Votes": 19478,
+        "Percent": 39.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MAHONEY, James",
+        "Votes": 5369,
+        "Percent": 10.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRUSHFIELD, Elsie",
+        "Votes": 1262,
+        "Percent": 2.5
+      },
+      {
+        "Party": "LRG",
+        "Candidate": "DOBELL, William",
+        "Votes": 1044,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "1969": {
+    "title": "Corio, VIC   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SCHOLES, Gordon",
+        "Votes": 24917,
+        "Percent": 50.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MALPAS, Charles",
+        "Votes": 16989,
+        "Percent": 34.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "TIMBERLAKE, John",
+        "Votes": 4680,
+        "Percent": 9.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARRIS, Stuart",
+        "Votes": 1773,
+        "Percent": 3.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRUSHFIELD, Elsie",
+        "Votes": 1013,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "1972": {
+    "title": "Corio, VIC   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SCHOLES, Gordon",
+        "Votes": 29942,
+        "Percent": 56.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PAWSON, John",
+        "Votes": 18174,
+        "Percent": 34.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "TIMBERLAKE, John",
+        "Votes": 4776,
+        "Percent": 9.0
+      }
+    ]
+  },
+  "1974": {
+    "title": "Corio, VIC   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SCHOLES, Gordon",
+        "Votes": 33029,
+        "Percent": 54.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HALL, Gordon",
+        "Votes": 23680,
+        "Percent": 39.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "TIMBERLAKE, John",
+        "Votes": 2771,
+        "Percent": 4.6
+      },
+      {
+        "Party": "AP",
+        "Candidate": "SAHR, Guenter",
+        "Votes": 860,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1975": {
+    "title": "Corio, VIC   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SCHOLES, Hon Gordon",
+        "Votes": 30688,
+        "Percent": 49.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HALL, Gordon",
+        "Votes": 28907,
+        "Percent": 46.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "TIMBERLAKE, John",
+        "Votes": 2425,
+        "Percent": 3.9
+      },
+      {
+        "Party": "AP",
+        "Candidate": "SAHR, Guenter",
+        "Votes": 604,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1977": {
+    "title": "Corio, VIC   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SCHOLES, Hon Gordon",
+        "Votes": 31612,
+        "Percent": 48.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BUBB, Clive",
+        "Votes": 26330,
+        "Percent": 40.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SAHR, Guenter",
+        "Votes": 4740,
+        "Percent": 7.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "JORDAN, James",
+        "Votes": 2685,
+        "Percent": 4.1
+      }
+    ]
+  },
+  "1980": {
+    "title": "Corio, VIC   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SCHOLES, Hon Gordon",
+        "Votes": 39138,
+        "Percent": 56.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PARKS, Mieczyslaw",
+        "Votes": 24051,
+        "Percent": 34.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SWEETEN, Reginald",
+        "Votes": 3418,
+        "Percent": 4.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "JORDAN, James",
+        "Votes": 2528,
+        "Percent": 3.7
+      }
+    ]
+  },
+  "1983": {
+    "title": "Corio, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SCHOLES, Hon Gordon",
+        "Votes": 43016,
+        "Percent": 60.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HENDERSON, Kent",
+        "Votes": 25075,
+        "Percent": 35.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SAHR, Guenter",
+        "Votes": 3452,
+        "Percent": 4.8
+      }
+    ]
+  },
+  "1984": {
+    "title": "Corio, VIC   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SCHOLES, Hon Gordon",
+        "Votes": 35042,
+        "Percent": 59.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PHIPPS, Roger",
+        "Votes": 19927,
+        "Percent": 33.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PEARCE, Greta",
+        "Votes": 1788,
+        "Percent": 3.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "KING, James",
+        "Votes": 1198,
+        "Percent": 2.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SHARAH, Louise",
+        "Votes": 865,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GREEN, Ian",
+        "Votes": 368,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1987": {
+    "title": "Corio, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SCHOLES, Hon Gordon",
+        "Votes": 34064,
+        "Percent": 54.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CONHEADY, Patrick",
+        "Votes": 20220,
+        "Percent": 32.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PEARCE, Greta",
+        "Votes": 3775,
+        "Percent": 6.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DIXON, Danielle",
+        "Votes": 2602,
+        "Percent": 4.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAVIES, Tom",
+        "Votes": 1378,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1990": {
+    "title": "Corio, VIC   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SCHOLES, Hon Gordon",
+        "Votes": 30419,
+        "Percent": 43.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "EDGAR, Adrienne",
+        "Votes": 26534,
+        "Percent": 38.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STOREY, Donal",
+        "Votes": 7153,
+        "Percent": 10.3
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "WINTER, Ian",
+        "Votes": 2555,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PFEIFER, Horst",
+        "Votes": 1978,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TANNER, Bruce",
+        "Votes": 594,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1993": {
+    "title": "Corio, VIC   1993",
+    "rows": [
+      {
+        "Party": "CTA",
+        "Candidate": "WINTER, Ian",
+        "Votes": "889",
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Carol",
+        "Votes": "450",
+        "Percent": 0.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, Gavan",
+        "Votes": "38133",
+        "Percent": 52.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MARTORANA, Mike",
+        "Votes": "3559",
+        "Percent": 4.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TOL, John",
+        "Votes": "28063",
+        "Percent": 38.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BELL, Aidan",
+        "Votes": "1076",
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1996": {
+    "title": "Corio, VIC   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, Gavan",
+        "Votes": 38656,
+        "Percent": 50.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KONTELJ, Srechko",
+        "Votes": 30142,
+        "Percent": 39.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DESMARIS, Gerald",
+        "Votes": 5919,
+        "Percent": 7.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NIEUWENHUIS, Robert",
+        "Votes": 1443,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "1998": {
+    "title": "Corio, VIC   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, Gavan",
+        "Votes": 38608,
+        "Percent": 50.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JENSEN, Dr Dennis",
+        "Votes": 25561,
+        "Percent": 33.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CZAUSOV, Andre",
+        "Votes": 4352,
+        "Percent": 5.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "GRANT, Robert",
+        "Votes": 3854,
+        "Percent": 5.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SELF, Therese",
+        "Votes": 3116,
+        "Percent": 4.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SINGH, Michael Garbutcheon",
+        "Votes": 486,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2001": {
+    "title": "Corio, VIC   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, Gavan",
+        "Votes": 38021,
+        "Percent": 48.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MALESIC, Steve",
+        "Votes": 28254,
+        "Percent": 36.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MENHEERE-THOMPSON, Erica",
+        "Votes": 5388,
+        "Percent": 6.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JOHNSON, Catherine",
+        "Votes": 3388,
+        "Percent": 4.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "TIRKOT, Herbert",
+        "Votes": 1420,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GOODEN, Tim",
+        "Votes": 698,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FAIRBROTHER, Cheryl",
+        "Votes": 653,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HILL, Gareth",
+        "Votes": 176,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2004": {
+    "title": "Corio, VIC   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, Gavan",
+        "Votes": 37405,
+        "Percent": 46.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KING, Bruce",
+        "Votes": 32289,
+        "Percent": 40.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CONSTABLE, Brett",
+        "Votes": 4733,
+        "Percent": 5.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MALESIC, Steve",
+        "Votes": 2877,
+        "Percent": 3.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ALDERSON, Gordon",
+        "Votes": 2077,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GOODEN, Tim",
+        "Votes": 505,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BIRD, Steven",
+        "Votes": 251,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2007": {
+    "title": "Corio, VIC   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MARLES, Richard",
+        "Votes": 37778,
+        "Percent": 45.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KAKOUROS, Angelo",
+        "Votes": 24591,
+        "Percent": 29.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'CONNOR, Gavan",
+        "Votes": 10530,
+        "Percent": 12.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LEACH, Rob",
+        "Votes": 4910,
+        "Percent": 5.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ALDERSON, Gordon",
+        "Votes": 3291,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WELDEN, Darrin",
+        "Votes": 791,
+        "Percent": 1.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MENHEERE-THOMPSON, Erica",
+        "Votes": 628,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JOHNSON, Chris",
+        "Votes": 332,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RUSSELL, Ross",
+        "Votes": 190,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2010": {
+    "title": "Corio, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MARLES, Hon Richard",
+        "Votes": 42578,
+        "Percent": 51.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GIBSON, Don",
+        "Votes": 25729,
+        "Percent": 31.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BROWN, Gavin",
+        "Votes": 10355,
+        "Percent": 12.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "AMBERLEY, Scott",
+        "Votes": 3028,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BULL, Sue",
+        "Votes": 971,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2013": {
+    "title": "Corio, VIC   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MARLES, Hon Richard",
+        "Votes": 39267,
+        "Percent": 43.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "READ, Peter",
+        "Votes": 31768,
+        "Percent": 35.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LACEY, Greg",
+        "Votes": 6593,
+        "Percent": 7.3
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "HARRINGTON, Anthony",
+        "Votes": 5122,
+        "Percent": 5.7
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "MARTIN, Justine",
+        "Votes": 2492,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ASHER, Stephanie",
+        "Votes": 1958,
+        "Percent": 2.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "FENN, Brendan",
+        "Votes": 1461,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BULL, Sue",
+        "Votes": 679,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ATHERTON, Patrick",
+        "Votes": 549,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LEGRAND, Yann",
+        "Votes": 364,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2016": {
+    "title": "Corio, VIC   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MARLES, Hon Richard",
+        "Votes": 43087,
+        "Percent": 45.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LANGE, Richard",
+        "Votes": 33180,
+        "Percent": 35.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MANSFIELD, Sarah",
+        "Votes": 11112,
+        "Percent": 11.8
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "OVEREND, Jamie",
+        "Votes": 2948,
+        "Percent": 3.1
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "PUVIMANASINGHE, Ash",
+        "Votes": 1869,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MORAN, Jeff",
+        "Votes": 1138,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BULL, Sue",
+        "Votes": 1101,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2019": {
+    "title": "Corio, VIC   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MARLES, Hon Richard",
+        "Votes": 47010,
+        "Percent": 47.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "THOMSON, Alastair",
+        "Votes": 33426,
+        "Percent": 33.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FORBES, Amber",
+        "Votes": 12902,
+        "Percent": 13.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SANBORN, Desmond",
+        "Votes": 5414,
+        "Percent": 5.5
+      }
+    ]
+  },
+  "2022": {
+    "title": "Corio, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MARLES, Hon Richard",
+        "Votes": 40846,
+        "Percent": 42.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PATEL, Manish",
+        "Votes": 23822,
+        "Percent": 24.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NORTHEAST, Simon",
+        "Votes": 14450,
+        "Percent": 14.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MURDOCK, Shane",
+        "Votes": 4781,
+        "Percent": 4.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "JONES, Robert",
+        "Votes": 3788,
+        "Percent": 3.9
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "PAYNE, Max",
+        "Votes": 3383,
+        "Percent": 3.5
+      },
+      {
+        "Party": "SAll",
+        "Candidate": "BULL, Sue",
+        "Votes": 2444,
+        "Percent": 2.5
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "ADAMS, Naomi",
+        "Votes": 2350,
+        "Percent": 2.4
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "TAYLOR, Jessica",
+        "Votes": 1080,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2025": {
+    "title": "Corio, VIC   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MARLES, Richard",
+        "Votes": 47221,
+        "Percent": 42.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BULLER, Darren",
+        "Votes": 27423,
+        "Percent": 24.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FLYNN, Emilie",
+        "Votes": 17491,
+        "Percent": 15.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HELMAN, Adam",
+        "Votes": 10953,
+        "Percent": 9.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DE LORENZO, John",
+        "Votes": 3930,
+        "Percent": 3.6
+      },
+      {
+        "Party": "SAL",
+        "Candidate": "HATHWAY, Sarah",
+        "Votes": 3209,
+        "Percent": 2.9
+      }
+    ]
+  }
+}

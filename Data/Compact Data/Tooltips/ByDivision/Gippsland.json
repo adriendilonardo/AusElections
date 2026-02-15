@@ -1,0 +1,1141 @@
+{
+  "1946": {
+    "title": "Gippsland, VIC   1946",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "BOWDEN, George",
+        "Votes": 28526,
+        "Percent": 55.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KELTIE, Adam",
+        "Votes": 20196,
+        "Percent": 39.1
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "WILLIAMS, Walter",
+        "Votes": 2994,
+        "Percent": 5.8
+      }
+    ]
+  },
+  "1949": {
+    "title": "Gippsland, VIC   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "BOWDEN, George",
+        "Votes": 22824,
+        "Percent": 66.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HAWKINS, Horace",
+        "Votes": 11373,
+        "Percent": 33.3
+      }
+    ]
+  },
+  "1951": {
+    "title": "Gippsland, VIC   1951",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "BOWDEN, George",
+        "Votes": "22799",
+        "Percent": 65.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FITZGERALD, Victor",
+        "Votes": "12247",
+        "Percent": 34.9
+      }
+    ]
+  },
+  "1954": {
+    "title": "Gippsland, VIC   1954",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "BOWDEN, George",
+        "Votes": "22185",
+        "Percent": 60.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CROFTS, Sydney",
+        "Votes": "14537",
+        "Percent": 39.6
+      }
+    ]
+  },
+  "1955": {
+    "title": "Gippsland, VIC   1955",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LITTLE, Clement",
+        "Votes": "9631",
+        "Percent": 24.7
+      },
+      {
+        "Party": "ALPAC",
+        "Candidate": "BURNS, Francis",
+        "Votes": "4951",
+        "Percent": 12.7
+      },
+      {
+        "Party": "CP",
+        "Candidate": "BOWDEN, George",
+        "Votes": "24382",
+        "Percent": 62.6
+      }
+    ]
+  },
+  "1958": {
+    "title": "Gippsland, VIC   1958",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "BOWDEN, George",
+        "Votes": 23869,
+        "Percent": 58.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LITTLE, Clement",
+        "Votes": 11258,
+        "Percent": 27.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HANSEN, John",
+        "Votes": 5785,
+        "Percent": 14.1
+      }
+    ]
+  },
+  "1961": {
+    "title": "Gippsland, VIC   1961",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "NIXON, Peter",
+        "Votes": 22002,
+        "Percent": 51.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STEPHENSON, William",
+        "Votes": 13430,
+        "Percent": 31.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HANSEN, John",
+        "Votes": 7209,
+        "Percent": 16.9
+      }
+    ]
+  },
+  "1963": {
+    "title": "Gippsland, VIC   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "HANSEN, John",
+        "Votes": "4970",
+        "Percent": 11.3
+      },
+      {
+        "Party": "CP",
+        "Candidate": "NIXON, Peter",
+        "Votes": "25422",
+        "Percent": 57.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EVANS, Sydney",
+        "Votes": "13623",
+        "Percent": 31.0
+      }
+    ]
+  },
+  "1966": {
+    "title": "Gippsland, VIC   1966",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "NIXON, Peter",
+        "Votes": 28627,
+        "Percent": 64.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "POWELL, Thomas",
+        "Votes": 9478,
+        "Percent": 21.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HANSEN, John",
+        "Votes": 6439,
+        "Percent": 14.5
+      }
+    ]
+  },
+  "1969": {
+    "title": "Gippsland, VIC   1969",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "NIXON, Hon Peter",
+        "Votes": 27068,
+        "Percent": 58.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WOLFE, John",
+        "Votes": 13457,
+        "Percent": 29.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HANSEN, John",
+        "Votes": 5478,
+        "Percent": 11.9
+      }
+    ]
+  },
+  "1972": {
+    "title": "Gippsland, VIC   1972",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "NIXON, Hon Peter",
+        "Votes": 26007,
+        "Percent": 53.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TURNER, Peter",
+        "Votes": 16591,
+        "Percent": 33.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CONDON, John",
+        "Votes": 3869,
+        "Percent": 7.9
+      },
+      {
+        "Party": "AP",
+        "Candidate": "BOWRON, John",
+        "Votes": 2541,
+        "Percent": 5.2
+      }
+    ]
+  },
+  "1974": {
+    "title": "Gippsland, VIC   1974",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "NIXON, Hon Peter",
+        "Votes": 32484,
+        "Percent": 59.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "OAKES, Hugh",
+        "Votes": 17456,
+        "Percent": 32.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CONDON, John",
+        "Votes": 2533,
+        "Percent": 4.6
+      },
+      {
+        "Party": "AP",
+        "Candidate": "BOWRON, John",
+        "Votes": 2123,
+        "Percent": 3.9
+      }
+    ]
+  },
+  "1975": {
+    "title": "Gippsland, VIC   1975",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "NIXON, Hon Peter",
+        "Votes": 36806,
+        "Percent": 64.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TURNER, Peter",
+        "Votes": 16274,
+        "Percent": 28.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MCMAHON, Robert",
+        "Votes": 3849,
+        "Percent": 6.8
+      }
+    ]
+  },
+  "1977": {
+    "title": "Gippsland, VIC   1977",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "NIXON, Hon Peter",
+        "Votes": 35778,
+        "Percent": 58.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SWITZER, William",
+        "Votes": 14634,
+        "Percent": 23.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "REID, Thomas",
+        "Votes": 6424,
+        "Percent": 10.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MCMAHON, Robert",
+        "Votes": 3003,
+        "Percent": 4.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "INGLE, Bruce",
+        "Votes": 1884,
+        "Percent": 3.1
+      }
+    ]
+  },
+  "1980": {
+    "title": "Gippsland, VIC   1980",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "NIXON, Hon Peter",
+        "Votes": 37180,
+        "Percent": 56.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCINTYRE, Graeme",
+        "Votes": 19791,
+        "Percent": 30.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FORCIER, Pierre",
+        "Votes": 6861,
+        "Percent": 10.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "INGLE, Bruce",
+        "Votes": 1684,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "1983": {
+    "title": "Gippsland, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PETERSON, Anthony",
+        "Votes": 24029,
+        "Percent": 35.4
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "MCGAURAN, Peter",
+        "Votes": 21360,
+        "Percent": 31.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DAVIS, Phillip",
+        "Votes": 16127,
+        "Percent": 23.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FORCIER, Pierre",
+        "Votes": 2930,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCKLEY, Pearce",
+        "Votes": 2059,
+        "Percent": 3.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "TAIG, Stewart",
+        "Votes": 659,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "INGLE, Bruce",
+        "Votes": 652,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1984": {
+    "title": "Gippsland, VIC   1984",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "MCGAURAN, Peter",
+        "Votes": 24818,
+        "Percent": 40.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "VINK, Bill de",
+        "Votes": 17522,
+        "Percent": 28.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CONLEY, Rod",
+        "Votes": 11984,
+        "Percent": 19.7
+      },
+      {
+        "Party": "NDP",
+        "Candidate": "GARDNER, Peter",
+        "Votes": 2702,
+        "Percent": 4.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WESTERN, Wilma",
+        "Votes": 1808,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCKLEY, Ben",
+        "Votes": 1176,
+        "Percent": 1.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HANDLEY, Margaret",
+        "Votes": 789,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "1987": {
+    "title": "Gippsland, VIC   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "MCGAURAN, Peter",
+        "Votes": 29084,
+        "Percent": 44.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CHILD, Zona",
+        "Votes": 20056,
+        "Percent": 30.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PEARCE, Grant",
+        "Votes": 12384,
+        "Percent": 18.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FORCIER, Pierre",
+        "Votes": 2785,
+        "Percent": 4.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ANDERSON, Rod",
+        "Votes": 1350,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "1990": {
+    "title": "Gippsland, VIC   1990",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "MCGAURAN, Peter",
+        "Votes": 41862,
+        "Percent": 60.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BUNDLE, Merv",
+        "Votes": 15841,
+        "Percent": 23.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCCAUGHEY, Grace",
+        "Votes": 7201,
+        "Percent": 10.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCKLEY, Ben",
+        "Votes": 2382,
+        "Percent": 3.5
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "WATSON, Robert",
+        "Votes": 1684,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "1993": {
+    "title": "Gippsland, VIC   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "VAN BAER, Paul",
+        "Votes": "445",
+        "Percent": 0.6
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "MCGAURAN, Peter",
+        "Votes": "43773",
+        "Percent": 60.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCKLEY, Ben",
+        "Votes": "3049",
+        "Percent": 4.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STONE, Judith",
+        "Votes": "21209",
+        "Percent": 29.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STOREY, Donald",
+        "Votes": "2105",
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PHILLIPS, Bruce",
+        "Votes": "1720",
+        "Percent": 2.4
+      }
+    ]
+  },
+  "1996": {
+    "title": "Gippsland, VIC   1996",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "MCGAURAN, Peter",
+        "Votes": 46180,
+        "Percent": 61.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STONE, Judith",
+        "Votes": 19604,
+        "Percent": 26.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BROWNSTEIN, John",
+        "Votes": 5584,
+        "Percent": 7.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCKLEY, Ben",
+        "Votes": 3582,
+        "Percent": 4.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POLLOCK, Jamie",
+        "Votes": 495,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1998": {
+    "title": "Gippsland, VIC   1998",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "MCGAURAN, Hon Peter",
+        "Votes": 31774,
+        "Percent": 43.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STONE, Judith",
+        "Votes": 19438,
+        "Percent": 26.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "PETERS, Tony",
+        "Votes": 8454,
+        "Percent": 11.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TREASURE, Doug",
+        "Votes": 4076,
+        "Percent": 5.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCCUBBIN, Jo",
+        "Votes": 3931,
+        "Percent": 5.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAMERON, Leonie",
+        "Votes": 2611,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VANDERLAND, Jack",
+        "Votes": 900,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HORSFELD, Les",
+        "Votes": 799,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLARKE, Frances",
+        "Votes": 751,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WEATHERHEAD, John",
+        "Votes": 650,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THORPE, Robert",
+        "Votes": 567,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2001": {
+    "title": "Gippsland, VIC   2001",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "MCGAURAN, Hon Peter",
+        "Votes": 34555,
+        "Percent": 45.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BOLITHO, Bill",
+        "Votes": 19469,
+        "Percent": 25.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TREASURE, Doug",
+        "Votes": 4249,
+        "Percent": 5.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "AITKEN, Chris",
+        "Votes": 4205,
+        "Percent": 5.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "FRESHWATER, Michael",
+        "Votes": 4066,
+        "Percent": 5.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCCUBBIN, Jo",
+        "Votes": 3331,
+        "Percent": 4.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JAGO, John",
+        "Votes": 1579,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EVANS, Phillip",
+        "Votes": 1551,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCKLEY, Ben",
+        "Votes": 1249,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THORPE, Marjorie",
+        "Votes": 791,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROBINSON, Phillip",
+        "Votes": 487,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILLIAMS, Frank",
+        "Votes": 221,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2004": {
+    "title": "Gippsland, VIC   2004",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "MCGAURAN, Hon Peter",
+        "Votes": 41531,
+        "Percent": 48.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WISHART, Don",
+        "Votes": 29053,
+        "Percent": 34.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LANE, Madelon",
+        "Votes": 3743,
+        "Percent": 4.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KELLY, Peter",
+        "Votes": 3139,
+        "Percent": 3.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BUCKLEY, Ben",
+        "Votes": 2539,
+        "Percent": 3.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LILLYMAN, Doug",
+        "Votes": 2405,
+        "Percent": 2.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LANGMORE, David",
+        "Votes": 1312,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SINDT, Christina",
+        "Votes": 1288,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STANTON, Heather",
+        "Votes": 233,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2007": {
+    "title": "Gippsland, VIC   2007",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "MCGAURAN, Hon Peter",
+        "Votes": 42632,
+        "Percent": 48.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROWE, Jane",
+        "Votes": 32214,
+        "Percent": 36.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WRATHALL, Jeff",
+        "Votes": 4881,
+        "Percent": 5.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ROWELL, Michael",
+        "Votes": 3802,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCKLEY, Ben",
+        "Votes": 2787,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCADAM, Helen",
+        "Votes": 1825,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "2010": {
+    "title": "Gippsland, VIC   2010",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "CHESTER, Darren",
+        "Votes": 47020,
+        "Percent": 53.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCCUBBIN, Darren",
+        "Votes": 28008,
+        "Percent": 31.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BOND, Michael",
+        "Votes": 5826,
+        "Percent": 6.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCKLEY, Ben",
+        "Votes": 4895,
+        "Percent": 5.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "JEFFERIS, Heath",
+        "Votes": 2963,
+        "Percent": 3.3
+      }
+    ]
+  },
+  "2013": {
+    "title": "Gippsland, VIC   2013",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "CHESTER, Darren",
+        "Votes": 47533,
+        "Percent": 53.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCNEILL, Jeff",
+        "Votes": 20467,
+        "Percent": 23.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CAMPBELL-SMITH, Scott",
+        "Votes": 5039,
+        "Percent": 5.7
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "BUCKLEY, Ben",
+        "Votes": 4716,
+        "Percent": 5.3
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "GRAVENALL, Deborah",
+        "Votes": 3785,
+        "Percent": 4.3
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "LEITCH, Douglas",
+        "Votes": 2101,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GARDNER, Peter",
+        "Votes": 1992,
+        "Percent": 2.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "FOSTER, Angie",
+        "Votes": 1591,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MANGION, Sav",
+        "Votes": 623,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DORIAN, Peter",
+        "Votes": 367,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GUERIN, Mark",
+        "Votes": 201,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2016": {
+    "title": "Gippsland, VIC   2016",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "CHESTER, Hon Darren",
+        "Votes": 50309,
+        "Percent": 56.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BHATTI, Shashi",
+        "Votes": 17870,
+        "Percent": 20.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ONLEY, Ian",
+        "Votes": 7002,
+        "Percent": 7.8
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "BUCKLEY, Ben",
+        "Votes": 4444,
+        "Percent": 5.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HEATH, Brian",
+        "Votes": 3068,
+        "Percent": 3.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Cherie",
+        "Votes": 1577,
+        "Percent": 1.8
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "DORIAN, Peter",
+        "Votes": 1513,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GARDNER, Peter",
+        "Votes": 1384,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SINDT, Christine",
+        "Votes": 1379,
+        "Percent": 1.5
+      },
+      {
+        "Party": "AC",
+        "Candidate": "BELSAR, Ashleigh",
+        "Votes": 746,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2019": {
+    "title": "Gippsland, VIC   2019",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "CHESTER, Hon Darren",
+        "Votes": 52202,
+        "Percent": 54.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HOLM, Dr Antoinette",
+        "Votes": 22426,
+        "Percent": 23.2
+      },
+      {
+        "Party": "SFF",
+        "Candidate": "SNELLING, David",
+        "Votes": 6872,
+        "Percent": 7.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FOSKEY, Deb",
+        "Votes": 5835,
+        "Percent": 6.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "BREWER, Kerri",
+        "Votes": 4257,
+        "Percent": 4.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCKLEY, Sonia",
+        "Votes": 3043,
+        "Percent": 3.2
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "TICKNER, Neville",
+        "Votes": 2043,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "2022": {
+    "title": "Gippsland, VIC   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "CHESTER, Hon Darren",
+        "Votes": 54635,
+        "Percent": 54.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LANGLEY, Jannette",
+        "Votes": 19404,
+        "Percent": 19.2
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "HANSFORD, Greg",
+        "Votes": 9443,
+        "Percent": 9.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "THORPE, Marjorie",
+        "Votes": 8545,
+        "Percent": 8.5
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "FORSTER, Gregory",
+        "Votes": 4593,
+        "Percent": 4.6
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MCDONALD, Jim",
+        "Votes": 4286,
+        "Percent": 4.3
+      }
+    ]
+  },
+  "2025": {
+    "title": "Gippsland, VIC   2025",
+    "rows": [
+      {
+        "Party": "NP",
+        "Candidate": "CHESTER, Darren",
+        "Votes": 55036,
+        "Percent": 52.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STEPHENS, Sonny",
+        "Votes": 22291,
+        "Percent": 21.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HANSFORD, Gregory",
+        "Votes": 15118,
+        "Percent": 14.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HINE, Rochelle",
+        "Votes": 8897,
+        "Percent": 8.5
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "WILSON, Simon",
+        "Votes": 3416,
+        "Percent": 3.3
+      }
+    ]
+  }
+}

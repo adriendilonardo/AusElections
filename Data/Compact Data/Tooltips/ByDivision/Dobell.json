@@ -1,0 +1,653 @@
+{
+  "1984": {
+    "title": "Dobell, NSW   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LEE, Michael",
+        "Votes": 31112,
+        "Percent": 56.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SHIELDS, Isaac",
+        "Votes": 20114,
+        "Percent": 36.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SAWYER, Lynn",
+        "Votes": 4168,
+        "Percent": 7.5
+      }
+    ]
+  },
+  "1987": {
+    "title": "Dobell, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LEE, Michael",
+        "Votes": 33719,
+        "Percent": 53.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NUNN, Les",
+        "Votes": 24168,
+        "Percent": 38.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WARD, Graeme",
+        "Votes": 5657,
+        "Percent": 8.9
+      }
+    ]
+  },
+  "1990": {
+    "title": "Dobell, NSW   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LEE, Michael",
+        "Votes": 37063,
+        "Percent": 51.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CROOK, Ian",
+        "Votes": 23659,
+        "Percent": 32.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BENNINSON, Rod",
+        "Votes": 6317,
+        "Percent": 8.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MALLOY, Neville",
+        "Votes": 1948,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CRAIG, Gordon",
+        "Votes": 1861,
+        "Percent": 2.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SINGMAN, Karl",
+        "Votes": 1657,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "1993": {
+    "title": "Dobell, NSW   1993",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LEE, Michael",
+        "Votes": "36795",
+        "Percent": 53.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BALDWIN, Bob",
+        "Votes": "27654",
+        "Percent": 40.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DAY, Brian",
+        "Votes": "2311",
+        "Percent": 3.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HUDSON, Bob",
+        "Votes": "2131",
+        "Percent": 3.1
+      }
+    ]
+  },
+  "1996": {
+    "title": "Dobell, NSW   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LEE, Hon Michael",
+        "Votes": 32221,
+        "Percent": 43.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "EATON, Doug",
+        "Votes": 31817,
+        "Percent": 43.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MARTIN, True",
+        "Votes": 5223,
+        "Percent": 7.1
+      },
+      {
+        "Party": "AAFI",
+        "Candidate": "PRITCHARD, Jeremy",
+        "Votes": 2146,
+        "Percent": 2.9
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "FREEMANTLE, Graham",
+        "Votes": 1304,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KATALINIC, Aldo",
+        "Votes": 751,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1998": {
+    "title": "Dobell, NSW   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LEE, Hon Michael",
+        "Votes": 34770,
+        "Percent": 45.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PARKER, David",
+        "Votes": 29103,
+        "Percent": 37.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BECKETT, June",
+        "Votes": 7301,
+        "Percent": 9.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MOTT, David",
+        "Votes": 2547,
+        "Percent": 3.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DWYER, Philip",
+        "Votes": 1625,
+        "Percent": 2.1
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "RUSSELL, Karen",
+        "Votes": 1564,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "2001": {
+    "title": "Dobell, NSW   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TICEHURST, Ken",
+        "Votes": 32761,
+        "Percent": 43.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LEE, Hon Michael",
+        "Votes": 31824,
+        "Percent": 42.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "FALCONER, Ron",
+        "Votes": 3223,
+        "Percent": 4.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HASTIE, Carolyn",
+        "Votes": 3142,
+        "Percent": 4.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KER, Samantha",
+        "Votes": 2200,
+        "Percent": 2.9
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "HENNIG, Luke",
+        "Votes": 1420,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "2004": {
+    "title": "Dobell, NSW   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TICEHURST, Ken",
+        "Votes": 37347,
+        "Percent": 49.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MEHAN, David",
+        "Votes": 27417,
+        "Percent": 36.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RICKARD, Scott",
+        "Votes": 3782,
+        "Percent": 5.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "PATON, Naomi",
+        "Votes": 1656,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SANZARI, Frank",
+        "Votes": 1487,
+        "Percent": 2.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "WEBBER, Andrew",
+        "Votes": 1163,
+        "Percent": 1.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HASTIE, Carolyn",
+        "Votes": 647,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "UNGER, Paul",
+        "Votes": 475,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHIA, Sious Hong",
+        "Votes": 445,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WALLACE, Les",
+        "Votes": 430,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAING-PEACH, James",
+        "Votes": 417,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HUGHES, Steven",
+        "Votes": 132,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2007": {
+    "title": "Dobell, NSW   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THOMSON, Craig",
+        "Votes": 38168,
+        "Percent": 46.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TICEHURST, Ken",
+        "Votes": 34865,
+        "Percent": 42.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RICKARD, Scott",
+        "Votes": 4429,
+        "Percent": 5.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EATON, Doug",
+        "Votes": 1639,
+        "Percent": 2.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "DARBY, Michael",
+        "Votes": 1549,
+        "Percent": 1.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ERVIN, Hadden",
+        "Votes": 1407,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BIRD, Graeme",
+        "Votes": 182,
+        "Percent": 0.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HUGHES, Steve",
+        "Votes": 157,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2010": {
+    "title": "Dobell, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THOMSON, Craig",
+        "Votes": 38268,
+        "Percent": 46.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCNAMARA, John",
+        "Votes": 33287,
+        "Percent": 40.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RICKARD, Scott",
+        "Votes": 7121,
+        "Percent": 8.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BRETT, Gavin",
+        "Votes": 2033,
+        "Percent": 2.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "AVASALU, Rhonda",
+        "Votes": 2005,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "2013": {
+    "title": "Dobell, NSW   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCNAMARA, Karen",
+        "Votes": 35617,
+        "Percent": 41.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCBRIDE, Emma",
+        "Votes": 30248,
+        "Percent": 35.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRACKEN, Nathan",
+        "Votes": 7090,
+        "Percent": 8.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WYNN, Sue",
+        "Votes": 4238,
+        "Percent": 4.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THOMSON, Craig",
+        "Votes": 3444,
+        "Percent": 4.0
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "MCGILL, Kate",
+        "Votes": 2920,
+        "Percent": 3.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "ERVIN, Hedden",
+        "Votes": 1250,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "OWEN, Greg",
+        "Votes": 711,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KUNDE, Christian",
+        "Votes": 622,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2016": {
+    "title": "Dobell, NSW   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCBRIDE, Emma",
+        "Votes": 41454,
+        "Percent": 42.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCNAMARA, Karen",
+        "Votes": 36586,
+        "Percent": 37.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "EDWARDS, Carter",
+        "Votes": 8326,
+        "Percent": 8.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BOYD, Abigail",
+        "Votes": 5607,
+        "Percent": 5.8
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "ERVIN, Hadden",
+        "Votes": 2549,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STEPHENSON, Gregory",
+        "Votes": 1176,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BAKER, Paul",
+        "Votes": 976,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2019": {
+    "title": "Dobell, NSW   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCBRIDE, Emma",
+        "Votes": 42093,
+        "Percent": 41.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PILLON, Jilly",
+        "Votes": 41326,
+        "Percent": 40.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RICKARD, Scott",
+        "Votes": 7579,
+        "Percent": 7.5
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HARPLEY-CARR, Aaron",
+        "Votes": 5411,
+        "Percent": 5.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STEPHENSON, Gregory",
+        "Votes": 3176,
+        "Percent": 3.1
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "GRUNDY, Paula",
+        "Votes": 1868,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "2022": {
+    "title": "Dobell, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCBRIDE, Emma",
+        "Votes": 43595,
+        "Percent": 42.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FENELEY, Dr Michael",
+        "Votes": 34276,
+        "Percent": 33.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CONNOR, Cath",
+        "Votes": 8700,
+        "Percent": 8.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "STEVENSON, Martin",
+        "Votes": 7583,
+        "Percent": 7.5
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MACKIN, Dean",
+        "Votes": 3818,
+        "Percent": 3.8
+      },
+      {
+        "Party": "Fus",
+        "Candidate": "BARNES, Geoff",
+        "Votes": 2202,
+        "Percent": 2.2
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "METHERELL, Eliot",
+        "Votes": 1543,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "2025": {
+    "title": "Dobell, NSW   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "McBRIDE, Emma",
+        "Votes": 44268,
+        "Percent": 42.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SMALL, Brendan",
+        "Votes": 28757,
+        "Percent": 27.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COOPER, Simon George",
+        "Votes": 10647,
+        "Percent": 10.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "STEVENSON, Martin",
+        "Votes": 9040,
+        "Percent": 8.7
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "CLAYDON, Tim",
+        "Votes": 4895,
+        "Percent": 4.7
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "TAWAF, Anthony",
+        "Votes": 2855,
+        "Percent": 2.8
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "MURPHY, Patrick",
+        "Votes": 1906,
+        "Percent": 1.8
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "CHALIK, Isaac",
+        "Votes": 1059,
+        "Percent": 1.0
+      }
+    ]
+  }
+}

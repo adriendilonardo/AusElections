@@ -1,0 +1,229 @@
+{
+  "1969": {
+    "title": "Diamond Valley, VIC   1969",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BROWN, Neil",
+        "Votes": 24403,
+        "Percent": 45.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCKENZIE, David",
+        "Votes": 22021,
+        "Percent": 41.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MORISON, Leo",
+        "Votes": 5596,
+        "Percent": 10.5
+      },
+      {
+        "Party": "AP",
+        "Candidate": "HILL, John",
+        "Votes": 1354,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1972": {
+    "title": "Diamond Valley, VIC   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCKENZIE, David",
+        "Votes": 30927,
+        "Percent": 45.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROWN, Neil",
+        "Votes": 26651,
+        "Percent": 39.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MARMION, James",
+        "Votes": 4876,
+        "Percent": 7.1
+      },
+      {
+        "Party": "AP",
+        "Candidate": "SIDDONS, John",
+        "Votes": 4314,
+        "Percent": 6.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ALEXANDER, Douglas",
+        "Votes": 1489,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "REDMOND, Shaun",
+        "Votes": 145,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "1974": {
+    "title": "Diamond Valley, VIC   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCKENZIE, David",
+        "Votes": 38519,
+        "Percent": 47.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WAITE, Geoffrey",
+        "Votes": 36683,
+        "Percent": 44.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CURTIS, Christopher",
+        "Votes": 4249,
+        "Percent": 5.2
+      },
+      {
+        "Party": "AP",
+        "Candidate": "TASKIS, Harold",
+        "Votes": 1987,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GIBSON, Victor",
+        "Votes": 394,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1975": {
+    "title": "Diamond Valley, VIC   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BROWN, Neil",
+        "Votes": 47975,
+        "Percent": 55.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCKENZIE, David",
+        "Votes": 34252,
+        "Percent": 39.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CURTIS, Christopher",
+        "Votes": 2691,
+        "Percent": 3.1
+      },
+      {
+        "Party": "AP",
+        "Candidate": "FRANCESCHINI, John",
+        "Votes": 1308,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "AUSSIE-STONE, Marc",
+        "Votes": 778,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DUNCAN, John",
+        "Votes": 198,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "1977": {
+    "title": "Diamond Valley, VIC   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BROWN, Neil",
+        "Votes": 31674,
+        "Percent": 48.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DOWNING, Jean",
+        "Votes": 20355,
+        "Percent": 31.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GOLDMAN, Dr Ronald",
+        "Votes": 10561,
+        "Percent": 16.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CURTIS, Christopher",
+        "Votes": 2672,
+        "Percent": 4.1
+      }
+    ]
+  },
+  "1980": {
+    "title": "Diamond Valley, VIC   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BROWN, Neil",
+        "Votes": 35082,
+        "Percent": 48.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SCOMPARIN, John",
+        "Votes": 29186,
+        "Percent": 40.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LOFTUS-HILLS, Geoffrey",
+        "Votes": 7936,
+        "Percent": 11.0
+      }
+    ]
+  },
+  "1983": {
+    "title": "Diamond Valley, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "STAPLES, Peter",
+        "Votes": 36726,
+        "Percent": 46.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROWN, Hon Neil",
+        "Votes": 36006,
+        "Percent": 45.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KENYON, Lynden",
+        "Votes": 5162,
+        "Percent": 6.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "PETRUCCO, Anne-Marie",
+        "Votes": 1229,
+        "Percent": 1.6
+      }
+    ]
+  }
+}

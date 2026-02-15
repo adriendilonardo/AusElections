@@ -1,0 +1,956 @@
+{
+  "1949": {
+    "title": "Bowman, QLD   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCCOLM, Malcolm",
+        "Votes": 20090,
+        "Percent": 53.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COUTTS, Wilfred",
+        "Votes": 16886,
+        "Percent": 44.9
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "HANSON, Mabel",
+        "Votes": 656,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "1951": {
+    "title": "Bowman, QLD   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCCOLM, Malcolm",
+        "Votes": "21410",
+        "Percent": 54.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LYONS, Michael",
+        "Votes": "16637",
+        "Percent": 42.0
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "HANSON, Mabel",
+        "Votes": "1552",
+        "Percent": 3.9
+      }
+    ]
+  },
+  "1954": {
+    "title": "Bowman, QLD   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCCOLM, Malcolm",
+        "Votes": "22839",
+        "Percent": 53.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HOUSTON, Jack",
+        "Votes": "18980",
+        "Percent": 44.3
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "HANSON, Mabel",
+        "Votes": "1069",
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1955": {
+    "title": "Bowman, QLD   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCCOLM, Malcolm",
+        "Votes": "22500",
+        "Percent": 54.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CHALMERS, Hector",
+        "Votes": "18646",
+        "Percent": 45.3
+      }
+    ]
+  },
+  "1958": {
+    "title": "Bowman, QLD   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCCOLM, Malcolm",
+        "Votes": 20770,
+        "Percent": 48.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CHALMERS, Hector",
+        "Votes": 16398,
+        "Percent": 38.6
+      },
+      {
+        "Party": "QLP",
+        "Candidate": "BURNS, Terence",
+        "Votes": 5002,
+        "Percent": 11.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CONDIE, Noel",
+        "Votes": 331,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1961": {
+    "title": "Bowman, QLD   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COMBER, Jack",
+        "Votes": 21393,
+        "Percent": 47.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCCOLM, Malcolm",
+        "Votes": 19706,
+        "Percent": 43.4
+      },
+      {
+        "Party": "QLP",
+        "Candidate": "BURNS, Terence",
+        "Votes": 4327,
+        "Percent": 9.5
+      }
+    ]
+  },
+  "1963": {
+    "title": "Bowman, QLD   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "WRIGHT, Harold",
+        "Votes": "3052",
+        "Percent": 6.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COMBER, Jack",
+        "Votes": "22533",
+        "Percent": 47.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GIBBS, Dr Wylie",
+        "Votes": "21618",
+        "Percent": 45.8
+      }
+    ]
+  },
+  "1966": {
+    "title": "Bowman, QLD   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GIBBS, Dr Wylie",
+        "Votes": 25921,
+        "Percent": 51.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COMBER, Jack",
+        "Votes": 21152,
+        "Percent": 41.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "TUCKER, Paul",
+        "Votes": 3458,
+        "Percent": 6.8
+      }
+    ]
+  },
+  "1969": {
+    "title": "Bowman, QLD   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEOGH, Leonard",
+        "Votes": 28143,
+        "Percent": 51.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GIBBS, Dr Wylie",
+        "Votes": 23167,
+        "Percent": 42.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "TENNISON, Noel",
+        "Votes": 2713,
+        "Percent": 4.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ASMITH, Harold",
+        "Votes": 1002,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "1972": {
+    "title": "Bowman, QLD   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEOGH, Leonard",
+        "Votes": 35113,
+        "Percent": 55.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CHICONI, Kerry",
+        "Votes": 24964,
+        "Percent": 39.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "COCHRAN, Denis",
+        "Votes": 3508,
+        "Percent": 5.5
+      }
+    ]
+  },
+  "1974": {
+    "title": "Bowman, QLD   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEOGH, Leonard",
+        "Votes": 36947,
+        "Percent": 49.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JULL, David",
+        "Votes": 30382,
+        "Percent": 41.0
+      },
+      {
+        "Party": "CP",
+        "Candidate": "LANGEVAD, Gerard",
+        "Votes": 5998,
+        "Percent": 8.1
+      },
+      {
+        "Party": "AP",
+        "Candidate": "SHARKEY, Winifred",
+        "Votes": 797,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1975": {
+    "title": "Bowman, QLD   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JULL, David",
+        "Votes": 36458,
+        "Percent": 46.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KEOGH, Leonard",
+        "Votes": 32825,
+        "Percent": 42.2
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "DEAN, James",
+        "Votes": 7535,
+        "Percent": 9.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WRIGHT, Donald",
+        "Votes": 1046,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "1977": {
+    "title": "Bowman, QLD   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JULL, David",
+        "Votes": 31544,
+        "Percent": 50.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KEOGH, Leonard",
+        "Votes": 25078,
+        "Percent": 39.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GREHAN, Bryan",
+        "Votes": 5452,
+        "Percent": 8.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GANT, Martin",
+        "Votes": 1018,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1980": {
+    "title": "Bowman, QLD   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JULL, David",
+        "Votes": 33695,
+        "Percent": 48.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KEOGH, Leonard",
+        "Votes": 31722,
+        "Percent": 45.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MARTIN, Thomas",
+        "Votes": 3648,
+        "Percent": 5.3
+      }
+    ]
+  },
+  "1983": {
+    "title": "Bowman, QLD   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEOGH, Leonard",
+        "Votes": 37666,
+        "Percent": 49.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JULL, David",
+        "Votes": 30522,
+        "Percent": 40.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BROWN, Craig",
+        "Votes": 4579,
+        "Percent": 6.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HEINDORFF, Ronald",
+        "Votes": 3040,
+        "Percent": 4.0
+      }
+    ]
+  },
+  "1984": {
+    "title": "Bowman, QLD   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEOGH, Leonard",
+        "Votes": 29312,
+        "Percent": 51.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WHITE, Leo",
+        "Votes": 12378,
+        "Percent": 21.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "WILLERSDORF, Noel",
+        "Votes": 11443,
+        "Percent": 20.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HEINDORFF, Ronald",
+        "Votes": 3691,
+        "Percent": 6.5
+      }
+    ]
+  },
+  "1987": {
+    "title": "Bowman, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SCIACCA, Con",
+        "Votes": 31223,
+        "Percent": 48.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CROWE, Andrew",
+        "Votes": 14866,
+        "Percent": 23.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BARRY-COTTER, Bill",
+        "Votes": 11696,
+        "Percent": 18.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TAYLOR, Diana",
+        "Votes": 5800,
+        "Percent": 9.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CULLEN, Barry",
+        "Votes": 1123,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "1990": {
+    "title": "Bowman, QLD   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SCIACCA, Con",
+        "Votes": 34925,
+        "Percent": 46.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TROUNCE, Peter",
+        "Votes": 23571,
+        "Percent": 31.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GRATTAN, Phillip",
+        "Votes": 12207,
+        "Percent": 16.2
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BRIMSON, Stan",
+        "Votes": 4697,
+        "Percent": 6.2
+      }
+    ]
+  },
+  "1993": {
+    "title": "Bowman, QLD   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "MAY, Richard",
+        "Votes": "574",
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HENDSTOCK, Kevin",
+        "Votes": "551",
+        "Percent": 0.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SCIACCA, Hon Con",
+        "Votes": "35927",
+        "Percent": 50.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCLAREN, Mark",
+        "Votes": "301",
+        "Percent": 0.4
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "MARSH, Nigel",
+        "Votes": "3009",
+        "Percent": 4.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HENMAN, Murray",
+        "Votes": "2714",
+        "Percent": 3.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BICKLE, Frank",
+        "Votes": "2674",
+        "Percent": 3.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WARDLE, Debra",
+        "Votes": "24700",
+        "Percent": 35.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WHEELER, Bill",
+        "Votes": "214",
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1996": {
+    "title": "Bowman, QLD   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WEST, Andrea",
+        "Votes": 33088,
+        "Percent": 46.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SCIACCA, Hon Con",
+        "Votes": 29964,
+        "Percent": 42.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROOYEN, Jenny van",
+        "Votes": 5954,
+        "Percent": 8.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KRAJNIW, Tony",
+        "Votes": 1780,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "REILLY, Selina",
+        "Votes": 331,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1998": {
+    "title": "Bowman, QLD   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SCIACCA, Hon Con",
+        "Votes": 32606,
+        "Percent": 43.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WEST, Andrea",
+        "Votes": 27927,
+        "Percent": 37.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MYATT, Barry",
+        "Votes": 8227,
+        "Percent": 11.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROOYEN, Jenny van",
+        "Votes": 4021,
+        "Percent": 5.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MOORHEAD, Deeane",
+        "Votes": 1606,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "Bowman, QLD   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SCIACCA, Hon Con",
+        "Votes": 35213,
+        "Percent": 44.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LAMING, Dr Andrew",
+        "Votes": 34121,
+        "Percent": 43.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SMITH, Chad",
+        "Votes": 3873,
+        "Percent": 4.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MYATT, Barry",
+        "Votes": 3862,
+        "Percent": 4.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SMITH, Fay",
+        "Votes": 2164,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "2004": {
+    "title": "Bowman, QLD   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LAMING, Dr Andrew",
+        "Votes": 39363,
+        "Percent": 50.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WEBSTER, Donna",
+        "Votes": 27631,
+        "Percent": 35.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NADAS, Paula",
+        "Votes": 3729,
+        "Percent": 4.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CAYLEY, Mal",
+        "Votes": 3126,
+        "Percent": 4.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "ROSS, Joe",
+        "Votes": 3125,
+        "Percent": 4.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BROMWICH, Robert",
+        "Votes": 835,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2007": {
+    "title": "Bowman, QLD   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LAMING, Dr Andrew",
+        "Votes": 37886,
+        "Percent": 46.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "YOUNG, Jason",
+        "Votes": 36207,
+        "Percent": 44.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SCOTT, Brad",
+        "Votes": 4475,
+        "Percent": 5.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LUCAS, Alan",
+        "Votes": 2405,
+        "Percent": 2.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HOLLAND, Paul",
+        "Votes": 676,
+        "Percent": 0.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "CHIDGEY, Dave",
+        "Votes": 433,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2010": {
+    "title": "Bowman, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "LAMING, Dr Andrew",
+        "Votes": 45585,
+        "Percent": 55.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PETERS, Jenny",
+        "Votes": 24719,
+        "Percent": 30.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KEOGH, David",
+        "Votes": 8174,
+        "Percent": 10.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "WINDOLF, Karina",
+        "Votes": 1834,
+        "Percent": 2.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "CHIDGEY, Dave",
+        "Votes": 865,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KENT, John",
+        "Votes": 768,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2013": {
+    "title": "Bowman, QLD   2013",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "LAMING, Dr Andrew",
+        "Votes": 42828,
+        "Percent": 49.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRISKEY, Darryl",
+        "Votes": 25967,
+        "Percent": 29.9
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "WAYNE, John",
+        "Votes": 11049,
+        "Percent": 12.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ALLMAN-PAYNE, Penny",
+        "Votes": 5198,
+        "Percent": 6.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "O\u0092SHEA, Andrew",
+        "Votes": 1868,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "2016": {
+    "title": "Bowman, QLD   2016",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "LAMING, Dr Andrew",
+        "Votes": 45946,
+        "Percent": 49.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "RICHARDS, Kim",
+        "Votes": 29592,
+        "Percent": 32.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SCOTT, Brad",
+        "Votes": 9012,
+        "Percent": 9.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SAUNDERS, Brett",
+        "Votes": 4459,
+        "Percent": 4.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DUNCAN, Tony",
+        "Votes": 3316,
+        "Percent": 3.6
+      }
+    ]
+  },
+  "2019": {
+    "title": "Bowman, QLD   2019",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "LAMING, Dr Andrew",
+        "Votes": 47866,
+        "Percent": 48.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BASTER, Dr Tom",
+        "Votes": 26147,
+        "Percent": 26.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MOON, Emerald",
+        "Votes": 11795,
+        "Percent": 12.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "WADSWORTH, Glen",
+        "Votes": 7175,
+        "Percent": 7.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "CLARK, Shane",
+        "Votes": 3540,
+        "Percent": 3.6
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "ANDERSON, David",
+        "Votes": 1816,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "2022": {
+    "title": "Bowman, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PIKE, Henry",
+        "Votes": 43088,
+        "Percent": 42.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DUFF, Donisha",
+        "Votes": 29694,
+        "Percent": 29.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MAZLIN, Ian",
+        "Votes": 13241,
+        "Percent": 13.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "TODD, Walter",
+        "Votes": 7825,
+        "Percent": 7.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "STEVENS, Mary-Jane",
+        "Votes": 6601,
+        "Percent": 6.5
+      },
+      {
+        "Party": "TNL",
+        "Candidate": "JOHNSON, Phil",
+        "Votes": 1243,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2025": {
+    "title": "Bowman, QLD   2025",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "PIKE, Henry",
+        "Votes": 42777,
+        "Percent": 39.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BROWN, Darcy",
+        "Votes": 34247,
+        "Percent": 31.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LOCKHART, Kristie",
+        "Votes": 12689,
+        "Percent": 11.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "KNIGHT, Matthew",
+        "Votes": 7650,
+        "Percent": 7.1
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "WILLIAMSON, Gary",
+        "Votes": 3924,
+        "Percent": 3.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOLLOWAY, Shaun",
+        "Votes": 3375,
+        "Percent": 3.1
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "TODD, David",
+        "Votes": 3325,
+        "Percent": 3.1
+      }
+    ]
+  }
+}

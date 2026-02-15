@@ -1,0 +1,431 @@
+{
+  "2001": {
+    "title": "Solomon, NT   2001",
+    "rows": [
+      {
+        "Party": "CLP",
+        "Candidate": "TOLLNER, Dave",
+        "Votes": 19828,
+        "Percent": 41.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HULL, Laurene",
+        "Votes": 18195,
+        "Percent": 38.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DUNSTAN, Ted",
+        "Votes": 2582,
+        "Percent": 5.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "POLLOCK, David",
+        "Votes": 2439,
+        "Percent": 5.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "AUSTIN, Maisie",
+        "Votes": 2378,
+        "Percent": 5.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "STEWART, Mervyn",
+        "Votes": 1669,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RYAN-JAPARTA, Maurie",
+        "Votes": 337,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2004": {
+    "title": "Solomon, NT   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TOLLNER, David",
+        "Votes": 23361,
+        "Percent": 48.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DAVIDSON, Jim",
+        "Votes": 18464,
+        "Percent": 38.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ELDRIDGE, Ilana",
+        "Votes": 3246,
+        "Percent": 6.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "WEST, Mark",
+        "Votes": 1000,
+        "Percent": 2.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DEAN, Duncan",
+        "Votes": 892,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FOLEY, Maurice",
+        "Votes": 718,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FLYNN, Peter",
+        "Votes": 235,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2007": {
+    "title": "Solomon, NT   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TOLLNER, David",
+        "Votes": 24109,
+        "Percent": 46.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HALE, Damian",
+        "Votes": 21581,
+        "Percent": 41.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HUDSON, Debbie",
+        "Votes": 4672,
+        "Percent": 9.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FOLEY, Maurice",
+        "Votes": 545,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHESTER, Jacques",
+        "Votes": 358,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAMPBELL, Trudy",
+        "Votes": 245,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2010": {
+    "title": "Solomon, NT   2010",
+    "rows": [
+      {
+        "Party": "CLP",
+        "Candidate": "GRIGGS, Natasha",
+        "Votes": 23627,
+        "Percent": 46.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HALE, Damian",
+        "Votes": 18384,
+        "Percent": 36.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "YOUNG, Emma",
+        "Votes": 6772,
+        "Percent": 13.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "KEARNEY, John",
+        "Votes": 1505,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAMPBELL, Trudy",
+        "Votes": 668,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2013": {
+    "title": "Solomon, NT   2013",
+    "rows": [
+      {
+        "Party": "CLP",
+        "Candidate": "GRIGGS, Natasha",
+        "Votes": 23875,
+        "Percent": 44.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GOSLING, Luke",
+        "Votes": 18929,
+        "Percent": 35.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WILLIAMS, Todd",
+        "Votes": 4269,
+        "Percent": 8.0
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "SPAIN, Stephen",
+        "Votes": 2691,
+        "Percent": 5.0
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "METCALF, Krystal",
+        "Votes": 1847,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BURGESS, Martin",
+        "Votes": 597,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SELLICK, Paul",
+        "Votes": 527,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CUMMINGS, Eileen",
+        "Votes": 470,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAMPBELL, Trudy",
+        "Votes": 217,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2016": {
+    "title": "Solomon, NT   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GOSLING, Luke",
+        "Votes": 22308,
+        "Percent": 40.9
+      },
+      {
+        "Party": "CLP",
+        "Candidate": "GRIGGS, Natasha",
+        "Votes": 18804,
+        "Percent": 34.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WILLIAMS, Todd",
+        "Votes": 5553,
+        "Percent": 10.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GARNER, Mark",
+        "Votes": 1644,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "REINHOLD, Marty",
+        "Votes": 1523,
+        "Percent": 2.8
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "DAWES, Robert",
+        "Votes": 1275,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAWRENCE, Lance",
+        "Votes": 1143,
+        "Percent": 2.1
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "MAJETIC, Silvija",
+        "Votes": 985,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEARNEY, John",
+        "Votes": 798,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CARTWRIGHT, Kevin",
+        "Votes": 369,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCCULLOUGH, Brigid",
+        "Votes": 183,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2019": {
+    "title": "Solomon, NT   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GOSLING, Luke",
+        "Votes": 22057,
+        "Percent": 40.0
+      },
+      {
+        "Party": "CLP",
+        "Candidate": "GANLEY, Kathy",
+        "Votes": 20962,
+        "Percent": 38.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PARISH, Timothy",
+        "Votes": 6521,
+        "Percent": 11.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FRASER-ADAMS, Sue",
+        "Votes": 2684,
+        "Percent": 4.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "RAJWIN, Raj",
+        "Votes": 1583,
+        "Percent": 2.9
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "GIMINI, Lorraine",
+        "Votes": 1277,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "2022": {
+    "title": "Solomon, NT   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GOSLING, Luke",
+        "Votes": 21775,
+        "Percent": 39.5
+      },
+      {
+        "Party": "CLP",
+        "Candidate": "MACFARLANE, Tina",
+        "Votes": 13771,
+        "Percent": 25.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CARTTLING, Aiya Goodrich",
+        "Votes": 8164,
+        "Percent": 14.8
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "BONANNI, Kylie",
+        "Votes": 5839,
+        "Percent": 10.6
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "LOHSE, Emily",
+        "Votes": 2948,
+        "Percent": 5.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SELFE, Tayla",
+        "Votes": 2628,
+        "Percent": 4.8
+      }
+    ]
+  },
+  "2025": {
+    "title": "Solomon, NT   2025",
+    "rows": [
+      {
+        "Party": "CLP",
+        "Candidate": "BAYLISS, Lisa",
+        "Votes": 21642,
+        "Percent": 36.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GOSLING, Luke John",
+        "Votes": 19751,
+        "Percent": 32.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCOTT, Phil",
+        "Votes": 7501,
+        "Percent": 12.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PARRY, Jonathan",
+        "Votes": 6167,
+        "Percent": 10.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "CRAKER, Benjamin",
+        "Votes": 4033,
+        "Percent": 6.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAVIES, Janey",
+        "Votes": 693,
+        "Percent": 1.2
+      },
+      {
+        "Party": "CEC",
+        "Candidate": "KRISTO, Brian",
+        "Votes": 343,
+        "Percent": 0.6
+      }
+    ]
+  }
+}

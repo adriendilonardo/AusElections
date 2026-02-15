@@ -1,0 +1,966 @@
+{
+  "1946": {
+    "title": "Cook, NSW   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SHEEHAN, Thomas",
+        "Votes": 38407,
+        "Percent": 65.1
+      },
+      {
+        "Party": "ALPN",
+        "Candidate": "BRITTAIN, Arthur",
+        "Votes": 8423,
+        "Percent": 14.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PREACHER, Frank",
+        "Votes": 7306,
+        "Percent": 12.4
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "SHARKEY, Lance",
+        "Votes": 4341,
+        "Percent": 7.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FAIRBROTHER, Frederick",
+        "Votes": 559,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1949": {
+    "title": "Cook, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SHEEHAN, Thomas",
+        "Votes": 27485,
+        "Percent": 75.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DAVIS, Gerald",
+        "Votes": 5970,
+        "Percent": 16.3
+      },
+      {
+        "Party": "ALPN",
+        "Candidate": "ELDRIDGE, John",
+        "Votes": 1920,
+        "Percent": 5.2
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "PIDCOCK, Mervyn",
+        "Votes": 1276,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "1951": {
+    "title": "Cook, NSW   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HATFIELD, Royston",
+        "Votes": "4790",
+        "Percent": 13.5
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "HATFIELD, Henry",
+        "Votes": "2976",
+        "Percent": 8.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SHEEHAN, Thomas",
+        "Votes": "27637",
+        "Percent": 78.1
+      }
+    ]
+  },
+  "1954": {
+    "title": "Cook, NSW   1954",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "STAINES, Percival",
+        "Votes": "2868",
+        "Percent": 8.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SHEEHAN, Thomas",
+        "Votes": "26841",
+        "Percent": 83.4
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "HATFIELD, Henry",
+        "Votes": "2465",
+        "Percent": 7.7
+      }
+    ]
+  },
+  "1969": {
+    "title": "Cook, NSW   1969",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DOBIE, Donald",
+        "Votes": 24997,
+        "Percent": 49.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MALLAM, Cliff",
+        "Votes": 22192,
+        "Percent": 43.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ALLEWAY, Robin",
+        "Votes": 2766,
+        "Percent": 5.4
+      },
+      {
+        "Party": "AP",
+        "Candidate": "WALRUT, Bernard",
+        "Votes": 907,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "1972": {
+    "title": "Cook, NSW   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THORBURN, Ray",
+        "Votes": 25037,
+        "Percent": 46.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DOBIE, Hon Donald",
+        "Votes": 24527,
+        "Percent": 45.5
+      },
+      {
+        "Party": "AP",
+        "Candidate": "GRAY, Marjorie",
+        "Votes": 2230,
+        "Percent": 4.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FORSHAW, Bernard",
+        "Votes": 1232,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SAINSBURY, Judith",
+        "Votes": 674,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GALLAGHER, Ronald",
+        "Votes": 153,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1974": {
+    "title": "Cook, NSW   1974",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DOBIE, Hon Donald",
+        "Votes": 29142,
+        "Percent": 48.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "THORBURN, Ray",
+        "Votes": 29008,
+        "Percent": 48.5
+      },
+      {
+        "Party": "AP",
+        "Candidate": "DUNPHY, Milo",
+        "Votes": 1555,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GALLAGHER, Ronald",
+        "Votes": 167,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1975": {
+    "title": "Cook, NSW   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DOBIE, Hon Don",
+        "Votes": 34334,
+        "Percent": 56.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "THORBURN, Ray",
+        "Votes": 24857,
+        "Percent": 40.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCHOLLBACH, Robert",
+        "Votes": 924,
+        "Percent": 1.5
+      },
+      {
+        "Party": "AP",
+        "Candidate": "GRAY, Marjorie",
+        "Votes": 714,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "AUSSIE-STONE, Marc",
+        "Votes": 376,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'NEILL, Philip",
+        "Votes": 105,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "1977": {
+    "title": "Cook, NSW   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DOBIE, Hon Donald",
+        "Votes": 35648,
+        "Percent": 51.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "THORBURN, Ray",
+        "Votes": 25511,
+        "Percent": 36.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DAY, Walter",
+        "Votes": 7162,
+        "Percent": 10.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SOPER, Henry",
+        "Votes": 791,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1980": {
+    "title": "Cook, NSW   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DOBIE, Hon Donald",
+        "Votes": 36347,
+        "Percent": 52.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "THORBURN, Ray",
+        "Votes": 28422,
+        "Percent": 40.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KISS, Alexander",
+        "Votes": 4391,
+        "Percent": 6.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SOPER, Henry",
+        "Votes": 654,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1983": {
+    "title": "Cook, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ADDISON, Michael",
+        "Votes": 34803,
+        "Percent": 49.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DOBIE, Hon Donald",
+        "Votes": 34666,
+        "Percent": 49.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SOPER, Henry",
+        "Votes": 1213,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "1984": {
+    "title": "Cook, NSW   1984",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DOBIE, Hon Donald",
+        "Votes": 32915,
+        "Percent": 52.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCILWAIN, Peter",
+        "Votes": 26153,
+        "Percent": 41.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GOOLEY, Brett",
+        "Votes": 3572,
+        "Percent": 5.7
+      }
+    ]
+  },
+  "1987": {
+    "title": "Cook, NSW   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DOBIE, Hon Donald",
+        "Votes": 34590,
+        "Percent": 53.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ADDISON, Michael",
+        "Votes": 25987,
+        "Percent": 40.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FREEMAN, Mark",
+        "Votes": 3805,
+        "Percent": 5.9
+      }
+    ]
+  },
+  "1990": {
+    "title": "Cook, NSW   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DOBIE, Hon Donald",
+        "Votes": 32654,
+        "Percent": 50.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Paul",
+        "Votes": 22034,
+        "Percent": 33.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RICHARDSON, Terri",
+        "Votes": 6368,
+        "Percent": 9.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RALPH, Dennis",
+        "Votes": 2644,
+        "Percent": 4.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POULOS, Patricia",
+        "Votes": 1342,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "1993": {
+    "title": "Cook, NSW   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "ATKINSON, Julie",
+        "Votes": "530",
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THOMPSON, Tom",
+        "Votes": "479",
+        "Percent": 0.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DOBIE, Hon Donald",
+        "Votes": "36524",
+        "Percent": 49.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SOLOMON, Noreen",
+        "Votes": "29806",
+        "Percent": 40.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ELPHINSTON, Alex",
+        "Votes": "2300",
+        "Percent": 3.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RICHARDSON, Terri",
+        "Votes": "2212",
+        "Percent": 3.0
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "KINNY, Warren",
+        "Votes": "1813",
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1996": {
+    "title": "Cook, NSW   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MUTCH, Hon Stephen",
+        "Votes": 41601,
+        "Percent": 55.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCGRATH, Mark",
+        "Votes": 23704,
+        "Percent": 31.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RICHARDSON, Terri",
+        "Votes": 6130,
+        "Percent": 8.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WOODGER, Janey",
+        "Votes": 2988,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCDONALD, James",
+        "Votes": 1078,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1998": {
+    "title": "Cook, NSW   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BAIRD, Hon Bruce",
+        "Votes": 37075,
+        "Percent": 50.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "YOUNG, Peri",
+        "Votes": 22850,
+        "Percent": 30.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "KIMBERLEY, Gareth",
+        "Votes": 6144,
+        "Percent": 8.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RICHARDSON, Terri",
+        "Votes": 3147,
+        "Percent": 4.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KAYE, John",
+        "Votes": 1556,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ABDURAHMAN, Zanthe",
+        "Votes": 1103,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOEHM, Darren",
+        "Votes": 997,
+        "Percent": 1.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "SMITH, Malcolm",
+        "Votes": 948,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2001": {
+    "title": "Cook, NSW   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BAIRD, Hon Bruce",
+        "Votes": 41959,
+        "Percent": 56.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "YOUNG, Peri",
+        "Votes": 19768,
+        "Percent": 26.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "FREW, Andy",
+        "Votes": 4453,
+        "Percent": 6.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BAILEY, Alison",
+        "Votes": 2815,
+        "Percent": 3.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PETERS-POWER, Cathy",
+        "Votes": 2655,
+        "Percent": 3.6
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "SMITH, Malcolm",
+        "Votes": 1256,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JAMES, Peter",
+        "Votes": 852,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POULOS, Patricia",
+        "Votes": 453,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STRANG, Graeme",
+        "Votes": 423,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2004": {
+    "title": "Cook, NSW   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BAIRD, Hon Bruce",
+        "Votes": 43161,
+        "Percent": 58.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BUTTIGIEG, Mark",
+        "Votes": 20593,
+        "Percent": 27.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BIRTLES, Corey",
+        "Votes": 5144,
+        "Percent": 6.9
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "SMITH, Beth",
+        "Votes": 1735,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FREW, Andy",
+        "Votes": 1582,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PHILLIPS, Peter",
+        "Votes": 1035,
+        "Percent": 1.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MENDELSSOHN, David",
+        "Votes": 661,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STRANG, Graeme",
+        "Votes": 466,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2007": {
+    "title": "Cook, NSW   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MORRISON, Scott",
+        "Votes": 45116,
+        "Percent": 52.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BUTTIGIEG, Mark",
+        "Votes": 30921,
+        "Percent": 35.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WAIZER, Naomi",
+        "Votes": 5342,
+        "Percent": 6.2
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "SMITH, Beth",
+        "Votes": 1929,
+        "Percent": 2.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "PUTRAL, Richard",
+        "Votes": 1116,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STRANG, Graeme",
+        "Votes": 693,
+        "Percent": 0.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "KATSOULAS, Ari",
+        "Votes": 596,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POULOS, Patricia",
+        "Votes": 394,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2010": {
+    "title": "Cook, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MORRISON, Scott",
+        "Votes": 51852,
+        "Percent": 57.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SCAYSBROOK, Peter",
+        "Votes": 25806,
+        "Percent": 28.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WAIZER, Naomi",
+        "Votes": 6924,
+        "Percent": 7.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "SMITH, Beth",
+        "Votes": 1722,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STRANG, Graeme",
+        "Votes": 1568,
+        "Percent": 1.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "PUTRAL, Richard",
+        "Votes": 997,
+        "Percent": 1.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "FOY, Merelyn",
+        "Votes": 719,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2013": {
+    "title": "Cook, NSW   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MORRISON, Scott",
+        "Votes": 55707,
+        "Percent": 60.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SCAYSBROOK, Peter",
+        "Votes": 22850,
+        "Percent": 24.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COX, Mithra",
+        "Votes": 6058,
+        "Percent": 6.6
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "PALISE, Matthew",
+        "Votes": 3765,
+        "Percent": 4.1
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "SMITH, Beth",
+        "Votes": 1981,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STRANG, Graeme",
+        "Votes": 1321,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SALEAM, Jim",
+        "Votes": 617,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2016": {
+    "title": "Cook, NSW   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MORRISON, Hon Scott",
+        "Votes": 53321,
+        "Percent": 58.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ATKINS, David",
+        "Votes": 24283,
+        "Percent": 26.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HUNT, Nathan",
+        "Votes": 6198,
+        "Percent": 6.8
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "CAPSIS, George",
+        "Votes": 4430,
+        "Percent": 4.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRETT, John",
+        "Votes": 3153,
+        "Percent": 3.4
+      }
+    ]
+  },
+  "2019": {
+    "title": "Cook, NSW   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MORRISON, Hon Scott",
+        "Votes": 59895,
+        "Percent": 63.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'BRIEN, Simon",
+        "Votes": 21718,
+        "Percent": 23.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DOIG, Jonathan",
+        "Votes": 6406,
+        "Percent": 6.8
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "CAMERON, Gaye",
+        "Votes": 3277,
+        "Percent": 3.5
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MCSWEYN, John",
+        "Votes": 1135,
+        "Percent": 1.2
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BOLLING, Roger",
+        "Votes": 1041,
+        "Percent": 1.1
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "KELLY, Peter",
+        "Votes": 551,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2022": {
+    "title": "Cook, NSW   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MORRISON, Hon Scott",
+        "Votes": 54322,
+        "Percent": 55.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EARLE, Simon",
+        "Votes": 24444,
+        "Percent": 25.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DYSON, Catherine",
+        "Votes": 9685,
+        "Percent": 9.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "CAMERON, Gaye",
+        "Votes": 4985,
+        "Percent": 5.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "GUINANE, Jacqueline",
+        "Votes": 4381,
+        "Percent": 4.5
+      }
+    ]
+  },
+  "2025": {
+    "title": "Cook, NSW   2025",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KENNEDY, Simon",
+        "Votes": 51121,
+        "Percent": 48.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EARLE, Simon",
+        "Votes": 33474,
+        "Percent": 31.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MOORE, Martin",
+        "Votes": 10575,
+        "Percent": 9.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "PRESTON, Mark",
+        "Votes": 4638,
+        "Percent": 4.4
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "FULLER, Natalie",
+        "Votes": 3310,
+        "Percent": 3.1
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "HAMMOND, Sharon",
+        "Votes": 3246,
+        "Percent": 3.1
+      }
+    ]
+  }
+}

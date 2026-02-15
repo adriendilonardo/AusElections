@@ -1,0 +1,877 @@
+{
+  "1946": {
+    "title": "Franklin, TAS   1946",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FALKINDER, Charles",
+        "Votes": 15678,
+        "Percent": 50.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FROST, Hon Charles",
+        "Votes": 15605,
+        "Percent": 49.9
+      }
+    ]
+  },
+  "1949": {
+    "title": "Franklin, TAS   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FALKINDER, Charles",
+        "Votes": 17644,
+        "Percent": 58.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FROST, Stewart",
+        "Votes": 12790,
+        "Percent": 42.0
+      }
+    ]
+  },
+  "1951": {
+    "title": "Franklin, TAS   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FALKINDER, Charles",
+        "Votes": "17983",
+        "Percent": 55.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FROST, Stewart",
+        "Votes": "14460",
+        "Percent": 44.6
+      }
+    ]
+  },
+  "1954": {
+    "title": "Franklin, TAS   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FALKINDER, Charles",
+        "Votes": "20447",
+        "Percent": 54.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FROST, Stewart",
+        "Votes": "17396",
+        "Percent": 46.0
+      }
+    ]
+  },
+  "1955": {
+    "title": "Franklin, TAS   1955",
+    "rows": [
+      {
+        "Party": "ALPAC",
+        "Candidate": "ROBERTS, Henry",
+        "Votes": "1757",
+        "Percent": 6.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FALKINDER, Charles",
+        "Votes": "15471",
+        "Percent": 53.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CRAWFORD, Brian",
+        "Votes": "11652",
+        "Percent": 40.3
+      }
+    ]
+  },
+  "1958": {
+    "title": "Franklin, TAS   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FALKINDER, Charles",
+        "Votes": 17484,
+        "Percent": 54.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HEAVEN, Lynda",
+        "Votes": 11846,
+        "Percent": 36.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SCOLES, Henry",
+        "Votes": 2973,
+        "Percent": 9.2
+      }
+    ]
+  },
+  "1961": {
+    "title": "Franklin, TAS   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FALKINDER, Charles",
+        "Votes": 16784,
+        "Percent": 45.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILKINSON, William",
+        "Votes": 15709,
+        "Percent": 43.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "COURTNEY, St Clair",
+        "Votes": 4047,
+        "Percent": 11.1
+      }
+    ]
+  },
+  "1963": {
+    "title": "Franklin, TAS   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "DEFENDINI, Andrew",
+        "Votes": "2732",
+        "Percent": 6.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PARSONS, John",
+        "Votes": "19362",
+        "Percent": 47.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FALKINDER, Charles",
+        "Votes": "18322",
+        "Percent": 45.3
+      }
+    ]
+  },
+  "1966": {
+    "title": "Franklin, TAS   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PEARSALL, Thomas",
+        "Votes": 21442,
+        "Percent": 48.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PARSONS, John",
+        "Votes": 19986,
+        "Percent": 44.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "LYNCH, John",
+        "Votes": 3249,
+        "Percent": 7.3
+      }
+    ]
+  },
+  "1969": {
+    "title": "Franklin, TAS   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SHERRY, Raymond",
+        "Votes": 20664,
+        "Percent": 54.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PEARSALL, Thomas",
+        "Votes": 15071,
+        "Percent": 39.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DELANY, Richard",
+        "Votes": 1563,
+        "Percent": 4.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NEWCOMBE, Kenneth",
+        "Votes": 529,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1972": {
+    "title": "Franklin, TAS   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SHERRY, Raymond",
+        "Votes": 26512,
+        "Percent": 64.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CRAIG, William",
+        "Votes": 13150,
+        "Percent": 31.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "KELLY, Keith",
+        "Votes": 1610,
+        "Percent": 3.9
+      }
+    ]
+  },
+  "1974": {
+    "title": "Franklin, TAS   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SHERRY, Raymond",
+        "Votes": 29161,
+        "Percent": 62.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JARVIS, Leo",
+        "Votes": 17194,
+        "Percent": 37.1
+      }
+    ]
+  },
+  "1975": {
+    "title": "Franklin, TAS   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GOODLUCK, Bruce",
+        "Votes": 23829,
+        "Percent": 49.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SHERRY, Raymond",
+        "Votes": 23011,
+        "Percent": 47.7
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "FRANKLIN, Margaret",
+        "Votes": 966,
+        "Percent": 2.0
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "HAND, Joseph",
+        "Votes": 293,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MOLLON, Peter",
+        "Votes": 171,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1977": {
+    "title": "Franklin, TAS   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GOODLUCK, Bruce",
+        "Votes": 26797,
+        "Percent": 54.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COLQUHOUN, Peter",
+        "Votes": 22175,
+        "Percent": 45.3
+      }
+    ]
+  },
+  "1980": {
+    "title": "Franklin, TAS   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GOODLUCK, Bruce",
+        "Votes": 26893,
+        "Percent": 51.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BLADEL, Fran",
+        "Votes": 23809,
+        "Percent": 45.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "THOMSON, John",
+        "Votes": 1734,
+        "Percent": 3.3
+      }
+    ]
+  },
+  "1983": {
+    "title": "Franklin, TAS   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GOODLUCK, Bruce",
+        "Votes": 28814,
+        "Percent": 52.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BLADEL, Fran",
+        "Votes": 24578,
+        "Percent": 44.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "THOMPSON, John",
+        "Votes": 1357,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MAZENGARB, David",
+        "Votes": 278,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1984": {
+    "title": "Franklin, TAS   1984",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GOODLUCK, Bruce",
+        "Votes": 27315,
+        "Percent": 53.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DEVEREUX, John",
+        "Votes": 20701,
+        "Percent": 40.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "THOMSON, John",
+        "Votes": 2916,
+        "Percent": 5.7
+      }
+    ]
+  },
+  "1987": {
+    "title": "Franklin, TAS   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GOODLUCK, Bruce",
+        "Votes": 27725,
+        "Percent": 50.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SHERRY, Nick",
+        "Votes": 22292,
+        "Percent": 40.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HARMSEN, Patsy",
+        "Votes": 5171,
+        "Percent": 9.4
+      }
+    ]
+  },
+  "1990": {
+    "title": "Franklin, TAS   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GOODLUCK, Bruce",
+        "Votes": 28636,
+        "Percent": 48.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ALEXANDER, Eugene",
+        "Votes": 22925,
+        "Percent": 38.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HARMSEN, Patsy",
+        "Votes": 7523,
+        "Percent": 12.7
+      }
+    ]
+  },
+  "1993": {
+    "title": "Franklin, TAS   1993",
+    "rows": [
+      {
+        "Party": "GRN",
+        "Candidate": "CROSSLEY, L",
+        "Votes": "4878",
+        "Percent": 8.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "QUICK, Harry",
+        "Votes": "29238",
+        "Percent": 49.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GILBERT, Graeme",
+        "Votes": "23030",
+        "Percent": 38.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RICHARD, James",
+        "Votes": "2281",
+        "Percent": 3.8
+      }
+    ]
+  },
+  "1996": {
+    "title": "Franklin, TAS   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "QUICK, Harry",
+        "Votes": 28259,
+        "Percent": 46.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GLOVER, Les",
+        "Votes": 25068,
+        "Percent": 40.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HALE, John",
+        "Votes": 4286,
+        "Percent": 7.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FISHER, Irene",
+        "Votes": 3094,
+        "Percent": 5.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PEART, Kim",
+        "Votes": 788,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "1998": {
+    "title": "Franklin, TAS   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "QUICK, Harry",
+        "Votes": 30180,
+        "Percent": 49.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GOODLUCK, Jane",
+        "Votes": 24266,
+        "Percent": 39.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCFARLANE, Kay",
+        "Votes": 3962,
+        "Percent": 6.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FISHER, Irene",
+        "Votes": 3003,
+        "Percent": 4.9
+      }
+    ]
+  },
+  "2001": {
+    "title": "Franklin, TAS   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "QUICK, Harry",
+        "Votes": 28746,
+        "Percent": 45.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HODGMAN, Hon Peter",
+        "Votes": 23548,
+        "Percent": 37.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BASTICK, Patricia",
+        "Votes": 6098,
+        "Percent": 9.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MANSKEY, Karen",
+        "Votes": 3050,
+        "Percent": 4.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MULLOY, Art",
+        "Votes": 1255,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "2004": {
+    "title": "Franklin, TAS   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "QUICK, Harry",
+        "Votes": 29938,
+        "Percent": 46.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FINNIS, Henry",
+        "Votes": 24936,
+        "Percent": 38.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WOOLLEY, Mathew",
+        "Votes": 7207,
+        "Percent": 11.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MUMFORD, Marc",
+        "Votes": 2063,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHIELDS, Glenn",
+        "Votes": 345,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2007": {
+    "title": "Franklin, TAS   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COLLINS, Julie",
+        "Votes": 27990,
+        "Percent": 41.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GOODWIN, Vanessa",
+        "Votes": 27742,
+        "Percent": 41.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "VELNAAR, Gerard",
+        "Votes": 9769,
+        "Percent": 14.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "PAPICCIO, Gino",
+        "Votes": 1504,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOLLOWAY, Matt",
+        "Votes": 365,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HONEY, Roger",
+        "Votes": 262,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2010": {
+    "title": "Franklin, TAS   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COLLINS, Julie",
+        "Votes": 28079,
+        "Percent": 42.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HOWLETT, Jane",
+        "Votes": 21938,
+        "Percent": 33.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HEATLEY, Wendy",
+        "Votes": 13675,
+        "Percent": 20.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FORSTER, John",
+        "Votes": 1839,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "2013": {
+    "title": "Franklin, TAS   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COLLINS, Hon Julie",
+        "Votes": 26893,
+        "Percent": 39.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BLACK, Bernadette",
+        "Votes": 26070,
+        "Percent": 38.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WOODRUFF, Rosalie",
+        "Votes": 8201,
+        "Percent": 12.2
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "ZUCCO, Marti",
+        "Votes": 4108,
+        "Percent": 6.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "DOWNES, Josh",
+        "Votes": 1264,
+        "Percent": 1.9
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "UGALDE, Sarah",
+        "Votes": 478,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOWDEN, Olwyn",
+        "Votes": 330,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2016": {
+    "title": "Franklin, TAS   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COLLINS, Hon Julie",
+        "Votes": 32724,
+        "Percent": 47.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MARKHAM, Amanda-Sue",
+        "Votes": 24542,
+        "Percent": 35.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DELANEY, Martine",
+        "Votes": 9293,
+        "Percent": 13.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SANDERSON, Tim",
+        "Votes": 1673,
+        "Percent": 2.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "MUSKETT, George",
+        "Votes": 1375,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "2019": {
+    "title": "Franklin, TAS   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COLLINS, Hon Julie",
+        "Votes": 30911,
+        "Percent": 44.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "YOUNG, Dean",
+        "Votes": 21969,
+        "Percent": 31.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DARKO, Kit",
+        "Votes": 11420,
+        "Percent": 16.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "WINTER, Darren",
+        "Votes": 4704,
+        "Percent": 6.7
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "HAWES, Darren",
+        "Votes": 1257,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "2022": {
+    "title": "Franklin, TAS   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COLLINS, Hon Julie",
+        "Votes": 26147,
+        "Percent": 36.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JOHNSON, Kristy",
+        "Votes": 19048,
+        "Percent": 26.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DARKO, Jade",
+        "Votes": 12370,
+        "Percent": 17.4
+      },
+      {
+        "Party": "JLN",
+        "Candidate": "HANNAN, Chris",
+        "Votes": 4215,
+        "Percent": 5.9
+      },
+      {
+        "Party": "Local",
+        "Candidate": "BATEMAN, Anna",
+        "Votes": 3535,
+        "Percent": 5.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "HINDLEY, Steve",
+        "Votes": 2033,
+        "Percent": 2.9
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "PITT, Duane",
+        "Votes": 1434,
+        "Percent": 2.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MATTHEWS, Lisa",
+        "Votes": 1380,
+        "Percent": 1.9
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "LOVE, Katrina",
+        "Votes": 1097,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "2025": {
+    "title": "Franklin, TAS   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COLLINS, Julie",
+        "Votes": 29842,
+        "Percent": 39.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GEORGE, Peter",
+        "Votes": 16586,
+        "Percent": 21.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GARVIN, Josh",
+        "Votes": 14403,
+        "Percent": 18.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FITZGERALD, Owen",
+        "Votes": 8016,
+        "Percent": 10.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLOMELEY, Brendan",
+        "Votes": 3822,
+        "Percent": 5.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "POPESCU, Stefan",
+        "Votes": 3793,
+        "Percent": 5.0
+      }
+    ]
+  }
+}

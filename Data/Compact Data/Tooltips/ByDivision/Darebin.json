@@ -1,0 +1,168 @@
+{
+  "1949": {
+    "title": "Darebin, VIC   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ANDREWS, Thomas",
+        "Votes": 24719,
+        "Percent": 62.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCCOLL, Jack",
+        "Votes": 14688,
+        "Percent": 37.3
+      }
+    ]
+  },
+  "1951": {
+    "title": "Darebin, VIC   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ANDREWS, Thomas",
+        "Votes": "26412",
+        "Percent": 64.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SAVAGE, Gordon",
+        "Votes": "14572",
+        "Percent": 35.6
+      }
+    ]
+  },
+  "1954": {
+    "title": "Darebin, VIC   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ANDREWS, Thomas",
+        "Votes": "28810",
+        "Percent": 65.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WHITE, Charles",
+        "Votes": "15534",
+        "Percent": 35.0
+      }
+    ]
+  },
+  "1955": {
+    "title": "Darebin, VIC   1955",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOLT, Hon Robert",
+        "Votes": "20323",
+        "Percent": 47.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WHITE, Charles",
+        "Votes": "11481",
+        "Percent": 27.0
+      },
+      {
+        "Party": "ALPAC",
+        "Candidate": "ANDREWS, Thomas",
+        "Votes": "10660",
+        "Percent": 25.1
+      }
+    ]
+  },
+  "1958": {
+    "title": "Darebin, VIC   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COURTNAY, Frank",
+        "Votes": 25213,
+        "Percent": 51.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DUNCAN, Gordon",
+        "Votes": 12400,
+        "Percent": 25.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ANDREWS, Thomas",
+        "Votes": 11710,
+        "Percent": 23.7
+      }
+    ]
+  },
+  "1961": {
+    "title": "Darebin, VIC   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COURTNAY, Frank",
+        "Votes": 28285,
+        "Percent": 55.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ANDREWS, Thomas",
+        "Votes": 11767,
+        "Percent": 22.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WYSS, John",
+        "Votes": 11228,
+        "Percent": 21.9
+      }
+    ]
+  },
+  "1963": {
+    "title": "Darebin, VIC   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "ANDREWS, Thomas",
+        "Votes": "9388",
+        "Percent": 18.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COURTNAY, Frank",
+        "Votes": "28610",
+        "Percent": 55.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "COUPE, Peter",
+        "Votes": "13688",
+        "Percent": 26.5
+      }
+    ]
+  },
+  "1966": {
+    "title": "Darebin, VIC   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COURTNAY, Frank",
+        "Votes": 25325,
+        "Percent": 49.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "STUBBS, Noel",
+        "Votes": 15601,
+        "Percent": 30.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ANDREWS, Thomas",
+        "Votes": 10232,
+        "Percent": 20.0
+      }
+    ]
+  }
+}

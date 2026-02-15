@@ -1,0 +1,343 @@
+{
+  "1946": {
+    "title": "Wimmera, VIC   1946",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "TURNBULL, Winton",
+        "Votes": 26551,
+        "Percent": 62.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LOVERIDGE, Alfred",
+        "Votes": 16216,
+        "Percent": 37.9
+      }
+    ]
+  },
+  "1949": {
+    "title": "Wimmera, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LAWRENCE, William",
+        "Votes": 13761,
+        "Percent": 39.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SUDHOLZ, Cyril",
+        "Votes": 11184,
+        "Percent": 31.7
+      },
+      {
+        "Party": "CP",
+        "Candidate": "WADE, Harrie",
+        "Votes": 10343,
+        "Percent": 29.3
+      }
+    ]
+  },
+  "1951": {
+    "title": "Wimmera, VIC   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LAWRENCE, William",
+        "Votes": "22005",
+        "Percent": 63.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SUDHOLZ, Cyril",
+        "Votes": "12932",
+        "Percent": 37.0
+      }
+    ]
+  },
+  "1954": {
+    "title": "Wimmera, VIC   1954",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "HILTON, Herbert",
+        "Votes": "8184",
+        "Percent": 23.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LAWRENCE, William",
+        "Votes": "15238",
+        "Percent": 43.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SUDHOLZ, Cyril",
+        "Votes": "11671",
+        "Percent": 33.3
+      }
+    ]
+  },
+  "1955": {
+    "title": "Wimmera, VIC   1955",
+    "rows": [
+      {
+        "Party": "ALPAC",
+        "Candidate": "FLANAGAN, Bernard",
+        "Votes": "4413",
+        "Percent": 11.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LAWRENCE, William",
+        "Votes": "22833",
+        "Percent": 58.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LAMB, Winston",
+        "Votes": "11745",
+        "Percent": 30.1
+      }
+    ]
+  },
+  "1958": {
+    "title": "Wimmera, VIC   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LAWRENCE, William",
+        "Votes": 14924,
+        "Percent": 38.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WINDSOR, Thomas",
+        "Votes": 10760,
+        "Percent": 27.6
+      },
+      {
+        "Party": "CP",
+        "Candidate": "KING, Robert",
+        "Votes": 9866,
+        "Percent": 25.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MCCAFFREY, James",
+        "Votes": 3480,
+        "Percent": 8.9
+      }
+    ]
+  },
+  "1961": {
+    "title": "Wimmera, VIC   1961",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "KING, Robert",
+        "Votes": 13364,
+        "Percent": 34.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WINDSOR, Thomas",
+        "Votes": 11567,
+        "Percent": 29.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LAWRENCE, William",
+        "Votes": 10718,
+        "Percent": 27.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MURPHY, Joseph",
+        "Votes": 3214,
+        "Percent": 8.3
+      }
+    ]
+  },
+  "1963": {
+    "title": "Wimmera, VIC   1963",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RODDA, Howard",
+        "Votes": "7599",
+        "Percent": 19.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CAHILL, Adrian",
+        "Votes": "3610",
+        "Percent": 9.3
+      },
+      {
+        "Party": "CP",
+        "Candidate": "KING, Robert",
+        "Votes": "16772",
+        "Percent": 43.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WINDSOR, Thomas",
+        "Votes": "11023",
+        "Percent": 28.3
+      }
+    ]
+  },
+  "1966": {
+    "title": "Wimmera, VIC   1966",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "KING, Robert",
+        "Votes": 14860,
+        "Percent": 38.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JEFFS, George",
+        "Votes": 10210,
+        "Percent": 26.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BOLTON, Wilson",
+        "Votes": 10139,
+        "Percent": 26.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "D'ELIA, Bruno",
+        "Votes": 3160,
+        "Percent": 8.2
+      }
+    ]
+  },
+  "1969": {
+    "title": "Wimmera, VIC   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BROOKE, Brian",
+        "Votes": 16534,
+        "Percent": 37.5
+      },
+      {
+        "Party": "CP",
+        "Candidate": "KING, Robert",
+        "Votes": 13632,
+        "Percent": 31.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BOURKE, Miles",
+        "Votes": 11015,
+        "Percent": 25.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CRONIN, Brian",
+        "Votes": 2851,
+        "Percent": 6.5
+      }
+    ]
+  },
+  "1972": {
+    "title": "Wimmera, VIC   1972",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "KING, Hon Robert",
+        "Votes": 20512,
+        "Percent": 47.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BROOKE, Brian",
+        "Votes": 18412,
+        "Percent": 42.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HAWKS, Robert",
+        "Votes": 3113,
+        "Percent": 7.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCKLEY, Ray",
+        "Votes": 1652,
+        "Percent": 3.8
+      }
+    ]
+  },
+  "1974": {
+    "title": "Wimmera, VIC   1974",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "KING, Hon Robert",
+        "Votes": 18306,
+        "Percent": 39.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BROOKE, Brian",
+        "Votes": 17338,
+        "Percent": 36.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MITCHELL, Heather",
+        "Votes": 9191,
+        "Percent": 19.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DUNN, Kevin",
+        "Votes": 1804,
+        "Percent": 3.8
+      },
+      {
+        "Party": "AP",
+        "Candidate": "SULLIVAN, Keith",
+        "Votes": 331,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1975": {
+    "title": "Wimmera, VIC   1975",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "KING, Hon Robert",
+        "Votes": 28275,
+        "Percent": 58.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BROOKE, Brian",
+        "Votes": 16030,
+        "Percent": 33.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PETERING, Francis",
+        "Votes": 1986,
+        "Percent": 4.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MCOWAN, Marjorie",
+        "Votes": 1762,
+        "Percent": 3.7
+      }
+    ]
+  }
+}

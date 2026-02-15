@@ -1,0 +1,1025 @@
+{
+  "1949": {
+    "title": "Paterson, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ROBINSON, Cecil",
+        "Votes": 14089,
+        "Percent": 37.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FAIRHALL, Allen",
+        "Votes": 11189,
+        "Percent": 30.1
+      },
+      {
+        "Party": "CP",
+        "Candidate": "DORSMAN, Arie",
+        "Votes": 5293,
+        "Percent": 14.2
+      },
+      {
+        "Party": "CP",
+        "Candidate": "MCGIRR, John",
+        "Votes": 3842,
+        "Percent": 10.3
+      },
+      {
+        "Party": "CP",
+        "Candidate": "CLENDINNING, Robert",
+        "Votes": 2101,
+        "Percent": 5.7
+      },
+      {
+        "Party": "CP",
+        "Candidate": "SLATER, Ernest",
+        "Votes": 656,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "1951": {
+    "title": "Paterson, NSW   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FAIRHALL, Allen",
+        "Votes": "21677",
+        "Percent": 57.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROBINSON, Cecil",
+        "Votes": "16312",
+        "Percent": 42.9
+      }
+    ]
+  },
+  "1954": {
+    "title": "Paterson, NSW   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FAIRHALL, Allen",
+        "Votes": "21870",
+        "Percent": 54.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BARLOW, Kevin",
+        "Votes": "18255",
+        "Percent": 45.5
+      }
+    ]
+  },
+  "1955": {
+    "title": "Paterson, NSW   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FAIRHALL, Allen",
+        "Votes": "23623",
+        "Percent": 60.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HARVEY, William",
+        "Votes": "15601",
+        "Percent": 39.8
+      }
+    ]
+  },
+  "1958": {
+    "title": "Paterson, NSW   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FAIRHALL, Hon Allen",
+        "Votes": 21064,
+        "Percent": 53.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LLOYD, Alan",
+        "Votes": 14248,
+        "Percent": 36.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DRINKWATER, Douglas",
+        "Votes": 3969,
+        "Percent": 10.1
+      }
+    ]
+  },
+  "1961": {
+    "title": "Paterson, NSW   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FAIRHALL, Hon Allen",
+        "Votes": 20155,
+        "Percent": 50.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BROWN, Robert",
+        "Votes": 16952,
+        "Percent": 42.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BARR, Aubrey",
+        "Votes": 2490,
+        "Percent": 6.3
+      }
+    ]
+  },
+  "1963": {
+    "title": "Paterson, NSW   1963",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FAIRHALL, Hon Allen",
+        "Votes": "24695",
+        "Percent": 61.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Archibald",
+        "Votes": "15503",
+        "Percent": 38.6
+      }
+    ]
+  },
+  "1966": {
+    "title": "Paterson, NSW   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FAIRHALL, Hon Allen",
+        "Votes": 25437,
+        "Percent": 63.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MURRAY, Francis",
+        "Votes": 12045,
+        "Percent": 29.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BARR, Aubrey",
+        "Votes": 2889,
+        "Percent": 7.2
+      }
+    ]
+  },
+  "1969": {
+    "title": "Paterson, NSW   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MURRAY, Francis",
+        "Votes": 16741,
+        "Percent": 37.5
+      },
+      {
+        "Party": "CP",
+        "Candidate": "O'KEEFE, Frank",
+        "Votes": 13150,
+        "Percent": 29.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JOBLING, John",
+        "Votes": 12500,
+        "Percent": 28.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "COLLINS, Herbert",
+        "Votes": 1805,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EDWARDS, Adrian",
+        "Votes": 252,
+        "Percent": 0.6
+      },
+      {
+        "Party": "AP",
+        "Candidate": "FLETCHER, Edward",
+        "Votes": 227,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1972": {
+    "title": "Paterson, NSW   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "UNICOMB, Noel",
+        "Votes": 23430,
+        "Percent": 48.0
+      },
+      {
+        "Party": "CP",
+        "Candidate": "O'KEEFE, Frank",
+        "Votes": 22970,
+        "Percent": 47.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BARR, Aubrey",
+        "Votes": 1376,
+        "Percent": 2.8
+      },
+      {
+        "Party": "AP",
+        "Candidate": "CAPP, Alan",
+        "Votes": 1005,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "1974": {
+    "title": "Paterson, NSW   1974",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "O'KEEFE, Frank",
+        "Votes": 26418,
+        "Percent": 49.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "UNICOMB, Noel",
+        "Votes": 26261,
+        "Percent": 49.0
+      },
+      {
+        "Party": "AP",
+        "Candidate": "FOWLER, Robert",
+        "Votes": 916,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "1975": {
+    "title": "Paterson, NSW   1975",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "O'KEEFE, Frank",
+        "Votes": 30985,
+        "Percent": 55.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "UNICOMB, Noel",
+        "Votes": 23397,
+        "Percent": 42.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HASSETT, Barnard",
+        "Votes": 861,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "AUSSIE-STONE, Marc",
+        "Votes": 505,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1977": {
+    "title": "Paterson, NSW   1977",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "O'KEEFE, Frank",
+        "Votes": 36740,
+        "Percent": 57.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SCOTT, Kerry",
+        "Votes": 21862,
+        "Percent": 34.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BAKER, Paul",
+        "Votes": 4250,
+        "Percent": 6.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'DONNELL, William",
+        "Votes": 923,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1980": {
+    "title": "Paterson, NSW   1980",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "O'KEEFE, Frank",
+        "Votes": 36416,
+        "Percent": 55.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MURRAY, Francis",
+        "Votes": 24946,
+        "Percent": 37.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DRIVER, Denis",
+        "Votes": 4265,
+        "Percent": 6.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "REEVE-PARKER, William",
+        "Votes": 516,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1983": {
+    "title": "Paterson, NSW   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "O'KEEFE, Frank",
+        "Votes": 37028,
+        "Percent": 54.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIAMS, Michael",
+        "Votes": 28412,
+        "Percent": 41.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WOODHOUSE, Darrel",
+        "Votes": 3048,
+        "Percent": 4.5
+      }
+    ]
+  },
+  "1993": {
+    "title": "Paterson, NSW   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "MCDONALD, Alan",
+        "Votes": "810",
+        "Percent": 1.2
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "WATSON, Gary",
+        "Votes": "4719",
+        "Percent": 6.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FRANKS, Ron",
+        "Votes": "421",
+        "Percent": 0.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HORNE, Bob",
+        "Votes": "33012",
+        "Percent": 47.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ROBERTS, Bob",
+        "Votes": "24510",
+        "Percent": 35.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SMITH, Bernadette",
+        "Votes": "1981",
+        "Percent": 2.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RIACH, Rodger",
+        "Votes": "1396",
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MACKENZIE, Bruce",
+        "Votes": "1348",
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NEVILLE, Bernie",
+        "Votes": "1295",
+        "Percent": 1.9
+      }
+    ]
+  },
+  "1996": {
+    "title": "Paterson, NSW   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BALDWIN, Bob",
+        "Votes": 34113,
+        "Percent": 45.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HORNE, Bob",
+        "Votes": 32378,
+        "Percent": 43.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SYMINGTON, Bob",
+        "Votes": 3727,
+        "Percent": 5.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DAVIS, Jan",
+        "Votes": 2647,
+        "Percent": 3.5
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "CARRICK, Tervor",
+        "Votes": 1829,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1998": {
+    "title": "Paterson, NSW   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HORNE, Bob",
+        "Votes": 33066,
+        "Percent": 43.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BALDWIN, Bob",
+        "Votes": 31212,
+        "Percent": 40.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "FULLER, Paul",
+        "Votes": 6355,
+        "Percent": 8.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DAVIS, Jan",
+        "Votes": 1577,
+        "Percent": 2.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RUTLEDGE, Geoffrey",
+        "Votes": 1467,
+        "Percent": 1.9
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "MURRAY, David",
+        "Votes": 957,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KING, Anthony",
+        "Votes": 666,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MOFFAT, Michelle",
+        "Votes": 608,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCHAN, Andrew",
+        "Votes": 448,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DELLIT, Alison",
+        "Votes": 164,
+        "Percent": 0.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "UNGER, Paul",
+        "Votes": 145,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "Paterson, NSW   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HORNE, Bob",
+        "Votes": 31430,
+        "Percent": 40.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BALDWIN, Bob",
+        "Votes": 30781,
+        "Percent": 39.9
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "SHAW, Ian",
+        "Votes": 5544,
+        "Percent": 7.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "CARY, Paul",
+        "Votes": 4233,
+        "Percent": 5.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RANKE, Aina",
+        "Votes": 2095,
+        "Percent": 2.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DAVIES, Sharon",
+        "Votes": 1979,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HENNELLY, Paul",
+        "Votes": 720,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KING, Tony",
+        "Votes": 339,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2004": {
+    "title": "Paterson, NSW   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BALDWIN, Bob",
+        "Votes": 41289,
+        "Percent": 52.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KOZARY, Giovanna",
+        "Votes": 28633,
+        "Percent": 36.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RANKE, Aina",
+        "Votes": 3303,
+        "Percent": 4.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "GRIFFITH, Charlie",
+        "Votes": 1417,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCKENZIE, Bruce",
+        "Votes": 987,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HENNELLY, Paul",
+        "Votes": 778,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KING, Tony",
+        "Votes": 727,
+        "Percent": 0.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ROBB, Larissa",
+        "Votes": 681,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TUFFY, Mike",
+        "Votes": 677,
+        "Percent": 0.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PATERSON, Brett",
+        "Votes": 577,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Neil",
+        "Votes": 351,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2007": {
+    "title": "Paterson, NSW   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BALDWIN, Hon Bob",
+        "Votes": 40466,
+        "Percent": 48.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ARNEMAN, Jim",
+        "Votes": 35291,
+        "Percent": 42.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DONNELLY, Judy",
+        "Votes": 4344,
+        "Percent": 5.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HENNELLY, Paul",
+        "Votes": 1073,
+        "Percent": 1.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "HAYNES, Heather",
+        "Votes": 1010,
+        "Percent": 1.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HAMBERGER, John",
+        "Votes": 832,
+        "Percent": 1.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "STOKES, Christopher",
+        "Votes": 559,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KING, Tony",
+        "Votes": 341,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2010": {
+    "title": "Paterson, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BALDWIN, Hon Bob",
+        "Votes": 42262,
+        "Percent": 51.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ARNEMAN, Jim",
+        "Votes": 31522,
+        "Percent": 38.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DAVIS, Jan",
+        "Votes": 4936,
+        "Percent": 6.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "LEAYR, Kevin",
+        "Votes": 1044,
+        "Percent": 1.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BALFOUR, Anna",
+        "Votes": 870,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WIEDENHORN, Josef",
+        "Votes": 699,
+        "Percent": 0.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LAMBERT, Veronica",
+        "Votes": 674,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HENNELLY, Paul",
+        "Votes": 379,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2013": {
+    "title": "Paterson, NSW   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BALDWIN, Hon Bob",
+        "Votes": 46922,
+        "Percent": 53.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MARSHALL, Bay",
+        "Votes": 25811,
+        "Percent": 29.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, John",
+        "Votes": 5812,
+        "Percent": 6.7
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "PACKETT, Jayson",
+        "Votes": 5451,
+        "Percent": 6.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BALFOUR, Anna",
+        "Votes": 1854,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOLZ, Bob",
+        "Votes": 877,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAVIS, Peter",
+        "Votes": 390,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2016": {
+    "title": "Paterson, NSW   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SWANSON, Meryl",
+        "Votes": 46090,
+        "Percent": 46.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HOWARD, Karen",
+        "Votes": 31527,
+        "Percent": 31.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BURSTON, Graham",
+        "Votes": 13056,
+        "Percent": 13.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BROWN, John",
+        "Votes": 5797,
+        "Percent": 5.8
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "ARENA, Peter",
+        "Votes": 2058,
+        "Percent": 2.1
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "CLARE, Brian",
+        "Votes": 1007,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAVIS, Peter",
+        "Votes": 533,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2019": {
+    "title": "Paterson, NSW   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SWANSON, Meryl",
+        "Votes": 44288,
+        "Percent": 41.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JOSHI, Sachin",
+        "Votes": 35059,
+        "Percent": 32.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "TURNER, Neil",
+        "Votes": 15269,
+        "Percent": 14.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DAVIS, Jan",
+        "Votes": 7439,
+        "Percent": 6.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "BURSTON, Graham",
+        "Votes": 3888,
+        "Percent": 3.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "VALE, Christoper",
+        "Votes": 1876,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "2022": {
+    "title": "Paterson, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SWANSON, Meryl",
+        "Votes": 46725,
+        "Percent": 40.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "VITNELL, Brooke",
+        "Votes": 42142,
+        "Percent": 36.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "TURNER, Neil",
+        "Votes": 9363,
+        "Percent": 8.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "IHLEIN, Louise",
+        "Votes": 8677,
+        "Percent": 7.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "OLBOURNE, Jason",
+        "Votes": 4474,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "KETAS, Angela",
+        "Votes": 1883,
+        "Percent": 1.6
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "BAILEY, Sonia",
+        "Votes": 1621,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2025": {
+    "title": "Paterson, NSW   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SWANSON, Meryl",
+        "Votes": 40290,
+        "Percent": 37.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ANTCLIFF, Laurence",
+        "Votes": 29602,
+        "Percent": 27.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PENFOLD, Philip",
+        "Votes": 10565,
+        "Percent": 9.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "WITHER, Arnon",
+        "Votes": 8254,
+        "Percent": 7.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JOHNS, Paul",
+        "Votes": 8219,
+        "Percent": 7.6
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "DRYDEN, Daniel",
+        "Votes": 4223,
+        "Percent": 3.9
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "ARENA, Peter N",
+        "Votes": 2766,
+        "Percent": 2.5
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "BRIGGS, Sandra Lyn",
+        "Votes": 2205,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOLDING, Rod",
+        "Votes": 1360,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCOTT, April Maree",
+        "Votes": 1220,
+        "Percent": 1.1
+      }
+    ]
+  }
+}

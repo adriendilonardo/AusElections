@@ -1,0 +1,1093 @@
+{
+  "1946": {
+    "title": "Richmond, NSW   1946",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ANTHONY, Hon Larry",
+        "Votes": 37826,
+        "Percent": 68.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COMPTON, Keith",
+        "Votes": 17567,
+        "Percent": 31.7
+      }
+    ]
+  },
+  "1949": {
+    "title": "Richmond, NSW   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ANTHONY, Hon Larry",
+        "Votes": 27504,
+        "Percent": 75.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRYEN, Alexander",
+        "Votes": 9139,
+        "Percent": 24.9
+      }
+    ]
+  },
+  "1951": {
+    "title": "Richmond, NSW   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BRYEN, Alexander",
+        "Votes": "8718",
+        "Percent": 23.7
+      },
+      {
+        "Party": "CP",
+        "Candidate": "ANTHONY, Hon Larry",
+        "Votes": "28034",
+        "Percent": 76.3
+      }
+    ]
+  },
+  "1954": {
+    "title": "Richmond, NSW   1954",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ANTHONY, Hon Larry",
+        "Votes": "Unopposed",
+        "Percent": 100.0
+      }
+    ]
+  },
+  "1955": {
+    "title": "Richmond, NSW   1955",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ANTHONY, Hon Larry",
+        "Votes": "Unopposed",
+        "Percent": 100.0
+      }
+    ]
+  },
+  "1958": {
+    "title": "Richmond, NSW   1958",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ANTHONY, Doug",
+        "Votes": 27516,
+        "Percent": 69.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, William",
+        "Votes": 10589,
+        "Percent": 26.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DONNELLY, Timothy",
+        "Votes": 1292,
+        "Percent": 3.3
+      }
+    ]
+  },
+  "1961": {
+    "title": "Richmond, NSW   1961",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ANTHONY, Doug",
+        "Votes": 25301,
+        "Percent": 63.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FREEMAN, Raymond",
+        "Votes": 14318,
+        "Percent": 36.1
+      }
+    ]
+  },
+  "1963": {
+    "title": "Richmond, NSW   1963",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "BRAY, Peter",
+        "Votes": "607",
+        "Percent": 1.5
+      },
+      {
+        "Party": "CP",
+        "Candidate": "ANTHONY, Doug",
+        "Votes": "26389",
+        "Percent": 66.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WALSH, Matthew",
+        "Votes": "12841",
+        "Percent": 32.2
+      }
+    ]
+  },
+  "1966": {
+    "title": "Richmond, NSW   1966",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ANTHONY, Hon Doug",
+        "Votes": 26030,
+        "Percent": 65.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COMPTON, Keith",
+        "Votes": 8407,
+        "Percent": 21.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Ernest",
+        "Votes": 5043,
+        "Percent": 12.8
+      }
+    ]
+  },
+  "1969": {
+    "title": "Richmond, NSW   1969",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ANTHONY, Hon Doug",
+        "Votes": 29600,
+        "Percent": 62.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GILMORE, Joseph",
+        "Votes": 17699,
+        "Percent": 37.4
+      }
+    ]
+  },
+  "1972": {
+    "title": "Richmond, NSW   1972",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ANTHONY, Rt Hon Doug",
+        "Votes": 28712,
+        "Percent": 57.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRAID, Frederick",
+        "Votes": 16189,
+        "Percent": 32.4
+      },
+      {
+        "Party": "AP",
+        "Candidate": "ALDERMAN, Lawrence",
+        "Votes": 5075,
+        "Percent": 10.2
+      }
+    ]
+  },
+  "1974": {
+    "title": "Richmond, NSW   1974",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ANTHONY, Rt Hon Doug",
+        "Votes": 35090,
+        "Percent": 62.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRAID, Frederick",
+        "Votes": 19216,
+        "Percent": 34.1
+      },
+      {
+        "Party": "AP",
+        "Candidate": "WALRUT, Bernard",
+        "Votes": 2090,
+        "Percent": 3.7
+      }
+    ]
+  },
+  "1975": {
+    "title": "Richmond, NSW   1975",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "ANTHONY, Rt Hon Doug",
+        "Votes": 37899,
+        "Percent": 64.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JOHNSTON, Archibald",
+        "Votes": 18766,
+        "Percent": 31.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WALRUT, Bernard",
+        "Votes": 1233,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ADAMS, Ethel",
+        "Votes": 1188,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "1977": {
+    "title": "Richmond, NSW   1977",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "ANTHONY, Rt Hon Doug",
+        "Votes": 40869,
+        "Percent": 61.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MAXWELL, Josephine",
+        "Votes": 21170,
+        "Percent": 31.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WALRUT, Bernard",
+        "Votes": 3611,
+        "Percent": 5.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MALLETT, John",
+        "Votes": 941,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1980": {
+    "title": "Richmond, NSW   1980",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "ANTHONY, Rt Hon Doug",
+        "Votes": 42037,
+        "Percent": 56.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCGEE, Terence",
+        "Votes": 26574,
+        "Percent": 36.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ALBANESE, Ashley",
+        "Votes": 5216,
+        "Percent": 7.1
+      }
+    ]
+  },
+  "1983": {
+    "title": "Richmond, NSW   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "ANTHONY, Rt Hon Doug",
+        "Votes": 42684,
+        "Percent": 53.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCGEE, Terence",
+        "Votes": 31967,
+        "Percent": 39.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NICHOLSON, Kenneth",
+        "Votes": 5906,
+        "Percent": 7.3
+      }
+    ]
+  },
+  "1984": {
+    "title": "Richmond, NSW   1984",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "BLUNT, Charles",
+        "Votes": 29364,
+        "Percent": 52.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WOLDRING, Klaas",
+        "Votes": 20565,
+        "Percent": 36.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BROWN, Ivor",
+        "Votes": 2814,
+        "Percent": 5.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SAUNDERS, Jim",
+        "Votes": 2238,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "AXENS, Jon",
+        "Votes": 866,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1987": {
+    "title": "Richmond, NSW   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "BLUNT, Charles",
+        "Votes": 31164,
+        "Percent": 51.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WOLDRING, Klaas",
+        "Votes": 21509,
+        "Percent": 35.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BROWN, Anne",
+        "Votes": 4308,
+        "Percent": 7.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NICOLSON, Mac",
+        "Votes": 4061,
+        "Percent": 6.7
+      }
+    ]
+  },
+  "1990": {
+    "title": "Richmond, NSW   1990",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "BLUNT, Charles",
+        "Votes": 28257,
+        "Percent": 40.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NEWELL, Neville",
+        "Votes": 18423,
+        "Percent": 26.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CALDICOTT, Dr Helen",
+        "Votes": 16072,
+        "Percent": 23.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GIBBS, Stan",
+        "Votes": 4346,
+        "Percent": 6.3
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "SIMS, Alan",
+        "Votes": 1032,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PATERSON, Ian",
+        "Votes": 445,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LEGGETT, Dudley",
+        "Votes": 279,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BAILLIE, Gavin",
+        "Votes": 187,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1993": {
+    "title": "Richmond, NSW   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "ERMACORA, Hugh",
+        "Votes": "812",
+        "Percent": 1.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FAITH, Josephine",
+        "Votes": "3167",
+        "Percent": 4.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NEWELL, Neville",
+        "Votes": "30418",
+        "Percent": 44.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CROOKS, Fred",
+        "Votes": "261",
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCILRATH, Christopher",
+        "Votes": "230",
+        "Percent": 0.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "ANTHONY, Larry",
+        "Votes": "17700",
+        "Percent": 25.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRAYNDLER, Moira",
+        "Votes": "155",
+        "Percent": 0.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KEMP, Eddy",
+        "Votes": "1536",
+        "Percent": 2.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FRANCIS, Bruce",
+        "Votes": "14521",
+        "Percent": 21.1
+      }
+    ]
+  },
+  "1996": {
+    "title": "Richmond, NSW   1996",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "ANTHONY, Larry",
+        "Votes": 27262,
+        "Percent": 35.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NEWELL, Neville",
+        "Votes": 26653,
+        "Percent": 34.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JOHNSON, Keith",
+        "Votes": 14180,
+        "Percent": 18.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "THORPE, Mindy",
+        "Votes": 4171,
+        "Percent": 5.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COYLE, Annette",
+        "Votes": 4043,
+        "Percent": 5.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COROWA, Robert",
+        "Votes": 638,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1998": {
+    "title": "Richmond, NSW   1998",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "ANTHONY, Larry",
+        "Votes": 32645,
+        "Percent": 40.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NEWELL, Neville",
+        "Votes": 31129,
+        "Percent": 38.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "PENHALIGON, John",
+        "Votes": 8278,
+        "Percent": 10.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TABART, Tom",
+        "Votes": 4323,
+        "Percent": 5.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CULLEN, Peter",
+        "Votes": 2305,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DEVENDRA, Alan",
+        "Votes": 1662,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PIEK, Leo",
+        "Votes": 621,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PATTERSON, Helen",
+        "Votes": 320,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2001": {
+    "title": "Richmond, NSW   2001",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "ANTHONY, Hon Larry",
+        "Votes": 32516,
+        "Percent": 44.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCALLISTER, Jenny",
+        "Votes": 24702,
+        "Percent": 34.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BARHAM, Jan",
+        "Votes": 7310,
+        "Percent": 10.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "ROLFE, Dell",
+        "Votes": 3016,
+        "Percent": 4.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BALK, Casey",
+        "Votes": 2085,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NATHAN, Julie",
+        "Votes": 942,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JEFFERYS, Dean",
+        "Votes": 919,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PENHALIGON, John",
+        "Votes": 668,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SIMPSON, Rob",
+        "Votes": 249,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FAULKNER, Nicolas",
+        "Votes": 161,
+        "Percent": 0.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PENIAZEV, Alexander",
+        "Votes": 85,
+        "Percent": 0.1
+      }
+    ]
+  },
+  "2004": {
+    "title": "Richmond, NSW   2004",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "ANTHONY, Hon Larry",
+        "Votes": 36095,
+        "Percent": 45.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIOT, Justine",
+        "Votes": 28059,
+        "Percent": 35.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FLOWER, Susanna",
+        "Votes": 9751,
+        "Percent": 12.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LEES, Craig",
+        "Votes": 1626,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TYLER, Fiona",
+        "Votes": 1417,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WINTON-BROWN, Timothy",
+        "Votes": 913,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WATT, Allan",
+        "Votes": 617,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JEFFERYS, Dean",
+        "Votes": 341,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2007": {
+    "title": "Richmond, NSW   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIOT, Justine",
+        "Votes": 35699,
+        "Percent": 43.8
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "PAGE, Dr Sue",
+        "Votes": 30134,
+        "Percent": 37.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "EBONO, Giovanni",
+        "Votes": 12168,
+        "Percent": 14.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FARMILO, Daniel",
+        "Votes": 1320,
+        "Percent": 1.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "RAYMOND, Barbara",
+        "Votes": 1039,
+        "Percent": 1.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SLEDGE, Scott",
+        "Votes": 950,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCCALLUM, Graham",
+        "Votes": 176,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2010": {
+    "title": "Richmond, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIOT, Hon Justine",
+        "Votes": 31679,
+        "Percent": 39.2
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "HUNTER, Alan",
+        "Votes": 17146,
+        "Percent": 21.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LIESHOUT, Joan van",
+        "Votes": 15425,
+        "Percent": 19.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "EBONO, Joe",
+        "Votes": 13056,
+        "Percent": 16.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOYD, Julie",
+        "Votes": 940,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARTLEY, Matthew",
+        "Votes": 805,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HEGEDUS, Stephen",
+        "Votes": 747,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FAULKNER, Nic",
+        "Votes": 536,
+        "Percent": 0.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROBINSON, David",
+        "Votes": 502,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2013": {
+    "title": "Richmond, NSW   2013",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "FRASER, Matthew",
+        "Votes": 32066,
+        "Percent": 37.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIOT, Hon Justine",
+        "Votes": 28575,
+        "Percent": 33.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WALKER, Dawn",
+        "Votes": 15083,
+        "Percent": 17.7
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "ALLEN, Charles",
+        "Votes": 6359,
+        "Percent": 7.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SKINNER, Kev",
+        "Votes": 1971,
+        "Percent": 2.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "ORDISH, John",
+        "Votes": 1224,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2016": {
+    "title": "Richmond, NSW   2016",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "FRASER, Matthew",
+        "Votes": 37006,
+        "Percent": 37.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIOT, Hon Justine",
+        "Votes": 30551,
+        "Percent": 31.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WALKER, Dawn",
+        "Votes": 20108,
+        "Percent": 20.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SMITH, Neil",
+        "Votes": 6160,
+        "Percent": 6.3
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "POLLARD, Angela",
+        "Votes": 3089,
+        "Percent": 3.1
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "KILARNEY, Russell",
+        "Votes": 1484,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "2019": {
+    "title": "Richmond, NSW   2019",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "FRASER, Matthew",
+        "Votes": 36979,
+        "Percent": 36.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIOT, Hon Justine",
+        "Votes": 31807,
+        "Percent": 31.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LYON, Michael",
+        "Votes": 20384,
+        "Percent": 20.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MITCHELL, Hamish",
+        "Votes": 3913,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCDONALD, Ronald",
+        "Votes": 3154,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KARAM, Ray",
+        "Votes": 1566,
+        "Percent": 1.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "COX, Morgan",
+        "Votes": 1338,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARNETT, Tom",
+        "Votes": 1179,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2022": {
+    "title": "Richmond, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIOT, Hon Justine",
+        "Votes": 28733,
+        "Percent": 28.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NOLAN, Mandy",
+        "Votes": 25216,
+        "Percent": 25.3
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "HONE, Kimberly",
+        "Votes": 23299,
+        "Percent": 23.3
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "BIGGS, Gary",
+        "Votes": 7681,
+        "Percent": 7.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "BELL-HENSELIN, Tracey",
+        "Votes": 4073,
+        "Percent": 4.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MARKS, Robert",
+        "Votes": 2922,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WARTH, David",
+        "Votes": 2341,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "SHEPHERD, Monica",
+        "Votes": 2271,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JONES, Nathan",
+        "Votes": 1974,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHARPLES, Terry",
+        "Votes": 1274,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2025": {
+    "title": "Richmond, NSW   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIOT, Justine",
+        "Votes": 31901,
+        "Percent": 30.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NOLAN, Mandy",
+        "Votes": 27783,
+        "Percent": 26.5
+      },
+      {
+        "Party": "NP",
+        "Candidate": "HONE, Kimberly",
+        "Votes": 25795,
+        "Percent": 24.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MYE, Ian",
+        "Votes": 5709,
+        "Percent": 5.4
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "McMAHON, Vivian Mac",
+        "Votes": 3998,
+        "Percent": 3.8
+      },
+      {
+        "Party": "GRPF",
+        "Candidate": "CURTIN, Richard",
+        "Votes": 3364,
+        "Percent": 3.2
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "PETERKIN, Phillip Byron",
+        "Votes": 2052,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LOUGHREY, Kevin",
+        "Votes": 1754,
+        "Percent": 1.7
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "WILLIS, Ian Cherry",
+        "Votes": 1619,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "McKENZIE, James Ian",
+        "Votes": 977,
+        "Percent": 0.9
+      }
+    ]
+  }
+}

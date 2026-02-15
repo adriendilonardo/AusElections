@@ -1,0 +1,284 @@
+{
+  "2010": {
+    "title": "Wright, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "BUCHHOLTZ, Scott",
+        "Votes": 40031,
+        "Percent": 53.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "RAMSAY, Andrew",
+        "Votes": 20946,
+        "Percent": 27.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BRIDLE, Anna",
+        "Votes": 9010,
+        "Percent": 12.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "FREDERICKS, Jeremy",
+        "Votes": 2923,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DEGEN, Ken",
+        "Votes": 2497,
+        "Percent": 3.3
+      }
+    ]
+  },
+  "2013": {
+    "title": "Wright, QLD   2013",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "BUCHHOLZ, Scott",
+        "Votes": 38630,
+        "Percent": 47.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MURAKAMI, Sharon",
+        "Votes": 17267,
+        "Percent": 21.4
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "ISON, Angie",
+        "Votes": 11691,
+        "Percent": 14.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SUMMERS, Judith",
+        "Votes": 4358,
+        "Percent": 5.4
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "NEUENDORF, David",
+        "Votes": 4332,
+        "Percent": 5.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LYNCH, Stephen",
+        "Votes": 2087,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WRIGHT, Matthew",
+        "Votes": 1810,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MAUNDER, Tony",
+        "Votes": 565,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2016": {
+    "title": "Wright, QLD   2016",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "BUCHHOLZ, Scott",
+        "Votes": 36935,
+        "Percent": 41.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Allistair",
+        "Votes": 20110,
+        "Percent": 22.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SMITH, Rod",
+        "Votes": 18461,
+        "Percent": 20.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "AGNOLETTO, Pietro",
+        "Votes": 6768,
+        "Percent": 7.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "AUSTIN, Barry",
+        "Votes": 3163,
+        "Percent": 3.6
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "STONE, Mark",
+        "Votes": 1979,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COX, John",
+        "Votes": 902,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2019": {
+    "title": "Wright, QLD   2019",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "BUCHHOLZ, Scott",
+        "Votes": 43522,
+        "Percent": 44.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCCREADIE, Pam",
+        "Votes": 18155,
+        "Percent": 18.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "O'CALLAGHAN, Chris",
+        "Votes": 13576,
+        "Percent": 14.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GIRARD, Shannon",
+        "Votes": 6951,
+        "Percent": 7.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LARKIN, Innes",
+        "Votes": 5165,
+        "Percent": 5.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "WRIGHT, David",
+        "Votes": 4747,
+        "Percent": 4.9
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "TOMLINSON, Matthew",
+        "Votes": 2613,
+        "Percent": 2.7
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "SMITH, Rod",
+        "Votes": 2164,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "2022": {
+    "title": "Wright, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BUCHHOLZ, Hon Scott",
+        "Votes": 45753,
+        "Percent": 43.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCCREADIE, Pam",
+        "Votes": 22643,
+        "Percent": 21.4
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "HICKS, Keith",
+        "Votes": 15095,
+        "Percent": 14.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "THOMPSON, Nicole",
+        "Votes": 12107,
+        "Percent": 11.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "DUFFILL, Cassandra",
+        "Votes": 8703,
+        "Percent": 8.2
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "BANASIAK, Shonna-Lee",
+        "Votes": 1632,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "2025": {
+    "title": "Wright, QLD   2025",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "BUCHHOLZ, Scott",
+        "Votes": 39809,
+        "Percent": 34.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "McCREADIE, Pam",
+        "Votes": 29708,
+        "Percent": 25.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "DAVIS, Natalie",
+        "Votes": 18998,
+        "Percent": 16.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "THOMPSON, Nicole",
+        "Votes": 11128,
+        "Percent": 9.5
+      },
+      {
+        "Party": "GRPF",
+        "Candidate": "McGUINESS, Justin",
+        "Votes": 5928,
+        "Percent": 5.1
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "THOMPSON, Scott",
+        "Votes": 5864,
+        "Percent": 5.0
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "ROSE, Julie",
+        "Votes": 3179,
+        "Percent": 2.7
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "SNYMAN, Chloe Leeanne",
+        "Votes": 2266,
+        "Percent": 1.9
+      }
+    ]
+  }
+}

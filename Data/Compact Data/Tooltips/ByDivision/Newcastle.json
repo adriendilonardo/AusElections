@@ -1,0 +1,1243 @@
+{
+  "1946": {
+    "title": "Newcastle, NSW   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WATKINS, David",
+        "Votes": 38203,
+        "Percent": 58.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FAIRHALL, Allen",
+        "Votes": 15124,
+        "Percent": 23.3
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "DEACON, Stanley",
+        "Votes": 4616,
+        "Percent": 7.1
+      },
+      {
+        "Party": "ALPN",
+        "Candidate": "DICKER, Charles",
+        "Votes": 2474,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLAND, Grahame",
+        "Votes": 1466,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DARK, Edwin",
+        "Votes": 923,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILSON, Frederick",
+        "Votes": 723,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LONGWORTH, Isabel",
+        "Votes": 626,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLARKE, Arthur",
+        "Votes": 360,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ELLIS, Harry",
+        "Votes": 336,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1949": {
+    "title": "Newcastle, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WATKINS, David",
+        "Votes": 21705,
+        "Percent": 55.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "QUINLAN, Harry",
+        "Votes": 15529,
+        "Percent": 39.9
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "AARONS, Laurence",
+        "Votes": 1257,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLAND, Grahame",
+        "Votes": 445,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1951": {
+    "title": "Newcastle, NSW   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WATKINS, David",
+        "Votes": "23152",
+        "Percent": 60.5
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "AARONS, Laurence",
+        "Votes": "1645",
+        "Percent": 4.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "STEWART, Roy",
+        "Votes": "13485",
+        "Percent": 35.2
+      }
+    ]
+  },
+  "1954": {
+    "title": "Newcastle, NSW   1954",
+    "rows": [
+      {
+        "Party": "CPA",
+        "Candidate": "OLIVE, Douglas",
+        "Votes": "716",
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MONROE, Sydney",
+        "Votes": "490",
+        "Percent": 1.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WATKINS, David",
+        "Votes": "20854",
+        "Percent": 57.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TAPP, Matthew",
+        "Votes": "14011",
+        "Percent": 38.8
+      }
+    ]
+  },
+  "1955": {
+    "title": "Newcastle, NSW   1955",
+    "rows": [
+      {
+        "Party": "CPA",
+        "Candidate": "OLIVE, Douglas",
+        "Votes": "879",
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MONROE, Sidney",
+        "Votes": "522",
+        "Percent": 1.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WATKINS, David",
+        "Votes": "23801",
+        "Percent": 59.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CUPIT, Eric",
+        "Votes": "15017",
+        "Percent": 37.3
+      }
+    ]
+  },
+  "1958": {
+    "title": "Newcastle, NSW   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Charles",
+        "Votes": 23235,
+        "Percent": 59.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WATKINS, Alwyn",
+        "Votes": 11486,
+        "Percent": 29.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "COLLINS, Herbert",
+        "Votes": 3226,
+        "Percent": 8.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PEPPERALL, Mary",
+        "Votes": 676,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MONROE, Sidney",
+        "Votes": 151,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1961": {
+    "title": "Newcastle, NSW   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Charles",
+        "Votes": 23315,
+        "Percent": 62.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WANSEY, Henry",
+        "Votes": 10488,
+        "Percent": 28.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ANSELL, Hugh",
+        "Votes": 3330,
+        "Percent": 9.0
+      }
+    ]
+  },
+  "1963": {
+    "title": "Newcastle, NSW   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "COLLINS, Herbert",
+        "Votes": "2559",
+        "Percent": 7.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Charles",
+        "Votes": "21434",
+        "Percent": 58.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CUPIT, Eric",
+        "Votes": "12518",
+        "Percent": 34.3
+      }
+    ]
+  },
+  "1966": {
+    "title": "Newcastle, NSW   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Charles",
+        "Votes": 19682,
+        "Percent": 56.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CLACK, Frances",
+        "Votes": 12000,
+        "Percent": 34.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "COLLINS, Herbert",
+        "Votes": 2054,
+        "Percent": 5.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRIDGE, Warren",
+        "Votes": 1392,
+        "Percent": 4.0
+      }
+    ]
+  },
+  "1969": {
+    "title": "Newcastle, NSW   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Charles",
+        "Votes": 32469,
+        "Percent": 62.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "APPLEBY, Alfred",
+        "Votes": 17662,
+        "Percent": 34.2
+      },
+      {
+        "Party": "AP",
+        "Candidate": "BOHAKTO, Wlodzimierz",
+        "Votes": 1505,
+        "Percent": 2.9
+      }
+    ]
+  },
+  "1972": {
+    "title": "Newcastle, NSW   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Charles",
+        "Votes": 33451,
+        "Percent": 64.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BLACKSHAW, Douglas",
+        "Votes": 14683,
+        "Percent": 28.5
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "ANDERSON, Henry",
+        "Votes": 1951,
+        "Percent": 3.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "GODFREY, Robert",
+        "Votes": 1441,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "1974": {
+    "title": "Newcastle, NSW   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Hon Charles",
+        "Votes": 38554,
+        "Percent": 70.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "THOMAS, Arthur",
+        "Votes": 14947,
+        "Percent": 27.1
+      },
+      {
+        "Party": "AP",
+        "Candidate": "ROSE, Ellen",
+        "Votes": 1590,
+        "Percent": 2.9
+      }
+    ]
+  },
+  "1975": {
+    "title": "Newcastle, NSW   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Hon Charles",
+        "Votes": 34170,
+        "Percent": 61.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "THOMAS, Arthur",
+        "Votes": 20045,
+        "Percent": 36.3
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "ROSS, David",
+        "Votes": 1027,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "1977": {
+    "title": "Newcastle, NSW   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Hon Charles",
+        "Votes": 38620,
+        "Percent": 57.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SAMUELS, Elaine",
+        "Votes": 22485,
+        "Percent": 33.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HAY, Ian",
+        "Votes": 3546,
+        "Percent": 5.3
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "DAWSON, Darrell",
+        "Votes": 2763,
+        "Percent": 4.1
+      }
+    ]
+  },
+  "1980": {
+    "title": "Newcastle, NSW   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Hon Charles",
+        "Votes": 38321,
+        "Percent": 58.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BEVAN, Richard",
+        "Votes": 22823,
+        "Percent": 34.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CLEVERLY, John",
+        "Votes": 2132,
+        "Percent": 3.2
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "DAWSON, Darrell",
+        "Votes": 1629,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PAYNE, Geoffrey",
+        "Votes": 1204,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "1983": {
+    "title": "Newcastle, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Allan",
+        "Votes": 39003,
+        "Percent": 59.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HAYWARD, Stanley",
+        "Votes": 17842,
+        "Percent": 27.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JARMAN, Wayne",
+        "Votes": 2951,
+        "Percent": 4.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLEFARI, Frank",
+        "Votes": 2355,
+        "Percent": 3.6
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "DAWSON, Darrell",
+        "Votes": 1732,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCDERMOTT, Brian",
+        "Votes": 959,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PAYNE, Geoffrey",
+        "Votes": 573,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1984": {
+    "title": "Newcastle, NSW   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Allan",
+        "Votes": 33715,
+        "Percent": 56.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SAUNDERS, Ashley",
+        "Votes": 10840,
+        "Percent": 18.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GEDDES, Don",
+        "Votes": 10460,
+        "Percent": 17.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JEFFRIES, Steve",
+        "Votes": 3570,
+        "Percent": 6.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAMPBELL, Jim",
+        "Votes": 837,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1987": {
+    "title": "Newcastle, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Allan",
+        "Votes": 31095,
+        "Percent": 51.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEEGAN, George",
+        "Votes": 16362,
+        "Percent": 27.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TAGGART, Alan",
+        "Votes": 9978,
+        "Percent": 16.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RENDLE, Rae",
+        "Votes": 2948,
+        "Percent": 4.9
+      }
+    ]
+  },
+  "1990": {
+    "title": "Newcastle, NSW   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Allan",
+        "Votes": 33650,
+        "Percent": 53.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MAUGHAN, Leigh",
+        "Votes": 11108,
+        "Percent": 17.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HALLETT, Mark",
+        "Votes": 9269,
+        "Percent": 14.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MARTIN, Malcolm",
+        "Votes": 7273,
+        "Percent": 11.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLEFARI, Frank",
+        "Votes": 972,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FORSTER, Con",
+        "Votes": 352,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1993": {
+    "title": "Newcastle, NSW   1993",
+    "rows": [
+      {
+        "Party": "CTA",
+        "Candidate": "KENDALL, Jim",
+        "Votes": "762",
+        "Percent": 1.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WHELAN, James",
+        "Votes": "5349",
+        "Percent": 7.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Allan",
+        "Votes": "41268",
+        "Percent": 56.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JACKSON, Lewina",
+        "Votes": "354",
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLEFARI, Frank",
+        "Votes": "292",
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WELSH, Ivan",
+        "Votes": "2658",
+        "Percent": 3.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BAINES, Greg",
+        "Votes": "2109",
+        "Percent": 2.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TURNER, Glen",
+        "Votes": "20030",
+        "Percent": 27.5
+      }
+    ]
+  },
+  "1996": {
+    "title": "Newcastle, NSW   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Allan",
+        "Votes": 36146,
+        "Percent": 50.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WELSH, Ivan",
+        "Votes": 21938,
+        "Percent": 30.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BOETTCHER, Barry",
+        "Votes": 7126,
+        "Percent": 9.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BURGESS, Cathy",
+        "Votes": 6288,
+        "Percent": 8.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EMANUEL, Kamala",
+        "Votes": 591,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1998": {
+    "title": "Newcastle, NSW   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Allan",
+        "Votes": 31441,
+        "Percent": 47.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "TAYLOR, Kate",
+        "Votes": 10466,
+        "Percent": 16.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JACOBI, Carrie",
+        "Votes": 5965,
+        "Percent": 9.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BISGROVE, Stephen",
+        "Votes": 5607,
+        "Percent": 8.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WELSH, Ivan",
+        "Votes": 4398,
+        "Percent": 6.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CRITICOS, Harry",
+        "Votes": 2718,
+        "Percent": 4.2
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BUDWORTH, Greg",
+        "Votes": 1798,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILLIAMS, Harry",
+        "Votes": 1131,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOYD, Peter",
+        "Votes": 757,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PAYNE, Geoff",
+        "Votes": 662,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KING, Tony",
+        "Votes": 280,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "Newcastle, NSW   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRIERSON, Sharon",
+        "Votes": 32780,
+        "Percent": 40.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WILLIAMS, David",
+        "Votes": 24312,
+        "Percent": 30.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SUTTON, John",
+        "Votes": 6022,
+        "Percent": 7.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "LAWN, Barrie",
+        "Votes": 4753,
+        "Percent": 5.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KAVANAGH, Mary",
+        "Votes": 4601,
+        "Percent": 5.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILLIAMS, Harry",
+        "Votes": 4093,
+        "Percent": 5.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CRITICOS, Harry",
+        "Votes": 1899,
+        "Percent": 2.4
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "BATTERSBY, Elaine",
+        "Votes": 1238,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KILLION-DELCASTILLO, Erin",
+        "Votes": 354,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2004": {
+    "title": "Newcastle, NSW   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRIERSON, Sharon",
+        "Votes": 37392,
+        "Percent": 46.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BARFIELD, Josephine",
+        "Votes": 28902,
+        "Percent": 35.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROOKE-FRIZELL, Annie",
+        "Votes": 9701,
+        "Percent": 11.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SMITH, Eddie",
+        "Votes": 2018,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILLIAMS, Harry",
+        "Votes": 2001,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOWER, Don",
+        "Votes": 813,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROBSON, Peter",
+        "Votes": 491,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2007": {
+    "title": "Newcastle, NSW   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRIERSON, Sharon",
+        "Votes": 42936,
+        "Percent": 50.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WALKER, Krysia",
+        "Votes": 21611,
+        "Percent": 25.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ECKERSLEY, Charmian",
+        "Votes": 8463,
+        "Percent": 10.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUMAN, Aaron",
+        "Votes": 6343,
+        "Percent": 7.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "EAST, Malcolm",
+        "Votes": 1926,
+        "Percent": 2.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "CAINE, Milton",
+        "Votes": 1064,
+        "Percent": 1.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JOHNSON, Aaron",
+        "Votes": 891,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CURRY, Joel",
+        "Votes": 701,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PAYNE, Geoff",
+        "Votes": 333,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOLT, Noel",
+        "Votes": 277,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "Newcastle, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRIERSON, Sharon",
+        "Votes": 39253,
+        "Percent": 47.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LUKE, Brad",
+        "Votes": 25680,
+        "Percent": 31.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "OSBORNE, Michael",
+        "Votes": 12677,
+        "Percent": 15.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "CAINE, Milton",
+        "Votes": 1479,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WINTER, Dean",
+        "Votes": 1419,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ALCORN, Zane",
+        "Votes": 829,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOLT, Noel",
+        "Votes": 627,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2013": {
+    "title": "Newcastle, NSW   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLAYDON, Sharon",
+        "Votes": 37391,
+        "Percent": 43.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ABBOTT, Jaimie",
+        "Votes": 29632,
+        "Percent": 34.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "OSBORNE, Michael",
+        "Votes": 10258,
+        "Percent": 12.0
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "MCLELLAN, Yegon",
+        "Votes": 3518,
+        "Percent": 4.1
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "CAINE, Milton",
+        "Votes": 1091,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCURRY, Susanna",
+        "Votes": 1026,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHEHOFF, Michael",
+        "Votes": 922,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOLDING, Rod",
+        "Votes": 674,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ALCORN, Zane",
+        "Votes": 616,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HIGGINS, Lawrence",
+        "Votes": 367,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2016": {
+    "title": "Newcastle, NSW   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLAYDON, Sharon",
+        "Votes": 46762,
+        "Percent": 47.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "COMPTON, David",
+        "Votes": 29689,
+        "Percent": 29.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MACKENZIE, John",
+        "Votes": 13558,
+        "Percent": 13.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BURGE, Karen",
+        "Votes": 3391,
+        "Percent": 3.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOLDING, Rod",
+        "Votes": 2735,
+        "Percent": 2.8
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "CAINE, Milton",
+        "Votes": 2132,
+        "Percent": 2.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SOUTHWELL, Stuart",
+        "Votes": 968,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2019": {
+    "title": "Newcastle, NSW   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLAYDON, Sharon",
+        "Votes": 47137,
+        "Percent": 45.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WARK, Katrina",
+        "Votes": 30107,
+        "Percent": 29.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MACKENZIE, John",
+        "Votes": 16038,
+        "Percent": 15.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SCULLY, Geoffrey",
+        "Votes": 3471,
+        "Percent": 3.4
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "BROLLO, Darren",
+        "Votes": 3300,
+        "Percent": 3.2
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "WISE, Pam",
+        "Votes": 1928,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FUTTER, B J",
+        "Votes": 1086,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2022": {
+    "title": "Newcastle, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLAYDON, Sharon",
+        "Votes": 46551,
+        "Percent": 44.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WARK, Katrina",
+        "Votes": 25816,
+        "Percent": 24.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCCABE, Charlotte",
+        "Votes": 21195,
+        "Percent": 20.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "WATSON, Mark",
+        "Votes": 4757,
+        "Percent": 4.5
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "BROLLO, Emily",
+        "Votes": 2549,
+        "Percent": 2.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "COOK, Amanda",
+        "Votes": 2517,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "HUSSEY, William",
+        "Votes": 1140,
+        "Percent": 1.1
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "PYWELL, Garth",
+        "Votes": 1102,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2025": {
+    "title": "Newcastle, NSW   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLAYDON, Sharon",
+        "Votes": 49054,
+        "Percent": 45.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "McCABE, Charlotte",
+        "Votes": 24061,
+        "Percent": 22.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "McPHEE, Asarri",
+        "Votes": 20638,
+        "Percent": 19.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HEYNE, Phillip",
+        "Votes": 5789,
+        "Percent": 5.3
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "STEFANAC, Jennifer",
+        "Votes": 3861,
+        "Percent": 3.6
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "BRIGGS, Jason",
+        "Votes": 2319,
+        "Percent": 2.1
+      },
+      {
+        "Party": "SAL",
+        "Candidate": "O'BRIEN, Steve",
+        "Votes": 1656,
+        "Percent": 1.5
+      },
+      {
+        "Party": "NAFD",
+        "Candidate": "CREECH, Robert",
+        "Votes": 888,
+        "Percent": 0.8
+      }
+    ]
+  }
+}

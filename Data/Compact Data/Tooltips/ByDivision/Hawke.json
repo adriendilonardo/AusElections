@@ -1,0 +1,120 @@
+{
+  "2022": {
+    "title": "Hawke, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RAE, Sam",
+        "Votes": 32020,
+        "Percent": 36.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HAQUE, Dr Enamul",
+        "Votes": 22960,
+        "Percent": 26.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WHEELOCK, Lynda",
+        "Votes": 7785,
+        "Percent": 8.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BINGHAM, Jarrod",
+        "Votes": 6908,
+        "Percent": 7.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "CUTHBERTSON, Andrew",
+        "Votes": 6131,
+        "Percent": 7.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "SUDUK, Nick",
+        "Votes": 4872,
+        "Percent": 5.6
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "WILLIAMS, Michael",
+        "Votes": 1926,
+        "Percent": 2.2
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "LACEY, Michael",
+        "Votes": 1827,
+        "Percent": 2.1
+      },
+      {
+        "Party": "TNL",
+        "Candidate": "MARTUCCI, Max",
+        "Votes": 1432,
+        "Percent": 1.6
+      },
+      {
+        "Party": "VS",
+        "Candidate": "HYNES, Jack",
+        "Votes": 889,
+        "Percent": 1.0
+      },
+      {
+        "Party": "ACP",
+        "Candidate": "VESSEY, Glenn",
+        "Votes": 434,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2025": {
+    "title": "Hawke, VIC   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RAE, Sam",
+        "Votes": 40619,
+        "Percent": 39.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "COTTOM, Simmone",
+        "Votes": 31383,
+        "Percent": 30.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NEWMAN, Sarah",
+        "Votes": 10178,
+        "Percent": 9.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "KATSELIS, Matthew",
+        "Votes": 10035,
+        "Percent": 9.7
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "STARBUCK, Devon",
+        "Votes": 5177,
+        "Percent": 5.0
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "MILUTINOVIC, Melanie",
+        "Votes": 4356,
+        "Percent": 4.2
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "ADIN-JAMES, Fiona",
+        "Votes": 2069,
+        "Percent": 2.0
+      }
+    ]
+  }
+}

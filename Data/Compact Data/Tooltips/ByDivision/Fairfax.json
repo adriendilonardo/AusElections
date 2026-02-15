@@ -1,0 +1,689 @@
+{
+  "1984": {
+    "title": "Fairfax, QLD   1984",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "ADERMANN, Hon Evan",
+        "Votes": 23593,
+        "Percent": 45.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SHOOTER, Peter",
+        "Votes": 17607,
+        "Percent": 33.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WELCH, Terry",
+        "Votes": 7402,
+        "Percent": 14.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BORSELLINO, Bob",
+        "Votes": 3608,
+        "Percent": 6.9
+      }
+    ]
+  },
+  "1987": {
+    "title": "Fairfax, QLD   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "ADERMANN, Hon Evan",
+        "Votes": 24817,
+        "Percent": 39.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Alison",
+        "Votes": 21953,
+        "Percent": 35.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BRANNELLY, Joy",
+        "Votes": 10733,
+        "Percent": 17.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STOCKWELL, Brian",
+        "Votes": 4786,
+        "Percent": 7.7
+      }
+    ]
+  },
+  "1990": {
+    "title": "Fairfax, QLD   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MUSPRATT, Beryl",
+        "Votes": 26017,
+        "Percent": 32.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "STONE, John",
+        "Votes": 20928,
+        "Percent": 26.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SOMLYAY, Alex",
+        "Votes": 20395,
+        "Percent": 25.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BORSELLINO, Bob",
+        "Votes": 10439,
+        "Percent": 13.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ADAMS, Sheila",
+        "Votes": 1528,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "1993": {
+    "title": "Fairfax, QLD   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "VALENTINE, Keith",
+        "Votes": "924",
+        "Percent": 1.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "OSS-EMER, Elizabeth",
+        "Votes": "3313",
+        "Percent": 4.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SOMLYAY, Alex",
+        "Votes": "28686",
+        "Percent": 40.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PARNELL, Peter",
+        "Votes": "2858",
+        "Percent": 4.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ORTON, Kerry",
+        "Votes": "22022",
+        "Percent": 30.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FERRARO, Santo",
+        "Votes": "1646",
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HENDERSON, John",
+        "Votes": "1567",
+        "Percent": 2.2
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "SIMPSON, Gordon",
+        "Votes": "10382",
+        "Percent": 14.5
+      }
+    ]
+  },
+  "1996": {
+    "title": "Fairfax, QLD   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SOMLYAY, Alex",
+        "Votes": 44994,
+        "Percent": 62.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MARCONI, Peter",
+        "Votes": 17355,
+        "Percent": 24.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "OSS-EMER, Elizabeth",
+        "Votes": 5808,
+        "Percent": 8.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FITZGERALD, John",
+        "Votes": 3868,
+        "Percent": 5.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HICKS, Colin",
+        "Votes": 384,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1998": {
+    "title": "Fairfax, QLD   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SOMLYAY, Hon Alex",
+        "Votes": 24709,
+        "Percent": 36.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HENDERSON, John",
+        "Votes": 19679,
+        "Percent": 28.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "ANNING, Fraser",
+        "Votes": 12171,
+        "Percent": 17.7
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "HORSWOOD, Lindsay",
+        "Votes": 4692,
+        "Percent": 6.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RYAN, John",
+        "Votes": 2754,
+        "Percent": 4.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BAKHASH, Peter",
+        "Votes": 2381,
+        "Percent": 3.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "COOK, Harry",
+        "Votes": 1280,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARPER, Mike",
+        "Votes": 921,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2001": {
+    "title": "Fairfax, QLD   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SOMLYAY, Hon Alex",
+        "Votes": 35868,
+        "Percent": 47.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HENDERSON, John",
+        "Votes": 19101,
+        "Percent": 25.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PAULGER, Shane",
+        "Votes": 7519,
+        "Percent": 9.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MACKELLAR, Jim",
+        "Votes": 6281,
+        "Percent": 8.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RINGROSE, Joy",
+        "Votes": 3791,
+        "Percent": 5.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JACKSON, Karen",
+        "Votes": 3670,
+        "Percent": 4.8
+      }
+    ]
+  },
+  "2004": {
+    "title": "Fairfax, QLD   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SOMLYAY, Hon Alex",
+        "Votes": 39075,
+        "Percent": 52.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MOLLOY, Ivan",
+        "Votes": 20289,
+        "Percent": 27.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NORRIS, David",
+        "Votes": 7536,
+        "Percent": 10.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HUNT, Paula",
+        "Votes": 3390,
+        "Percent": 4.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "ROZANSKI, Patrick",
+        "Votes": 2317,
+        "Percent": 3.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CAMPBELL, Debbie",
+        "Votes": 1896,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WATT, Kevin",
+        "Votes": 216,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2007": {
+    "title": "Fairfax, QLD   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SOMLYAY, Hon Alex",
+        "Votes": 38470,
+        "Percent": 46.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BLUMEL, Debbie",
+        "Votes": 29960,
+        "Percent": 36.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NORRIS, Dave",
+        "Votes": 7011,
+        "Percent": 8.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "WOODS, Lisa",
+        "Votes": 3287,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PHILLIPS, Max",
+        "Votes": 1300,
+        "Percent": 1.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SAVAGE, Kevin J",
+        "Votes": 861,
+        "Percent": 1.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HASHEMI, Janette",
+        "Votes": 764,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WATT, Kevin",
+        "Votes": 514,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2010": {
+    "title": "Fairfax, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "SOMLYAY, Hon Alex",
+        "Votes": 39102,
+        "Percent": 49.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCINTYRE, Dan",
+        "Votes": 21589,
+        "Percent": 27.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCCARTHY, Narelle",
+        "Votes": 14228,
+        "Percent": 18.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HUNT, Ron",
+        "Votes": 4147,
+        "Percent": 5.2
+      }
+    ]
+  },
+  "2013": {
+    "title": "Fairfax, QLD   2013",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "O'BRIEN, Ted",
+        "Votes": 34959,
+        "Percent": 41.4
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "PALMER, Clive",
+        "Votes": 22409,
+        "Percent": 26.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HUGHES, Elaine",
+        "Votes": 15429,
+        "Percent": 18.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KNOBEL, David",
+        "Votes": 7046,
+        "Percent": 8.3
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "SAWYER, Ray",
+        "Votes": 1623,
+        "Percent": 1.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MEYER, Angela",
+        "Votes": 1416,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BYRNES, Trudy",
+        "Votes": 1016,
+        "Percent": 1.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HOLT, Mike",
+        "Votes": 709,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2016": {
+    "title": "Fairfax, QLD   2016",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "O'BRIEN, Ted",
+        "Votes": 44787,
+        "Percent": 48.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ANDERSON, Scott",
+        "Votes": 19054,
+        "Percent": 20.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ETHERIDGE, Susan",
+        "Votes": 11672,
+        "Percent": 12.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "PASQUALI, Robert",
+        "Votes": 9006,
+        "Percent": 9.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAMPBELL, Keith",
+        "Votes": 2886,
+        "Percent": 3.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "REES, David",
+        "Votes": 2449,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DICKSON, Robert",
+        "Votes": 1985,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BULLEN, Kris",
+        "Votes": 624,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2019": {
+    "title": "Fairfax, QLD   2019",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "O'BRIEN, Ted",
+        "Votes": 48451,
+        "Percent": 49.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCGLONE, Julie",
+        "Votes": 20976,
+        "Percent": 21.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ETHERIDGE, Sue",
+        "Votes": 12291,
+        "Percent": 12.6
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "HENSELIN, Paul",
+        "Votes": 7661,
+        "Percent": 7.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "COWLING, Kylie",
+        "Votes": 2987,
+        "Percent": 3.1
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "RYAN, Jake",
+        "Votes": 1502,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BELCHER, Richard",
+        "Votes": 1410,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "AUSTRALIE, Sinim",
+        "Votes": 1318,
+        "Percent": 1.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "CADART, Bertrand",
+        "Votes": 1044,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2022": {
+    "title": "Fairfax, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "O'BRIEN, Ted",
+        "Votes": 46551,
+        "Percent": 44.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FERGUSON, Sue",
+        "Votes": 22662,
+        "Percent": 21.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ETHERIDGE, Sue",
+        "Votes": 13862,
+        "Percent": 13.4
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "CIVITARESE, Nikki",
+        "Votes": 6798,
+        "Percent": 6.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "KHOURY, Lisa",
+        "Votes": 6132,
+        "Percent": 5.9
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "POOLE, Tash",
+        "Votes": 2182,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "HAZELTON, Wendy",
+        "Votes": 1997,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Barry",
+        "Votes": 1423,
+        "Percent": 1.4
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "WHITE, Craig",
+        "Votes": 1319,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "AUSTRALIE, Sinim",
+        "Votes": 733,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2025": {
+    "title": "Fairfax, QLD   2025",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "O'BRIEN, Ted",
+        "Votes": 42075,
+        "Percent": 37.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "McQUEEN, Naomi",
+        "Votes": 27607,
+        "Percent": 24.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WIIG, Francine",
+        "Votes": 13085,
+        "Percent": 11.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ETHERIDGE, Sue",
+        "Votes": 11351,
+        "Percent": 10.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MARSH, Beatrice",
+        "Votes": 8232,
+        "Percent": 7.4
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "SANDERSON, Rhys",
+        "Votes": 3816,
+        "Percent": 3.4
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "RYZY, Gregory",
+        "Votes": 3063,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "McKEOWN, Paul",
+        "Votes": 1819,
+        "Percent": 1.6
+      }
+    ]
+  }
+}

@@ -1,0 +1,665 @@
+{
+  "1984": {
+    "title": "Forde, QLD   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LINACRE, Hamish",
+        "Votes": 23573,
+        "Percent": 44.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WATSON, Dr David",
+        "Votes": 16707,
+        "Percent": 31.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "GAFFY, Francis",
+        "Votes": 8675,
+        "Percent": 16.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COOGAN, Michael",
+        "Votes": 3564,
+        "Percent": 6.8
+      }
+    ]
+  },
+  "1987": {
+    "title": "Forde, QLD   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CRAWFORD, Mary",
+        "Votes": 27441,
+        "Percent": 46.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WATSON, Dr David",
+        "Votes": 20957,
+        "Percent": 35.5
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "PHILBRICK, Tony",
+        "Votes": 7107,
+        "Percent": 12.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RIEFF, Sheila",
+        "Votes": 3582,
+        "Percent": 6.1
+      }
+    ]
+  },
+  "1990": {
+    "title": "Forde, QLD   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CRAWFORD, Mary",
+        "Votes": 28063,
+        "Percent": 43.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BAUMAN, Brad",
+        "Votes": 24232,
+        "Percent": 37.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NEVILLE, Jason",
+        "Votes": 7138,
+        "Percent": 11.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WYNTER, Coral",
+        "Votes": 2169,
+        "Percent": 3.4
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "ADAMS, Ross",
+        "Votes": 1967,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DUGGAN, John",
+        "Votes": 646,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1993": {
+    "title": "Forde, QLD   1993",
+    "rows": [
+      {
+        "Party": "AD",
+        "Candidate": "DICKSON, Alan",
+        "Votes": "4085",
+        "Percent": 5.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CRAWFORD, Mary",
+        "Votes": "36227",
+        "Percent": 51.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "FLAWS, Peter",
+        "Votes": "2527",
+        "Percent": 3.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PLANINCIC, Jim",
+        "Votes": "23590",
+        "Percent": 33.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "STARK, Barry",
+        "Votes": "2070",
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CORBLEY, Marion",
+        "Votes": "1494",
+        "Percent": 2.1
+      }
+    ]
+  },
+  "1996": {
+    "title": "Forde, QLD   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ELSON, Kay",
+        "Votes": 28172,
+        "Percent": 40.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CRAWFORD, Hon Mary",
+        "Votes": 23201,
+        "Percent": 33.6
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "CAREY, Garth",
+        "Votes": 9833,
+        "Percent": 14.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ADAMS, Xanthe",
+        "Votes": 5507,
+        "Percent": 8.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WISE, Aaron",
+        "Votes": 1683,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BELL, Marshall",
+        "Votes": 612,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1998": {
+    "title": "Forde, QLD   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ELSON, Kay",
+        "Votes": 29358,
+        "Percent": 42.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KEECH, Peter",
+        "Votes": 22431,
+        "Percent": 32.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "DEANE, Adrian",
+        "Votes": 11746,
+        "Percent": 17.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DICKSON, Alan",
+        "Votes": 3093,
+        "Percent": 4.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HABERMANN, Daniel",
+        "Votes": 1546,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DANIELS, Geoff",
+        "Votes": 286,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOPE, Danny",
+        "Votes": 229,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2001": {
+    "title": "Forde, QLD   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ELSON, Kay",
+        "Votes": 38263,
+        "Percent": 49.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Valerie",
+        "Votes": 25424,
+        "Percent": 33.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "NGAHOORO, Alice",
+        "Votes": 7372,
+        "Percent": 9.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DICKSON, Alan",
+        "Votes": 3620,
+        "Percent": 4.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CLYNE, Rose",
+        "Votes": 2363,
+        "Percent": 3.1
+      }
+    ]
+  },
+  "2004": {
+    "title": "Forde, QLD   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ELSON, Kay",
+        "Votes": 41335,
+        "Percent": 54.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LEADER, Sean",
+        "Votes": 23382,
+        "Percent": 31.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LLOYD, Daniel",
+        "Votes": 3076,
+        "Percent": 4.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HINDS, Shereen",
+        "Votes": 2986,
+        "Percent": 4.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HEAPS, Aaron",
+        "Votes": 2935,
+        "Percent": 3.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MARTIN, Anita",
+        "Votes": 1018,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOWSE, Dr David",
+        "Votes": 515,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOPE, Daniel",
+        "Votes": 171,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2007": {
+    "title": "Forde, QLD   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RAGUSE, Brett",
+        "Votes": 34721,
+        "Percent": 44.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CREIGHTON, Wendy",
+        "Votes": 26576,
+        "Percent": 34.0
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "BAN, Hajnal",
+        "Votes": 9550,
+        "Percent": 12.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GRODECKI, Andy",
+        "Votes": 3756,
+        "Percent": 4.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ABRAHAMSON, Iona",
+        "Votes": 1756,
+        "Percent": 2.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "EVANS, Rod",
+        "Votes": 671,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COYLE, Chris",
+        "Votes": 623,
+        "Percent": 0.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SYED, Maaz",
+        "Votes": 419,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOPE, Danny",
+        "Votes": 216,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "Forde, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "MANEN, Bert Van",
+        "Votes": 30967,
+        "Percent": 44.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "RAGUSE, Brett",
+        "Votes": 26268,
+        "Percent": 37.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MAIZEY, Patrina",
+        "Votes": 8583,
+        "Percent": 12.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "RAASSINA, Melissa",
+        "Votes": 4440,
+        "Percent": 6.3
+      }
+    ]
+  },
+  "2013": {
+    "title": "Forde, QLD   2013",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "MANEN, Bert Van",
+        "Votes": 32271,
+        "Percent": 42.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BEATTIE, Peter",
+        "Votes": 25794,
+        "Percent": 34.0
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "BREWSTER, Blair",
+        "Votes": 9445,
+        "Percent": 12.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SPAIN, Sally",
+        "Votes": 3162,
+        "Percent": 4.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BEST, Amanda",
+        "Votes": 1701,
+        "Percent": 2.2
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "HUNTER, Paul",
+        "Votes": 1652,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JENNINGS, Jonathan",
+        "Votes": 745,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SLOSS, Joshua",
+        "Votes": 698,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOUGLAS, Keith",
+        "Votes": 262,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PUKALLUS, Jan",
+        "Votes": 130,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2016": {
+    "title": "Forde, QLD   2016",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "MANEN, Bert Van",
+        "Votes": 34096,
+        "Percent": 40.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HARDMAN, Des",
+        "Votes": 31587,
+        "Percent": 37.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SPAIN, Sally",
+        "Votes": 5393,
+        "Percent": 6.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILKS, David",
+        "Votes": 5242,
+        "Percent": 6.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HELLBERG, Annelise",
+        "Votes": 4687,
+        "Percent": 5.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SPAIN, Shaun",
+        "Votes": 2905,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "2019": {
+    "title": "Forde, QLD   2019",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "MANEN, Bert Van",
+        "Votes": 39819,
+        "Percent": 43.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HARDMAN, Des",
+        "Votes": 27008,
+        "Percent": 29.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "BOWRON, Ian",
+        "Votes": 10807,
+        "Percent": 11.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PETERSEN, Kirsty",
+        "Votes": 7987,
+        "Percent": 8.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "CREIGHTON, Paul",
+        "Votes": 3696,
+        "Percent": 4.0
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "INNES, Les",
+        "Votes": 2217,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "2022": {
+    "title": "Forde, QLD   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MANEN, Bert Van",
+        "Votes": 34920,
+        "Percent": 36.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HOLZBERGER, Rowan",
+        "Votes": 26497,
+        "Percent": 28.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HALL, Jordan",
+        "Votes": 9319,
+        "Percent": 9.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MATTERSON, Seschelle",
+        "Votes": 7578,
+        "Percent": 8.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "O'HALLORAN, Roxanne",
+        "Votes": 7485,
+        "Percent": 7.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GREAVES, Christopher",
+        "Votes": 2973,
+        "Percent": 3.1
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "SUTHERLAND, Tobby",
+        "Votes": 2668,
+        "Percent": 2.8
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "MCCARTHY, Linda",
+        "Votes": 2444,
+        "Percent": 2.6
+      },
+      {
+        "Party": "TNL",
+        "Candidate": "HOLLAND, Samuel",
+        "Votes": 728,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2025": {
+    "title": "Forde, QLD   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOLZBERGER, Rowan",
+        "Votes": 36821,
+        "Percent": 34.2
+      },
+      {
+        "Party": "LNP",
+        "Candidate": "Van MANEN, Bert",
+        "Votes": 33023,
+        "Percent": 30.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PETERSEN, Kirsty",
+        "Votes": 12280,
+        "Percent": 11.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "LAMBERT, Matthew",
+        "Votes": 11049,
+        "Percent": 10.3
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "POP, Corneliu",
+        "Votes": 5459,
+        "Percent": 5.1
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "HISCOCK, Jacob",
+        "Votes": 5041,
+        "Percent": 4.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GREAVES, Chris",
+        "Votes": 3186,
+        "Percent": 3.0
+      },
+      {
+        "Party": "CEC",
+        "Candidate": "de HOMBRE, Alf",
+        "Votes": 669,
+        "Percent": 0.6
+      }
+    ]
+  }
+}

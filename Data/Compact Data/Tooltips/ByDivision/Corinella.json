@@ -1,0 +1,72 @@
+{
+  "1990": {
+    "title": "Corinella, VIC   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BROADBENT, Russell",
+        "Votes": 28991,
+        "Percent": 44.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KENT, Lewis",
+        "Votes": 25057,
+        "Percent": 38.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BURNS, Mike",
+        "Votes": 7802,
+        "Percent": 11.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MORAN, George",
+        "Votes": 3524,
+        "Percent": 5.4
+      }
+    ]
+  },
+  "1993": {
+    "title": "Corinella, VIC   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "PJANIC, Predrag",
+        "Votes": "782",
+        "Percent": 1.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GRIFFIN, Alan",
+        "Votes": "39194",
+        "Percent": 50.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROADBENT, Russell",
+        "Votes": "33139",
+        "Percent": 42.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HOLST, Taylor",
+        "Votes": "2224",
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NELSON, Gary",
+        "Votes": "1494",
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "OLDIS, Trudie",
+        "Votes": "1482",
+        "Percent": 1.9
+      }
+    ]
+  }
+}

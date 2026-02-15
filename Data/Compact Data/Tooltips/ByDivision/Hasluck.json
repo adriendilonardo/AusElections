@@ -1,0 +1,455 @@
+{
+  "2001": {
+    "title": "Hasluck, WA   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CHAN, Bethwyn",
+        "Votes": 27658,
+        "Percent": 39.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JACKSON, Sharryn",
+        "Votes": 26891,
+        "Percent": 38.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HOPKINSON, James",
+        "Votes": 4921,
+        "Percent": 7.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "EDMONDS, Luke",
+        "Votes": 3986,
+        "Percent": 5.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MARKHAM, Peter",
+        "Votes": 3455,
+        "Percent": 4.9
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "RYAN, Terry",
+        "Votes": 1695,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCLEAN, Ronnie",
+        "Votes": 804,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DANIELS, Michael",
+        "Votes": 520,
+        "Percent": 0.7
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "HEGARTY, Roslyn",
+        "Votes": 401,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2004": {
+    "title": "Hasluck, WA   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HENRY, Stuart",
+        "Votes": 32457,
+        "Percent": 45.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JACKSON, Sharryn",
+        "Votes": 27395,
+        "Percent": 38.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BREMMER, Jane",
+        "Votes": 4911,
+        "Percent": 6.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "NIELD, Paul",
+        "Votes": 2413,
+        "Percent": 3.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "RYAN, Terry",
+        "Votes": 2221,
+        "Percent": 3.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HANNAH, Nicola",
+        "Votes": 1236,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HALL, Simon",
+        "Votes": 913,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2007": {
+    "title": "Hasluck, WA   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HENRY, Stuart",
+        "Votes": 31541,
+        "Percent": 42.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JACKSON, Sharryn",
+        "Votes": 30471,
+        "Percent": 41.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BREMMER, Jane",
+        "Votes": 6258,
+        "Percent": 8.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "MERRELLS, Rob",
+        "Votes": 2229,
+        "Percent": 3.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "GAUGG, Bill",
+        "Votes": 1121,
+        "Percent": 1.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BOLT, Stephen",
+        "Votes": 863,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VINCENT, Neil A",
+        "Votes": 687,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHIA, Siou Hong",
+        "Votes": 292,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2010": {
+    "title": "Hasluck, WA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WYATT, Ken",
+        "Votes": 34638,
+        "Percent": 42.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JACKSON, Sharryn",
+        "Votes": 30957,
+        "Percent": 37.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SMITH, Glenice",
+        "Votes": 10539,
+        "Percent": 12.8
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BREWER, Linda",
+        "Votes": 2505,
+        "Percent": 3.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MCCOURT, Jim",
+        "Votes": 1861,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HENRY, Dot",
+        "Votes": 1457,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MIDDLETON, Andrew",
+        "Votes": 539,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2013": {
+    "title": "Hasluck, WA   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WYATT, Ken",
+        "Votes": 38951,
+        "Percent": 45.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EVANS, Adrian",
+        "Votes": 28081,
+        "Percent": 32.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LANGLANDS, Peter",
+        "Votes": 6546,
+        "Percent": 7.6
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "SCOTT, Robin",
+        "Votes": 5885,
+        "Percent": 6.9
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "MUNRO, Chris",
+        "Votes": 2236,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WHITTAKER, Jason",
+        "Votes": 2130,
+        "Percent": 2.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SHARRIN, Kyran",
+        "Votes": 1365,
+        "Percent": 1.6
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "STEVENS, Daniel",
+        "Votes": 569,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2016": {
+    "title": "Hasluck, WA   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WYATT, Hon Ken",
+        "Votes": 36519,
+        "Percent": 45.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LEADBETTER, Dr Bill",
+        "Votes": 28652,
+        "Percent": 35.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HYSLOP, Patrick",
+        "Votes": 10283,
+        "Percent": 12.6
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "BARNARD, Henry",
+        "Votes": 2999,
+        "Percent": 3.7
+      },
+      {
+        "Party": "AC",
+        "Candidate": "TWISS, Phil",
+        "Votes": 2798,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "2019": {
+    "title": "Hasluck, WA   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WYATT, Hon Ken",
+        "Votes": 36735,
+        "Percent": 43.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MARTIN, James",
+        "Votes": 25792,
+        "Percent": 30.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MILES, Lee-Anne",
+        "Votes": 9651,
+        "Percent": 11.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "ORR, Tim",
+        "Votes": 4445,
+        "Percent": 5.3
+      },
+      {
+        "Party": "SFF",
+        "Candidate": "WHITE-HARTIG, Fiona",
+        "Votes": 2436,
+        "Percent": 2.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "DALE, Mike",
+        "Votes": 1920,
+        "Percent": 2.3
+      },
+      {
+        "Party": "AChr",
+        "Candidate": "WILLIAMS, Brady",
+        "Votes": 1679,
+        "Percent": 2.0
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "PHELAN, Stephen",
+        "Votes": 1542,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "2022": {
+    "title": "Hasluck, WA   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LAWRENCE, Tania",
+        "Votes": 39144,
+        "Percent": 39.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WYATT, Hon Ken",
+        "Votes": 32889,
+        "Percent": 33.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "STURCKE, Brendan",
+        "Votes": 10826,
+        "Percent": 11.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MONCK, Ian",
+        "Votes": 3783,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILLIAMS, Jeanene",
+        "Votes": 3318,
+        "Percent": 3.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SCOTT, Will",
+        "Votes": 2973,
+        "Percent": 3.0
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "CLARK, Pauline",
+        "Votes": 2561,
+        "Percent": 2.6
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "SMITH, Marijanna",
+        "Votes": 1739,
+        "Percent": 1.8
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MCCREANOR, Steven",
+        "Votes": 1280,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2025": {
+    "title": "Hasluck, WA   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LAWRENCE, Tania",
+        "Votes": 46203,
+        "Percent": 48.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GOODE, David",
+        "Votes": 21173,
+        "Percent": 22.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MATSON, Tamica",
+        "Votes": 11912,
+        "Percent": 12.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "DEETH, Adrian",
+        "Votes": 7050,
+        "Percent": 7.4
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "TREASURE, Leo",
+        "Votes": 4842,
+        "Percent": 5.1
+      },
+      {
+        "Party": "AUC",
+        "Candidate": "KINGSTON, David",
+        "Votes": 2862,
+        "Percent": 3.0
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "KELLY, Dawn Michelle",
+        "Votes": 1509,
+        "Percent": 1.6
+      }
+    ]
+  }
+}

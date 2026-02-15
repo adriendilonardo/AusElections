@@ -1,0 +1,964 @@
+{
+  "1946": {
+    "title": "Batman, VIC   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BRENNAN, Hon Frank",
+        "Votes": 39754,
+        "Percent": 58.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCCOLL, John",
+        "Votes": 20930,
+        "Percent": 30.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRENNAN, Allan",
+        "Votes": 4250,
+        "Percent": 6.2
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "OKE, George",
+        "Votes": 3222,
+        "Percent": 4.7
+      }
+    ]
+  },
+  "1949": {
+    "title": "Batman, VIC   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BIRD, Alan",
+        "Votes": 22662,
+        "Percent": 58.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCKAY, Neil",
+        "Votes": 16139,
+        "Percent": 41.6
+      }
+    ]
+  },
+  "1951": {
+    "title": "Batman, VIC   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BIRD, Alan",
+        "Votes": "23335",
+        "Percent": 60.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAPP, Frederick",
+        "Votes": "15184",
+        "Percent": 39.4
+      }
+    ]
+  },
+  "1954": {
+    "title": "Batman, VIC   1954",
+    "rows": [
+      {
+        "Party": "CPA",
+        "Candidate": "WALLACE, Andrew",
+        "Votes": "801",
+        "Percent": 2.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BIRD, Alan",
+        "Votes": "21250",
+        "Percent": 57.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCKAY, Neil",
+        "Votes": "14732",
+        "Percent": 40.1
+      }
+    ]
+  },
+  "1955": {
+    "title": "Batman, VIC   1955",
+    "rows": [
+      {
+        "Party": "ALPAC",
+        "Candidate": "WALSH, Thomas",
+        "Votes": "6553",
+        "Percent": 15.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BIRD, Alan",
+        "Votes": "21295",
+        "Percent": 49.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAPP, Frederick",
+        "Votes": "14972",
+        "Percent": 35.0
+      }
+    ]
+  },
+  "1958": {
+    "title": "Batman, VIC   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BIRD, Alan",
+        "Votes": 21902,
+        "Percent": 51.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAPP, Frederick",
+        "Votes": 14443,
+        "Percent": 33.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "WALSH, Thomas",
+        "Votes": 6205,
+        "Percent": 14.6
+      }
+    ]
+  },
+  "1961": {
+    "title": "Batman, VIC   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BIRD, Alan",
+        "Votes": 22831,
+        "Percent": 54.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SKEGGS, Bruce",
+        "Votes": 12753,
+        "Percent": 30.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "KEADY, Maurice",
+        "Votes": 5970,
+        "Percent": 14.4
+      }
+    ]
+  },
+  "1963": {
+    "title": "Batman, VIC   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "LITTLE, Hon Jack",
+        "Votes": "5880",
+        "Percent": 14.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BENSON, Sam",
+        "Votes": "19858",
+        "Percent": 48.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SKEGGS, Bruce",
+        "Votes": "14923",
+        "Percent": 36.7
+      }
+    ]
+  },
+  "1966": {
+    "title": "Batman, VIC   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ANDERSEN, John",
+        "Votes": 14859,
+        "Percent": 38.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SKEGGS, Bruce",
+        "Votes": 10398,
+        "Percent": 26.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BENSON, Sam",
+        "Votes": 8697,
+        "Percent": 22.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DARROCH, Henry",
+        "Votes": 3592,
+        "Percent": 9.3
+      },
+      {
+        "Party": "LRG",
+        "Candidate": "DESAILLY, Robert",
+        "Votes": 1117,
+        "Percent": 2.9
+      }
+    ]
+  },
+  "1969": {
+    "title": "Batman, VIC   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GARRICK, Horace",
+        "Votes": 24686,
+        "Percent": 46.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCGRATH, Peter",
+        "Votes": 17567,
+        "Percent": 33.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DARROCH, Henry",
+        "Votes": 7776,
+        "Percent": 14.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HAYLES, Ronald",
+        "Votes": 3005,
+        "Percent": 5.7
+      }
+    ]
+  },
+  "1972": {
+    "title": "Batman, VIC   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GARRICK, Horace",
+        "Votes": 29578,
+        "Percent": 55.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BRAM, Leon",
+        "Votes": 18200,
+        "Percent": 34.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DARROCH, Henry",
+        "Votes": 5163,
+        "Percent": 9.8
+      }
+    ]
+  },
+  "1974": {
+    "title": "Batman, VIC   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GARRICK, Horace",
+        "Votes": 32512,
+        "Percent": 57.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SMITH, Keith",
+        "Votes": 17953,
+        "Percent": 31.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BARRY, Kevin",
+        "Votes": 5018,
+        "Percent": 8.8
+      },
+      {
+        "Party": "AP",
+        "Candidate": "LOFTUS-HILLS, Geoffrey",
+        "Votes": 1493,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "1975": {
+    "title": "Batman, VIC   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GARRICK, Horace",
+        "Votes": 30570,
+        "Percent": 53.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GALLI, Michael",
+        "Votes": 22077,
+        "Percent": 38.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DOYLE, Eileen",
+        "Votes": 4189,
+        "Percent": 7.4
+      }
+    ]
+  },
+  "1977": {
+    "title": "Batman, VIC   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOWE, Brian",
+        "Votes": 31538,
+        "Percent": 47.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROWN, Gillford",
+        "Votes": 24932,
+        "Percent": 37.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PIRAINO, Mario",
+        "Votes": 6644,
+        "Percent": 10.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "LORENZ, Phillip",
+        "Votes": 3559,
+        "Percent": 5.3
+      }
+    ]
+  },
+  "1980": {
+    "title": "Batman, VIC   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOWE, Brian",
+        "Votes": 37065,
+        "Percent": 55.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KEMP, Rosemary",
+        "Votes": 20785,
+        "Percent": 31.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DOYLE, Allen",
+        "Votes": 4945,
+        "Percent": 7.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCALPINE, Jeffrey",
+        "Votes": 4002,
+        "Percent": 6.0
+      }
+    ]
+  },
+  "1983": {
+    "title": "Batman, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOWE, Brian",
+        "Votes": 42398,
+        "Percent": 63.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PLAYFORD, Maxwell",
+        "Votes": 19193,
+        "Percent": 28.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NAUG, Gwendoline",
+        "Votes": 2836,
+        "Percent": 4.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "L'HUILLIER, Philip",
+        "Votes": 1756,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PERCY, John",
+        "Votes": 380,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1984": {
+    "title": "Batman, VIC   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOWE, Hon Brian",
+        "Votes": 39128,
+        "Percent": 71.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HOYSTED, Mark",
+        "Votes": 11371,
+        "Percent": 20.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COCKELL, James",
+        "Votes": 2338,
+        "Percent": 4.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "L'HUILLIER, Philip",
+        "Votes": 1836,
+        "Percent": 3.4
+      }
+    ]
+  },
+  "1987": {
+    "title": "Batman, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOWE, Hon Brian",
+        "Votes": 35285,
+        "Percent": 64.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DUNN, Ron",
+        "Votes": 13408,
+        "Percent": 24.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROBERTS, Jan",
+        "Votes": 5321,
+        "Percent": 9.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PHILLIPS, Sue",
+        "Votes": 632,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHAPMAN, Darren",
+        "Votes": 466,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1990": {
+    "title": "Batman, VIC   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOWE, Hon Brian",
+        "Votes": 34506,
+        "Percent": 51.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ELLIS, Ray",
+        "Votes": 18274,
+        "Percent": 27.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GOGAS, George",
+        "Votes": 8574,
+        "Percent": 12.9
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "WATTS, Alan",
+        "Votes": 3950,
+        "Percent": 5.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "D'SOUZA, Nigel",
+        "Votes": 1250,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "1993": {
+    "title": "Batman, VIC   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "DICKENS, Joan",
+        "Votes": "708",
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SIMATKOVICH, Gordana",
+        "Votes": "490",
+        "Percent": 0.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HOWE, Hon Brian",
+        "Votes": "47974",
+        "Percent": 67.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CARR, Geoff",
+        "Votes": "2541",
+        "Percent": 3.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "D'SOUZA, Nigel",
+        "Votes": "1908",
+        "Percent": 2.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "THRUPP, Mabel",
+        "Votes": "17503",
+        "Percent": 24.6
+      }
+    ]
+  },
+  "1996": {
+    "title": "Batman, VIC   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FERGUSON, Martin",
+        "Votes": 45491,
+        "Percent": 58.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "YOULTEN, Wayne",
+        "Votes": 16574,
+        "Percent": 21.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PETERS, Julie",
+        "Votes": 4655,
+        "Percent": 6.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOLGER, Irene",
+        "Votes": 3976,
+        "Percent": 5.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RYAN, Frank",
+        "Votes": 2791,
+        "Percent": 3.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "D'ANGELO, Paul",
+        "Votes": 2165,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KOUMANTATAKIS, George",
+        "Votes": 1083,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PREKETES, Arthur",
+        "Votes": 601,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1998": {
+    "title": "Batman, VIC   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FERGUSON, Martin",
+        "Votes": 53034,
+        "Percent": 65.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ROWE, Lauri",
+        "Votes": 16290,
+        "Percent": 20.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NICHOLLS, Mart",
+        "Votes": 4036,
+        "Percent": 5.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROSENBAUM, Helen",
+        "Votes": 3705,
+        "Percent": 4.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RICHARDSON, Martin",
+        "Votes": 1486,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILSON, Matt",
+        "Votes": 1087,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MAZLOUM, Sami",
+        "Votes": 659,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARWICK, Wayne",
+        "Votes": 254,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2001": {
+    "title": "Batman, VIC   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FERGUSON, Martin",
+        "Votes": 46506,
+        "Percent": 58.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DAVIES, John",
+        "Votes": 17196,
+        "Percent": 21.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BHATHAL, Alexandra",
+        "Votes": 9171,
+        "Percent": 11.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KNEEBONE, Scott",
+        "Votes": 4954,
+        "Percent": 6.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LYNCH, Jackie",
+        "Votes": 1064,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARWICK, Wayne",
+        "Votes": 329,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2004": {
+    "title": "Batman, VIC   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FERGUSON, Martin",
+        "Votes": 41953,
+        "Percent": 55.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GRATTON, Maxwell",
+        "Votes": 19603,
+        "Percent": 25.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BHATHAL, Alexandra",
+        "Votes": 10520,
+        "Percent": 13.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KNEEBONE, Scott",
+        "Votes": 1105,
+        "Percent": 1.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ARIARATNAM, Chris",
+        "Votes": 853,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BISHOP, Craig",
+        "Votes": 708,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MATHEWS, Graham",
+        "Votes": 430,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BYRNE, Peter",
+        "Votes": 201,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MELLADO, Walter",
+        "Votes": 171,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2007": {
+    "title": "Batman, VIC   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FERGUSON, Martin",
+        "Votes": 45551,
+        "Percent": 57.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PEART, Jonathan",
+        "Votes": 16439,
+        "Percent": 20.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CAREY, Patricia",
+        "Votes": 13674,
+        "Percent": 17.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "KERIN, Peter",
+        "Votes": 2090,
+        "Percent": 2.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HASSAN, Darren",
+        "Votes": 1619,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARWICK, Robert",
+        "Votes": 288,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2010": {
+    "title": "Batman, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FERGUSON, Hon Martin",
+        "Votes": 40574,
+        "Percent": 52.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BHATHAL, Alexandra",
+        "Votes": 18189,
+        "Percent": 23.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SOURIS, George",
+        "Votes": 15412,
+        "Percent": 19.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CONLON, Andrew",
+        "Votes": 2465,
+        "Percent": 3.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SARAZEN, Con",
+        "Votes": 823,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2013": {
+    "title": "Batman, VIC   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FEENEY, Hon David",
+        "Votes": 36798,
+        "Percent": 41.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BHATHAL, Alexandra",
+        "Votes": 23522,
+        "Percent": 26.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SOURIS, George",
+        "Votes": 20017,
+        "Percent": 22.5
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "SLIWCZYNSKI, Lianna",
+        "Votes": 2301,
+        "Percent": 2.6
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "GUARDINI, Franco",
+        "Votes": 2253,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAVIN, Rosemary",
+        "Votes": 1250,
+        "Percent": 1.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SMITHIES, Ken",
+        "Votes": 1126,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WINTERTON, Pat",
+        "Votes": 1121,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SUTTON, Philip",
+        "Votes": 726,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2016": {
+    "title": "Batman, VIC   2016",
+    "rows": [
+      {
+        "Party": "GRN",
+        "Candidate": "BHATHAL, Alex",
+        "Votes": 32645,
+        "Percent": 36.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FEENEY, Hon David",
+        "Votes": 31780,
+        "Percent": 35.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SOURIS, George",
+        "Votes": 17924,
+        "Percent": 19.9
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "MURRAY, Joel",
+        "Votes": 2317,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SUTTON, Phillip",
+        "Votes": 1509,
+        "Percent": 1.7
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "EVANS, Caitlin",
+        "Votes": 1503,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SYBER, Elizabeth",
+        "Votes": 682,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "OLDIS, Maurice",
+        "Votes": 593,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GUARDINI, Franco",
+        "Votes": 480,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CICUTO, Geoffrey",
+        "Votes": 386,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HAYWARD, Russell",
+        "Votes": 282,
+        "Percent": 0.3
+      }
+    ]
+  }
+}

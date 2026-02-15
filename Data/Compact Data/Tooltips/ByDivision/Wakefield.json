@@ -1,0 +1,844 @@
+{
+  "1946": {
+    "title": "Wakefield, SA   1946",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCBRIDE, Hon Philip",
+        "Votes": 26894,
+        "Percent": 51.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Albert",
+        "Votes": 24046,
+        "Percent": 46.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RIECK, Frank",
+        "Votes": 1260,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "1949": {
+    "title": "Wakefield, SA   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCBRIDE, Hon Philip",
+        "Votes": 23847,
+        "Percent": 61.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HASSE, Cyril",
+        "Votes": 15008,
+        "Percent": 38.6
+      }
+    ]
+  },
+  "1951": {
+    "title": "Wakefield, SA   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCBRIDE, Hon Philip",
+        "Votes": "23232",
+        "Percent": 60.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HASSE, Cyril",
+        "Votes": "15437",
+        "Percent": 39.9
+      }
+    ]
+  },
+  "1954": {
+    "title": "Wakefield, SA   1954",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "HENSTRIDGE, Hector",
+        "Votes": "2218",
+        "Percent": 5.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCBRIDE, Hon Philip",
+        "Votes": "21893",
+        "Percent": 56.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HARRADINE, Edward",
+        "Votes": "14400",
+        "Percent": 37.4
+      }
+    ]
+  },
+  "1955": {
+    "title": "Wakefield, SA   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCBRIDE, Hon Philip",
+        "Votes": "24283",
+        "Percent": 62.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HENSTRIDGE, Hector",
+        "Votes": "2095",
+        "Percent": 5.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRUCE, Robert",
+        "Votes": "12671",
+        "Percent": 32.4
+      }
+    ]
+  },
+  "1958": {
+    "title": "Wakefield, SA   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KELLY, Bert",
+        "Votes": 21844,
+        "Percent": 56.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KRIEG, Leonard",
+        "Votes": 11899,
+        "Percent": 30.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HENSTRIDGE, Hector",
+        "Votes": 2518,
+        "Percent": 6.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "REDDEN, Leo",
+        "Votes": 2198,
+        "Percent": 5.7
+      }
+    ]
+  },
+  "1961": {
+    "title": "Wakefield, SA   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KELLY, Bert",
+        "Votes": 22759,
+        "Percent": 58.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WOOD, Collin",
+        "Votes": 14364,
+        "Percent": 36.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MCMAHON, John",
+        "Votes": 2048,
+        "Percent": 5.2
+      }
+    ]
+  },
+  "1963": {
+    "title": "Wakefield, SA   1963",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KELLY, Bert",
+        "Votes": "25177",
+        "Percent": 61.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PENROSE, John",
+        "Votes": "16049",
+        "Percent": 38.9
+      }
+    ]
+  },
+  "1966": {
+    "title": "Wakefield, SA   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KELLY, Bert",
+        "Votes": 31280,
+        "Percent": 69.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PHELAN, John",
+        "Votes": 13737,
+        "Percent": 30.5
+      }
+    ]
+  },
+  "1969": {
+    "title": "Wakefield, SA   1969",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KELLY, Hon Bert",
+        "Votes": 24685,
+        "Percent": 58.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CHATTERTON, Brian",
+        "Votes": 15693,
+        "Percent": 36.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MCMAHON, John",
+        "Votes": 2095,
+        "Percent": 4.9
+      }
+    ]
+  },
+  "1972": {
+    "title": "Wakefield, SA   1972",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KELLY, Hon Bert",
+        "Votes": 21211,
+        "Percent": 49.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LACY, Terence de",
+        "Votes": 13643,
+        "Percent": 32.0
+      },
+      {
+        "Party": "CP",
+        "Candidate": "SHANNON, James",
+        "Votes": 6448,
+        "Percent": 15.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MCMAHON, John",
+        "Votes": 1365,
+        "Percent": 3.2
+      }
+    ]
+  },
+  "1974": {
+    "title": "Wakefield, SA   1974",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KELLY, Hon Bert",
+        "Votes": 22761,
+        "Percent": 49.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DEWHURST, Peter",
+        "Votes": 13304,
+        "Percent": 28.9
+      },
+      {
+        "Party": "CP",
+        "Candidate": "CROSBY, Ronald",
+        "Votes": 6225,
+        "Percent": 13.5
+      },
+      {
+        "Party": "LM",
+        "Candidate": "FREEBAIRN, John",
+        "Votes": 3316,
+        "Percent": 7.2
+      },
+      {
+        "Party": "AP",
+        "Candidate": "SWAN, Ian",
+        "Votes": 476,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1975": {
+    "title": "Wakefield, SA   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KELLY, Hon Bert",
+        "Votes": 32070,
+        "Percent": 66.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KRASTEV, Irene",
+        "Votes": 12632,
+        "Percent": 26.1
+      },
+      {
+        "Party": "LM",
+        "Candidate": "LIENERT, John",
+        "Votes": 3719,
+        "Percent": 7.7
+      }
+    ]
+  },
+  "1977": {
+    "title": "Wakefield, SA   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GILES, Geoffrey",
+        "Votes": 42077,
+        "Percent": 61.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CRISP, Denis",
+        "Votes": 20303,
+        "Percent": 29.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MAGUIRE, Kenneth",
+        "Votes": 5564,
+        "Percent": 8.2
+      }
+    ]
+  },
+  "1980": {
+    "title": "Wakefield, SA   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GILES, Geoffrey",
+        "Votes": 41934,
+        "Percent": 59.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "REID, Alan",
+        "Votes": 20308,
+        "Percent": 29.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BEECH, Rowland",
+        "Votes": 5971,
+        "Percent": 8.5
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "ROSE, Duncan",
+        "Votes": 1901,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "1983": {
+    "title": "Wakefield, SA   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ANDREW, Neil",
+        "Votes": 43380,
+        "Percent": 59.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "OWENS, Suzanne",
+        "Votes": 24002,
+        "Percent": 32.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CHISHOLM, Donald",
+        "Votes": 3851,
+        "Percent": 5.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "CAVANAGH, Roger",
+        "Votes": 1658,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "1984": {
+    "title": "Wakefield, SA   1984",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ANDREW, Neil",
+        "Votes": 35574,
+        "Percent": 57.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "OWENS, Suzanne",
+        "Votes": 20964,
+        "Percent": 33.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HAUSLER, Anne",
+        "Votes": 3714,
+        "Percent": 6.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "HALFORD, Terry",
+        "Votes": 1800,
+        "Percent": 2.9
+      }
+    ]
+  },
+  "1987": {
+    "title": "Wakefield, SA   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ANDREW, Neil",
+        "Votes": 36503,
+        "Percent": 55.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STEPHENS, Susan",
+        "Votes": 21592,
+        "Percent": 33.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "ADAMS, Bill",
+        "Votes": 3826,
+        "Percent": 5.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BARLOW, Barbara",
+        "Votes": 2683,
+        "Percent": 4.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HAUSLER, Anne",
+        "Votes": 757,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1990": {
+    "title": "Wakefield, SA   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ANDREW, Neil",
+        "Votes": 40216,
+        "Percent": 55.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KARZIS, George",
+        "Votes": 20965,
+        "Percent": 29.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MATTHEWS, Kaye",
+        "Votes": 8879,
+        "Percent": 12.3
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "GRACE, Ashley",
+        "Votes": 2144,
+        "Percent": 3.0
+      }
+    ]
+  },
+  "1993": {
+    "title": "Wakefield, SA   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "HERGSTROM, Ingrid",
+        "Votes": "904",
+        "Percent": 1.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MILNE, Roy",
+        "Votes": "6938",
+        "Percent": 8.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ANDREW, Neil",
+        "Votes": "44503",
+        "Percent": 57.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ALLEN, Don",
+        "Votes": "3189",
+        "Percent": 4.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FAULKNER, Shirley",
+        "Votes": "2066",
+        "Percent": 2.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STEVENS, Mike",
+        "Votes": "20360",
+        "Percent": 26.1
+      }
+    ]
+  },
+  "1996": {
+    "title": "Wakefield, SA   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ANDREW, Neil",
+        "Votes": 48937,
+        "Percent": 60.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STEVENS, Mike",
+        "Votes": 18325,
+        "Percent": 22.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KELLY, Pam",
+        "Votes": 8759,
+        "Percent": 10.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROONEY, Eugene",
+        "Votes": 2273,
+        "Percent": 2.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PETIT, Paul",
+        "Votes": 2098,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "1998": {
+    "title": "Wakefield, SA   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ANDREW, Neil",
+        "Votes": 40464,
+        "Percent": 50.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LEVERSEDGE, Carla",
+        "Votes": 17526,
+        "Percent": 21.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HARTWIG, Merv",
+        "Votes": 13473,
+        "Percent": 16.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LANNSTROM, Karrie",
+        "Votes": 6200,
+        "Percent": 7.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KELLY, Pam",
+        "Votes": 1690,
+        "Percent": 2.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "CHALLACOMBE, Jeremy",
+        "Votes": 1458,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "2001": {
+    "title": "Wakefield, SA   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ANDREW, Hon Neil",
+        "Votes": 44257,
+        "Percent": 56.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROWBOTTOM, Timothy",
+        "Votes": 19521,
+        "Percent": 24.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "DWYER, David",
+        "Votes": 6175,
+        "Percent": 7.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RESEIGH, Marcus",
+        "Votes": 5943,
+        "Percent": 7.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KELLY, Pam",
+        "Votes": 2825,
+        "Percent": 3.6
+      }
+    ]
+  },
+  "2004": {
+    "title": "Wakefield, SA   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FAWCETT, David",
+        "Votes": 35230,
+        "Percent": 43.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EVANS, Hon Martyn",
+        "Votes": 34159,
+        "Percent": 42.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "POINTON, David",
+        "Votes": 4379,
+        "Percent": 5.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MURRAY, Patricia",
+        "Votes": 3346,
+        "Percent": 4.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "DWYER, David",
+        "Votes": 2066,
+        "Percent": 2.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WAY, Richard",
+        "Votes": 1346,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "2007": {
+    "title": "Wakefield, SA   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHAMPION, Nick",
+        "Votes": 42249,
+        "Percent": 48.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FAWCETT, David",
+        "Votes": 33600,
+        "Percent": 38.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "NAIRN, Bruce",
+        "Votes": 4483,
+        "Percent": 5.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ALLEN, Terry",
+        "Votes": 3589,
+        "Percent": 4.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MARTIN, Felicity",
+        "Votes": 1016,
+        "Percent": 1.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "FITZPATRICK, Peter",
+        "Votes": 832,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EDMUNDS, Pauline",
+        "Votes": 793,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WALSH, Martin",
+        "Votes": 284,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "Wakefield, SA   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHAMPION, Nick",
+        "Votes": 43299,
+        "Percent": 49.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "STRAUSS, David",
+        "Votes": 27679,
+        "Percent": 31.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ALCORN, Jane",
+        "Votes": 9948,
+        "Percent": 11.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "COOMBE, Paul",
+        "Votes": 5958,
+        "Percent": 6.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HASSAN, Darren",
+        "Votes": 1129,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2013": {
+    "title": "Wakefield, SA   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHAMPION, Nick",
+        "Votes": 37723,
+        "Percent": 41.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ZORICH, Tom",
+        "Votes": 34425,
+        "Percent": 37.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "COOMBE, Paul",
+        "Votes": 5436,
+        "Percent": 6.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CLAY, Sherree",
+        "Votes": 4683,
+        "Percent": 5.2
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "MUSOLINO, Dino",
+        "Votes": 3890,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ALDRIDGE, Mark",
+        "Votes": 3729,
+        "Percent": 4.1
+      }
+    ]
+  },
+  "2016": {
+    "title": "Wakefield, SA   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHAMPION, Nick",
+        "Votes": 38197,
+        "Percent": 40.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BOURNE, Kathleen",
+        "Votes": 25299,
+        "Percent": 26.4
+      },
+      {
+        "Party": "NXT",
+        "Candidate": "INWOOD, Richard",
+        "Votes": 19592,
+        "Percent": 20.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "PHILLIPS, Marilyn",
+        "Votes": 5396,
+        "Percent": 5.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "VANSTONE, Craig",
+        "Votes": 4102,
+        "Percent": 4.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOLTON, John",
+        "Votes": 2728,
+        "Percent": 2.8
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "ANDERSON, Ralph",
+        "Votes": 619,
+        "Percent": 0.7
+      }
+    ]
+  }
+}

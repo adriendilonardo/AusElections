@@ -1,0 +1,773 @@
+{
+  "1984": {
+    "title": "Lindsay, NSW   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FREE, Ross",
+        "Votes": 32609,
+        "Percent": 57.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "COPPOCK, Stuart",
+        "Votes": 19383,
+        "Percent": 34.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CRAMERI, Kevin",
+        "Votes": 4683,
+        "Percent": 8.3
+      }
+    ]
+  },
+  "1987": {
+    "title": "Lindsay, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FREE, Ross",
+        "Votes": 32949,
+        "Percent": 52.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HAYNE, Glynis",
+        "Votes": 23193,
+        "Percent": 36.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GREGORY, Michael",
+        "Votes": 5276,
+        "Percent": 8.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PERRY, Ian",
+        "Votes": 1414,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "1990": {
+    "title": "Lindsay, NSW   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FREE, Ross",
+        "Votes": 31990,
+        "Percent": 47.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HAYLOCK, Barry",
+        "Votes": 21846,
+        "Percent": 32.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MORITZ, Paul",
+        "Votes": 6038,
+        "Percent": 9.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GAYED, William",
+        "Votes": 2638,
+        "Percent": 4.0
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "GRIGG, Brian",
+        "Votes": 2474,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THOMAS, David",
+        "Votes": 1743,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "1993": {
+    "title": "Lindsay, NSW   1993",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FREE, Hon Ross",
+        "Votes": "40509",
+        "Percent": 58.6
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "GRIGG, Brian",
+        "Votes": "3350",
+        "Percent": 4.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BELLANTONIO, Carolynn",
+        "Votes": "25326",
+        "Percent": 36.6
+      }
+    ]
+  },
+  "1996": {
+    "title": "Lindsay, NSW   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KELLY, Jackie",
+        "Votes": 31811,
+        "Percent": 42.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FREE, Hon Ross",
+        "Votes": 30168,
+        "Percent": 40.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WILSON, John",
+        "Votes": 4929,
+        "Percent": 6.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "EDWARDS, Lesley",
+        "Votes": 3299,
+        "Percent": 4.4
+      },
+      {
+        "Party": "AAFI",
+        "Candidate": "COOKSLEY, Terry",
+        "Votes": 2041,
+        "Percent": 2.7
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "GRIGG, Brian",
+        "Votes": 1614,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAVIDSON, Stephen",
+        "Votes": 956,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "1998": {
+    "title": "Lindsay, NSW   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KELLY, Jackie",
+        "Votes": 31872,
+        "Percent": 41.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'TOOLE, Cathy",
+        "Votes": 29903,
+        "Percent": 39.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "PUTRA, Rick",
+        "Votes": 7621,
+        "Percent": 10.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LEAR, Stephen",
+        "Votes": 2221,
+        "Percent": 2.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "EDWARDS, Lesley",
+        "Votes": 1518,
+        "Percent": 2.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "EYKAMP, Jean",
+        "Votes": 1047,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRIM-REAPER, Steve",
+        "Votes": 1043,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ACKER, Sidney",
+        "Votes": 475,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BAILEY, Dion",
+        "Votes": 446,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LIPMAN, David",
+        "Votes": 166,
+        "Percent": 0.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "IVOR, F",
+        "Votes": 127,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "Lindsay, NSW   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KELLY, Hon Jackie",
+        "Votes": 34339,
+        "Percent": 46.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRADBURY, David",
+        "Votes": 25320,
+        "Percent": 34.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "NIXON, Bill",
+        "Votes": 3768,
+        "Percent": 5.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, Geoff",
+        "Votes": 2391,
+        "Percent": 3.3
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "PHILLIPS, John",
+        "Votes": 1930,
+        "Percent": 2.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "EDWARDS, Lesley",
+        "Votes": 1819,
+        "Percent": 2.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WATERS, Geraldine",
+        "Votes": 1584,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COURTNEY, Anthony",
+        "Votes": 727,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EYKAMP, Jean",
+        "Votes": 534,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LINDSAY-HENDERSON, Steve",
+        "Votes": 400,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MITCHELL, Graham",
+        "Votes": 236,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WALKER, Stephen",
+        "Votes": 122,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2004": {
+    "title": "Lindsay, NSW   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KELLY, Hon Jackie",
+        "Votes": 35119,
+        "Percent": 48.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRADBURY, David",
+        "Votes": 27117,
+        "Percent": 37.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WORRALL, Gabrielle",
+        "Votes": 2547,
+        "Percent": 3.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "PHILLIPS, John",
+        "Votes": 2026,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BATES, Barbie",
+        "Votes": 1953,
+        "Percent": 2.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "KEDWELL, Louise",
+        "Votes": 1367,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DERRIG, Garth",
+        "Votes": 1156,
+        "Percent": 1.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "WATSON, Megan",
+        "Votes": 1006,
+        "Percent": 1.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WATERS, Geraldine",
+        "Votes": 615,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ANDERSON, Bruce",
+        "Votes": 148,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2007": {
+    "title": "Lindsay, NSW   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BRADBURY, David",
+        "Votes": 41991,
+        "Percent": 51.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CHIJOFF, Karen",
+        "Votes": 31176,
+        "Percent": 38.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "EDWARDS, Lesley",
+        "Votes": 2759,
+        "Percent": 3.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "GREEN, Andrew",
+        "Votes": 2498,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARROLD, Lisa",
+        "Votes": 953,
+        "Percent": 1.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MULLER, Iris",
+        "Votes": 915,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCNALLY, Kerry",
+        "Votes": 728,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BAYLEY, Grant",
+        "Votes": 689,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2010": {
+    "title": "Lindsay, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BRADBURY, David",
+        "Votes": 37076,
+        "Percent": 44.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SCOTT, Fiona",
+        "Votes": 36114,
+        "Percent": 43.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WRIGHT, Suzie",
+        "Votes": 3944,
+        "Percent": 4.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "GREEN, Andrew",
+        "Votes": 2502,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, Geoff",
+        "Votes": 1583,
+        "Percent": 1.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "PHILLIPS, John",
+        "Votes": 1032,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SAUNDERS, Mick",
+        "Votes": 976,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2013": {
+    "title": "Lindsay, NSW   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SCOTT, Fiona",
+        "Votes": 40882,
+        "Percent": 46.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRADBURY, Hon David",
+        "Votes": 34212,
+        "Percent": 39.0
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "WILCOX, Andrew",
+        "Votes": 4517,
+        "Percent": 5.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LENTON, David",
+        "Votes": 2679,
+        "Percent": 3.1
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "GREEN, Andrew",
+        "Votes": 2449,
+        "Percent": 2.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "LAWSON, Jeffrey",
+        "Votes": 1901,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SAUNDERS, Mick",
+        "Votes": 610,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, Geoff",
+        "Votes": 408,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2016": {
+    "title": "Lindsay, NSW   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HUSAR, Emma",
+        "Votes": 36675,
+        "Percent": 41.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SCOTT, Fiona",
+        "Votes": 35081,
+        "Percent": 39.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LIU, Kingsley",
+        "Votes": 3199,
+        "Percent": 3.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "WORMALD, Warren",
+        "Votes": 2701,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CORNISH, Marcus",
+        "Votes": 2128,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RODDICK, Stephen",
+        "Votes": 2110,
+        "Percent": 2.4
+      },
+      {
+        "Party": "NXT",
+        "Candidate": "LYNCH, Stephen",
+        "Votes": 1850,
+        "Percent": 2.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BROOY, Linda La",
+        "Votes": 1513,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRIMLEY, Scott",
+        "Votes": 1497,
+        "Percent": 1.7
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "BLUNDELL, Deborah",
+        "Votes": 1454,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SALEAM, Dr Jim",
+        "Votes": 1068,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2019": {
+    "title": "Lindsay, NSW   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCINTOSH, Melissa",
+        "Votes": 45247,
+        "Percent": 46.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BEAMER, Hon Diane",
+        "Votes": 34690,
+        "Percent": 35.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BEST, Nick",
+        "Votes": 4781,
+        "Percent": 4.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "BUTTEL, Christopher",
+        "Votes": 2831,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TYNDALL, Mark",
+        "Votes": 2785,
+        "Percent": 2.9
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "LEES, Brandon",
+        "Votes": 2374,
+        "Percent": 2.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "MOODY-BASEDOW, Mark",
+        "Votes": 1997,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SALEAM, Dr Jim",
+        "Votes": 1372,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, Geoff",
+        "Votes": 1326,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2022": {
+    "title": "Lindsay, NSW   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCINTOSH, Melissa",
+        "Votes": 48939,
+        "Percent": 46.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROSS, Trevor",
+        "Votes": 33206,
+        "Percent": 31.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MORSSINK, Pieter",
+        "Votes": 8404,
+        "Percent": 8.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "JAGO, Max",
+        "Votes": 6203,
+        "Percent": 5.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "O'CONNOR, Joseph",
+        "Votes": 4272,
+        "Percent": 4.1
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "RAY, Rebekah",
+        "Votes": 2075,
+        "Percent": 2.0
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MCCLURE, Gareth",
+        "Votes": 1627,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2025": {
+    "title": "Lindsay, NSW   2025",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "McINTOSH, Melissa",
+        "Votes": 39003,
+        "Percent": 39.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "McLEAN, Hollie",
+        "Votes": 31502,
+        "Percent": 32.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "McALLISTER, Aaron David",
+        "Votes": 9416,
+        "Percent": 9.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BUCKLEY, Christopher",
+        "Votes": 6736,
+        "Percent": 6.9
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "O'CONNOR, Joseph",
+        "Votes": 2994,
+        "Percent": 3.1
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "EMMANUEL, Antony Victor",
+        "Votes": 2413,
+        "Percent": 2.5
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "BLAZI, Vanessa",
+        "Votes": 1910,
+        "Percent": 1.9
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "HALLEY, Carl",
+        "Votes": 1844,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IMO",
+        "Candidate": "PALMER, Michelle",
+        "Votes": 1229,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SALEAM, Jim",
+        "Votes": 1099,
+        "Percent": 1.1
+      }
+    ]
+  }
+}

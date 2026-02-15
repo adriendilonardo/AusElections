@@ -1,0 +1,314 @@
+{
+  "2010": {
+    "title": "Durack, WA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAASE, Barry",
+        "Votes": 32446,
+        "Percent": 45.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HILL, Shane",
+        "Votes": 17299,
+        "Percent": 24.0
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "CRAIGIE, Lynn",
+        "Votes": 12742,
+        "Percent": 17.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MATHESON, Julie",
+        "Votes": 6661,
+        "Percent": 9.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "FOREMAN, Jane",
+        "Votes": 1729,
+        "Percent": 2.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "FORSYTHE, Mac",
+        "Votes": 1121,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2013": {
+    "title": "Durack, WA   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PRICE, Melissa",
+        "Votes": 28143,
+        "Percent": 38.0
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "STYN, Shane van",
+        "Votes": 17145,
+        "Percent": 23.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KEOGH, Daron",
+        "Votes": 15018,
+        "Percent": 20.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JAMES, Ian",
+        "Votes": 5227,
+        "Percent": 7.1
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "HEADLAND, Desmond",
+        "Votes": 4998,
+        "Percent": 6.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GOULD, Grahame",
+        "Votes": 972,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FOREMAN, Shane",
+        "Votes": 810,
+        "Percent": 1.1
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "TODD, Aaron",
+        "Votes": 783,
+        "Percent": 1.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ROSE, Ian",
+        "Votes": 763,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SUDHOLZ, Judy",
+        "Votes": 177,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2016": {
+    "title": "Durack, WA   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PRICE, Melissa",
+        "Votes": 32011,
+        "Percent": 41.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MARTIN, Carol",
+        "Votes": 19860,
+        "Percent": 25.9
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "COLE, Lisa",
+        "Votes": 12257,
+        "Percent": 16.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JAMES, Ian",
+        "Votes": 7710,
+        "Percent": 10.1
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "SAMBELL, Mitchell",
+        "Votes": 2885,
+        "Percent": 3.8
+      },
+      {
+        "Party": "AC",
+        "Candidate": "GOULD, Grahame",
+        "Votes": 1966,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "2019": {
+    "title": "Durack, WA   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PRICE, Hon Melissa",
+        "Votes": 34429,
+        "Percent": 44.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MORROW, Sharyn",
+        "Votes": 16742,
+        "Percent": 21.5
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "BOURNE, Scott",
+        "Votes": 7878,
+        "Percent": 10.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "GOULD, Grahame",
+        "Votes": 7407,
+        "Percent": 9.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MAMID, Johani",
+        "Votes": 6287,
+        "Percent": 8.1
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "MOUNSEY, Gary",
+        "Votes": 2895,
+        "Percent": 3.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HATTON, Brenden",
+        "Votes": 2083,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "2022": {
+    "title": "Durack, WA   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PRICE, Hon Melissa",
+        "Votes": 30736,
+        "Percent": 34.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "RILEY, Jeremiah",
+        "Votes": 26093,
+        "Percent": 29.2
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "BLAYNEY, Ian",
+        "Votes": 9160,
+        "Percent": 6.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCNEAIR, Bianca",
+        "Votes": 8457,
+        "Percent": 9.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "JOHANNSEN, Brenton",
+        "Votes": 6174,
+        "Percent": 6.9
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "MCRAE, Adrian",
+        "Votes": 2738,
+        "Percent": 3.1
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "FELS, Anthony",
+        "Votes": 2483,
+        "Percent": 2.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MIDDLETON, Andrew",
+        "Votes": 2229,
+        "Percent": 2.5
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "SHORE, Craig",
+        "Votes": 1453,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2025": {
+    "title": "Durack, WA   2025",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PRICE, Melissa",
+        "Votes": 28920,
+        "Percent": 32.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WHEATLAND, Karen",
+        "Votes": 20583,
+        "Percent": 23.4
+      },
+      {
+        "Party": "NP",
+        "Candidate": "KEMPTON, Bailey",
+        "Votes": 11972,
+        "Percent": 13.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BERRY, Mark",
+        "Votes": 8868,
+        "Percent": 10.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "STURCKE, Brendan",
+        "Votes": 7196,
+        "Percent": 8.2
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "WRIGHT, Kat",
+        "Votes": 5239,
+        "Percent": 6.0
+      },
+      {
+        "Party": "AUC",
+        "Candidate": "HARRIS, Eugenie Margaret",
+        "Votes": 1880,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IAP",
+        "Candidate": "HUNTER, Jason",
+        "Votes": 1872,
+        "Percent": 2.1
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "KORNAAT, Maarten",
+        "Votes": 1432,
+        "Percent": 1.6
+      }
+    ]
+  }
+}

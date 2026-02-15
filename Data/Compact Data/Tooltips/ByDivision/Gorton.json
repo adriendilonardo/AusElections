@@ -1,0 +1,324 @@
+{
+  "2004": {
+    "title": "Gorton, VIC   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, Brendan",
+        "Votes": 48930,
+        "Percent": 59.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JENNISON, Susan",
+        "Votes": 26717,
+        "Percent": 32.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WILSON, Steve",
+        "Votes": 4204,
+        "Percent": 5.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MALLON, Ian",
+        "Votes": 2052,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAMPBELL, Colin",
+        "Votes": 510,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2007": {
+    "title": "Gorton, VIC   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, Brendan",
+        "Votes": 58732,
+        "Percent": 61.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JENNISON, Susan",
+        "Votes": 23063,
+        "Percent": 24.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TRUONG, Huong",
+        "Votes": 5775,
+        "Percent": 6.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "AMBERLEY, Scott",
+        "Votes": 3746,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HUGHES, Vern",
+        "Votes": 3516,
+        "Percent": 3.7
+      }
+    ]
+  },
+  "2010": {
+    "title": "Gorton, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, Hon Brendan",
+        "Votes": 58767,
+        "Percent": 60.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RYDER, Damon",
+        "Votes": 23116,
+        "Percent": 23.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WILSON, Steve",
+        "Votes": 9949,
+        "Percent": 10.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MAJOR, Sean",
+        "Votes": 6153,
+        "Percent": 6.3
+      }
+    ]
+  },
+  "2013": {
+    "title": "Gorton, VIC   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, Hon Brendan",
+        "Votes": 44449,
+        "Percent": 50.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HUMPHREYS, Phil",
+        "Votes": 22328,
+        "Percent": 25.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JAYASURIYA, Dinesh",
+        "Votes": 5597,
+        "Percent": 6.4
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "BARNES, Anthony",
+        "Votes": 5238,
+        "Percent": 6.0
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "HUNTER, Rhiannon",
+        "Votes": 2850,
+        "Percent": 3.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "AMBERLEY, Scott",
+        "Votes": 2538,
+        "Percent": 2.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DEVERALA, Michael",
+        "Votes": 2392,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHADHUOL, Mabor",
+        "Votes": 1132,
+        "Percent": 1.3
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "MCCARDY, Graham",
+        "Votes": 1090,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2016": {
+    "title": "Gorton, VIC   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, Hon Brendan",
+        "Votes": 61110,
+        "Percent": 62.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LANG, Daryl",
+        "Votes": 27305,
+        "Percent": 27.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SWIFT, Rod",
+        "Votes": 9690,
+        "Percent": 9.9
+      }
+    ]
+  },
+  "2019": {
+    "title": "Gorton, VIC   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, Hon Brendan",
+        "Votes": 47398,
+        "Percent": 50.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NOIA, Nathan Di",
+        "Votes": 24677,
+        "Percent": 26.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BINGHAM, Jarrod",
+        "Votes": 8363,
+        "Percent": 8.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "TURTON, Richard",
+        "Votes": 7473,
+        "Percent": 7.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SINGH, Harkirat",
+        "Votes": 6730,
+        "Percent": 7.1
+      }
+    ]
+  },
+  "2022": {
+    "title": "Gorton, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, Hon Brendan",
+        "Votes": 38178,
+        "Percent": 41.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FLETCHER, John",
+        "Votes": 25350,
+        "Percent": 27.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MORRIS, Praise",
+        "Votes": 8325,
+        "Percent": 9.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "VIRAG, Michael",
+        "Votes": 7082,
+        "Percent": 7.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "CONNOR, Daniel",
+        "Votes": 6719,
+        "Percent": 7.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LONCAR, Steven",
+        "Votes": 2341,
+        "Percent": 2.5
+      },
+      {
+        "Party": "VS",
+        "Candidate": "GIBSON, Belle",
+        "Votes": 2064,
+        "Percent": 2.2
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "DOBRAN, Tony",
+        "Votes": 1312,
+        "Percent": 1.4
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "LASSIG, Paul",
+        "Votes": 1063,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2025": {
+    "title": "Gorton, VIC   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JORDAN-BAIRD, Alice",
+        "Votes": 48834,
+        "Percent": 43.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FLETCHER, John",
+        "Votes": 33087,
+        "Percent": 29.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HUYNH, Thuc Bao",
+        "Votes": 12244,
+        "Percent": 10.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "REID, Alan",
+        "Votes": 7137,
+        "Percent": 6.3
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "MENTA, Xavier",
+        "Votes": 6535,
+        "Percent": 5.8
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "ASHTON, Kathrine",
+        "Votes": 4216,
+        "Percent": 3.7
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "McCATHIE, Rob",
+        "Votes": 1377,
+        "Percent": 1.2
+      }
+    ]
+  }
+}

@@ -1,0 +1,920 @@
+{
+  "1949": {
+    "title": "Bradfield, NSW   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HUGHES, Rt Hon Billy",
+        "Votes": 28428,
+        "Percent": 71.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GEE, Kenneth",
+        "Votes": 8645,
+        "Percent": 21.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PRICE, Edward",
+        "Votes": 2764,
+        "Percent": 6.9
+      }
+    ]
+  },
+  "1951": {
+    "title": "Bradfield, NSW   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MILNE, Hugh",
+        "Votes": "8784",
+        "Percent": 21.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HUGHES, Rt Hon Billy",
+        "Votes": "32469",
+        "Percent": 78.7
+      }
+    ]
+  },
+  "1954": {
+    "title": "Bradfield, NSW   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TURNER, Henry",
+        "Votes": "Unopposed",
+        "Percent": 100.0
+      }
+    ]
+  },
+  "1955": {
+    "title": "Bradfield, NSW   1955",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "TURNER, Henry",
+        "Votes": "Unopposed",
+        "Percent": 100.0
+      }
+    ]
+  },
+  "1958": {
+    "title": "Bradfield, NSW   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TURNER, Henry",
+        "Votes": 34363,
+        "Percent": 75.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STAINES, Percival",
+        "Votes": 7338,
+        "Percent": 16.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DROULERS, Dominique",
+        "Votes": 3677,
+        "Percent": 8.1
+      }
+    ]
+  },
+  "1961": {
+    "title": "Bradfield, NSW   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TURNER, Henry",
+        "Votes": 36166,
+        "Percent": 71.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STAINES, Percival",
+        "Votes": 10545,
+        "Percent": 20.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DROULERS, Dominique",
+        "Votes": 3946,
+        "Percent": 7.8
+      }
+    ]
+  },
+  "1963": {
+    "title": "Bradfield, NSW   1963",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCCULLOCH, Lawrence",
+        "Votes": "8575",
+        "Percent": 16.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TURNER, Henry",
+        "Votes": "41831",
+        "Percent": 78.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DROULERS, Dominique",
+        "Votes": "3245",
+        "Percent": 6.0
+      }
+    ]
+  },
+  "1966": {
+    "title": "Bradfield, NSW   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TURNER, Henry",
+        "Votes": 44317,
+        "Percent": 78.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRAMWELL, William",
+        "Votes": 8698,
+        "Percent": 15.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DWYER, Allan",
+        "Votes": 3533,
+        "Percent": 6.2
+      }
+    ]
+  },
+  "1969": {
+    "title": "Bradfield, NSW   1969",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TURNER, Henry",
+        "Votes": 34184,
+        "Percent": 63.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CROOK, Keith",
+        "Votes": 12364,
+        "Percent": 22.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FELTON, Anthony",
+        "Votes": 3085,
+        "Percent": 5.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LONERAGAN, Betty",
+        "Votes": 2306,
+        "Percent": 4.3
+      },
+      {
+        "Party": "AP",
+        "Candidate": "WILSON, Barbara",
+        "Votes": 2293,
+        "Percent": 4.2
+      }
+    ]
+  },
+  "1972": {
+    "title": "Bradfield, NSW   1972",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TURNER, Henry",
+        "Votes": 36378,
+        "Percent": 61.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "POMEROY, John",
+        "Votes": 13458,
+        "Percent": 22.7
+      },
+      {
+        "Party": "AP",
+        "Candidate": "MCMILLAN, Mavis",
+        "Votes": 4876,
+        "Percent": 8.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DWYER, Allan",
+        "Votes": 2412,
+        "Percent": 4.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BERRILL, Helen",
+        "Votes": 2251,
+        "Percent": 3.8
+      }
+    ]
+  },
+  "1974": {
+    "title": "Bradfield, NSW   1974",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CONNOLLY, David",
+        "Votes": 47142,
+        "Percent": 72.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ABRAHAMS, Bruce",
+        "Votes": 15391,
+        "Percent": 23.6
+      },
+      {
+        "Party": "AP",
+        "Candidate": "JOHNSTON, Colvin",
+        "Votes": 2660,
+        "Percent": 4.1
+      }
+    ]
+  },
+  "1975": {
+    "title": "Bradfield, NSW   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CONNOLLY, David",
+        "Votes": 53135,
+        "Percent": 77.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CARMODY, John",
+        "Votes": 12374,
+        "Percent": 18.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, Christopher",
+        "Votes": 2662,
+        "Percent": 3.9
+      }
+    ]
+  },
+  "1977": {
+    "title": "Bradfield, NSW   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CONNOLLY, David",
+        "Votes": 49052,
+        "Percent": 72.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KIBBLE, Pauline",
+        "Votes": 9578,
+        "Percent": 14.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MARRABLE, Donald",
+        "Votes": 7378,
+        "Percent": 10.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, Christopher",
+        "Votes": 1518,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1980": {
+    "title": "Bradfield, NSW   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CONNOLLY, David",
+        "Votes": 51354,
+        "Percent": 75.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCKEEN, Keith",
+        "Votes": 12018,
+        "Percent": 17.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROBEY, Ilse",
+        "Votes": 5018,
+        "Percent": 7.3
+      }
+    ]
+  },
+  "1983": {
+    "title": "Bradfield, NSW   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CONNOLLY, David",
+        "Votes": 49566,
+        "Percent": 72.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DONOVAN, Peter",
+        "Votes": 14535,
+        "Percent": 21.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DUNNE, Anthony",
+        "Votes": 4674,
+        "Percent": 6.8
+      }
+    ]
+  },
+  "1984": {
+    "title": "Bradfield, NSW   1984",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CONNOLLY, David",
+        "Votes": 44901,
+        "Percent": 71.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STRASSBERG, Matthew",
+        "Votes": 12991,
+        "Percent": 20.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "VEITCH, Emma",
+        "Votes": 4864,
+        "Percent": 7.8
+      }
+    ]
+  },
+  "1987": {
+    "title": "Bradfield, NSW   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CONNOLLY, David",
+        "Votes": 45630,
+        "Percent": 71.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FRY, Michael",
+        "Votes": 12359,
+        "Percent": 19.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RICHARDSON, Fiona",
+        "Votes": 5745,
+        "Percent": 9.0
+      }
+    ]
+  },
+  "1990": {
+    "title": "Bradfield, NSW   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CONNOLLY, David",
+        "Votes": 41250,
+        "Percent": 63.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCCARTHY, Adam",
+        "Votes": 11898,
+        "Percent": 18.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LONG, Henry",
+        "Votes": 7496,
+        "Percent": 11.6
+      },
+      {
+        "Party": "NDP",
+        "Candidate": "TRENOWETH, Giovanna",
+        "Votes": 1811,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARDWICK, Anthony",
+        "Votes": 1483,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JACOBS, Alan",
+        "Votes": 957,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1993": {
+    "title": "Bradfield, NSW   1993",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CONNOLLY, David",
+        "Votes": "51822",
+        "Percent": 69.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SPRINGETT, Bob",
+        "Votes": "4665",
+        "Percent": 6.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JEANS, Simon",
+        "Votes": "16610",
+        "Percent": 22.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COURTNEY-HOLLAND, Mark",
+        "Votes": "1180",
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1996": {
+    "title": "Bradfield, NSW   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "NELSON, Dr Brendan",
+        "Votes": 48260,
+        "Percent": 64.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KEMENY, Alex",
+        "Votes": 11449,
+        "Percent": 15.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BARRY, Ann",
+        "Votes": 6908,
+        "Percent": 9.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WRIGHT, Richard",
+        "Votes": 2577,
+        "Percent": 3.5
+      },
+      {
+        "Party": "AAFI",
+        "Candidate": "WATKINS, Len",
+        "Votes": 2571,
+        "Percent": 3.5
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "RATCLIFFE, Margaret",
+        "Votes": 1307,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GALLAGHER, Patrick",
+        "Votes": 918,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TOOMEY, Mark",
+        "Votes": 216,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1998": {
+    "title": "Bradfield, NSW   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "NELSON, Dr Brendan",
+        "Votes": 47725,
+        "Percent": 64.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KAILAINATHAN, Nadesu",
+        "Votes": 13937,
+        "Percent": 18.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MORRIS, Carmel",
+        "Votes": 5791,
+        "Percent": 7.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "WEBECK, Robert",
+        "Votes": 2832,
+        "Percent": 3.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ALLAS, Marc",
+        "Votes": 2218,
+        "Percent": 3.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "RATCLIFFE, Margaret",
+        "Votes": 1228,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KIELY, Alexandra",
+        "Votes": 412,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2001": {
+    "title": "Bradfield, NSW   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "NELSON, Hon Dr Brendan",
+        "Votes": 52628,
+        "Percent": 64.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BLUNT, Kathy",
+        "Votes": 15489,
+        "Percent": 19.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BELL, Dave",
+        "Votes": 5451,
+        "Percent": 6.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BYRNE, Peter",
+        "Votes": 5443,
+        "Percent": 6.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "WEBECK, John",
+        "Votes": 1247,
+        "Percent": 1.5
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "WISZNIEWSKI, Witold",
+        "Votes": 1204,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "2004": {
+    "title": "Bradfield, NSW   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "NELSON, Hon Dr Brendan",
+        "Votes": 51356,
+        "Percent": 63.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NEELAM, Neil",
+        "Votes": 16735,
+        "Percent": 20.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GOODWILL, Robert",
+        "Votes": 9249,
+        "Percent": 11.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TSOULOS, Jeantee",
+        "Votes": 1971,
+        "Percent": 2.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MONTGOMERY, Sarah",
+        "Votes": 1459,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "2007": {
+    "title": "Bradfield, NSW   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "NELSON, Hon Dr Brendan",
+        "Votes": 49817,
+        "Percent": 59.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BROOKMAN, Victoria",
+        "Votes": 22509,
+        "Percent": 26.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GEMMELL, Susie",
+        "Votes": 9495,
+        "Percent": 11.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "WISZNIEWSKI, Witold",
+        "Votes": 1466,
+        "Percent": 1.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "TURNBULL, James",
+        "Votes": 759,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUTLER, Robert H",
+        "Votes": 285,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "Bradfield, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FLETCHER, Paul",
+        "Votes": 56143,
+        "Percent": 64.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GALLARD, Sarah",
+        "Votes": 16742,
+        "Percent": 19.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GEMMELL, Susie",
+        "Votes": 14231,
+        "Percent": 16.3
+      }
+    ]
+  },
+  "2013": {
+    "title": "Bradfield, NSW   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FLETCHER, Paul",
+        "Votes": 57506,
+        "Percent": 64.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HAVILAND, Chris",
+        "Votes": 14720,
+        "Percent": 16.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCINNES, Pippa",
+        "Votes": 11429,
+        "Percent": 12.9
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "BUCHANAN, Blake",
+        "Votes": 2366,
+        "Percent": 2.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "ARCHER, John",
+        "Votes": 1671,
+        "Percent": 1.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HARROLD, Paul",
+        "Votes": 992,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2016": {
+    "title": "Bradfield, NSW   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FLETCHER, Hon Paul",
+        "Votes": 57231,
+        "Percent": 61.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GOMPERTZ, Katie",
+        "Votes": 15926,
+        "Percent": 17.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JONES, Adrian",
+        "Votes": 10936,
+        "Percent": 11.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BERMAN, Christine",
+        "Votes": 4248,
+        "Percent": 4.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "VALE, Chris",
+        "Votes": 3497,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KELLY, Peter",
+        "Votes": 1796,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "2019": {
+    "title": "Bradfield, NSW   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FLETCHER, Hon Paul",
+        "Votes": 58007,
+        "Percent": 60.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HAVILAND, Chris",
+        "Votes": 20361,
+        "Percent": 21.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ADAMS, Tony",
+        "Votes": 13177,
+        "Percent": 13.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MOLLOY, Stephen",
+        "Votes": 2826,
+        "Percent": 2.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "VERSACE, Marcus",
+        "Votes": 1772,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "2022": {
+    "title": "Bradfield, NSW   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FLETCHER, Hon Paul",
+        "Votes": 43562,
+        "Percent": 45.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOELE, Nicolette",
+        "Votes": 20198,
+        "Percent": 20.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRIGDEN, David",
+        "Votes": 16902,
+        "Percent": 17.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COUSINS, Martin",
+        "Votes": 8960,
+        "Percent": 9.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KITSON, Janine",
+        "Votes": 3018,
+        "Percent": 3.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "FLETCHER, Rob",
+        "Votes": 2496,
+        "Percent": 2.6
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "LOWE, Michael",
+        "Votes": 1568,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2025": {
+    "title": "Bradfield, NSW   2025",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KAPTERIAN, Gisele",
+        "Votes": 42676,
+        "Percent": 38.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOELE, Nicolette",
+        "Votes": 30309,
+        "Percent": 27.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "McCALLUM, Louise",
+        "Votes": 22768,
+        "Percent": 20.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SINGH, Harjit",
+        "Votes": 7551,
+        "Percent": 6.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "YIN, Andy",
+        "Votes": 4635,
+        "Percent": 4.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MANTON, John",
+        "Votes": 1725,
+        "Percent": 1.5
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "GUNNING, Samuel Joseph",
+        "Votes": 1376,
+        "Percent": 1.2
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "MULLIGAN, Rosemary",
+        "Votes": 1162,
+        "Percent": 1.0
+      }
+    ]
+  }
+}

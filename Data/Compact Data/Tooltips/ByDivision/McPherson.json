@@ -1,0 +1,79 @@
+{
+  "2025": {
+    "title": "McPherson, QLD   2025",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "REBELLO, Leon",
+        "Votes": 34918,
+        "Percent": 35.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PRICE, Alice",
+        "Votes": 22778,
+        "Percent": 23.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MURRAY-BARTLETT, Erchana",
+        "Votes": 13366,
+        "Percent": 13.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KENNEALY, Amanda",
+        "Votes": 8175,
+        "Percent": 8.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "ATTIIG, Zyion",
+        "Votes": 4229,
+        "Percent": 4.4
+      },
+      {
+        "Party": "GRPF",
+        "Candidate": "HATZIKALIMNIOS, Harry",
+        "Votes": 3158,
+        "Percent": 3.2
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "KNIPE, Jeff",
+        "Votes": 2751,
+        "Percent": 2.8
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "CRESWICK, Max",
+        "Votes": 2681,
+        "Percent": 2.8
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "BIGGS, Gary",
+        "Votes": 1432,
+        "Percent": 1.5
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "TESTER, Neena",
+        "Votes": 1366,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FAYE, Michelle",
+        "Votes": 1221,
+        "Percent": 1.3
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "HORSBURGH, Jennifer",
+        "Votes": 1140,
+        "Percent": 1.2
+      }
+    ]
+  }
+}

@@ -1,0 +1,854 @@
+{
+  "1949": {
+    "title": "Lowe, NSW   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCMAHON, William",
+        "Votes": 20489,
+        "Percent": 52.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCDONALD, Hector",
+        "Votes": 15908,
+        "Percent": 40.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHORTLAND, Edith",
+        "Votes": 2470,
+        "Percent": 6.4
+      }
+    ]
+  },
+  "1951": {
+    "title": "Lowe, NSW   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCMAHON, William",
+        "Votes": "22276",
+        "Percent": 57.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BURTON, Dr John",
+        "Votes": "16250",
+        "Percent": 42.2
+      }
+    ]
+  },
+  "1954": {
+    "title": "Lowe, NSW   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCMAHON, Hon William",
+        "Votes": "21380",
+        "Percent": 57.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WEBSTER, William",
+        "Votes": "15602",
+        "Percent": 42.2
+      }
+    ]
+  },
+  "1955": {
+    "title": "Lowe, NSW   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCMAHON, Hon William",
+        "Votes": "25080",
+        "Percent": 60.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DAVIES, Edward",
+        "Votes": "16508",
+        "Percent": 39.7
+      }
+    ]
+  },
+  "1958": {
+    "title": "Lowe, NSW   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCMAHON, Hon William",
+        "Votes": 22239,
+        "Percent": 55.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SLOSS, Joseph",
+        "Votes": 14086,
+        "Percent": 35.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DOLAN, Mollie",
+        "Votes": 3669,
+        "Percent": 9.2
+      }
+    ]
+  },
+  "1961": {
+    "title": "Lowe, NSW   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCMAHON, Hon William",
+        "Votes": 18472,
+        "Percent": 47.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HOLLAND, John",
+        "Votes": 18285,
+        "Percent": 47.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "KLEIN, Denis",
+        "Votes": 1486,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Daniel",
+        "Votes": 396,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1963": {
+    "title": "Lowe, NSW   1963",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCMAHON, Hon William",
+        "Votes": "21714",
+        "Percent": 55.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "LAWSON, Reginald",
+        "Votes": "1910",
+        "Percent": 4.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HOLLAND, John",
+        "Votes": "15426",
+        "Percent": 39.5
+      }
+    ]
+  },
+  "1966": {
+    "title": "Lowe, NSW   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCMAHON, Rt Hon William",
+        "Votes": 21595,
+        "Percent": 58.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DUNN, Peter",
+        "Votes": 12687,
+        "Percent": 34.4
+      },
+      {
+        "Party": "LRG",
+        "Candidate": "JAMES, Francis",
+        "Votes": 1485,
+        "Percent": 4.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ROONEY, Anthony",
+        "Votes": 1147,
+        "Percent": 3.1
+      }
+    ]
+  },
+  "1969": {
+    "title": "Lowe, NSW   1969",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCMAHON, Rt Hon William",
+        "Votes": 25317,
+        "Percent": 48.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "YOUNG, Peter",
+        "Votes": 21586,
+        "Percent": 41.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BAILEY, Patricia",
+        "Votes": 2417,
+        "Percent": 4.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MACMAHON, Bernard",
+        "Votes": 1700,
+        "Percent": 3.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BANNON, Agnes",
+        "Votes": 1490,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "1972": {
+    "title": "Lowe, NSW   1972",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCMAHON, Rt Hon William",
+        "Votes": 25971,
+        "Percent": 48.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FISHER, William",
+        "Votes": 22879,
+        "Percent": 42.9
+      },
+      {
+        "Party": "AP",
+        "Candidate": "STEELE, John",
+        "Votes": 1892,
+        "Percent": 3.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BANNON, Agnes",
+        "Votes": 1378,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TAYLOR, Kathleen",
+        "Votes": 545,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "AUSSIE-STONE, Marcus",
+        "Votes": 312,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WIDDUP, David",
+        "Votes": 207,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MORGAN, John",
+        "Votes": 87,
+        "Percent": 0.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TORZSOK, Sandor",
+        "Votes": 33,
+        "Percent": 0.1
+      }
+    ]
+  },
+  "1974": {
+    "title": "Lowe, NSW   1974",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCMAHON, Rt Hon William",
+        "Votes": 29110,
+        "Percent": 51.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SUTHERLAND, Douglas",
+        "Votes": 24697,
+        "Percent": 43.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOUGLAS, Bronte",
+        "Votes": 1578,
+        "Percent": 2.8
+      },
+      {
+        "Party": "AP",
+        "Candidate": "POULSON, Bent",
+        "Votes": 1088,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "1975": {
+    "title": "Lowe, NSW   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCMAHON, Rt Hon William",
+        "Votes": 32908,
+        "Percent": 57.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HYDE, Robert",
+        "Votes": 22299,
+        "Percent": 38.8
+      },
+      {
+        "Party": "AP",
+        "Candidate": "BROS, Clifford",
+        "Votes": 1039,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KICHNO, Andris",
+        "Votes": 626,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOIG, Benjamin",
+        "Votes": 362,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POULSEN, Bent",
+        "Votes": 168,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1977": {
+    "title": "Lowe, NSW   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCMAHON, Rt Hon Sir William",
+        "Votes": 35044,
+        "Percent": 52.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HALL, Richard",
+        "Votes": 26052,
+        "Percent": 39.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TROSS, Frederick",
+        "Votes": 3764,
+        "Percent": 5.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BINGLE, Charles",
+        "Votes": 1553,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "1980": {
+    "title": "Lowe, NSW   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCMAHON, Rt Hon Sir William",
+        "Votes": 31892,
+        "Percent": 48.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BURNSWOODS, Jan",
+        "Votes": 30379,
+        "Percent": 46.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MULLIGAN, Bradley",
+        "Votes": 1987,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "REASHA, Anthony",
+        "Votes": 1167,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "1983": {
+    "title": "Lowe, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MAHER, Michael",
+        "Votes": 33619,
+        "Percent": 51.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TAYLOR, Philip",
+        "Votes": 27633,
+        "Percent": 42.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROGERS, Ralph",
+        "Votes": 2030,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JARVIS, Helen",
+        "Votes": 1572,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "1984": {
+    "title": "Lowe, NSW   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MAHER, Michael",
+        "Votes": 30483,
+        "Percent": 49.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HOWE, Geoffrey",
+        "Votes": 26812,
+        "Percent": 43.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BUNCOMBE, Kent",
+        "Votes": 4400,
+        "Percent": 7.1
+      }
+    ]
+  },
+  "1987": {
+    "title": "Lowe, NSW   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WOODS, Dr Bob",
+        "Votes": 29724,
+        "Percent": 47.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MAHER, Michael",
+        "Votes": 29644,
+        "Percent": 47.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TURNER, George",
+        "Votes": 2197,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FARRELL, Tony",
+        "Votes": 1432,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "1990": {
+    "title": "Lowe, NSW   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WOODS, Dr Bob",
+        "Votes": 28892,
+        "Percent": 45.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EASSON, Mary",
+        "Votes": 23764,
+        "Percent": 37.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MIGNOT, Andrew",
+        "Votes": 4612,
+        "Percent": 7.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "THRELFO, Bruce",
+        "Votes": 3193,
+        "Percent": 5.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GALIMBERTI, Corrado",
+        "Votes": 1652,
+        "Percent": 2.6
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "PETERSON, Peter",
+        "Votes": 828,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "1993": {
+    "title": "Lowe, NSW   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "LOWRY, Erik",
+        "Votes": "91",
+        "Percent": 0.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JONES, Erika",
+        "Votes": "717",
+        "Percent": 1.0
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "PETERSON, Peter",
+        "Votes": "490",
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CUMMINGS, Kate",
+        "Votes": "410",
+        "Percent": 0.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EASSON, Mary",
+        "Votes": "34463",
+        "Percent": 47.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WOODS, Dr Bob",
+        "Votes": "30151",
+        "Percent": 41.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "THRELFO, Bruce",
+        "Votes": "1827",
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WOODS, Peter",
+        "Votes": "1751",
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EAGER, Richard",
+        "Votes": "155",
+        "Percent": 0.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PANZARINO, Anthony",
+        "Votes": "1395",
+        "Percent": 1.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MEIKLE, Jeff",
+        "Votes": "1092",
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1996": {
+    "title": "Lowe, NSW   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ZAMMIT, Paul",
+        "Votes": 33966,
+        "Percent": 46.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EASSON, Mary",
+        "Votes": 28447,
+        "Percent": 39.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PLUMB, Noel",
+        "Votes": 3143,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WOODS, Peter",
+        "Votes": 2279,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CALVERT, Michelle",
+        "Votes": 2137,
+        "Percent": 2.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HINE, Doug",
+        "Votes": 1367,
+        "Percent": 1.9
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "WOOD, Katie",
+        "Votes": 782,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ALLEN, Dave",
+        "Votes": 271,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HUGHES, Bob",
+        "Votes": 204,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LANE, Max",
+        "Votes": 167,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "1998": {
+    "title": "Lowe, NSW   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MURPHY, John",
+        "Votes": 26730,
+        "Percent": 36.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LEE, Robert",
+        "Votes": 24617,
+        "Percent": 33.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ZAMMIT, Paul",
+        "Votes": 11700,
+        "Percent": 15.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WONG, Chris",
+        "Votes": 2813,
+        "Percent": 3.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "WRIGHT, John",
+        "Votes": 2768,
+        "Percent": 3.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MEIKLE, Jeff",
+        "Votes": 1714,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SICARI, Vince",
+        "Votes": 1603,
+        "Percent": 2.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "VERCO, Natasha",
+        "Votes": 1300,
+        "Percent": 1.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "DAVIES, Owen",
+        "Votes": 597,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MAISANO, Giancarlo",
+        "Votes": 267,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILKISON, Gary",
+        "Votes": 80,
+        "Percent": 0.1
+      }
+    ]
+  },
+  "2001": {
+    "title": "Lowe, NSW   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MURPHY, John",
+        "Votes": 33508,
+        "Percent": 44.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DOUST, David",
+        "Votes": 31400,
+        "Percent": 42.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GARRETT, Anna",
+        "Votes": 3359,
+        "Percent": 4.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SOULOS, Mersina",
+        "Votes": 3145,
+        "Percent": 4.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WONG, Ernest",
+        "Votes": 1700,
+        "Percent": 2.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "KRUMINS, Harry",
+        "Votes": 1463,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LANE, Max",
+        "Votes": 267,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2004": {
+    "title": "Lowe, NSW   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MURPHY, John",
+        "Votes": 32777,
+        "Percent": 42.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SIDOTI, John",
+        "Votes": 32654,
+        "Percent": 42.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MURPHY, Shireen",
+        "Votes": 7057,
+        "Percent": 9.2
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "RAHME, Peter",
+        "Votes": 1519,
+        "Percent": 2.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PACE, Biannca",
+        "Votes": 1013,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "AVERY, Timothy",
+        "Votes": 717,
+        "Percent": 0.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MASON, John",
+        "Votes": 678,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2007": {
+    "title": "Lowe, NSW   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MURPHY, John",
+        "Votes": 38766,
+        "Percent": 49.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TSOLAKIS, Jim",
+        "Votes": 31518,
+        "Percent": 40.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RERCERETNAM, Marc",
+        "Votes": 6774,
+        "Percent": 8.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "SHAILER, Bill",
+        "Votes": 1616,
+        "Percent": 2.1
+      }
+    ]
+  }
+}

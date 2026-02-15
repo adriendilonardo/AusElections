@@ -1,0 +1,1063 @@
+{
+  "1946": {
+    "title": "Reid, NSW   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORGAN, Charles",
+        "Votes": 29547,
+        "Percent": 40.7
+      },
+      {
+        "Party": "ALPN",
+        "Candidate": "LANG, Hon Jack",
+        "Votes": 25049,
+        "Percent": 34.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BLAXLAND, Jeffrey",
+        "Votes": 15755,
+        "Percent": 21.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BECKETT, William",
+        "Votes": 2194,
+        "Percent": 3.0
+      }
+    ]
+  },
+  "1949": {
+    "title": "Reid, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORGAN, Charles",
+        "Votes": 24607,
+        "Percent": 58.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CLOUGH, James",
+        "Votes": 12304,
+        "Percent": 29.0
+      },
+      {
+        "Party": "ALPN",
+        "Candidate": "SHELDON, Rupert",
+        "Votes": 5467,
+        "Percent": 12.9
+      }
+    ]
+  },
+  "1951": {
+    "title": "Reid, NSW   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORGAN, Charles",
+        "Votes": "28115",
+        "Percent": 62.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHELDON, Rupert",
+        "Votes": "1903",
+        "Percent": 4.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CLOUGH, James",
+        "Votes": "15051",
+        "Percent": 33.4
+      }
+    ]
+  },
+  "1954": {
+    "title": "Reid, NSW   1954",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "HANCOCK, Horace",
+        "Votes": "3348",
+        "Percent": 6.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MORGAN, Charles",
+        "Votes": "32958",
+        "Percent": 63.4
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "AARONS, Laurence",
+        "Votes": "2285",
+        "Percent": 4.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MUTTON, Robert",
+        "Votes": "13425",
+        "Percent": 25.8
+      }
+    ]
+  },
+  "1955": {
+    "title": "Reid, NSW   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WALKER, George",
+        "Votes": "9721",
+        "Percent": 23.6
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "HUGHES, Jack",
+        "Votes": "3270",
+        "Percent": 7.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MORGAN, Charles",
+        "Votes": "25959",
+        "Percent": 62.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TUBMAN, Charles",
+        "Votes": "2327",
+        "Percent": 5.6
+      }
+    ]
+  },
+  "1958": {
+    "title": "Reid, NSW   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "UREN, Tom",
+        "Votes": 23422,
+        "Percent": 49.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BRYDEN, Derek",
+        "Votes": 12597,
+        "Percent": 26.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MORGAN, Charles",
+        "Votes": 10201,
+        "Percent": 21.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MURPHY, Andrew",
+        "Votes": 1439,
+        "Percent": 3.0
+      }
+    ]
+  },
+  "1961": {
+    "title": "Reid, NSW   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "UREN, Tom",
+        "Votes": 34867,
+        "Percent": 66.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "COOK, Jack",
+        "Votes": 11959,
+        "Percent": 22.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CARROLL, Michael",
+        "Votes": 5885,
+        "Percent": 11.2
+      }
+    ]
+  },
+  "1963": {
+    "title": "Reid, NSW   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "CARROLL, Michael",
+        "Votes": "5547",
+        "Percent": 10.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "UREN, Tom",
+        "Votes": "32497",
+        "Percent": 58.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "REEVES, Thomas",
+        "Votes": "17667",
+        "Percent": 31.7
+      }
+    ]
+  },
+  "1966": {
+    "title": "Reid, NSW   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "UREN, Tom",
+        "Votes": 28645,
+        "Percent": 51.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KELLY, Stanislaus",
+        "Votes": 21089,
+        "Percent": 38.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CARROLL, Michael",
+        "Votes": 5764,
+        "Percent": 10.4
+      }
+    ]
+  },
+  "1969": {
+    "title": "Reid, NSW   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "UREN, Tom",
+        "Votes": 31189,
+        "Percent": 59.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HEDGES, Stanley",
+        "Votes": 17404,
+        "Percent": 33.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CARROLL, Michael",
+        "Votes": 2791,
+        "Percent": 5.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HURST, Norman",
+        "Votes": 1242,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "1972": {
+    "title": "Reid, NSW   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "UREN, Tom",
+        "Votes": 35032,
+        "Percent": 66.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PARDY, William",
+        "Votes": 15527,
+        "Percent": 29.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SANDERS, Joseph",
+        "Votes": 2106,
+        "Percent": 4.0
+      }
+    ]
+  },
+  "1974": {
+    "title": "Reid, NSW   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "UREN, Hon Tom",
+        "Votes": 38222,
+        "Percent": 67.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FAULKNER, Thomas",
+        "Votes": 16753,
+        "Percent": 29.7
+      },
+      {
+        "Party": "AP",
+        "Candidate": "O'NEILL, Astrid",
+        "Votes": 1349,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "1975": {
+    "title": "Reid, NSW   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "UREN, Hon Tom",
+        "Votes": 33208,
+        "Percent": 58.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SHANAHAN, Terence",
+        "Votes": 20414,
+        "Percent": 36.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCKENNA, Kevin",
+        "Votes": 2742,
+        "Percent": 4.9
+      }
+    ]
+  },
+  "1977": {
+    "title": "Reid, NSW   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "UREN, Hon Tom",
+        "Votes": 38667,
+        "Percent": 58.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SHANAHAN, Terence",
+        "Votes": 21246,
+        "Percent": 32.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BLUCK, Frederick",
+        "Votes": 6216,
+        "Percent": 9.4
+      }
+    ]
+  },
+  "1980": {
+    "title": "Reid, NSW   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "UREN, Hon Tom",
+        "Votes": 38675,
+        "Percent": 61.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MAIO, Florence",
+        "Votes": 18885,
+        "Percent": 30.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRAY, Neville",
+        "Votes": 3664,
+        "Percent": 5.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TERRETT, Paul",
+        "Votes": 1548,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1983": {
+    "title": "Reid, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "UREN, Hon Tom",
+        "Votes": 37839,
+        "Percent": 61.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MAIO, Florence",
+        "Votes": 17089,
+        "Percent": 27.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BASTIAN, Stephen",
+        "Votes": 4770,
+        "Percent": 7.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOLAND, Lynda",
+        "Votes": 723,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRAY, Neville",
+        "Votes": 646,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GLUYAS, Michael",
+        "Votes": 259,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1984": {
+    "title": "Reid, NSW   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "UREN, Hon Tom",
+        "Votes": 36384,
+        "Percent": 61.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KAIN, Mary-Ruth",
+        "Votes": 17269,
+        "Percent": 29.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROVEEN, John",
+        "Votes": 2936,
+        "Percent": 4.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SALEAM, Jim",
+        "Votes": 2803,
+        "Percent": 4.7
+      }
+    ]
+  },
+  "1987": {
+    "title": "Reid, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "UREN, Hon Tom",
+        "Votes": 35738,
+        "Percent": 58.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCDOWELL, Lynne",
+        "Votes": 21175,
+        "Percent": 34.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROVEEN, John",
+        "Votes": 4274,
+        "Percent": 7.0
+      }
+    ]
+  },
+  "1990": {
+    "title": "Reid, NSW   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FERGUSON, Laurie",
+        "Votes": 34591,
+        "Percent": 55.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCDOWELL, Lynne",
+        "Votes": 17016,
+        "Percent": 27.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BAILEY, Steven",
+        "Votes": 3807,
+        "Percent": 6.1
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "BARRON, Keith",
+        "Votes": 2599,
+        "Percent": 4.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WHITE, Vincent",
+        "Votes": 1765,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GLEESON, Margaret",
+        "Votes": 1328,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ELACHI, Radwan",
+        "Votes": 874,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1993": {
+    "title": "Reid, NSW   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "DORIC, Stephen",
+        "Votes": "660",
+        "Percent": 0.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FERGUSON, Laurie",
+        "Votes": "45714",
+        "Percent": 64.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GUNER, Eyup",
+        "Votes": "19711",
+        "Percent": 27.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EMTAGE, Carmel",
+        "Votes": "1942",
+        "Percent": 2.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LONG, Jennifer",
+        "Votes": "1524",
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LOCKE, Paul",
+        "Votes": "1098",
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1996": {
+    "title": "Reid, NSW   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FERGUSON, Laurie",
+        "Votes": 40910,
+        "Percent": 57.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCDOWELL, Lynne",
+        "Votes": 24720,
+        "Percent": 34.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GIULIANO, Alfie",
+        "Votes": 4977,
+        "Percent": 7.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DORIC, Catherine",
+        "Votes": 975,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1998": {
+    "title": "Reid, NSW   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FERGUSON, Laurie",
+        "Votes": 41162,
+        "Percent": 57.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FREAME, Alma",
+        "Votes": 15637,
+        "Percent": 21.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "O'CONNOR, Shane",
+        "Votes": 4477,
+        "Percent": 6.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TONGSUMRITH, Penny",
+        "Votes": 4045,
+        "Percent": 5.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "ANANIN, John",
+        "Votes": 2544,
+        "Percent": 3.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "POULARIS, David",
+        "Votes": 2052,
+        "Percent": 2.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "THOMSON, Jamie",
+        "Votes": 1293,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SAVOULIAN, Rupen",
+        "Votes": 302,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2001": {
+    "title": "Reid, NSW   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FERGUSON, Laurie",
+        "Votes": 36474,
+        "Percent": 57.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "YUSUF, Irfan",
+        "Votes": 14364,
+        "Percent": 22.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "O'CONNOR, Shane",
+        "Votes": 3476,
+        "Percent": 5.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHAMAS, Habib",
+        "Votes": 3056,
+        "Percent": 4.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ARCHER, Adrian",
+        "Votes": 2183,
+        "Percent": 3.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MAXWELL, Steve",
+        "Votes": 1920,
+        "Percent": 3.0
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "LEDERMANN, Uwe",
+        "Votes": 1502,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MACDONALD, Lisa",
+        "Votes": 916,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2004": {
+    "title": "Reid, NSW   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FERGUSON, Laurie",
+        "Votes": 33052,
+        "Percent": 51.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCMAHON, Sarah",
+        "Votes": 19796,
+        "Percent": 30.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SALTI, Wafaa",
+        "Votes": 3376,
+        "Percent": 5.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KHOURY, Nicholas",
+        "Votes": 3084,
+        "Percent": 4.8
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "LAURENCE, Kylie",
+        "Votes": 2296,
+        "Percent": 3.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "WILLIAMS, Neville",
+        "Votes": 1267,
+        "Percent": 2.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "YOO, Tony",
+        "Votes": 802,
+        "Percent": 1.2
+      },
+      {
+        "Party": "SA",
+        "Candidate": "MACDONALD, Lisa",
+        "Votes": 673,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2007": {
+    "title": "Reid, NSW   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FERGUSON, Laurie",
+        "Votes": 47739,
+        "Percent": 60.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "OUEIK, Ronney",
+        "Votes": 21516,
+        "Percent": 27.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LIPSCOMBE, Mark",
+        "Votes": 4160,
+        "Percent": 5.2
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "SHARAH, Alex",
+        "Votes": 3170,
+        "Percent": 4.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LAMBERT, Veronica",
+        "Votes": 1301,
+        "Percent": 1.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "IHRAM, Silma",
+        "Votes": 1123,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JOHNSON, Hal",
+        "Votes": 429,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2010": {
+    "title": "Reid, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "COOPER, Peter",
+        "Votes": 34328,
+        "Percent": 43.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MURPHY, Hon John",
+        "Votes": 33051,
+        "Percent": 41.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BUTLER, Adam",
+        "Votes": 8903,
+        "Percent": 11.2
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "SHAILER, Bill",
+        "Votes": 2445,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KENNETT, Carolyn",
+        "Votes": 901,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2013": {
+    "title": "Reid, NSW   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LAUNDY, Craig",
+        "Votes": 40430,
+        "Percent": 47.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MURPHY, Hon John",
+        "Votes": 34817,
+        "Percent": 40.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TYRRELL, Pauline",
+        "Votes": 5968,
+        "Percent": 7.0
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "ASHRAF, Mohammad",
+        "Votes": 1298,
+        "Percent": 1.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "SHAILER, Bill",
+        "Votes": 1219,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PALMER, Raymond",
+        "Votes": 1215,
+        "Percent": 1.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DUNN, Emily",
+        "Votes": 580,
+        "Percent": 0.7
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "IZADEEN, Bishrul",
+        "Votes": 297,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2016": {
+    "title": "Reid, NSW   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LAUNDY, Hon Craig",
+        "Votes": 44212,
+        "Percent": 48.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TSIREKAS, Angelo",
+        "Votes": 32918,
+        "Percent": 36.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MANTEL, Alice",
+        "Votes": 7673,
+        "Percent": 8.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "KANG, Ju",
+        "Votes": 3713,
+        "Percent": 4.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CARTER, Marylou",
+        "Votes": 2081,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "2019": {
+    "title": "Reid, NSW   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MARTIN, Dr Fiona",
+        "Votes": 45288,
+        "Percent": 48.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CROSBY, Sam",
+        "Votes": 34872,
+        "Percent": 37.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JAGO, Charles",
+        "Votes": 7575,
+        "Percent": 8.1
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "PIPER, Keith",
+        "Votes": 2335,
+        "Percent": 2.5
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "LAXMANALAL, Rohan",
+        "Votes": 1861,
+        "Percent": 2.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "LEE, Young",
+        "Votes": 1797,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "2022": {
+    "title": "Reid, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SITOU, Sally",
+        "Votes": 40768,
+        "Percent": 41.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MARTIN, Dr Fiona",
+        "Votes": 37126,
+        "Percent": 37.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JAGO, Charles",
+        "Votes": 9184,
+        "Percent": 9.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BAINI, Natalie",
+        "Votes": 2994,
+        "Percent": 3.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "DAOUD, Jamal",
+        "Votes": 2530,
+        "Percent": 2.6
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "WALTERS, Edward",
+        "Votes": 1997,
+        "Percent": 2.1
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "CAMERON, Andrew",
+        "Votes": 1824,
+        "Percent": 1.9
+      },
+      {
+        "Party": "Fus",
+        "Candidate": "KHALILI-NAGHADEH, Sahar",
+        "Votes": 1553,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2025": {
+    "title": "Reid, NSW   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SITOU, Sally",
+        "Votes": 49166,
+        "Percent": 48.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CHUNG, Grange",
+        "Votes": 32107,
+        "Percent": 31.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SOMERVILLE, Joanna",
+        "Votes": 11680,
+        "Percent": 11.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COMMERFORD, Steven",
+        "Votes": 3098,
+        "Percent": 3.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "INGROUILLE, Gina",
+        "Votes": 2352,
+        "Percent": 2.3
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "SARIKAYA, David",
+        "Votes": 1593,
+        "Percent": 1.6
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "MEAD, Clinton",
+        "Votes": 1221,
+        "Percent": 1.2
+      }
+    ]
+  }
+}

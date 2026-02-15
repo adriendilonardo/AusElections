@@ -1,0 +1,1087 @@
+{
+  "1946": {
+    "title": "Adelaide, SA   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHAMBERS, Cyril",
+        "Votes": 40638,
+        "Percent": 59.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HAYWARD, Ian",
+        "Votes": 24238,
+        "Percent": 35.7
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "WATT, Alfred",
+        "Votes": 2986,
+        "Percent": 4.4
+      }
+    ]
+  },
+  "1949": {
+    "title": "Adelaide, SA   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHAMBERS, Hon Cyril",
+        "Votes": 23823,
+        "Percent": 59.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HARFORD, Basil",
+        "Votes": 14820,
+        "Percent": 37.2
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "WATT, Elsie",
+        "Votes": 683,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOHERTY, Christopher",
+        "Votes": 504,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "1951": {
+    "title": "Adelaide, SA   1951",
+    "rows": [
+      {
+        "Party": "CPA",
+        "Candidate": "ROBERTSON, Edward",
+        "Votes": "732",
+        "Percent": 1.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CHAMBERS, Hon Cyril",
+        "Votes": "22938",
+        "Percent": 59.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PHILLIPS, Thomas",
+        "Votes": "14670",
+        "Percent": 38.3
+      }
+    ]
+  },
+  "1954": {
+    "title": "Adelaide, SA   1954",
+    "rows": [
+      {
+        "Party": "CPA",
+        "Candidate": "MCCAFFREY, Charles",
+        "Votes": "625",
+        "Percent": 1.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CHAMBERS, Hon Cyril",
+        "Votes": "18446",
+        "Percent": 55.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BUTTFIELD, Nancy",
+        "Votes": "14266",
+        "Percent": 42.8
+      }
+    ]
+  },
+  "1955": {
+    "title": "Adelaide, SA   1955",
+    "rows": [
+      {
+        "Party": "CPA",
+        "Candidate": "MOSS, James",
+        "Votes": "526",
+        "Percent": 1.4
+      },
+      {
+        "Party": "ALPAC",
+        "Candidate": "ALLAND, Olaf",
+        "Votes": "4395",
+        "Percent": 11.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CHAMBERS, Hon Cyril",
+        "Votes": "18801",
+        "Percent": 50.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MAITLAND, James",
+        "Votes": "13430",
+        "Percent": 36.1
+      }
+    ]
+  },
+  "1958": {
+    "title": "Adelaide, SA   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SEXTON, Joseph",
+        "Votes": 17869,
+        "Percent": 50.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Ian",
+        "Votes": 14226,
+        "Percent": 39.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "RYAN, Baylon",
+        "Votes": 3642,
+        "Percent": 10.2
+      }
+    ]
+  },
+  "1961": {
+    "title": "Adelaide, SA   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SEXTON, Joseph",
+        "Votes": 18804,
+        "Percent": 55.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RUNDLE, John",
+        "Votes": 11648,
+        "Percent": 34.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "COCK, Ursula",
+        "Votes": 3276,
+        "Percent": 9.7
+      }
+    ]
+  },
+  "1963": {
+    "title": "Adelaide, SA   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "COFFEY, Patrick",
+        "Votes": "2036",
+        "Percent": 6.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SEXTON, Joseph",
+        "Votes": "18194",
+        "Percent": 56.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LIEBETRAU, Karl-Juergen",
+        "Votes": "12188",
+        "Percent": 37.6
+      }
+    ]
+  },
+  "1966": {
+    "title": "Adelaide, SA   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JONES, Andrew",
+        "Votes": 14724,
+        "Percent": 48.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SEXTON, Joseph",
+        "Votes": 14027,
+        "Percent": 46.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BASISOVS, George",
+        "Votes": 1466,
+        "Percent": 4.9
+      }
+    ]
+  },
+  "1969": {
+    "title": "Adelaide, SA   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HURFORD, Chris",
+        "Votes": 29641,
+        "Percent": 58.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JONES, Andrew",
+        "Votes": 17744,
+        "Percent": 34.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BASISOVS, George",
+        "Votes": 2131,
+        "Percent": 4.2
+      },
+      {
+        "Party": "AP",
+        "Candidate": "MCMENAMIN, Anne",
+        "Votes": 734,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ONISHKO, Anatolij",
+        "Votes": 582,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1972": {
+    "title": "Adelaide, SA   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HURFORD, Chris",
+        "Votes": 28816,
+        "Percent": 55.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ASHDOWN, Keith",
+        "Votes": 20272,
+        "Percent": 39.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BASISOVS, George",
+        "Votes": 1738,
+        "Percent": 3.4
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "JOHNSTON, Elliott",
+        "Votes": 848,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1974": {
+    "title": "Adelaide, SA   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HURFORD, Chris",
+        "Votes": 31572,
+        "Percent": 55.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "STEELE, Harold",
+        "Votes": 18911,
+        "Percent": 33.4
+      },
+      {
+        "Party": "LM",
+        "Candidate": "BUTTERY, Raymond",
+        "Votes": 5005,
+        "Percent": 8.9
+      },
+      {
+        "Party": "AP",
+        "Candidate": "DAVIES, John",
+        "Votes": 1061,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "1975": {
+    "title": "Adelaide, SA   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HURFORD, Chris",
+        "Votes": 28621,
+        "Percent": 49.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "STEELE, Harold",
+        "Votes": 24825,
+        "Percent": 43.0
+      },
+      {
+        "Party": "LM",
+        "Candidate": "HERCUS, Robert",
+        "Votes": 3817,
+        "Percent": 6.6
+      },
+      {
+        "Party": "AP",
+        "Candidate": "MIDDLETON, David",
+        "Votes": 525,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1977": {
+    "title": "Adelaide, SA   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HURFORD, Chris",
+        "Votes": 35786,
+        "Percent": 50.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BASISOVS, George",
+        "Votes": 26974,
+        "Percent": 38.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STEWART, Geoffrey",
+        "Votes": 7610,
+        "Percent": 10.8
+      }
+    ]
+  },
+  "1980": {
+    "title": "Adelaide, SA   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HURFORD, Christopher",
+        "Votes": 36124,
+        "Percent": 52.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAMM, Peter",
+        "Votes": 25057,
+        "Percent": 36.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ADAMSON, Peter",
+        "Votes": 8109,
+        "Percent": 11.7
+      }
+    ]
+  },
+  "1983": {
+    "title": "Adelaide, SA   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HURFORD, Chris",
+        "Votes": 39134,
+        "Percent": 55.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JAMES, Barry",
+        "Votes": 24156,
+        "Percent": 34.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FARMER, Eileen",
+        "Votes": 4604,
+        "Percent": 6.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUIK, John",
+        "Votes": 1894,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PETIT, Paul",
+        "Votes": 385,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1984": {
+    "title": "Adelaide, SA   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HURFORD, Hon Chris",
+        "Votes": 34960,
+        "Percent": 55.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LONDON, Jenni",
+        "Votes": 22650,
+        "Percent": 35.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SICKERDICK, Andrew",
+        "Votes": 4383,
+        "Percent": 6.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THIEL, Mark",
+        "Votes": 479,
+        "Percent": 0.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "STOKES, Bryan",
+        "Votes": 434,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUIK, John",
+        "Votes": 284,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1987": {
+    "title": "Adelaide, SA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HURFORD, Hon Chris",
+        "Votes": 31572,
+        "Percent": 48.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PANAGARIS, Peter",
+        "Votes": 22943,
+        "Percent": 35.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WURM, Chris",
+        "Votes": 5857,
+        "Percent": 9.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "STOKES, Bryan",
+        "Votes": 3287,
+        "Percent": 5.1
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "SMITH, Graham",
+        "Votes": 535,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHAHIN, Charles",
+        "Votes": 368,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1990": {
+    "title": "Adelaide, SA   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CATLEY, Dr Bob",
+        "Votes": 27422,
+        "Percent": 40.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PRATT, Michael",
+        "Votes": 26953,
+        "Percent": 39.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MANN, Peter",
+        "Votes": 9197,
+        "Percent": 13.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "OEHME, Keith",
+        "Votes": 1878,
+        "Percent": 2.8
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "LINEDALE, Cathryn",
+        "Votes": 1123,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOOTH, Jean",
+        "Votes": 1100,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1993": {
+    "title": "Adelaide, SA   1993",
+    "rows": [
+      {
+        "Party": "AD",
+        "Candidate": "MITCHELL, Matthew",
+        "Votes": "6451",
+        "Percent": 8.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HANIEH, Adam",
+        "Votes": "558",
+        "Percent": 0.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WORTH, Trish",
+        "Votes": "34296",
+        "Percent": 44.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MATUHINA, Chris",
+        "Votes": "318",
+        "Percent": 0.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CATLEY, Dr Bob",
+        "Votes": "31459",
+        "Percent": 41.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BIRDSTRUP, David",
+        "Votes": "295",
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KING, Jack",
+        "Votes": "1624",
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FENWICK, Peter",
+        "Votes": "1514",
+        "Percent": 2.0
+      }
+    ]
+  },
+  "1996": {
+    "title": "Adelaide, SA   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WORTH, Trish",
+        "Votes": 35285,
+        "Percent": 47.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GAGO, Gail",
+        "Votes": 27802,
+        "Percent": 37.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ANDREWS, Mark",
+        "Votes": 6052,
+        "Percent": 8.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GRAHAM, Tim",
+        "Votes": 2028,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAREY, Dan",
+        "Votes": 1142,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FRASER, Barbara",
+        "Votes": 542,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FENWICK, Peter",
+        "Votes": 322,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MANIFOLD, Jane",
+        "Votes": 305,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BIRDSTRUP, David",
+        "Votes": 194,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1998": {
+    "title": "Adelaide, SA   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WORTH, Hon Trish",
+        "Votes": 32173,
+        "Percent": 43.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HANNON, Karen",
+        "Votes": 27756,
+        "Percent": 37.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BEARD, Tyron",
+        "Votes": 7077,
+        "Percent": 9.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "RAMSEY, Suzanne",
+        "Votes": 3837,
+        "Percent": 5.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MORAN, Mark",
+        "Votes": 2518,
+        "Percent": 3.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HUNT, Rita",
+        "Votes": 462,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LORENZON, Vladimir",
+        "Votes": 287,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2001": {
+    "title": "Adelaide, SA   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WORTH, Hon Trish",
+        "Votes": 34258,
+        "Percent": 44.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STANLEY, Tim",
+        "Votes": 28732,
+        "Percent": 37.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MANN, Sue",
+        "Votes": 8255,
+        "Percent": 10.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "OSBORN, Lynne",
+        "Votes": 4638,
+        "Percent": 6.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "PEACOCK, Lee",
+        "Votes": 1630,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "2004": {
+    "title": "Adelaide, SA   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WORTH, Hon Trish",
+        "Votes": 38530,
+        "Percent": 45.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIS, Kate",
+        "Votes": 35666,
+        "Percent": 41.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BUGDEN, Jake",
+        "Votes": 6794,
+        "Percent": 8.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ROBINS, Peter",
+        "Votes": 1753,
+        "Percent": 2.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PASCOE, Richard",
+        "Votes": 1355,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARLOW, Amanda",
+        "Votes": 978,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2007": {
+    "title": "Adelaide, SA   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIS, Kate",
+        "Votes": 42774,
+        "Percent": 48.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MARSH, Tracy",
+        "Votes": 34056,
+        "Percent": 38.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SOLLY, Peter",
+        "Votes": 8641,
+        "Percent": 9.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SLAPE, Dennis",
+        "Votes": 1801,
+        "Percent": 2.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BIAR, Sandy",
+        "Votes": 1353,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "2010": {
+    "title": "Adelaide, SA   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIS, Hon Kate",
+        "Votes": 38162,
+        "Percent": 43.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WESTLEY, Luke",
+        "Votes": 32673,
+        "Percent": 37.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BEACH, Ruth",
+        "Votes": 11901,
+        "Percent": 13.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "NEAL, Suzanne",
+        "Votes": 1900,
+        "Percent": 2.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NICHOLLS, Marie",
+        "Votes": 819,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WEEDALL, Gemma",
+        "Votes": 786,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STEELE, Christopher",
+        "Votes": 716,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2013": {
+    "title": "Adelaide, SA   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIS, Hon Kate",
+        "Votes": 38650,
+        "Percent": 42.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GARCIA, Carmen",
+        "Votes": 38463,
+        "Percent": 42.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BEACH, Ruth",
+        "Votes": 9251,
+        "Percent": 10.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LEE, Peter",
+        "Votes": 2169,
+        "Percent": 2.4
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "SCALI, Vincent",
+        "Votes": 1943,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAZAROU, Liah",
+        "Votes": 980,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2016": {
+    "title": "Adelaide, SA   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "COLOVIC, David",
+        "Votes": 34809,
+        "Percent": 36.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIS, Hon Kate",
+        "Votes": 34325,
+        "Percent": 35.9
+      },
+      {
+        "Party": "NXT",
+        "Candidate": "HILL, Joe",
+        "Votes": 12283,
+        "Percent": 12.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GUY, Sophie",
+        "Votes": 9973,
+        "Percent": 10.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "RIVISH, Adrian",
+        "Votes": 1832,
+        "Percent": 1.9
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "TIDSWELL, Matt",
+        "Votes": 1292,
+        "Percent": 1.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "LOCK, Tyrone",
+        "Votes": 1030,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2019": {
+    "title": "Adelaide, SA   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GEORGANAS, Steve",
+        "Votes": 43163,
+        "Percent": 40.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "OSBORN, Shaun",
+        "Votes": 38753,
+        "Percent": 36.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "POCOCK, Dr Barbara",
+        "Votes": 16853,
+        "Percent": 15.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "REA, Antonio",
+        "Votes": 3479,
+        "Percent": 3.3
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "KANGAS, Deanna",
+        "Votes": 2894,
+        "Percent": 2.7
+      },
+      {
+        "Party": "Dem",
+        "Candidate": "JAMES, Chris",
+        "Votes": 2039,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "2022": {
+    "title": "Adelaide, SA   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GEORGANAS, Steve",
+        "Votes": 45086,
+        "Percent": 40.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GRANTHAM, Amy",
+        "Votes": 36080,
+        "Percent": 32.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GALDIES, Rebecca",
+        "Votes": 22666,
+        "Percent": 20.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "ALLWOOD, Gayle",
+        "Votes": 3376,
+        "Percent": 3.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "ALLWOOD, Sean",
+        "Votes": 3055,
+        "Percent": 2.7
+      },
+      {
+        "Party": "Fus",
+        "Candidate": "MCMILLAN, Matthew",
+        "Votes": 1631,
+        "Percent": 1.5
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "GERHARD, Faith",
+        "Votes": 870,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2025": {
+    "title": "Adelaide, SA   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GEORGANAS, Steve",
+        "Votes": 53036,
+        "Percent": 46.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GRANTHAM, Amy",
+        "Votes": 27571,
+        "Percent": 24.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MONTI, Mat",
+        "Votes": 21642,
+        "Percent": 19.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SIZE, Riley",
+        "Votes": 4584,
+        "Percent": 4.0
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "MARKS, Steve",
+        "Votes": 3144,
+        "Percent": 2.8
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "PENGILLEY, Lionel",
+        "Votes": 2745,
+        "Percent": 2.4
+      },
+      {
+        "Party": "SOPA",
+        "Candidate": "McMILLAN, Matthew",
+        "Votes": 1367,
+        "Percent": 1.2
+      }
+    ]
+  }
+}

@@ -1,0 +1,583 @@
+{
+  "1955": {
+    "title": "Bonython, SA   1955",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MAKIN, Hon Norman",
+        "Votes": "24350",
+        "Percent": 69.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MATHWIN, John",
+        "Votes": "10723",
+        "Percent": 30.6
+      }
+    ]
+  },
+  "1958": {
+    "title": "Bonython, SA   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MAKIN, Hon Norman",
+        "Votes": 27598,
+        "Percent": 61.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FOALE, Thomas",
+        "Votes": 12781,
+        "Percent": 28.4
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "BUCHANAN, Joseph",
+        "Votes": 2470,
+        "Percent": 5.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "TIMLIN, Edward",
+        "Votes": 2206,
+        "Percent": 4.9
+      }
+    ]
+  },
+  "1961": {
+    "title": "Bonython, SA   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MAKIN, Hon Norman",
+        "Votes": 35245,
+        "Percent": 63.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCLACHLAN, Margaret",
+        "Votes": 13562,
+        "Percent": 24.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "TIMLIN, Edward",
+        "Votes": 3331,
+        "Percent": 6.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ELLIS, Thomas",
+        "Votes": 2938,
+        "Percent": 5.3
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MILLER, Alan",
+        "Votes": 695,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1963": {
+    "title": "Bonython, SA   1963",
+    "rows": [
+      {
+        "Party": "CPA",
+        "Candidate": "MILLER, Alan",
+        "Votes": "4638",
+        "Percent": 7.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NICHOLLS, Martin",
+        "Votes": "45537",
+        "Percent": 70.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "TIMLIN, Edward",
+        "Votes": "14084",
+        "Percent": 21.9
+      }
+    ]
+  },
+  "1966": {
+    "title": "Bonython, SA   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "NICHOLLS, Martin",
+        "Votes": 40133,
+        "Percent": 49.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KERSHAW, John",
+        "Votes": 33493,
+        "Percent": 41.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HORAN, Luke",
+        "Votes": 4549,
+        "Percent": 5.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "TIMLIN, Edward",
+        "Votes": 2856,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "1969": {
+    "title": "Bonython, SA   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "NICHOLLS, Martin",
+        "Votes": 31296,
+        "Percent": 63.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MASOPUST, Rudolph",
+        "Votes": 12962,
+        "Percent": 26.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAWRENCE, Frank",
+        "Votes": 3757,
+        "Percent": 7.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MEREDITH, Peter",
+        "Votes": 1004,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "1972": {
+    "title": "Bonython, SA   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "NICHOLLS, Martin",
+        "Votes": 37752,
+        "Percent": 61.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MASOPUST, Rudolph",
+        "Votes": 18777,
+        "Percent": 30.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAWRENCE, Frank",
+        "Votes": 2894,
+        "Percent": 4.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MEREDITH, Peter",
+        "Votes": 1747,
+        "Percent": 2.9
+      }
+    ]
+  },
+  "1974": {
+    "title": "Bonython, SA   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "NICHOLLS, Martin",
+        "Votes": 44723,
+        "Percent": 60.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MASOPUST, Rudolph",
+        "Votes": 15310,
+        "Percent": 20.7
+      },
+      {
+        "Party": "LM",
+        "Candidate": "STASKA, Jan",
+        "Votes": 6131,
+        "Percent": 8.3
+      },
+      {
+        "Party": "AP",
+        "Candidate": "BALL, Derek",
+        "Votes": 3969,
+        "Percent": 5.4
+      },
+      {
+        "Party": "CP",
+        "Candidate": "IRVING, Alan",
+        "Votes": 3900,
+        "Percent": 5.3
+      }
+    ]
+  },
+  "1975": {
+    "title": "Bonython, SA   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "NICHOLLS, Martin",
+        "Votes": 41363,
+        "Percent": 50.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "IRVING, Alan",
+        "Votes": 30568,
+        "Percent": 37.4
+      },
+      {
+        "Party": "LM",
+        "Candidate": "LONGHURST, John",
+        "Votes": 5605,
+        "Percent": 6.9
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "DURBRIDGE, Robert",
+        "Votes": 4099,
+        "Percent": 5.0
+      }
+    ]
+  },
+  "1977": {
+    "title": "Bonython, SA   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BLEWETT, Dr Neal",
+        "Votes": 33772,
+        "Percent": 50.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MARSDEN, Brian",
+        "Votes": 20595,
+        "Percent": 30.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LONGHURST, John",
+        "Votes": 12457,
+        "Percent": 18.6
+      }
+    ]
+  },
+  "1980": {
+    "title": "Bonython, SA   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BLEWETT, Dr Neal",
+        "Votes": 40825,
+        "Percent": 54.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MAU, Mark",
+        "Votes": 24507,
+        "Percent": 32.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LONGHURST, John",
+        "Votes": 8288,
+        "Percent": 11.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VILLAIN, John",
+        "Votes": 716,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEITEL, Donald",
+        "Votes": 656,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1983": {
+    "title": "Bonython, SA   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BLEWETT, Dr Neal",
+        "Votes": 48097,
+        "Percent": 60.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JOYCE, Neville",
+        "Votes": 24391,
+        "Percent": 30.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LONGHURST, John",
+        "Votes": 7006,
+        "Percent": 8.8
+      }
+    ]
+  },
+  "1984": {
+    "title": "Bonython, SA   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BLEWETT, Hon Dr Neal",
+        "Votes": 35817,
+        "Percent": 64.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SARA, Graham",
+        "Votes": 14902,
+        "Percent": 26.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LONGHURST, John",
+        "Votes": 5279,
+        "Percent": 9.4
+      }
+    ]
+  },
+  "1987": {
+    "title": "Bonython, SA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BLEWETT, Hon Dr Neal",
+        "Votes": 38150,
+        "Percent": 61.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BUECHNER, Bernhard",
+        "Votes": 15115,
+        "Percent": 24.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MAAS, Colin",
+        "Votes": 5887,
+        "Percent": 9.5
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "LINEDALE, Cathryn",
+        "Votes": 2233,
+        "Percent": 3.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LONGHURST, John",
+        "Votes": 825,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "1990": {
+    "title": "Bonython, SA   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BLEWETT, Hon Dr Neal",
+        "Votes": 36326,
+        "Percent": 52.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RICHARDSON, Natalie",
+        "Votes": 18216,
+        "Percent": 26.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MAAS, Colin",
+        "Votes": 12782,
+        "Percent": 18.3
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "HANNAFORD, Bruce",
+        "Votes": 2334,
+        "Percent": 3.4
+      }
+    ]
+  },
+  "1993": {
+    "title": "Bonython, SA   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "MCALEER, Eamon",
+        "Votes": "667",
+        "Percent": 1.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MAAS, Colin",
+        "Votes": "6596",
+        "Percent": 9.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HANNAFORD, Bruce",
+        "Votes": "615",
+        "Percent": 0.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BLEWETT, Hon Dr Neal",
+        "Votes": "38820",
+        "Percent": 55.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROOKFIELD, Ian",
+        "Votes": "20032",
+        "Percent": 28.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROCCA, Tony",
+        "Votes": "1994",
+        "Percent": 2.9
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "HOOD, Dennis",
+        "Votes": "1099",
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1996": {
+    "title": "Bonython, SA   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EVANS, Hon Martyn",
+        "Votes": 34926,
+        "Percent": 49.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BODINAR, Chris",
+        "Votes": 21824,
+        "Percent": 31.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KENNEDY, Chris",
+        "Votes": 10185,
+        "Percent": 14.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "O'LEARY, Maya",
+        "Votes": 2141,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRANDER, Michael",
+        "Votes": 1357,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "1998": {
+    "title": "Bonython, SA   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EVANS, Hon Martyn",
+        "Votes": 35961,
+        "Percent": 50.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NEWTON, Phil",
+        "Votes": 17253,
+        "Percent": 24.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SHAW, Ted",
+        "Votes": 10542,
+        "Percent": 14.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FISHER, Robert",
+        "Votes": 6539,
+        "Percent": 9.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CARTER, David",
+        "Votes": 891,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "Bonython, SA   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EVANS, Hon Martyn",
+        "Votes": 35813,
+        "Percent": 47.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CHOMEL, Brenton",
+        "Votes": 21822,
+        "Percent": 28.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DENNIS, Mark",
+        "Votes": 7984,
+        "Percent": 10.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MAHONEY, John",
+        "Votes": 4825,
+        "Percent": 6.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HUNT, Rita",
+        "Votes": 3066,
+        "Percent": 4.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BLAKE, Lisa",
+        "Votes": 2102,
+        "Percent": 2.8
+      }
+    ]
+  }
+}

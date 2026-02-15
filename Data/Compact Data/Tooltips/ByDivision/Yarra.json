@@ -1,0 +1,245 @@
+{
+  "1946": {
+    "title": "Yarra, VIC   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SCULLIN, Rt Hon James",
+        "Votes": 39880,
+        "Percent": 63.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BISNEY, Kenneth",
+        "Votes": 18934,
+        "Percent": 30.2
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MILLER, Kenneth",
+        "Votes": 3838,
+        "Percent": 6.1
+      }
+    ]
+  },
+  "1949": {
+    "title": "Yarra, VIC   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEON, Stan",
+        "Votes": 23211,
+        "Percent": 58.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BARRINGTON, Charles",
+        "Votes": 14189,
+        "Percent": 35.9
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "PRESCOTT, John",
+        "Votes": 1098,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VINES, Wenham",
+        "Votes": 991,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1951": {
+    "title": "Yarra, VIC   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEON, Stan",
+        "Votes": "23039",
+        "Percent": 60.1
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MILLER, Kenneth",
+        "Votes": "1619",
+        "Percent": 4.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BISNEY, Kenneth",
+        "Votes": "13668",
+        "Percent": 35.7
+      }
+    ]
+  },
+  "1954": {
+    "title": "Yarra, VIC   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEON, Stan",
+        "Votes": "21058",
+        "Percent": 62.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MACDONALD, James",
+        "Votes": "11591",
+        "Percent": 34.3
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MILLER, Kenneth",
+        "Votes": "1139",
+        "Percent": 3.4
+      }
+    ]
+  },
+  "1955": {
+    "title": "Yarra, VIC   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILKIE, James",
+        "Votes": "9016",
+        "Percent": 23.3
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MILLER, Kenneth",
+        "Votes": "792",
+        "Percent": 2.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CAIRNS, Jim",
+        "Votes": "18363",
+        "Percent": 47.5
+      },
+      {
+        "Party": "ALPAC",
+        "Candidate": "KEON, Stan",
+        "Votes": "10492",
+        "Percent": 27.1
+      }
+    ]
+  },
+  "1958": {
+    "title": "Yarra, VIC   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CAIRNS, Jim",
+        "Votes": 19218,
+        "Percent": 53.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LANYON, Cecil",
+        "Votes": 8505,
+        "Percent": 23.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "KEON, Stan",
+        "Votes": 7600,
+        "Percent": 21.2
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MILLER, Kenneth",
+        "Votes": 524,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1961": {
+    "title": "Yarra, VIC   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CAIRNS, Dr Jim",
+        "Votes": 17137,
+        "Percent": 52.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PEACOCK, Andrew",
+        "Votes": 8341,
+        "Percent": 25.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "KEON, Stan",
+        "Votes": 5535,
+        "Percent": 16.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROOMHALL, Geoffrey",
+        "Votes": 1345,
+        "Percent": 4.1
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MILLER, Kenneth",
+        "Votes": 564,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "1963": {
+    "title": "Yarra, VIC   1963",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HEARDER, Anthony",
+        "Votes": "9234",
+        "Percent": 28.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "KEON, Stan",
+        "Votes": "4865",
+        "Percent": 15.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CAIRNS, Dr Jim",
+        "Votes": "17976",
+        "Percent": 56.0
+      }
+    ]
+  },
+  "1966": {
+    "title": "Yarra, VIC   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CAIRNS, Dr Jim",
+        "Votes": 14352,
+        "Percent": 48.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HAWKINS, Lionel",
+        "Votes": 9381,
+        "Percent": 31.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "KEON, Stan",
+        "Votes": 4110,
+        "Percent": 14.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BONOMO, Bruno",
+        "Votes": 1564,
+        "Percent": 5.3
+      }
+    ]
+  }
+}

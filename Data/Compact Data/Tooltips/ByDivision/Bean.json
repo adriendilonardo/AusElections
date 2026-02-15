@@ -1,0 +1,125 @@
+{
+  "2019": {
+    "title": "Bean, ACT   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, David",
+        "Votes": 35447,
+        "Percent": 38.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "COCKS, Ed",
+        "Votes": 29223,
+        "Percent": 31.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DAVIS, Jonathan",
+        "Votes": 12168,
+        "Percent": 13.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHRISTIE, James",
+        "Votes": 7683,
+        "Percent": 8.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FAULKNER, Therese",
+        "Votes": 2722,
+        "Percent": 2.9
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "DONNELLY, Matt",
+        "Votes": 2540,
+        "Percent": 2.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HANLEY, Tony",
+        "Votes": 2227,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RUSHTON, Ben",
+        "Votes": 929,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2022": {
+    "title": "Bean, ACT   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, David",
+        "Votes": 41009,
+        "Percent": 41.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HIATT, Jane",
+        "Votes": 29239,
+        "Percent": 29.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SAVERY, Kathryn",
+        "Votes": 14566,
+        "Percent": 14.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHRISTIE, Jamie",
+        "Votes": 8029,
+        "Percent": 8.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "CONWAY, Sean",
+        "Votes": 2831,
+        "Percent": 2.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "AMBARD, Benjamin",
+        "Votes": 2680,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "2025": {
+    "title": "Bean, ACT   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, David",
+        "Votes": 42158,
+        "Percent": 41.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PRICE, Jessie",
+        "Votes": 27120,
+        "Percent": 26.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LAMERTON, David",
+        "Votes": 23665,
+        "Percent": 23.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CARTER, Sam",
+        "Votes": 9757,
+        "Percent": 9.5
+      }
+    ]
+  }
+}

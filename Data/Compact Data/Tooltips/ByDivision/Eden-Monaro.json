@@ -1,0 +1,1147 @@
+{
+  "1946": {
+    "title": "Eden-Monaro, NSW   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FRASER, Allan",
+        "Votes": 25231,
+        "Percent": 50.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MACARTHUR-ONSLOW, Denzil",
+        "Votes": 18560,
+        "Percent": 36.9
+      },
+      {
+        "Party": "CP",
+        "Candidate": "OSBORNE, Pat",
+        "Votes": 3292,
+        "Percent": 6.5
+      },
+      {
+        "Party": "CP",
+        "Candidate": "BACKHOUSE, Allan",
+        "Votes": 2883,
+        "Percent": 5.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, Victor",
+        "Votes": 322,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1949": {
+    "title": "Eden-Monaro, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FRASER, Allan",
+        "Votes": 19004,
+        "Percent": 50.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MACARTHUR-ONSLOW, Denzil",
+        "Votes": 18317,
+        "Percent": 49.1
+      }
+    ]
+  },
+  "1951": {
+    "title": "Eden-Monaro, NSW   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FRASER, Allan",
+        "Votes": "19574",
+        "Percent": 51.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KEYS, Alexander",
+        "Votes": "18832",
+        "Percent": 49.0
+      }
+    ]
+  },
+  "1954": {
+    "title": "Eden-Monaro, NSW   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FRASER, Allan",
+        "Votes": "20824",
+        "Percent": 52.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BEAVIS, Royce",
+        "Votes": "19149",
+        "Percent": 47.9
+      }
+    ]
+  },
+  "1955": {
+    "title": "Eden-Monaro, NSW   1955",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "BEAVIS, Royce",
+        "Votes": "2113",
+        "Percent": 5.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FRASER, Allan",
+        "Votes": "21007",
+        "Percent": 52.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FLANAGAN, Cecil",
+        "Votes": "16609",
+        "Percent": 41.8
+      }
+    ]
+  },
+  "1958": {
+    "title": "Eden-Monaro, NSW   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FRASER, Allan",
+        "Votes": 21410,
+        "Percent": 53.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "THOMSON, Douglas",
+        "Votes": 16221,
+        "Percent": 40.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DONOHUE, John",
+        "Votes": 2250,
+        "Percent": 5.6
+      }
+    ]
+  },
+  "1961": {
+    "title": "Eden-Monaro, NSW   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FRASER, Allan",
+        "Votes": 24217,
+        "Percent": 60.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "THOMSON, Douglas",
+        "Votes": 16134,
+        "Percent": 40.0
+      }
+    ]
+  },
+  "1963": {
+    "title": "Eden-Monaro, NSW   1963",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FRASER, Allan",
+        "Votes": "20807",
+        "Percent": 51.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DONOHUE, John",
+        "Votes": "1924",
+        "Percent": 4.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MUNRO, Dugald",
+        "Votes": "18095",
+        "Percent": 44.3
+      }
+    ]
+  },
+  "1966": {
+    "title": "Eden-Monaro, NSW   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FRASER, Allan",
+        "Votes": 19875,
+        "Percent": 47.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MUNRO, Dugald",
+        "Votes": 17024,
+        "Percent": 40.8
+      },
+      {
+        "Party": "CP",
+        "Candidate": "PRATTEN, Anthony",
+        "Votes": 3618,
+        "Percent": 8.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MILLS, John",
+        "Votes": 1177,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "1969": {
+    "title": "Eden-Monaro, NSW   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FRASER, Allan",
+        "Votes": 23482,
+        "Percent": 51.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MUNRO, Dugald",
+        "Votes": 20436,
+        "Percent": 44.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DONOHUE, John",
+        "Votes": 1342,
+        "Percent": 2.9
+      },
+      {
+        "Party": "AP",
+        "Candidate": "STARRS, Patrick",
+        "Votes": 575,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "1972": {
+    "title": "Eden-Monaro, NSW   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WHAN, Robert",
+        "Votes": 23836,
+        "Percent": 47.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "OTTON, Edward",
+        "Votes": 12074,
+        "Percent": 24.1
+      },
+      {
+        "Party": "CP",
+        "Candidate": "HOWARD, Roy",
+        "Votes": 11313,
+        "Percent": 22.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ABBEY, Anthony",
+        "Votes": 1721,
+        "Percent": 3.4
+      },
+      {
+        "Party": "AP",
+        "Candidate": "WATSON, Hugh",
+        "Votes": 1091,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1974": {
+    "title": "Eden-Monaro, NSW   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WHAN, Robert",
+        "Votes": 27816,
+        "Percent": 48.8
+      },
+      {
+        "Party": "CP",
+        "Candidate": "BREWER, Ronald",
+        "Votes": 17144,
+        "Percent": 30.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BELL, Jonathan",
+        "Votes": 11325,
+        "Percent": 19.9
+      },
+      {
+        "Party": "AP",
+        "Candidate": "HUGHES, Keith",
+        "Votes": 711,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1975": {
+    "title": "Eden-Monaro, NSW   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WHAN, Robert",
+        "Votes": 26669,
+        "Percent": 43.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SAINSBURY, Murray",
+        "Votes": 21661,
+        "Percent": 35.3
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "MOORE, John",
+        "Votes": 12008,
+        "Percent": 19.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAWSON, Frederick",
+        "Votes": 993,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1977": {
+    "title": "Eden-Monaro, NSW   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SAINSBURY, Murray",
+        "Votes": 33517,
+        "Percent": 51.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MAGUIRE, Brian",
+        "Votes": 25243,
+        "Percent": 38.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HELMERS, Norma",
+        "Votes": 5587,
+        "Percent": 8.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRAND, Michael Le",
+        "Votes": 530,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1980": {
+    "title": "Eden-Monaro, NSW   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SAINSBURY, Murray",
+        "Votes": 34897,
+        "Percent": 49.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SNOW, James",
+        "Votes": 31588,
+        "Percent": 45.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HELMERS, Norma",
+        "Votes": 3586,
+        "Percent": 5.1
+      }
+    ]
+  },
+  "1983": {
+    "title": "Eden-Monaro, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SNOW, James",
+        "Votes": 36401,
+        "Percent": 49.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SAINSBURY, Murray",
+        "Votes": 33141,
+        "Percent": 44.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NAUGHTON, Miriam",
+        "Votes": 2333,
+        "Percent": 3.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WITT, Russell",
+        "Votes": 1977,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SARINA, Ronald",
+        "Votes": 260,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1984": {
+    "title": "Eden-Monaro, NSW   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SNOW, James",
+        "Votes": 26131,
+        "Percent": 47.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SAINSBURY, Murray",
+        "Votes": 23675,
+        "Percent": 42.7
+      },
+      {
+        "Party": "NDP",
+        "Candidate": "SHUMACK, Bob",
+        "Votes": 3435,
+        "Percent": 6.2
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BLACK, Alexander",
+        "Votes": 2178,
+        "Percent": 3.9
+      }
+    ]
+  },
+  "1987": {
+    "title": "Eden-Monaro, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SNOW, James",
+        "Votes": 30335,
+        "Percent": 48.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "EVANS, David",
+        "Votes": 18088,
+        "Percent": 28.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "COCHRAN, Peter",
+        "Votes": 10316,
+        "Percent": 16.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCGLYNN, John",
+        "Votes": 3582,
+        "Percent": 5.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KIRCHNER, Horst",
+        "Votes": 405,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1990": {
+    "title": "Eden-Monaro, NSW   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SNOW, James",
+        "Votes": 29225,
+        "Percent": 41.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "POLLOCK, Rob",
+        "Votes": 22290,
+        "Percent": 31.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COLLINS, Jim",
+        "Votes": 7259,
+        "Percent": 10.4
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "WHITE, Gaye",
+        "Votes": 6615,
+        "Percent": 9.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "REDMOND, Denise",
+        "Votes": 4208,
+        "Percent": 6.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOYLE, Greg",
+        "Votes": 330,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1993": {
+    "title": "Eden-Monaro, NSW   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "DOYLE, Greg",
+        "Votes": "694",
+        "Percent": 1.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BARRY, Tom",
+        "Votes": "5040",
+        "Percent": 7.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FRASER, Peter",
+        "Votes": "453",
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SANDERS, Dr Norman",
+        "Votes": "3934",
+        "Percent": 5.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SNOW, James",
+        "Votes": "32229",
+        "Percent": 47.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FEGELY, Robert de",
+        "Votes": "25929",
+        "Percent": 38.0
+      }
+    ]
+  },
+  "1996": {
+    "title": "Eden-Monaro, NSW   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "NAIRN, Gary",
+        "Votes": 33151,
+        "Percent": 46.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SNOW, James",
+        "Votes": 27347,
+        "Percent": 37.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LOYDELL, Robyn",
+        "Votes": 4320,
+        "Percent": 6.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ENDEAN, Nora",
+        "Votes": 2592,
+        "Percent": 3.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TENNANT-WOOD, Robin",
+        "Votes": 2548,
+        "Percent": 3.5
+      },
+      {
+        "Party": "AAFI",
+        "Candidate": "BROWN, Irene",
+        "Votes": 1374,
+        "Percent": 1.9
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "HOWES, David",
+        "Votes": 615,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FRASER, Peter",
+        "Votes": 200,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1998": {
+    "title": "Eden-Monaro, NSW   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "NAIRN, Gary",
+        "Votes": 31654,
+        "Percent": 43.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WHAN, Steve",
+        "Votes": 28692,
+        "Percent": 39.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MILLER, Adam",
+        "Votes": 7004,
+        "Percent": 9.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCMILLAN, Dan",
+        "Votes": 3343,
+        "Percent": 4.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BEAUMONT, Rosemary",
+        "Votes": 2301,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARRIOTT, Gordon",
+        "Votes": 188,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2001": {
+    "title": "Eden-Monaro, NSW   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "NAIRN, Gary",
+        "Votes": 32247,
+        "Percent": 41.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WHAN, Steve",
+        "Votes": 28842,
+        "Percent": 36.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COCHRAN, Peter",
+        "Votes": 6436,
+        "Percent": 8.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BEAUMONT, Rosemary",
+        "Votes": 3911,
+        "Percent": 5.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BRIDGES, Barry",
+        "Votes": 2821,
+        "Percent": 3.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CHAPMAN, Linda",
+        "Votes": 2584,
+        "Percent": 3.3
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "PHILLIPS, Frank",
+        "Votes": 1032,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "URQUHART, Steve",
+        "Votes": 319,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SWIFT, Matthew",
+        "Votes": 211,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VLUG, Peter",
+        "Votes": 94,
+        "Percent": 0.1
+      }
+    ]
+  },
+  "2004": {
+    "title": "Eden-Monaro, NSW   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "NAIRN, Gary",
+        "Votes": 40783,
+        "Percent": 48.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WATT, Kel",
+        "Votes": 32592,
+        "Percent": 38.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DIGNAN, Cecily",
+        "Votes": 6256,
+        "Percent": 7.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "TARLINGTON, Don",
+        "Votes": 1541,
+        "Percent": 1.8
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BENNETT, Ursula",
+        "Votes": 1170,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "QUILTY, Tim",
+        "Votes": 1063,
+        "Percent": 1.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "AHMED, Nazia",
+        "Votes": 725,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2007": {
+    "title": "Eden-Monaro, NSW   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KELLY, Dr Mike",
+        "Votes": 37724,
+        "Percent": 44.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NAIRN, Hon Gary",
+        "Votes": 36863,
+        "Percent": 43.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HUGHES, Keith",
+        "Votes": 6303,
+        "Percent": 7.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROSE, Acacia",
+        "Votes": 1924,
+        "Percent": 2.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "CHIVERS, Matthew J",
+        "Votes": 911,
+        "Percent": 1.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HARRIS, Peter Robert",
+        "Votes": 657,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "QUILTY, Tim",
+        "Votes": 272,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "Eden-Monaro, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KELLY, Hon Dr Mike",
+        "Votes": 37225,
+        "Percent": 43.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GAZARD, David",
+        "Votes": 35714,
+        "Percent": 41.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MOORE, Catherine",
+        "Votes": 8296,
+        "Percent": 9.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "QUILTY, Olga",
+        "Votes": 1152,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCKLEY, Ray",
+        "Votes": 1019,
+        "Percent": 1.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "GRADWELL, Tom",
+        "Votes": 761,
+        "Percent": 0.9
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BENNETT, Ursula",
+        "Votes": 637,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FRAGIACOMO, Frank",
+        "Votes": 559,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2013": {
+    "title": "Eden-Monaro, NSW   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HENDY, Dr Peter",
+        "Votes": 40431,
+        "Percent": 45.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KELLY, Hon Dr Mike",
+        "Votes": 34638,
+        "Percent": 38.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MOORE, Catherine",
+        "Votes": 6725,
+        "Percent": 7.5
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "LYNCH, Dean",
+        "Votes": 4655,
+        "Percent": 5.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THALER, Andrew",
+        "Votes": 1223,
+        "Percent": 1.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "CATTON, Warren",
+        "Votes": 861,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TYE, Martin",
+        "Votes": 601,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GOUMAS, Costas",
+        "Votes": 179,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2016": {
+    "title": "Eden-Monaro, NSW   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KELLY, Hon Dr Mike",
+        "Votes": 39565,
+        "Percent": 41.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HENDY, Hon Dr Peter",
+        "Votes": 39049,
+        "Percent": 41.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RYAN, Tamara",
+        "Votes": 7177,
+        "Percent": 7.6
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "SEYMOUR, Frankie",
+        "Votes": 1986,
+        "Percent": 2.1
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BENNETT, Ursula",
+        "Votes": 1763,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GROSMAIRE, Daniel",
+        "Votes": 1683,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FRIEND, Don",
+        "Votes": 1448,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THALER, Andrew",
+        "Votes": 981,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCKLEY, Ray",
+        "Votes": 817,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2019": {
+    "title": "Eden-Monaro, NSW   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KELLY, Hon Dr Mike",
+        "Votes": 38878,
+        "Percent": 39.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KOTVOJS, Dr Fiona",
+        "Votes": 36732,
+        "Percent": 37.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCGINLAY, Patrick",
+        "Votes": 8715,
+        "Percent": 8.8
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "WADE, Sophie",
+        "Votes": 6899,
+        "Percent": 7.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SINGH, Chandra",
+        "Votes": 2748,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHELDON, David",
+        "Votes": 2247,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOLGATE, James",
+        "Votes": 1883,
+        "Percent": 1.9
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "HARRIS, Thomas",
+        "Votes": 1157,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2022": {
+    "title": "Eden-Monaro, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCBAIN, Kristy",
+        "Votes": 43215,
+        "Percent": 42.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NOCKLES, Dr Jerry",
+        "Votes": 33520,
+        "Percent": 33.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HARRIS, Vivian",
+        "Votes": 9376,
+        "Percent": 9.2
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "SHANNON, Boyd",
+        "Votes": 4351,
+        "Percent": 4.3
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "HOLMES, Maxwell",
+        "Votes": 2625,
+        "Percent": 2.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "GARNON, Darren",
+        "Votes": 2566,
+        "Percent": 2.5
+      },
+      {
+        "Party": "Sust",
+        "Candidate": "HOLGATE, James",
+        "Votes": 2260,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THALER, Andrew",
+        "Votes": 2044,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "MCLENNAN, Toni",
+        "Votes": 909,
+        "Percent": 0.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BUTLER, Greg",
+        "Votes": 651,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2025": {
+    "title": "Eden-Monaro, NSW   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "McBAIN, Kristy",
+        "Votes": 46088,
+        "Percent": 43.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "van der PLAAT, Jo",
+        "Votes": 34142,
+        "Percent": 31.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GOWARD, Emma",
+        "Votes": 10739,
+        "Percent": 10.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "GRAHAM, Richard",
+        "Votes": 7451,
+        "Percent": 7.0
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "COX, Wade Ewart",
+        "Votes": 2587,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THALER, Andrew Evan",
+        "Votes": 2499,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IMO",
+        "Candidate": "BUCHANAN, Fraser",
+        "Votes": 1881,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FISHER, Brian",
+        "Votes": 1701,
+        "Percent": 1.6
+      }
+    ]
+  }
+}

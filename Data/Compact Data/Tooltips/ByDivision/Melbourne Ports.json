@@ -1,0 +1,964 @@
+{
+  "1946": {
+    "title": "Melbourne Ports, VIC   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOLLOWAY, Hon Jack",
+        "Votes": 43905,
+        "Percent": 66.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DENNIS, Douglas",
+        "Votes": 21884,
+        "Percent": 33.3
+      }
+    ]
+  },
+  "1949": {
+    "title": "Melbourne Ports, VIC   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOLLOWAY, Rt Hon Jack",
+        "Votes": 26792,
+        "Percent": 67.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BLOCK, Arthur",
+        "Votes": 12690,
+        "Percent": 32.1
+      }
+    ]
+  },
+  "1951": {
+    "title": "Melbourne Ports, VIC   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CREAN, Frank",
+        "Votes": "26502",
+        "Percent": 71.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PROWSE, Michael",
+        "Votes": "10740",
+        "Percent": 28.8
+      }
+    ]
+  },
+  "1954": {
+    "title": "Melbourne Ports, VIC   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FITTOCK, Norman",
+        "Votes": "8914",
+        "Percent": 27.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CREAN, Frank",
+        "Votes": "22001",
+        "Percent": 67.4
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "BULL, Ted",
+        "Votes": "1733",
+        "Percent": 5.3
+      }
+    ]
+  },
+  "1955": {
+    "title": "Melbourne Ports, VIC   1955",
+    "rows": [
+      {
+        "Party": "ALPAC",
+        "Candidate": "CORRIGAN, Stanislaus",
+        "Votes": "9662",
+        "Percent": 25.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SHER, Harold",
+        "Votes": "7531",
+        "Percent": 19.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CREAN, Frank",
+        "Votes": "19917",
+        "Percent": 52.0
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "DOBBIN, Alexander",
+        "Votes": "1193",
+        "Percent": 3.1
+      }
+    ]
+  },
+  "1958": {
+    "title": "Melbourne Ports, VIC   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CREAN, Frank",
+        "Votes": 22968,
+        "Percent": 63.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LOADER, Norman",
+        "Votes": 7381,
+        "Percent": 20.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FITZGERALD, John",
+        "Votes": 4969,
+        "Percent": 13.8
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "WILSON, Roger",
+        "Votes": 813,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "1961": {
+    "title": "Melbourne Ports, VIC   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CREAN, Frank",
+        "Votes": 20590,
+        "Percent": 61.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BLACKBURNE, Gordon",
+        "Votes": 7483,
+        "Percent": 22.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "JONES, Albert",
+        "Votes": 4572,
+        "Percent": 13.7
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "WILSON, Roger",
+        "Votes": 749,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1963": {
+    "title": "Melbourne Ports, VIC   1963",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "POND, James",
+        "Votes": "7178",
+        "Percent": 22.1
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "WILSON, Roger",
+        "Votes": "632",
+        "Percent": 1.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "O'DWYER, George",
+        "Votes": "4074",
+        "Percent": 12.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CREAN, Frank",
+        "Votes": "20654",
+        "Percent": 63.5
+      }
+    ]
+  },
+  "1966": {
+    "title": "Melbourne Ports, VIC   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CREAN, Frank",
+        "Votes": 16003,
+        "Percent": 55.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "THOMAS, Richard",
+        "Votes": 7123,
+        "Percent": 24.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "O'DWYER, George",
+        "Votes": 3304,
+        "Percent": 11.5
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "CLARK, David",
+        "Votes": 2402,
+        "Percent": 8.3
+      }
+    ]
+  },
+  "1969": {
+    "title": "Melbourne Ports, VIC   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CREAN, Frank",
+        "Votes": 25209,
+        "Percent": 52.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RANDALL, Kevin",
+        "Votes": 15923,
+        "Percent": 32.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "TRACEY, Eustace",
+        "Votes": 3944,
+        "Percent": 8.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MACEY, Reginald",
+        "Votes": 1580,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRAVES, Stephen",
+        "Votes": 1447,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GABRIEL, George",
+        "Votes": 352,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1972": {
+    "title": "Melbourne Ports, VIC   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CREAN, Frank",
+        "Votes": 29631,
+        "Percent": 61.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FENTON, Paul",
+        "Votes": 14722,
+        "Percent": 30.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "JOHNSTON, John",
+        "Votes": 3845,
+        "Percent": 8.0
+      }
+    ]
+  },
+  "1974": {
+    "title": "Melbourne Ports, VIC   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CREAN, Hon Frank",
+        "Votes": 31120,
+        "Percent": 60.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WALSH, John",
+        "Votes": 15733,
+        "Percent": 30.6
+      },
+      {
+        "Party": "AP",
+        "Candidate": "BROADBENT, Beverley",
+        "Votes": 2429,
+        "Percent": 4.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "JOHNSTON, John",
+        "Votes": 2211,
+        "Percent": 4.3
+      }
+    ]
+  },
+  "1975": {
+    "title": "Melbourne Ports, VIC   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CREAN, Hon Frank",
+        "Votes": 28460,
+        "Percent": 55.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JOHNSTON, Roger",
+        "Votes": 19485,
+        "Percent": 38.0
+      },
+      {
+        "Party": "AP",
+        "Candidate": "BROADBENT, Beverley",
+        "Votes": 1641,
+        "Percent": 3.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HABERMAN, Gordon",
+        "Votes": 1369,
+        "Percent": 2.7
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "GRAY, Frederick",
+        "Votes": 168,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SANDERS, Henry",
+        "Votes": 154,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1977": {
+    "title": "Melbourne Ports, VIC   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOLDING, Clyde",
+        "Votes": 31308,
+        "Percent": 50.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HILL, Daniel",
+        "Votes": 20627,
+        "Percent": 33.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RAINER, Valina",
+        "Votes": 6147,
+        "Percent": 9.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HABERMAN, Gordon",
+        "Votes": 4495,
+        "Percent": 7.2
+      }
+    ]
+  },
+  "1980": {
+    "title": "Melbourne Ports, VIC   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOLDING, Clyde",
+        "Votes": 33992,
+        "Percent": 57.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BELL, Colin",
+        "Votes": 20252,
+        "Percent": 33.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DUTHY, Stephen",
+        "Votes": 4336,
+        "Percent": 7.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MOFFATT, Gordon",
+        "Votes": 806,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KAPPHAN, Wilhelm",
+        "Votes": 270,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1983": {
+    "title": "Melbourne Ports, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOLDING, Clyde",
+        "Votes": 36444,
+        "Percent": 59.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FLOOD, Ronald",
+        "Votes": 20488,
+        "Percent": 33.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SUTCLIFFE, John",
+        "Votes": 3556,
+        "Percent": 5.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TRENERY, Brett",
+        "Votes": 595,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1984": {
+    "title": "Melbourne Ports, VIC   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOLDING, Hon Clyde",
+        "Votes": 32665,
+        "Percent": 57.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PAULL, Allan",
+        "Votes": 17603,
+        "Percent": 30.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCDOUGALL, Sue",
+        "Votes": 3312,
+        "Percent": 5.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ROWE, Michael",
+        "Votes": 1825,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STEPHENS, Denice",
+        "Votes": 845,
+        "Percent": 1.5
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "TURNER, Dorothy",
+        "Votes": 795,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MORSE, Russell",
+        "Votes": 159,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1987": {
+    "title": "Melbourne Ports, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOLDING, Hon Clyde",
+        "Votes": 29831,
+        "Percent": 50.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PAULL, Allan",
+        "Votes": 20683,
+        "Percent": 34.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BRETHERTON, Dr Di",
+        "Votes": 5568,
+        "Percent": 9.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, Alan",
+        "Votes": 3483,
+        "Percent": 5.9
+      }
+    ]
+  },
+  "1990": {
+    "title": "Melbourne Ports, VIC   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PAULL, Allan",
+        "Votes": 29032,
+        "Percent": 43.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HOLDING, Hon Clyde",
+        "Votes": 26335,
+        "Percent": 39.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COLLYER, David",
+        "Votes": 10327,
+        "Percent": 15.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LOATS, Greg",
+        "Votes": 886,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "1993": {
+    "title": "Melbourne Ports, VIC   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "HOCKLEY, Caroline",
+        "Votes": "678",
+        "Percent": 1.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HOLDING, Hon Clyde",
+        "Votes": "34751",
+        "Percent": 48.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FRIEDMANN, Helen",
+        "Votes": "29817",
+        "Percent": 41.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BROADBENT, Beverley",
+        "Votes": "2614",
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COLBERT, Andrew",
+        "Votes": "2291",
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CRAIK, Christine",
+        "Votes": "1276",
+        "Percent": 1.8
+      }
+    ]
+  },
+  "1996": {
+    "title": "Melbourne Ports, VIC   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOLDING, Hon Clyde",
+        "Votes": 33838,
+        "Percent": 46.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FOSTER, Margot",
+        "Votes": 28863,
+        "Percent": 39.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DAVEY, John",
+        "Votes": 5147,
+        "Percent": 7.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COLEMAN, Misha",
+        "Votes": 3746,
+        "Percent": 5.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GILLESPIE-JONES, Margaret",
+        "Votes": 700,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, Robert",
+        "Votes": 357,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1998": {
+    "title": "Melbourne Ports, VIC   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DANBY, Michael",
+        "Votes": 32849,
+        "Percent": 44.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SNEDDEN, Fiona",
+        "Votes": 29037,
+        "Percent": 39.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PETERS, Julie",
+        "Votes": 6099,
+        "Percent": 8.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MATHEW, Dinesh",
+        "Votes": 3523,
+        "Percent": 4.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WOLOWSKI, Diana",
+        "Votes": 1413,
+        "Percent": 1.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HAWLEY, Arthur",
+        "Votes": 1380,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HAYNES, Tom",
+        "Votes": 180,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "Melbourne Ports, VIC   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCLORINAN, Andrew",
+        "Votes": 31384,
+        "Percent": 39.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DANBY, Michael",
+        "Votes": 31110,
+        "Percent": 39.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KAVANAGH, Jeannette",
+        "Votes": 8912,
+        "Percent": 11.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CHIPP, Greg",
+        "Votes": 7328,
+        "Percent": 9.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BECK, Jeremy",
+        "Votes": 305,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2004": {
+    "title": "Melbourne Ports, VIC   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SOUTHWICK, David",
+        "Votes": 35058,
+        "Percent": 42.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DANBY, Michael",
+        "Votes": 32046,
+        "Percent": 39.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LEWIS, Jo",
+        "Votes": 11508,
+        "Percent": 14.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BEALE, Craig",
+        "Votes": 1102,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAMERON, Les",
+        "Votes": 958,
+        "Percent": 1.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "JACKEL, Graeme",
+        "Votes": 444,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HORIN, Leonie",
+        "Votes": 374,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ISHERWOOD, Aaron",
+        "Votes": 146,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2007": {
+    "title": "Melbourne Ports, VIC   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DANBY, Michael",
+        "Votes": 36556,
+        "Percent": 42.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HELD, Adam",
+        "Votes": 34154,
+        "Percent": 39.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WALKER, Phillip",
+        "Votes": 12941,
+        "Percent": 15.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MATHIESON, John",
+        "Votes": 1527,
+        "Percent": 1.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "GEBBING, Rebecca",
+        "Votes": 731,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ISHERWOOD, Aaron",
+        "Votes": 172,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2010": {
+    "title": "Melbourne Ports, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DANBY, Michael",
+        "Votes": 32391,
+        "Percent": 38.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "EKENDAHL, Kevin",
+        "Votes": 32057,
+        "Percent": 37.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PLOWRIGHT, Sue",
+        "Votes": 17528,
+        "Percent": 20.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VEGA, Christian",
+        "Votes": 1851,
+        "Percent": 2.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "EMMERSON, Daniel",
+        "Votes": 632,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STORRER, Gregory",
+        "Votes": 362,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2013": {
+    "title": "Melbourne Ports, VIC   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "EKENDAHL, Kevin",
+        "Votes": 33278,
+        "Percent": 41.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DANBY, Hon Michael",
+        "Votes": 25676,
+        "Percent": 31.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BIRRELL, Ann",
+        "Votes": 16353,
+        "Percent": 20.2
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "STAR, Melissa",
+        "Votes": 3089,
+        "Percent": 3.8
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "STODDART, Toby",
+        "Votes": 1122,
+        "Percent": 1.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "STEFANO, Vince",
+        "Votes": 540,
+        "Percent": 0.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "KEENAN, Robert",
+        "Votes": 490,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ARMSTRONG, Steven",
+        "Votes": 324,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "QUINN, Margaret",
+        "Votes": 201,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2016": {
+    "title": "Melbourne Ports, VIC   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GUEST, Owen",
+        "Votes": 35533,
+        "Percent": 41.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DANBY, Hon Michael",
+        "Votes": 22897,
+        "Percent": 26.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HODGINS-MAY, Steph",
+        "Votes": 20179,
+        "Percent": 23.9
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "SMYTH, Robert",
+        "Votes": 1685,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCKENZIE-KIRKBRIGHT, Levi",
+        "Votes": 1685,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOLLAND, Peter",
+        "Votes": 1393,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOUSSA, Henry Von",
+        "Votes": 1349,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MYERS, John",
+        "Votes": 425,
+        "Percent": 0.5
+      }
+    ]
+  }
+}

@@ -1,0 +1,1172 @@
+{
+  "1949": {
+    "title": "Wills, VIC   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BRYSON, William",
+        "Votes": 18918,
+        "Percent": 44.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TYRER, Allan",
+        "Votes": 15101,
+        "Percent": 35.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLACKBURN, Doris",
+        "Votes": 8801,
+        "Percent": 20.6
+      }
+    ]
+  },
+  "1951": {
+    "title": "Wills, VIC   1951",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "BLACKBURN, Doris",
+        "Votes": "7595",
+        "Percent": 17.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRYSON, William",
+        "Votes": "21136",
+        "Percent": 48.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GRAFEN, Baden",
+        "Votes": "14461",
+        "Percent": 33.5
+      }
+    ]
+  },
+  "1954": {
+    "title": "Wills, VIC   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BRYSON, William",
+        "Votes": "27538",
+        "Percent": 62.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "INGRAM, Ian",
+        "Votes": "16595",
+        "Percent": 37.6
+      }
+    ]
+  },
+  "1955": {
+    "title": "Wills, VIC   1955",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BRYANT, Gordon",
+        "Votes": "19363",
+        "Percent": 47.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WALL, Alfred",
+        "Votes": "11478",
+        "Percent": 28.0
+      },
+      {
+        "Party": "ALPAC",
+        "Candidate": "BRYSON, William",
+        "Votes": "10115",
+        "Percent": 24.7
+      }
+    ]
+  },
+  "1958": {
+    "title": "Wills, VIC   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BRYANT, Gordon",
+        "Votes": 21308,
+        "Percent": 53.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WALL, Alfred",
+        "Votes": 10498,
+        "Percent": 26.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BRYSON, William",
+        "Votes": 7881,
+        "Percent": 19.9
+      }
+    ]
+  },
+  "1961": {
+    "title": "Wills, VIC   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BRYANT, Gordon",
+        "Votes": 22115,
+        "Percent": 58.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PYATT, William",
+        "Votes": 8454,
+        "Percent": 22.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BRYSON, William",
+        "Votes": 7553,
+        "Percent": 19.8
+      }
+    ]
+  },
+  "1963": {
+    "title": "Wills, VIC   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "HARDY, John",
+        "Votes": "6315",
+        "Percent": 16.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRYANT, Gordon",
+        "Votes": "20197",
+        "Percent": 54.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MUNTZ, James",
+        "Votes": "10795",
+        "Percent": 28.9
+      }
+    ]
+  },
+  "1966": {
+    "title": "Wills, VIC   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BRYANT, Gordon",
+        "Votes": 18455,
+        "Percent": 53.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HUTCHINSON, David",
+        "Votes": 10714,
+        "Percent": 31.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FLINT, John",
+        "Votes": 5239,
+        "Percent": 15.2
+      }
+    ]
+  },
+  "1969": {
+    "title": "Wills, VIC   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BRYANT, Gordon",
+        "Votes": 25839,
+        "Percent": 50.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FRANKEL, Peter",
+        "Votes": 15046,
+        "Percent": 29.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FLINT, John",
+        "Votes": 6021,
+        "Percent": 11.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BENNETT, John",
+        "Votes": 3367,
+        "Percent": 6.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BREIER, Milan",
+        "Votes": 280,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PHELAN, Geraldine",
+        "Votes": 251,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1972": {
+    "title": "Wills, VIC   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BRYANT, Gordon",
+        "Votes": 30410,
+        "Percent": 60.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GRAY, John",
+        "Votes": 14015,
+        "Percent": 28.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FLINT, John",
+        "Votes": 5650,
+        "Percent": 11.3
+      }
+    ]
+  },
+  "1974": {
+    "title": "Wills, VIC   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BRYANT, Hon Gordon",
+        "Votes": 32721,
+        "Percent": 61.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BALES, John",
+        "Votes": 15923,
+        "Percent": 29.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FLINT, John",
+        "Votes": 3430,
+        "Percent": 6.4
+      },
+      {
+        "Party": "AP",
+        "Candidate": "BELL, Stanley",
+        "Votes": 944,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DRINKWATER, Bruce",
+        "Votes": 385,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1975": {
+    "title": "Wills, VIC   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BRYANT, Hon Gordon",
+        "Votes": 32382,
+        "Percent": 60.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KIEL, Howard",
+        "Votes": 17562,
+        "Percent": 32.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FLINT, John",
+        "Votes": 3819,
+        "Percent": 7.1
+      }
+    ]
+  },
+  "1977": {
+    "title": "Wills, VIC   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BRYANT, Hon Gordon",
+        "Votes": 38456,
+        "Percent": 57.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BURROWES, Thomas",
+        "Votes": 17597,
+        "Percent": 26.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WEAVER, Vernon",
+        "Votes": 5703,
+        "Percent": 8.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FLINT, John",
+        "Votes": 4964,
+        "Percent": 7.4
+      }
+    ]
+  },
+  "1980": {
+    "title": "Wills, VIC   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HAWKE, Bob",
+        "Votes": 42815,
+        "Percent": 65.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "D'AQUINO, Vincenzo",
+        "Votes": 17337,
+        "Percent": 26.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GOSS, Kenneth",
+        "Votes": 2407,
+        "Percent": 3.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "STEWART, Thomas",
+        "Votes": 1256,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SALBY, Solomon",
+        "Votes": 677,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HEAD, Michael",
+        "Votes": 490,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NEWELL, Martin",
+        "Votes": 410,
+        "Percent": 0.6
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "HERINGTON, Philip",
+        "Votes": 368,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1983": {
+    "title": "Wills, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HAWKE, Bob",
+        "Votes": 45571,
+        "Percent": 67.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HOYSTED, Mark",
+        "Votes": 14773,
+        "Percent": 21.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HALLAM, John",
+        "Votes": 4225,
+        "Percent": 6.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MANTELL, Martin",
+        "Votes": 1287,
+        "Percent": 1.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "VERBERNE, Michael",
+        "Votes": 1145,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SALBY, Solomon",
+        "Votes": 206,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MURGATROYD, Cecil",
+        "Votes": 174,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1984": {
+    "title": "Wills, VIC   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HAWKE, Hon Bob",
+        "Votes": 38846,
+        "Percent": 66.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PERTON, Victor",
+        "Votes": 13649,
+        "Percent": 23.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ALLAN, Peter",
+        "Votes": 2350,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FERGUSON, Mark",
+        "Votes": 1360,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HUTCHINSON, Lance",
+        "Votes": 1056,
+        "Percent": 1.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BROOK, Gloria",
+        "Votes": 856,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MANTELL, Martin",
+        "Votes": 242,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MANN, Glen",
+        "Votes": 81,
+        "Percent": 0.1
+      }
+    ]
+  },
+  "1987": {
+    "title": "Wills, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HAWKE, Hon Bob",
+        "Votes": 35849,
+        "Percent": 61.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "VENABLES, Olga",
+        "Votes": 15318,
+        "Percent": 26.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ELEY, Ken",
+        "Votes": 3729,
+        "Percent": 6.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCKS, Fast",
+        "Votes": 1400,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TEATHER, Lyn",
+        "Votes": 1092,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SYKES, Ian",
+        "Votes": 650,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1990": {
+    "title": "Wills, VIC   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HAWKE, Hon Bob",
+        "Votes": 32596,
+        "Percent": 48.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DELACRETAZ, John",
+        "Votes": 23088,
+        "Percent": 34.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MENDES, Philip",
+        "Votes": 6413,
+        "Percent": 9.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BESHARA, Mark",
+        "Votes": 2564,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SYKES, Ian",
+        "Votes": 986,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHELLIAH, Lali",
+        "Votes": 678,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MURGATROYD, Cecil",
+        "Votes": 319,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "AUSSIE-STONE, Marc",
+        "Votes": 316,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1993": {
+    "title": "Wills, VIC   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "SAVAGE, Katheryne",
+        "Votes": "652",
+        "Percent": 0.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KARDAMITSIS, Bill",
+        "Votes": "29499",
+        "Percent": 41.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MANTELL, Ken",
+        "Votes": "271",
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MURGATROYD, Cecil",
+        "Votes": "219",
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PRICE, John",
+        "Votes": "212",
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLEARY, Philip",
+        "Votes": "20721",
+        "Percent": 29.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MINAS, Dr Jack",
+        "Votes": "17386",
+        "Percent": 24.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STONE, Robert",
+        "Votes": "1474",
+        "Percent": 2.1
+      }
+    ]
+  },
+  "1996": {
+    "title": "Wills, VIC   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THOMPSON, Kelvin",
+        "Votes": 39014,
+        "Percent": 50.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLEARY, Philip",
+        "Votes": 17747,
+        "Percent": 22.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MINAS, Dr Jack",
+        "Votes": 16576,
+        "Percent": 21.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STONE, Robert",
+        "Votes": 2811,
+        "Percent": 3.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEPPEL, Sharon",
+        "Votes": 1399,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RICHARDSON, Martin",
+        "Votes": 316,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ISHERWOOD, Craig",
+        "Votes": 196,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1998": {
+    "title": "Wills, VIC   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THOMPSON, Kelvin",
+        "Votes": 50507,
+        "Percent": 64.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CURRY, David",
+        "Votes": 20280,
+        "Percent": 25.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STONE, Robert",
+        "Votes": 4507,
+        "Percent": 5.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DELLER, Bill",
+        "Votes": 1875,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ABDEL-FATTAH, Randa",
+        "Votes": 1363,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FOX, Andrew",
+        "Votes": 435,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2001": {
+    "title": "Wills, VIC   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THOMPSON, Kelvin",
+        "Votes": 44019,
+        "Percent": 56.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "VALASINAVICIUS, Vytautas",
+        "Votes": 21030,
+        "Percent": 26.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NATALE, Dr Richard Di",
+        "Votes": 6082,
+        "Percent": 7.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STONE, Rob",
+        "Votes": 5036,
+        "Percent": 6.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ISHERWOOD, Craig",
+        "Votes": 1368,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GLANZ, David",
+        "Votes": 1036,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2004": {
+    "title": "Wills, VIC   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THOMSON, Kelvin",
+        "Votes": 44158,
+        "Percent": 53.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HAMILTON, Blair",
+        "Votes": 23549,
+        "Percent": 28.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ARCHER, Toby",
+        "Votes": 10663,
+        "Percent": 13.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SURACI, Deborah",
+        "Votes": 1275,
+        "Percent": 1.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STONE, Robert",
+        "Votes": 1163,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GLANZ, David",
+        "Votes": 867,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ISHERWOOD, Noelene",
+        "Votes": 373,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2007": {
+    "title": "Wills, VIC   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THOMSON, Kelvin",
+        "Votes": 49050,
+        "Percent": 56.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TOMISICH, Claude",
+        "Votes": 21166,
+        "Percent": 24.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COLLIS, David",
+        "Votes": 11912,
+        "Percent": 13.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CLARKE, Edward",
+        "Votes": 2005,
+        "Percent": 2.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "KELADA, Ihab",
+        "Votes": 1233,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ALCORN, Zane",
+        "Votes": 624,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ISHERWOOD, Craig",
+        "Votes": 227,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "Wills, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THOMSON, Kelvin",
+        "Votes": 43718,
+        "Percent": 51.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TOMISICH, Claude",
+        "Votes": 20080,
+        "Percent": 23.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RILEY, Mark",
+        "Votes": 17381,
+        "Percent": 20.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MUMBY, Daniel",
+        "Votes": 1320,
+        "Percent": 1.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROBERTSON, Paul",
+        "Votes": 734,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HAWKINS, Trent",
+        "Votes": 726,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ISHERWOOD, Craig",
+        "Votes": 429,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2013": {
+    "title": "Wills, VIC   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THOMSON, Hon Kelvin",
+        "Votes": 40931,
+        "Percent": 45.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HEGDE, Shilpa",
+        "Votes": 20710,
+        "Percent": 22.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "READ, Dr Tim",
+        "Votes": 20157,
+        "Percent": 22.2
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "TRAJSTMAN, Adrian",
+        "Votes": 2363,
+        "Percent": 2.6
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "MURRAY-DUFOULON, Anne",
+        "Votes": 2158,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'CALLAGHAN, Dean",
+        "Votes": 2040,
+        "Percent": 2.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "GIGLIA, Concetta",
+        "Votes": 1285,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WINDISCH, Margarita",
+        "Votes": 1024,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2016": {
+    "title": "Wills, VIC   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KHALIL, Peter",
+        "Votes": 35431,
+        "Percent": 37.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RATNAM, Samantha",
+        "Votes": 29017,
+        "Percent": 30.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HONG, Kyung",
+        "Votes": 20634,
+        "Percent": 21.9
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "CHELLEW, Tristram",
+        "Votes": 2608,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TIMPANO, Francesco",
+        "Votes": 1832,
+        "Percent": 2.0
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "SYDOW, Camille",
+        "Votes": 1578,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLACKWELL, Ash",
+        "Votes": 1287,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GILLMAN, Dougal",
+        "Votes": 778,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ALCORN, Zane",
+        "Votes": 648,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FULGENZI, Will",
+        "Votes": 295,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2019": {
+    "title": "Wills, VIC   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KHALIL, Peter",
+        "Votes": 42355,
+        "Percent": 44.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PULFORD, Adam",
+        "Votes": 25575,
+        "Percent": 26.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KILLIN, Peter",
+        "Votes": 17241,
+        "Percent": 17.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOLTON, Sue",
+        "Votes": 4344,
+        "Percent": 4.5
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "MILES, Chris",
+        "Votes": 3596,
+        "Percent": 3.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "VENKAT, Manju",
+        "Votes": 2979,
+        "Percent": 3.1
+      }
+    ]
+  },
+  "2022": {
+    "title": "Wills, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KHALIL, Peter",
+        "Votes": 35449,
+        "Percent": 38.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JEFFORD, Sarah",
+        "Votes": 25793,
+        "Percent": 28.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WRIGHT, Tom",
+        "Votes": 15771,
+        "Percent": 17.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "ZIVKOVIC, Irene",
+        "Votes": 3352,
+        "Percent": 3.7
+      },
+      {
+        "Party": "SAll",
+        "Candidate": "BOLTON, Sue",
+        "Votes": 3096,
+        "Percent": 3.4
+      },
+      {
+        "Party": "VS",
+        "Candidate": "BLACK, Emma",
+        "Votes": 2714,
+        "Percent": 3.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "TINDAL, Jill",
+        "Votes": 2554,
+        "Percent": 2.8
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "HORSFALL, Leah",
+        "Votes": 1680,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "SERGI, Sam",
+        "Votes": 789,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2025": {
+    "title": "Wills, VIC   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KHALIL, Peter",
+        "Votes": 39069,
+        "Percent": 35.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RATNAM, Samantha",
+        "Votes": 38834,
+        "Percent": 35.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KIDNEY, Jeff",
+        "Votes": 14121,
+        "Percent": 12.9
+      },
+      {
+        "Party": "SAL",
+        "Candidate": "BOLTON, Sue",
+        "Votes": 8808,
+        "Percent": 8.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "STEVENS, Bruce",
+        "Votes": 3842,
+        "Percent": 3.5
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "GLOVER, Margee",
+        "Votes": 3067,
+        "Percent": 2.8
+      },
+      {
+        "Party": "SOPA",
+        "Candidate": "MILLER, Owen",
+        "Votes": 1122,
+        "Percent": 1.0
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "VERSTEEGEN, Rachel",
+        "Votes": 918,
+        "Percent": 0.8
+      }
+    ]
+  }
+}

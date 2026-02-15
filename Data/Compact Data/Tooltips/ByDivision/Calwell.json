@@ -1,0 +1,689 @@
+{
+  "1984": {
+    "title": "Calwell, VIC   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THEOPHANOUS, Dr Andrew",
+        "Votes": 36660,
+        "Percent": 68.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ANDERSEN, Graham",
+        "Votes": 13277,
+        "Percent": 24.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ELLEN, Lesley",
+        "Votes": 2502,
+        "Percent": 4.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MULHOLLAND, Martin",
+        "Votes": 870,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1987": {
+    "title": "Calwell, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THEOPHANOUS, Dr Andrew",
+        "Votes": 36614,
+        "Percent": 61.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DIMITRIJEVIC, Chris",
+        "Votes": 16244,
+        "Percent": 27.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STEWART, Louise",
+        "Votes": 5938,
+        "Percent": 9.9
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "PAVLEKOVICH-SMITH, Ivan",
+        "Votes": 1130,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "1990": {
+    "title": "Calwell, VIC   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THEOPHANOUS, Dr Andrew",
+        "Votes": 29466,
+        "Percent": 45.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LIVETT, Dianne",
+        "Votes": 21232,
+        "Percent": 32.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LORMAN, Doug",
+        "Votes": 7791,
+        "Percent": 12.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CULPIN, Jack",
+        "Votes": 4493,
+        "Percent": 6.9
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "LUKANIC, Rob",
+        "Votes": 1751,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "1993": {
+    "title": "Calwell, VIC   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "PRICE, Sandy",
+        "Votes": "522",
+        "Percent": 0.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "THEOPHANOUS, Dr Andrew",
+        "Votes": "48749",
+        "Percent": 64.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LIVETT, Dianne",
+        "Votes": "21752",
+        "Percent": 28.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MACKAY, David",
+        "Votes": "2140",
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RODENBURG, Veronica",
+        "Votes": "1373",
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SPENCER, Rod",
+        "Votes": "1013",
+        "Percent": 1.3
+      }
+    ]
+  },
+  "1996": {
+    "title": "Calwell, VIC   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THEOPHANOUS, Dr Andrew",
+        "Votes": 43986,
+        "Percent": 61.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WILLIS, Bill",
+        "Votes": 20679,
+        "Percent": 28.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LIVESAY, Robert",
+        "Votes": 4975,
+        "Percent": 6.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PHILLIPS, Sue",
+        "Votes": 1554,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARNES, Richard",
+        "Votes": 522,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1998": {
+    "title": "Calwell, VIC   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THEOPHANOUS, Hon Dr Andrew",
+        "Votes": 50022,
+        "Percent": 62.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BLAKE, Trevor",
+        "Votes": 21111,
+        "Percent": 26.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LIVESAY, Robert",
+        "Votes": 5363,
+        "Percent": 6.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KECELI, Benal",
+        "Votes": 2968,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARRIS, Michael",
+        "Votes": 755,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2001": {
+    "title": "Calwell, VIC   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "VAMVAKINOU, Maria",
+        "Votes": 45093,
+        "Percent": 51.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BULLER, Darren",
+        "Votes": 21995,
+        "Percent": 25.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THEOPHANOUS, Hon Dr Andrew",
+        "Votes": 8386,
+        "Percent": 9.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LIVESAY, Robert",
+        "Votes": 3357,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ABBOTTO, John",
+        "Votes": 3116,
+        "Percent": 3.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BARKER, Bee",
+        "Votes": 2111,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DERVISH, D",
+        "Votes": 2003,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOCHI, Mahomed",
+        "Votes": 572,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "YOHANNA, Slelman",
+        "Votes": 447,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2004": {
+    "title": "Calwell, VIC   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "VAMVAKINOU, Maria",
+        "Votes": 39692,
+        "Percent": 50.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LIVETT, Dianne",
+        "Votes": 29504,
+        "Percent": 37.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ALMAN, Mohamad",
+        "Votes": 4175,
+        "Percent": 5.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CANHAM, Gary",
+        "Votes": 1870,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "YOHANNA, Sleiman",
+        "Votes": 1745,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TOWERS, Denis",
+        "Votes": 1202,
+        "Percent": 1.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GATT, Jonathan",
+        "Votes": 1180,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "2007": {
+    "title": "Calwell, VIC   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "VAMVAKINOU, Maria",
+        "Votes": 51952,
+        "Percent": 60.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LIVETT, Dianne",
+        "Votes": 22906,
+        "Percent": 26.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SHAUNE, Brook",
+        "Votes": 3761,
+        "Percent": 4.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BULLER, Arthur",
+        "Votes": 3747,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "YOHANNA, Sleiman",
+        "Votes": 1817,
+        "Percent": 2.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MUSOLINO, Vanessa",
+        "Votes": 799,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CUTLER, Philip",
+        "Votes": 624,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HAMPSHIRE, Don",
+        "Votes": 391,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GAGLIOTI, Frank",
+        "Votes": 273,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "Calwell, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "VAMVAKINOU, Maria",
+        "Votes": 49580,
+        "Percent": 56.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TSENG, Wayne",
+        "Votes": 22556,
+        "Percent": 25.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "THOMPSON, Lenka",
+        "Votes": 10386,
+        "Percent": 11.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "TRUSCOTT, Jeff",
+        "Votes": 3851,
+        "Percent": 4.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BYRNE, Peter",
+        "Votes": 1181,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2013": {
+    "title": "Calwell, VIC   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "VAMVAKINOU, Maria",
+        "Votes": 42819,
+        "Percent": 49.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KHAN, Ali",
+        "Votes": 24490,
+        "Percent": 28.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NEVILL, Joanna",
+        "Votes": 4632,
+        "Percent": 5.4
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "LETCHER, Bryce",
+        "Votes": 3728,
+        "Percent": 4.3
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "SPIROVKA, Nevena",
+        "Votes": 2367,
+        "Percent": 2.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "GRAHAM, Paul",
+        "Votes": 2175,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BENGTSSON, Maria",
+        "Votes": 2121,
+        "Percent": 2.5
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "WATSON, Brett",
+        "Votes": 1915,
+        "Percent": 2.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "OMAR, Omar",
+        "Votes": 1310,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROZARIO, Charles",
+        "Votes": 415,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2016": {
+    "title": "Calwell, VIC   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "VAMVAKINOU, Maria",
+        "Votes": 51040,
+        "Percent": 56.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HSU, John",
+        "Votes": 24855,
+        "Percent": 27.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ABBOUD, Natalie",
+        "Votes": 7609,
+        "Percent": 8.5
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "SEARLS, Megan",
+        "Votes": 3229,
+        "Percent": 3.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAKKIS, Michael",
+        "Votes": 3115,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "2019": {
+    "title": "Calwell, VIC   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "VAMVAKINOU, Maria",
+        "Votes": 47115,
+        "Percent": 53.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HAMILTON, Genevieve",
+        "Votes": 21978,
+        "Percent": 25.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MORGAN, Polly",
+        "Votes": 5893,
+        "Percent": 6.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMALL, Jerome",
+        "Votes": 3984,
+        "Percent": 4.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "CHHABRA, Prakul",
+        "Votes": 3037,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KERR, Keith",
+        "Votes": 2851,
+        "Percent": 3.3
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "VAIL, Adam",
+        "Votes": 1771,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BYRNE, Peter",
+        "Votes": 823,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2022": {
+    "title": "Calwell, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "VAMVAKINOU, Maria",
+        "Votes": 38127,
+        "Percent": 44.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "STAKER-GUNN, Tim",
+        "Votes": 20111,
+        "Percent": 23.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ABBOUD, Natalie",
+        "Votes": 8277,
+        "Percent": 9.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "NAIM, Joshua",
+        "Votes": 7578,
+        "Percent": 8.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "PRESTON, Mark",
+        "Votes": 5957,
+        "Percent": 7.0
+      },
+      {
+        "Party": "VS",
+        "Candidate": "SMALL, Jerome",
+        "Votes": 3433,
+        "Percent": 4.0
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "BENGTSSON, Maria",
+        "Votes": 1512,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "2025": {
+    "title": "Calwell, VIC   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ABDO, Basem",
+        "Votes": 27423,
+        "Percent": 30.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GHANI, Usman",
+        "Votes": 14102,
+        "Percent": 15.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MOORE, Carly",
+        "Votes": 10735,
+        "Percent": 12.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "YOUHANA, Joseph",
+        "Votes": 9628,
+        "Percent": 10.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GARCHA, Ravneet Kaur",
+        "Votes": 7439,
+        "Percent": 8.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MOSLIH, Samim",
+        "Votes": 6155,
+        "Percent": 6.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "TOMA, Luay",
+        "Votes": 3375,
+        "Percent": 3.8
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "DEL ROSARIO-MAKRIDIS, Gianni",
+        "Votes": 2843,
+        "Percent": 3.2
+      },
+      {
+        "Party": "CEC",
+        "Candidate": "HAWLI, Bassima",
+        "Votes": 2624,
+        "Percent": 2.9
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "BENGTSSON, Maria",
+        "Votes": 2308,
+        "Percent": 2.6
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "ISSA, Assaad",
+        "Votes": 2211,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RAGUPATHY, Ravi",
+        "Votes": 501,
+        "Percent": 0.6
+      },
+      {
+        "Party": "NAFD",
+        "Candidate": "PEACH, Morgan",
+        "Votes": 487,
+        "Percent": 0.5
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "2025": {
+    "title": "Bullwinkel, WA   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COOK, Trish",
+        "Votes": 33436,
+        "Percent": 31.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MORAN, Matt",
+        "Votes": 25433,
+        "Percent": 24.3
+      },
+      {
+        "Party": "NP",
+        "Candidate": "DAVIES, Mia",
+        "Votes": 16507,
+        "Percent": 15.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BISHOP, Abbey",
+        "Votes": 11728,
+        "Percent": 11.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MAYES, Trevor",
+        "Votes": 9011,
+        "Percent": 8.6
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "YOUNG, Penelope Rose",
+        "Votes": 5262,
+        "Percent": 5.0
+      },
+      {
+        "Party": "AUC",
+        "Candidate": "HOLTEN, Les",
+        "Votes": 3287,
+        "Percent": 3.1
+      }
+    ]
+  }
+}

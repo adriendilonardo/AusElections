@@ -1,0 +1,965 @@
+{
+  "1955": {
+    "title": "Bruce, VIC   1955",
+    "rows": [
+      {
+        "Party": "ALPAC",
+        "Candidate": "KEARNEY, Reginald",
+        "Votes": "4873",
+        "Percent": 11.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SNEDDEN, Billy",
+        "Votes": "21127",
+        "Percent": 47.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EWART, Keith",
+        "Votes": "18335",
+        "Percent": 41.4
+      }
+    ]
+  },
+  "1958": {
+    "title": "Bruce, VIC   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SNEDDEN, Billy",
+        "Votes": 28251,
+        "Percent": 46.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EWART, Keith",
+        "Votes": 24681,
+        "Percent": 40.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SACHAU, Henri de",
+        "Votes": 8326,
+        "Percent": 13.6
+      }
+    ]
+  },
+  "1961": {
+    "title": "Bruce, VIC   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EWART, Keith",
+        "Votes": 34741,
+        "Percent": 42.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SNEDDEN, Billy",
+        "Votes": 33882,
+        "Percent": 41.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SACHAU, Henri de",
+        "Votes": 12826,
+        "Percent": 15.7
+      }
+    ]
+  },
+  "1963": {
+    "title": "Bruce, VIC   1963",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "CROSSLEY, Brian",
+        "Votes": "920",
+        "Percent": 1.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SACHAU, Henri de",
+        "Votes": "8857",
+        "Percent": 9.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GILHOOLEY, Thomas",
+        "Votes": "474",
+        "Percent": 0.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SNEDDEN, Billy",
+        "Votes": "45542",
+        "Percent": 48.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Barry",
+        "Votes": "38396",
+        "Percent": 40.8
+      }
+    ]
+  },
+  "1966": {
+    "title": "Bruce, VIC   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SNEDDEN, Hon Billy",
+        "Votes": 58268,
+        "Percent": 52.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DONNELLY, Leslie",
+        "Votes": 32410,
+        "Percent": 29.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SACHAU, Henri de",
+        "Votes": 13242,
+        "Percent": 12.0
+      },
+      {
+        "Party": "LRG",
+        "Candidate": "WESSLEY, Herbert",
+        "Votes": 4188,
+        "Percent": 3.8
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "GIBSON, Ralph",
+        "Votes": 1467,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SAUNDERSON, John",
+        "Votes": 526,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1969": {
+    "title": "Bruce, VIC   1969",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SNEDDEN, Hon Billy",
+        "Votes": 25470,
+        "Percent": 49.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PHILLIPS, Leon",
+        "Votes": 18449,
+        "Percent": 36.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HOYNE, William",
+        "Votes": 5308,
+        "Percent": 10.4
+      },
+      {
+        "Party": "AP",
+        "Candidate": "MCKAY, Douglas",
+        "Votes": 990,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WESSLEY, Herbert",
+        "Votes": 669,
+        "Percent": 1.3
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "SMITH, Leslie",
+        "Votes": 366,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1972": {
+    "title": "Bruce, VIC   1972",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SNEDDEN, Rt Hon Billy",
+        "Votes": 27893,
+        "Percent": 44.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "OAKLEY, Russell",
+        "Votes": 26312,
+        "Percent": 41.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HARPER, Rex",
+        "Votes": 4632,
+        "Percent": 7.4
+      },
+      {
+        "Party": "AP",
+        "Candidate": "MOORE, Peter",
+        "Votes": 4107,
+        "Percent": 6.5
+      }
+    ]
+  },
+  "1974": {
+    "title": "Bruce, VIC   1974",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SNEDDEN, Rt Hon Billy",
+        "Votes": 35616,
+        "Percent": 48.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "OAKLEY, Russell",
+        "Votes": 31780,
+        "Percent": 43.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HARPER, Rex",
+        "Votes": 3270,
+        "Percent": 4.5
+      },
+      {
+        "Party": "AP",
+        "Candidate": "PEDERICK, Iris",
+        "Votes": 2064,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RYAN, John",
+        "Votes": 421,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MARTIN, Diana",
+        "Votes": 196,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MANN, Glen",
+        "Votes": 129,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "1975": {
+    "title": "Bruce, VIC   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SNEDDEN, Rt Hon Billy",
+        "Votes": 44314,
+        "Percent": 57.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BOND, Graeme",
+        "Votes": 28577,
+        "Percent": 36.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "LLOYD, John",
+        "Votes": 2347,
+        "Percent": 3.0
+      },
+      {
+        "Party": "AP",
+        "Candidate": "PEDERICK, Iris",
+        "Votes": 1748,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MARTIN, Diana",
+        "Votes": 469,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1977": {
+    "title": "Bruce, VIC   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SNEDDEN, Rt Hon Sir Billy",
+        "Votes": 33913,
+        "Percent": 50.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BURKE, Timothy",
+        "Votes": 20927,
+        "Percent": 31.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SUTCLIFFE, John",
+        "Votes": 10199,
+        "Percent": 15.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MULHOLLAND, John",
+        "Votes": 2237,
+        "Percent": 3.3
+      }
+    ]
+  },
+  "1980": {
+    "title": "Bruce, VIC   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SNEDDEN, Rt Hon Sir Billy",
+        "Votes": 34982,
+        "Percent": 48.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WHYTE, Gayle",
+        "Votes": 27457,
+        "Percent": 38.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HERCUS, Fraser",
+        "Votes": 7942,
+        "Percent": 11.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MULHOLLAND, Elaine",
+        "Votes": 954,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KAPPHAN, Wilhelm",
+        "Votes": 366,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1983": {
+    "title": "Bruce, VIC   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SNEDDEN, Rt Hon Sir Billy",
+        "Votes": 36381,
+        "Percent": 47.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, Heather",
+        "Votes": 33650,
+        "Percent": 44.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JOHNSON, Michael",
+        "Votes": 5955,
+        "Percent": 7.8
+      }
+    ]
+  },
+  "1984": {
+    "title": "Bruce, VIC   1984",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ALDRED, Kenneth",
+        "Votes": 27536,
+        "Percent": 46.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GRAYSTONE, Joan",
+        "Votes": 25723,
+        "Percent": 43.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JOHNSON, Michael",
+        "Votes": 3528,
+        "Percent": 6.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MULHOLLAND, Mary",
+        "Votes": 2171,
+        "Percent": 3.7
+      }
+    ]
+  },
+  "1987": {
+    "title": "Bruce, VIC   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ALDRED, Kenneth",
+        "Votes": 28568,
+        "Percent": 47.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROBINSON, Patrick",
+        "Votes": 25866,
+        "Percent": 43.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CARR, Kate",
+        "Votes": 4820,
+        "Percent": 8.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POOLEY, Terence",
+        "Votes": 910,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1990": {
+    "title": "Bruce, VIC   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BEALE, Julian",
+        "Votes": 36171,
+        "Percent": 52.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COTTIER, Philip",
+        "Votes": 21794,
+        "Percent": 31.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HERBERT, Geoff",
+        "Votes": 9431,
+        "Percent": 13.6
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "OLNEY, Peter",
+        "Votes": 2195,
+        "Percent": 3.2
+      }
+    ]
+  },
+  "1993": {
+    "title": "Bruce, VIC   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "TEMPORA, Nicolas Di",
+        "Votes": "665",
+        "Percent": 0.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CHANDRA, Leslie",
+        "Votes": "3899",
+        "Percent": 5.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BEALE, Julian",
+        "Votes": "37607",
+        "Percent": 52.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIAMS, Beverley",
+        "Votes": "28986",
+        "Percent": 40.7
+      }
+    ]
+  },
+  "1996": {
+    "title": "Bruce, VIC   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRIFFIN, Alan",
+        "Votes": 36104,
+        "Percent": 45.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BEALE, Julian",
+        "Votes": 35954,
+        "Percent": 45.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BURKETT, Daryl",
+        "Votes": 4805,
+        "Percent": 6.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BAHLAW, Ahmen",
+        "Votes": 1586,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SOOS, Michael",
+        "Votes": 343,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1998": {
+    "title": "Bruce, VIC   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRIFFIN, Alan",
+        "Votes": 38165,
+        "Percent": 48.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WOOD, Jim",
+        "Votes": 30257,
+        "Percent": 38.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCBETH, Adam",
+        "Votes": 4718,
+        "Percent": 6.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "LOWE, Laurence",
+        "Votes": 2296,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HUYNH, Toan",
+        "Votes": 1336,
+        "Percent": 1.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SMITH, Colin",
+        "Votes": 1195,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHABDIJAN, Dikran",
+        "Votes": 253,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SOOS, Michael",
+        "Votes": 209,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2001": {
+    "title": "Bruce, VIC   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRIFFIN, Alan",
+        "Votes": 38150,
+        "Percent": 48.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "STEELE, Reg",
+        "Votes": 31813,
+        "Percent": 40.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROBYNS, Shaun",
+        "Votes": 5164,
+        "Percent": 6.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COLLINS, David",
+        "Votes": 3349,
+        "Percent": 4.3
+      }
+    ]
+  },
+  "2004": {
+    "title": "Bruce, VIC   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRIFFIN, Alan",
+        "Votes": 37109,
+        "Percent": 47.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RANDALL, Angela",
+        "Votes": 33807,
+        "Percent": 43.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GILES, Tania",
+        "Votes": 4110,
+        "Percent": 5.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "WARNER, Richard",
+        "Votes": 2064,
+        "Percent": 2.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BERGEN, Paul Van Den",
+        "Votes": 1079,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LARNER, William",
+        "Votes": 282,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2007": {
+    "title": "Bruce, VIC   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRIFFIN, Alan",
+        "Votes": 41754,
+        "Percent": 51.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RANDALL, Angela",
+        "Votes": 30257,
+        "Percent": 37.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CASSIDY, Rob",
+        "Votes": 4102,
+        "Percent": 5.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "RAWLINS, Bronwyn",
+        "Votes": 2295,
+        "Percent": 2.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GROSSI, Richard",
+        "Votes": 1012,
+        "Percent": 1.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "HERRMANN, Sandra",
+        "Votes": 678,
+        "Percent": 0.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SMITH, Neil",
+        "Votes": 433,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2010": {
+    "title": "Bruce, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRIFFIN, Hon Alan",
+        "Votes": 37794,
+        "Percent": 49.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KABOS, Mike",
+        "Votes": 28580,
+        "Percent": 37.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ZIBELL, Stefan",
+        "Votes": 7222,
+        "Percent": 9.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HEMMERSBACH, Felicity",
+        "Votes": 3151,
+        "Percent": 4.1
+      }
+    ]
+  },
+  "2013": {
+    "title": "Bruce, VIC   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CICCHIELLO, Emanuele",
+        "Votes": 35501,
+        "Percent": 43.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GRIFFIN, Hon Alan",
+        "Votes": 34626,
+        "Percent": 41.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KELEHER, Lynette",
+        "Votes": 5491,
+        "Percent": 6.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "FILLIPONI, Rebecca",
+        "Votes": 2186,
+        "Percent": 2.7
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "TUYAU, Paul",
+        "Votes": 2173,
+        "Percent": 2.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "GONSALVEZ, Geraldine",
+        "Votes": 1334,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "UTH, Kiry",
+        "Votes": 682,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WHITE, Robert",
+        "Votes": 652,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2016": {
+    "title": "Bruce, VIC   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HILL, Julian",
+        "Votes": 36804,
+        "Percent": 44.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KROGER, Helen",
+        "Votes": 33248,
+        "Percent": 40.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BAUER, Stefanie",
+        "Votes": 5890,
+        "Percent": 7.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "FOGGIE, Nathan",
+        "Votes": 2870,
+        "Percent": 3.5
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "LEITH, Douglas",
+        "Votes": 1944,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RANCON, Alan",
+        "Votes": 1434,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JARVIS-WILLIS, Jill",
+        "Votes": 816,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2019": {
+    "title": "Bruce, VIC   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HILL, Julian",
+        "Votes": 51713,
+        "Percent": 55.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MACISAAC, John",
+        "Votes": 27170,
+        "Percent": 29.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GARAD, Rhonda",
+        "Votes": 6801,
+        "Percent": 7.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "AHMED, Mubahil",
+        "Votes": 3979,
+        "Percent": 4.3
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "BOYANTON, Tim",
+        "Votes": 3377,
+        "Percent": 3.6
+      }
+    ]
+  },
+  "2022": {
+    "title": "Bruce, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HILL, Julian",
+        "Votes": 39516,
+        "Percent": 41.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MOODY, James",
+        "Votes": 28837,
+        "Percent": 30.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KIRWAN, Matthew",
+        "Votes": 9273,
+        "Percent": 9.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "BABET, Matt",
+        "Votes": 8299,
+        "Percent": 8.7
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "SKROBO, Christine",
+        "Votes": 4821,
+        "Percent": 5.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "DEANS, Hayley",
+        "Votes": 4544,
+        "Percent": 4.8
+      }
+    ]
+  },
+  "2025": {
+    "title": "Bruce, VIC   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HILL, Julian",
+        "Votes": 49610,
+        "Percent": 45.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SAFI, Zahid",
+        "Votes": 25162,
+        "Percent": 23.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GARAD, Rhonda",
+        "Votes": 13213,
+        "Percent": 12.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "COLECCHIA, Bianca",
+        "Votes": 8931,
+        "Percent": 8.2
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "BIRCHALL, Wendy",
+        "Votes": 4196,
+        "Percent": 3.8
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "LOUTH, Andrew",
+        "Votes": 3563,
+        "Percent": 3.3
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "ANDERSON, Samuel James",
+        "Votes": 3530,
+        "Percent": 3.2
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "SKROBO, Christine",
+        "Votes": 1289,
+        "Percent": 1.2
+      }
+    ]
+  }
+}

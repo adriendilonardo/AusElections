@@ -1,0 +1,946 @@
+{
+  "1946": {
+    "title": "Riverina, NSW   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LANGTRY, Joseph",
+        "Votes": 19898,
+        "Percent": 43.5
+      },
+      {
+        "Party": "CP",
+        "Candidate": "ROBERTON, Hugh",
+        "Votes": 16284,
+        "Percent": 35.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LETHBRIDGE, Christopher",
+        "Votes": 7086,
+        "Percent": 15.5
+      },
+      {
+        "Party": "ALPN",
+        "Candidate": "GOSLING, John",
+        "Votes": 2230,
+        "Percent": 4.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POW, William",
+        "Votes": 246,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1949": {
+    "title": "Riverina, NSW   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ROBERTON, Hugh",
+        "Votes": 19904,
+        "Percent": 53.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LANGTRY, Joseph",
+        "Votes": 16880,
+        "Percent": 45.2
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MITCHELL, William",
+        "Votes": 560,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1951": {
+    "title": "Riverina, NSW   1951",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ROBERTON, Hugh",
+        "Votes": "19781",
+        "Percent": 53.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SHEEHAN, Michael",
+        "Votes": "15975",
+        "Percent": 43.0
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "KELTON, Leslie",
+        "Votes": "1358",
+        "Percent": 3.7
+      }
+    ]
+  },
+  "1954": {
+    "title": "Riverina, NSW   1954",
+    "rows": [
+      {
+        "Party": "CPA",
+        "Candidate": "KELTON, Leslie",
+        "Votes": "951",
+        "Percent": 2.4
+      },
+      {
+        "Party": "CP",
+        "Candidate": "ROBERTON, Hugh",
+        "Votes": "20341",
+        "Percent": 52.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SHEEHAN, Michael",
+        "Votes": "17646",
+        "Percent": 45.3
+      }
+    ]
+  },
+  "1955": {
+    "title": "Riverina, NSW   1955",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ROBERTON, Hugh",
+        "Votes": "22347",
+        "Percent": 59.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WASHINGTON, Oscar",
+        "Votes": "15324",
+        "Percent": 40.7
+      }
+    ]
+  },
+  "1958": {
+    "title": "Riverina, NSW   1958",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ROBERTON, Hon Hugh",
+        "Votes": 20894,
+        "Percent": 53.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WARD, John",
+        "Votes": 15640,
+        "Percent": 40.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ROLFE, Peter",
+        "Votes": 2320,
+        "Percent": 6.0
+      }
+    ]
+  },
+  "1961": {
+    "title": "Riverina, NSW   1961",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ROBERTON, Hon Hugh",
+        "Votes": 18838,
+        "Percent": 47.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WARD, John",
+        "Votes": 17622,
+        "Percent": 44.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ELRINGTON, Albert",
+        "Votes": 2988,
+        "Percent": 7.6
+      }
+    ]
+  },
+  "1963": {
+    "title": "Riverina, NSW   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "GROUTSCH, Victor",
+        "Votes": "2733",
+        "Percent": 6.7
+      },
+      {
+        "Party": "CP",
+        "Candidate": "ROBERTON, Hon Hugh",
+        "Votes": "21068",
+        "Percent": 51.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WARD, John",
+        "Votes": "16969",
+        "Percent": 41.6
+      }
+    ]
+  },
+  "1966": {
+    "title": "Riverina, NSW   1966",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ARMSTRONG, Adam",
+        "Votes": 24570,
+        "Percent": 59.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NEWMAN, Patrick",
+        "Votes": 9803,
+        "Percent": 23.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SOLLY, Arthur",
+        "Votes": 3851,
+        "Percent": 9.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "KENNEDY, Leslie",
+        "Votes": 3373,
+        "Percent": 8.1
+      }
+    ]
+  },
+  "1969": {
+    "title": "Riverina, NSW   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRASSBY, Al",
+        "Votes": 22499,
+        "Percent": 51.5
+      },
+      {
+        "Party": "CP",
+        "Candidate": "ARMSTRONG, Adam",
+        "Votes": 19351,
+        "Percent": 44.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BARRY, Patrick",
+        "Votes": 1802,
+        "Percent": 4.1
+      }
+    ]
+  },
+  "1972": {
+    "title": "Riverina, NSW   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRASSBY, Al",
+        "Votes": 24705,
+        "Percent": 54.7
+      },
+      {
+        "Party": "CP",
+        "Candidate": "KRONBORG, Eric",
+        "Votes": 16003,
+        "Percent": 35.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LONG, Peter",
+        "Votes": 2753,
+        "Percent": 6.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BARRY, Patrick",
+        "Votes": 1694,
+        "Percent": 3.8
+      }
+    ]
+  },
+  "1974": {
+    "title": "Riverina, NSW   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRASSBY, Hon Al",
+        "Votes": 23233,
+        "Percent": 47.8
+      },
+      {
+        "Party": "CP",
+        "Candidate": "SULLIVAN, John",
+        "Votes": 16128,
+        "Percent": 33.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MACKAY, Donald",
+        "Votes": 8868,
+        "Percent": 18.3
+      },
+      {
+        "Party": "AP",
+        "Candidate": "THOMSON, John",
+        "Votes": 357,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1975": {
+    "title": "Riverina, NSW   1975",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "SULLIVAN, John",
+        "Votes": 30851,
+        "Percent": 61.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "POLLARD, John",
+        "Votes": 19053,
+        "Percent": 38.2
+      }
+    ]
+  },
+  "1977": {
+    "title": "Riverina, NSW   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FITZPATRICK, John",
+        "Votes": 31237,
+        "Percent": 48.8
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "SULLIVAN, John",
+        "Votes": 31134,
+        "Percent": 48.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAWRENCE, Rodney",
+        "Votes": 1580,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1980": {
+    "title": "Riverina, NSW   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Frederick",
+        "Votes": 30698,
+        "Percent": 46.9
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "HICKS, Noel",
+        "Votes": 21663,
+        "Percent": 33.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "THORNTON, Brian",
+        "Votes": 11072,
+        "Percent": 16.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NEWMAN, John",
+        "Votes": 1414,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MARTIN, Frederick",
+        "Votes": 549,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1983": {
+    "title": "Riverina, NSW   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "HICKS, Noel",
+        "Votes": 32976,
+        "Percent": 49.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ADAMS, Ronald",
+        "Votes": 32587,
+        "Percent": 48.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HOLSCHIER, Lesley",
+        "Votes": 1495,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1993": {
+    "title": "Riverina, NSW   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "HAAR, Margaret ter",
+        "Votes": "847",
+        "Percent": 1.2
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "HICKS, Noel",
+        "Votes": "28177",
+        "Percent": 38.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRASSIL, Pat",
+        "Votes": "24606",
+        "Percent": 33.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MEREDITH, Paul",
+        "Votes": "2233",
+        "Percent": 3.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HEFFERNAN, Bill",
+        "Votes": "17386",
+        "Percent": 23.7
+      }
+    ]
+  },
+  "1996": {
+    "title": "Riverina, NSW   1996",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "HICKS, Noel",
+        "Votes": 48994,
+        "Percent": 66.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COLLIGAN, Rob",
+        "Votes": 19454,
+        "Percent": 26.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COLLINS, John",
+        "Votes": 2977,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JONES, Alistair",
+        "Votes": 2837,
+        "Percent": 3.8
+      }
+    ]
+  },
+  "1998": {
+    "title": "Riverina, NSW   1998",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "HULL, Kay",
+        "Votes": 27060,
+        "Percent": 36.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HARGREAVES, Peter",
+        "Votes": 19234,
+        "Percent": 25.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KIBBEY, David",
+        "Votes": 15942,
+        "Percent": 21.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BARTON, David",
+        "Votes": 9129,
+        "Percent": 12.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GILLIES, Rosemary",
+        "Votes": 1770,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COLLINS, Denis",
+        "Votes": 1218,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2001": {
+    "title": "Riverina, NSW   2001",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "HULL, Kay",
+        "Votes": 49371,
+        "Percent": 61.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ALBISTON, Andrew",
+        "Votes": 19285,
+        "Percent": 24.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "TURNER, Neil",
+        "Votes": 4495,
+        "Percent": 5.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GRAHAM, Rex",
+        "Votes": 2031,
+        "Percent": 2.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MOORE, Catherine",
+        "Votes": 1954,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RICHTER, Dennis",
+        "Votes": 1841,
+        "Percent": 2.3
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "DANCEY, Russell",
+        "Votes": 1371,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "2004": {
+    "title": "Riverina, NSW   2004",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "HULL, Kay",
+        "Votes": 54328,
+        "Percent": 66.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BROOKS, Victoria",
+        "Votes": 20080,
+        "Percent": 24.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GOODLASS, Ray",
+        "Votes": 3497,
+        "Percent": 4.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "TURNER, Neil",
+        "Votes": 3389,
+        "Percent": 4.2
+      }
+    ]
+  },
+  "2007": {
+    "title": "Riverina, NSW   2007",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "HULL, Kay",
+        "Votes": 52779,
+        "Percent": 62.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KNOX, Peter",
+        "Votes": 24471,
+        "Percent": 29.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GOODLASS, Ray",
+        "Votes": 4130,
+        "Percent": 4.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HESKETH, Craig",
+        "Votes": 1837,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JOHNSON, Gary",
+        "Votes": 1141,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2010": {
+    "title": "Riverina, NSW   2010",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "MCCORMACK, Michael",
+        "Votes": 39389,
+        "Percent": 44.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HAKELIS, Robin",
+        "Votes": 19559,
+        "Percent": 22.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "NEGLINE, Andrew",
+        "Votes": 14536,
+        "Percent": 16.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOGG, Matthew",
+        "Votes": 5148,
+        "Percent": 5.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FLETCHER, David",
+        "Votes": 3961,
+        "Percent": 4.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "QUILTY, Tim",
+        "Votes": 1703,
+        "Percent": 1.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HESKETH, Craig",
+        "Votes": 1411,
+        "Percent": 1.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "MULHOLLAND, Sylvia",
+        "Votes": 1201,
+        "Percent": 1.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LEVER, Rhonda",
+        "Votes": 1081,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2013": {
+    "title": "Riverina, NSW   2013",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "MCCORMACK, Michael",
+        "Votes": 52062,
+        "Percent": 59.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KURYLOWICZ, Tim",
+        "Votes": 17970,
+        "Percent": 20.4
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "STEWART, Lex",
+        "Votes": 4545,
+        "Percent": 5.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PRANGNELL, Ros",
+        "Votes": 3169,
+        "Percent": 3.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FUNNELL, Paul",
+        "Votes": 3137,
+        "Percent": 3.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAMONT, Andrew",
+        "Votes": 2405,
+        "Percent": 2.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "PECH, Keith",
+        "Votes": 1314,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHARP, Lorraine",
+        "Votes": 1287,
+        "Percent": 1.5
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "DUNN, Norm",
+        "Votes": 1044,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HEATH, Kim",
+        "Votes": 1040,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2016": {
+    "title": "Riverina, NSW   2016",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "MCCORMACK, Hon Michael",
+        "Votes": 56581,
+        "Percent": 57.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KURYLOWICZ, Tim",
+        "Votes": 25244,
+        "Percent": 25.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FOLEY, Richard",
+        "Votes": 6058,
+        "Percent": 6.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "POYNTER, Kevin",
+        "Votes": 4444,
+        "Percent": 4.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "O'ROURKE, Glenn",
+        "Votes": 3386,
+        "Percent": 3.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "LANGFIELD, Philip",
+        "Votes": 3207,
+        "Percent": 3.2
+      }
+    ]
+  },
+  "2019": {
+    "title": "Riverina, NSW   2019",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "MCCORMACK, Hon Michael",
+        "Votes": 60493,
+        "Percent": 59.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JEFFRESON, Mark",
+        "Votes": 23380,
+        "Percent": 23.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "FOLEY, Richard",
+        "Votes": 10814,
+        "Percent": 10.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BAYLES, Michael",
+        "Votes": 6254,
+        "Percent": 6.2
+      }
+    ]
+  },
+  "2022": {
+    "title": "Riverina, NSW   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "MCCORMACK, Hon Michael",
+        "Votes": 45951,
+        "Percent": 46.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JEFFRESON, Mark",
+        "Votes": 20193,
+        "Percent": 20.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "ORCHARD, Richard",
+        "Votes": 8042,
+        "Percent": 8.2
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MCCRAE, Dean",
+        "Votes": 6563,
+        "Percent": 6.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ORGAN, Michael",
+        "Votes": 6349,
+        "Percent": 6.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SF&F, Steve Karaitiana",
+        "Votes": 6280,
+        "Percent": 6.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CIAVARELLA, Darren",
+        "Votes": 2701,
+        "Percent": 2.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MARTELOZZO, Daniel",
+        "Votes": 2585,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "2025": {
+    "title": "Riverina, NSW   2025",
+    "rows": [
+      {
+        "Party": "NP",
+        "Candidate": "McCORMACK, Michael",
+        "Votes": 42678,
+        "Percent": 40.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JEFFRESON, Mark",
+        "Votes": 19506,
+        "Percent": 18.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "CRAIG, Mark",
+        "Votes": 10427,
+        "Percent": 9.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROLFE, Jenny",
+        "Votes": 6909,
+        "Percent": 6.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GOODEN, James",
+        "Votes": 5080,
+        "Percent": 4.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "VALXORI, Pheonix",
+        "Votes": 4767,
+        "Percent": 4.5
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "GREGORY, Desiree",
+        "Votes": 4217,
+        "Percent": 4.0
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "ONLEY, Christine",
+        "Votes": 2338,
+        "Percent": 2.2
+      },
+      {
+        "Party": "CEC",
+        "Candidate": "FOLEY, Richard",
+        "Votes": 2233,
+        "Percent": 2.1
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "BURGE, Mark",
+        "Votes": 2151,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARDWICK, Grant",
+        "Votes": 1861,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BAIKIE, Barbara",
+        "Votes": 1858,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAVIS, Jake",
+        "Votes": 1812,
+        "Percent": 1.7
+      }
+    ]
+  }
+}

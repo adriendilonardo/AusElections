@@ -1,0 +1,1051 @@
+{
+  "1946": {
+    "title": "Kooyong, VIC   1946",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MENZIES, Rt Hon Robert",
+        "Votes": 49298,
+        "Percent": 61.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NICHOLLS, Albert",
+        "Votes": 25494,
+        "Percent": 31.9
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "LAURIE, Edward",
+        "Votes": 5134,
+        "Percent": 6.4
+      }
+    ]
+  },
+  "1949": {
+    "title": "Kooyong, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MENZIES, Rt Hon Robert",
+        "Votes": 27912,
+        "Percent": 67.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EWERT, Keith",
+        "Votes": 13691,
+        "Percent": 32.9
+      }
+    ]
+  },
+  "1951": {
+    "title": "Kooyong, VIC   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MENZIES, Rt Hon Robert",
+        "Votes": "28174",
+        "Percent": 67.4
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "LAWRIE, Edward",
+        "Votes": "1734",
+        "Percent": 4.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SHEEHY, Maurice",
+        "Votes": "11873",
+        "Percent": 28.4
+      }
+    ]
+  },
+  "1954": {
+    "title": "Kooyong, VIC   1954",
+    "rows": [
+      {
+        "Party": "CPA",
+        "Candidate": "MORTIMER, Rex",
+        "Votes": "763",
+        "Percent": 1.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MENZIES, Rt Hon Robert",
+        "Votes": "29427",
+        "Percent": 69.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MILLER, George",
+        "Votes": "12269",
+        "Percent": 28.9
+      }
+    ]
+  },
+  "1955": {
+    "title": "Kooyong, VIC   1955",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EDDY, Randolph",
+        "Votes": "9350",
+        "Percent": 22.0
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "O'DAY, Dr Gerald",
+        "Votes": "507",
+        "Percent": 1.2
+      },
+      {
+        "Party": "ALPAC",
+        "Candidate": "GREGSON, Kevin",
+        "Votes": "4371",
+        "Percent": 10.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MENZIES, Rt Hon Robert",
+        "Votes": "28363",
+        "Percent": 66.6
+      }
+    ]
+  },
+  "1958": {
+    "title": "Kooyong, VIC   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MENZIES, Rt Hon Robert",
+        "Votes": 28285,
+        "Percent": 63.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EDDY, Randolph",
+        "Votes": 9921,
+        "Percent": 22.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BUCHANAN, John",
+        "Votes": 5962,
+        "Percent": 13.4
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "O'DAY, Dr Gerald",
+        "Votes": 476,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1961": {
+    "title": "Kooyong, VIC   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MENZIES, Rt Hon Robert",
+        "Votes": 26328,
+        "Percent": 57.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CASS, Dr Moss",
+        "Votes": 11938,
+        "Percent": 26.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BRENNAN, Thomas",
+        "Votes": 6968,
+        "Percent": 15.2
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "TREGEAR, William",
+        "Votes": 458,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COLLINS, Goldsmith",
+        "Votes": 237,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1963": {
+    "title": "Kooyong, VIC   1963",
+    "rows": [
+      {
+        "Party": "CPA",
+        "Candidate": "GIBSON, Ralph",
+        "Votes": "727",
+        "Percent": 1.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MURPHY, Charles",
+        "Votes": "4806",
+        "Percent": 10.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MENZIES, Rt Hon Sir Robert",
+        "Votes": "30205",
+        "Percent": 63.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WHITE, Robert",
+        "Votes": "11514",
+        "Percent": 24.4
+      }
+    ]
+  },
+  "1966": {
+    "title": "Kooyong, VIC   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PEACOCK, Andrew",
+        "Votes": 28760,
+        "Percent": 61.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COOPER, William",
+        "Votes": 12370,
+        "Percent": 26.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "GAYNOR, Bernard",
+        "Votes": 5888,
+        "Percent": 12.5
+      }
+    ]
+  },
+  "1969": {
+    "title": "Kooyong, VIC   1969",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PEACOCK, Andrew",
+        "Votes": 29076,
+        "Percent": 54.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DUNSTAN, Richard",
+        "Votes": 17591,
+        "Percent": 32.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DUFFY, Francis",
+        "Votes": 6856,
+        "Percent": 12.8
+      }
+    ]
+  },
+  "1972": {
+    "title": "Kooyong, VIC   1972",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PEACOCK, Hon Andrew",
+        "Votes": 27104,
+        "Percent": 49.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LIPSHUT, Clive",
+        "Votes": 19039,
+        "Percent": 34.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DUFFY, Francis",
+        "Votes": 4465,
+        "Percent": 8.2
+      },
+      {
+        "Party": "AP",
+        "Candidate": "THORNLEY, Pamela",
+        "Votes": 3237,
+        "Percent": 5.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHANNELL, Ian",
+        "Votes": 807,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1974": {
+    "title": "Kooyong, VIC   1974",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PEACOCK, Hon Andrew",
+        "Votes": 32086,
+        "Percent": 54.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LEE, Wellington",
+        "Votes": 19986,
+        "Percent": 34.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DUFFY, Francis",
+        "Votes": 3334,
+        "Percent": 5.7
+      },
+      {
+        "Party": "AP",
+        "Candidate": "VORRATH, Frances",
+        "Votes": 1779,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHANNELL, Ian",
+        "Votes": 1311,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1975": {
+    "title": "Kooyong, VIC   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PEACOCK, Hon Andrew",
+        "Votes": 35809,
+        "Percent": 61.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILKINSON, John",
+        "Votes": 17620,
+        "Percent": 30.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DUFFY, Francis",
+        "Votes": 3411,
+        "Percent": 5.9
+      },
+      {
+        "Party": "AP",
+        "Candidate": "GARE, John",
+        "Votes": 1283,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1977": {
+    "title": "Kooyong, VIC   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PEACOCK, Hon Andrew",
+        "Votes": 36791,
+        "Percent": 55.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILKINSON, John",
+        "Votes": 16988,
+        "Percent": 25.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCBRIDE, Michael",
+        "Votes": 8176,
+        "Percent": 12.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "GAYNOR, Bernard",
+        "Votes": 4209,
+        "Percent": 6.4
+      }
+    ]
+  },
+  "1980": {
+    "title": "Kooyong, VIC   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PEACOCK, Hon Andrew",
+        "Votes": 38013,
+        "Percent": 57.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BLACKMORE, Wesley",
+        "Votes": 22356,
+        "Percent": 33.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LYSAGHT, James",
+        "Votes": 5630,
+        "Percent": 8.5
+      }
+    ]
+  },
+  "1983": {
+    "title": "Kooyong, VIC   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PEACOCK, Hon Andrew",
+        "Votes": 36297,
+        "Percent": 56.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MEDDINGS, Avis",
+        "Votes": 23081,
+        "Percent": 35.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BRUCKNER, Keith",
+        "Votes": 4635,
+        "Percent": 7.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GREAGG, David",
+        "Votes": 434,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1984": {
+    "title": "Kooyong, VIC   1984",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PEACOCK, Hon Andrew",
+        "Votes": 36491,
+        "Percent": 58.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NASH, Kate",
+        "Votes": 20624,
+        "Percent": 33.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WHITE, Russell",
+        "Votes": 3385,
+        "Percent": 5.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MULHOLLAND, John",
+        "Votes": 1156,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GREAGG, David",
+        "Votes": 351,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1987": {
+    "title": "Kooyong, VIC   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PEACOCK, Hon Andrew",
+        "Votes": 36608,
+        "Percent": 59.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WOODS, Lindsay",
+        "Votes": 19030,
+        "Percent": 30.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TAFT, Peter",
+        "Votes": 4593,
+        "Percent": 7.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COLE, Margaret",
+        "Votes": 1685,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "1990": {
+    "title": "Kooyong, VIC   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PEACOCK, Hon Andrew",
+        "Votes": 39123,
+        "Percent": 58.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'SULLIVAN, Eugene",
+        "Votes": 15391,
+        "Percent": 22.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LEISEGANG, Jill",
+        "Votes": 9302,
+        "Percent": 13.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FERGUSON, Tim",
+        "Votes": 2471,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BURNS, Arthur",
+        "Votes": 835,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GREAGG, David",
+        "Votes": 292,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1993": {
+    "title": "Kooyong, VIC   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "GREAGG, David",
+        "Votes": "987",
+        "Percent": 1.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PEACOCK, Hon Andrew",
+        "Votes": "42363",
+        "Percent": 61.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ZEMDEGS, David",
+        "Votes": "3780",
+        "Percent": 5.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CLARKE, Wayne",
+        "Votes": "20961",
+        "Percent": 30.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARRIS, Christine",
+        "Votes": "1210",
+        "Percent": 1.8
+      }
+    ]
+  },
+  "1996": {
+    "title": "Kooyong, VIC   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GEORGIOU, Petro",
+        "Votes": 44022,
+        "Percent": 57.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SINDT, Christina",
+        "Votes": 21070,
+        "Percent": 27.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HARCOURT, Pierre",
+        "Votes": 6392,
+        "Percent": 8.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BEER, Jane",
+        "Votes": 3870,
+        "Percent": 5.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SPENCER, Rod",
+        "Votes": 1543,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCHLAGER, Raymond",
+        "Votes": 330,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1998": {
+    "title": "Kooyong, VIC   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GEORGIOU, Petro",
+        "Votes": 43028,
+        "Percent": 54.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MORAND, Maxine",
+        "Votes": 23107,
+        "Percent": 29.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STARKIE, Brad",
+        "Votes": 6366,
+        "Percent": 8.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SALTER, Wendy",
+        "Votes": 3177,
+        "Percent": 4.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MCLEAN, Ron",
+        "Votes": 1637,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NOMIKOUDIS, Milton",
+        "Votes": 1164,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "2001": {
+    "title": "Kooyong, VIC   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GEORGIOU, Petro",
+        "Votes": 44244,
+        "Percent": 55.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILSON, Tom",
+        "Votes": 21096,
+        "Percent": 26.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CAMPBELL, Peter",
+        "Votes": 8607,
+        "Percent": 10.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SHARP, Ari",
+        "Votes": 6374,
+        "Percent": 7.9
+      }
+    ]
+  },
+  "2004": {
+    "title": "Kooyong, VIC   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GEORGIOU, Petro",
+        "Votes": 43581,
+        "Percent": 54.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILSON, Tom",
+        "Votes": 23132,
+        "Percent": 29.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CAMPBELL, Peter",
+        "Votes": 9997,
+        "Percent": 12.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DETTMAN, Mary",
+        "Votes": 1472,
+        "Percent": 1.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LAIDLER, John",
+        "Votes": 1099,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "REED, Andrew",
+        "Votes": 446,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2007": {
+    "title": "Kooyong, VIC   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GEORGIOU, Petro",
+        "Votes": 45172,
+        "Percent": 55.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HARVEY, Dr Ken",
+        "Votes": 24599,
+        "Percent": 30.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CAMPBELL, Peter",
+        "Votes": 9686,
+        "Percent": 11.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LAIDLER, John",
+        "Votes": 1261,
+        "Percent": 1.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COLLYER, David",
+        "Votes": 1056,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CURTIS, Pierre",
+        "Votes": 154,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2010": {
+    "title": "Kooyong, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FRYDENBERG, Josh",
+        "Votes": 42728,
+        "Percent": 52.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HURD, Steve",
+        "Votes": 22268,
+        "Percent": 27.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BENSON, Des",
+        "Votes": 15019,
+        "Percent": 18.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LAIDLER, John",
+        "Votes": 1272,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2013": {
+    "title": "Kooyong, VIC   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FRYDENBERG, Josh",
+        "Votes": 48802,
+        "Percent": 55.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KENNEDY, John",
+        "Votes": 19655,
+        "Percent": 22.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCLEOD, Helen",
+        "Votes": 14526,
+        "Percent": 16.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARRISON, Tiffany",
+        "Votes": 1464,
+        "Percent": 1.7
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "MCNAMARA, Luke",
+        "Votes": 1406,
+        "Percent": 1.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CALDER, Jaxon",
+        "Votes": 825,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ZUBAC, Angelina",
+        "Votes": 621,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KRIEDEMANN, Tim",
+        "Votes": 327,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2016": {
+    "title": "Kooyong, VIC   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FRYDENBERG, Hon Josh",
+        "Votes": 52401,
+        "Percent": 58.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "D'ARCY, Marg",
+        "Votes": 17825,
+        "Percent": 19.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCLEOD, Helen",
+        "Votes": 17027,
+        "Percent": 18.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ZUBAC, Angelina",
+        "Votes": 2750,
+        "Percent": 3.1
+      }
+    ]
+  },
+  "2019": {
+    "title": "Kooyong, VIC   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FRYDENBERG, Hon Josh",
+        "Votes": 48928,
+        "Percent": 49.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BURNSIDE, Julian",
+        "Votes": 21035,
+        "Percent": 21.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STEWART, Jana",
+        "Votes": 16666,
+        "Percent": 16.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "YATES, Oliver",
+        "Votes": 8890,
+        "Percent": 9.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "D'ELIA, Steven",
+        "Votes": 1185,
+        "Percent": 1.2
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "HINKLEY, Davina",
+        "Votes": 1117,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHANDLER, Bill",
+        "Votes": 669,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ZUBAC, Angelina",
+        "Votes": 539,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2022": {
+    "title": "Kooyong, VIC   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FRYDENBERG, Hon Josh",
+        "Votes": 43736,
+        "Percent": 42.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RYAN, Dr Monique",
+        "Votes": 41303,
+        "Percent": 40.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LYNCH, Peter",
+        "Votes": 7091,
+        "Percent": 6.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MITCHEM, Piers",
+        "Votes": 6461,
+        "Percent": 6.3
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "THOM, Alexandra",
+        "Votes": 1080,
+        "Percent": 1.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "HARDIMAN, Scott",
+        "Votes": 1011,
+        "Percent": 1.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "COYNE, Josh",
+        "Votes": 741,
+        "Percent": 0.7
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "NEHMER, Rachael",
+        "Votes": 500,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ANDERSON, Will",
+        "Votes": 265,
+        "Percent": 0.3
+      },
+      {
+        "Party": "DHJP",
+        "Candidate": "DALE, Michele",
+        "Votes": 177,
+        "Percent": 0.2
+      },
+      {
+        "Party": "AVP",
+        "Candidate": "CONNOLLY, David",
+        "Votes": 152,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2025": {
+    "title": "Kooyong, VIC   2025",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAMER, Amelia",
+        "Votes": 49542,
+        "Percent": 43.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RYAN, Monique",
+        "Votes": 38955,
+        "Percent": 33.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CROSBY, Clive",
+        "Votes": 13671,
+        "Percent": 11.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CARTER, Jackie",
+        "Votes": 8900,
+        "Percent": 7.7
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "PEPPARD, Richard",
+        "Votes": 1475,
+        "Percent": 1.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BRACHE, Camille",
+        "Votes": 1201,
+        "Percent": 1.0
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "VADER, David",
+        "Votes": 1124,
+        "Percent": 1.0
+      }
+    ]
+  }
+}

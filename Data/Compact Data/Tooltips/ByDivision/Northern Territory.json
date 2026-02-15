@@ -1,0 +1,610 @@
+{
+  "1946": {
+    "title": "Northern Territory, NT   1946",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "BLAIN, Adair",
+        "Votes": 1281,
+        "Percent": 42.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WALLMAN, Leigh",
+        "Votes": 924,
+        "Percent": 30.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MURRAY, William",
+        "Votes": 677,
+        "Percent": 22.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EDWARDS, Ralph",
+        "Votes": 141,
+        "Percent": 4.7
+      }
+    ]
+  },
+  "1949": {
+    "title": "Northern Territory, NT   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "NELSON, John",
+        "Votes": 2303,
+        "Percent": 44.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLAIN, Adair",
+        "Votes": 1932,
+        "Percent": 37.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WEBSTER, Victor",
+        "Votes": 961,
+        "Percent": 18.5
+      }
+    ]
+  },
+  "1951": {
+    "title": "Northern Territory, NT   1951",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "LITCHFIELD, Jessie",
+        "Votes": "717",
+        "Percent": 14.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NELSON, John",
+        "Votes": "3213",
+        "Percent": 64.1
+      },
+      {
+        "Party": "CP",
+        "Candidate": "EDWARDS, Ralph",
+        "Votes": "1085",
+        "Percent": 21.6
+      }
+    ]
+  },
+  "1954": {
+    "title": "Northern Territory, NT   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "NELSON, John",
+        "Votes": "4021",
+        "Percent": 77.6
+      },
+      {
+        "Party": "CP",
+        "Candidate": "EDWARDS, Ralph",
+        "Votes": "1163",
+        "Percent": 22.4
+      }
+    ]
+  },
+  "1955": {
+    "title": "Northern Territory, NT   1955",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "NELSON, John",
+        "Votes": "Unopposed",
+        "Percent": 100.0
+      }
+    ]
+  },
+  "1958": {
+    "title": "Northern Territory, NT   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "NELSON, John",
+        "Votes": 4153,
+        "Percent": 73.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MARTIN, James",
+        "Votes": 1469,
+        "Percent": 26.1
+      }
+    ]
+  },
+  "1961": {
+    "title": "Northern Territory, NT   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "NELSON, John",
+        "Votes": 4659,
+        "Percent": 51.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRENNAN, Harold",
+        "Votes": 4468,
+        "Percent": 49.0
+      }
+    ]
+  },
+  "1963": {
+    "title": "Northern Territory, NT   1963",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "NELSON, John",
+        "Votes": "Unopposed",
+        "Percent": 100.0
+      }
+    ]
+  },
+  "1966": {
+    "title": "Northern Territory, NT   1966",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "CALDER, Sam",
+        "Votes": 7221,
+        "Percent": 51.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WARD, Richard",
+        "Votes": 6734,
+        "Percent": 48.3
+      }
+    ]
+  },
+  "1969": {
+    "title": "Northern Territory, NT   1969",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "CALDER, Sam",
+        "Votes": 8281,
+        "Percent": 48.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROBERTSON, Edward",
+        "Votes": 5204,
+        "Percent": 30.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRENNAN, Harold",
+        "Votes": 3377,
+        "Percent": 19.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRAY, Alan",
+        "Votes": 252,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1972": {
+    "title": "Northern Territory, NT   1972",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "CALDER, Sam",
+        "Votes": 11657,
+        "Percent": 47.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROBERTSON, Edward",
+        "Votes": 9676,
+        "Percent": 39.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ALLAN-STEWART, Alexander",
+        "Votes": 1821,
+        "Percent": 7.4
+      },
+      {
+        "Party": "AP",
+        "Candidate": "BRISCOE, Gordon",
+        "Votes": 944,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WALSH, William",
+        "Votes": 349,
+        "Percent": 1.4
+      },
+      {
+        "Party": "AP",
+        "Candidate": "MOFFATT, Charles",
+        "Votes": 185,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1974": {
+    "title": "Northern Territory, NT   1974",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "CALDER, Sam",
+        "Votes": 14514,
+        "Percent": 49.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WATERS, John",
+        "Votes": 13397,
+        "Percent": 45.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ALLAN-STEWART, Alexander",
+        "Votes": 1557,
+        "Percent": 5.3
+      }
+    ]
+  },
+  "1975": {
+    "title": "Northern Territory, NT   1975",
+    "rows": [
+      {
+        "Party": "CLP",
+        "Candidate": "CALDER, Sam",
+        "Votes": 15976,
+        "Percent": 53.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NELSON, John",
+        "Votes": 12944,
+        "Percent": 43.7
+      },
+      {
+        "Party": "AP",
+        "Candidate": "FORBES, James",
+        "Votes": 701,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "1977": {
+    "title": "Northern Territory, NT   1977",
+    "rows": [
+      {
+        "Party": "CLP",
+        "Candidate": "CALDER, Sam",
+        "Votes": 16462,
+        "Percent": 47.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WATERS, John",
+        "Votes": 14811,
+        "Percent": 42.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "READ, Josephine",
+        "Votes": 2478,
+        "Percent": 7.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Ian",
+        "Votes": 987,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "1980": {
+    "title": "Northern Territory, NT   1980",
+    "rows": [
+      {
+        "Party": "CLP",
+        "Candidate": "TAMBLING, Grant",
+        "Votes": 18805,
+        "Percent": 43.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WATERS, John",
+        "Votes": 17426,
+        "Percent": 40.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STEWART, Max",
+        "Votes": 2509,
+        "Percent": 5.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "YUNUPINGU, Gallarwuy",
+        "Votes": 2415,
+        "Percent": 5.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GARDINER, Pamela",
+        "Votes": 1129,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GILLIAN, Graham",
+        "Votes": 486,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCELROY, John",
+        "Votes": 272,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WOMERSLEY, Malcolm",
+        "Votes": 130,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1983": {
+    "title": "Northern Territory, NT   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "REEVES, John",
+        "Votes": 20764,
+        "Percent": 46.6
+      },
+      {
+        "Party": "CLP",
+        "Candidate": "TAMBLING, Grant",
+        "Votes": 20479,
+        "Percent": 45.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KING, Joy",
+        "Votes": 1571,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAIN, Bill",
+        "Votes": 1132,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GARDINER, Pamela",
+        "Votes": 395,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STRIDER, ",
+        "Votes": 252,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1984": {
+    "title": "Northern Territory, NT   1984",
+    "rows": [
+      {
+        "Party": "CLP",
+        "Candidate": "EVERINGHAM, Hon Paul",
+        "Votes": 27335,
+        "Percent": 48.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "REEVES, John",
+        "Votes": 25140,
+        "Percent": 44.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ROBERTS, Wiyendji",
+        "Votes": 1906,
+        "Percent": 3.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WARD, Phil",
+        "Votes": 1191,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STRIDER, ",
+        "Votes": 390,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1987": {
+    "title": "Northern Territory, NT   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SNOWDON, Warren",
+        "Votes": 28195,
+        "Percent": 46.9
+      },
+      {
+        "Party": "CLP",
+        "Candidate": "PAROULAKIS, Peter",
+        "Votes": 21668,
+        "Percent": 36.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LIDDLE, Bob",
+        "Votes": 10273,
+        "Percent": 17.1
+      }
+    ]
+  },
+  "1990": {
+    "title": "Northern Territory, NT   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SNOWDON, Warren",
+        "Votes": 34106,
+        "Percent": 50.0
+      },
+      {
+        "Party": "CLP",
+        "Candidate": "GALTON, Helen",
+        "Votes": 27668,
+        "Percent": 40.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BEATON, Don",
+        "Votes": 1900,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LIDDLE, Bob",
+        "Votes": 1427,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DONNELLAN, Tig",
+        "Votes": 1380,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STRIDER, ",
+        "Votes": 975,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STERRY, Ron",
+        "Votes": 801,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1993": {
+    "title": "Northern Territory, NT   1993",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SNOWDON, Hon Warren",
+        "Votes": "43578",
+        "Percent": 55.3
+      },
+      {
+        "Party": "CLP",
+        "Candidate": "PALMER, Arthur",
+        "Votes": "35207",
+        "Percent": 44.7
+      }
+    ]
+  },
+  "1996": {
+    "title": "Northern Territory, NT   1996",
+    "rows": [
+      {
+        "Party": "CLP",
+        "Candidate": "DONDAS, Hon Nick",
+        "Votes": 38302,
+        "Percent": 45.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SNOWDON, Hon Warren",
+        "Votes": 36994,
+        "Percent": 43.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NITSCHKE, Dr Philip",
+        "Votes": 5324,
+        "Percent": 6.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRIAN, Bernie",
+        "Votes": 2710,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GARDINER, Pamela",
+        "Votes": 1713,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "1998": {
+    "title": "Northern Territory, NT   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SNOWDON, Hon Warren",
+        "Votes": 38469,
+        "Percent": 42.3
+      },
+      {
+        "Party": "CLP",
+        "Candidate": "DONDAS, Hon Nick",
+        "Votes": 36014,
+        "Percent": 39.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SCHIRMER, Peter",
+        "Votes": 7401,
+        "Percent": 8.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SEILER, Craig",
+        "Votes": 4658,
+        "Percent": 5.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ELDRIDGE, Ilana",
+        "Votes": 2753,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NATTRASS, Barry",
+        "Votes": 1018,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ZIRNGAST, Natalie",
+        "Votes": 624,
+        "Percent": 0.7
+      }
+    ]
+  }
+}

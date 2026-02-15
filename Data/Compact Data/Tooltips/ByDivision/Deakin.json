@@ -1,0 +1,1135 @@
+{
+  "1946": {
+    "title": "Deakin, VIC   1946",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HUTCHINSON, William",
+        "Votes": 36262,
+        "Percent": 56.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Arthur",
+        "Votes": 27710,
+        "Percent": 43.3
+      }
+    ]
+  },
+  "1949": {
+    "title": "Deakin, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DAVIS, Frank",
+        "Votes": 23517,
+        "Percent": 55.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LEESON, Roderick",
+        "Votes": 18784,
+        "Percent": 44.4
+      }
+    ]
+  },
+  "1951": {
+    "title": "Deakin, VIC   1951",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "BUTLER, Eric",
+        "Votes": "2364",
+        "Percent": 5.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DAVIS, Frank",
+        "Votes": "22946",
+        "Percent": 48.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRYANT, Gordon",
+        "Votes": "21908",
+        "Percent": 46.4
+      }
+    ]
+  },
+  "1954": {
+    "title": "Deakin, VIC   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DAVIS, Frank",
+        "Votes": "29886",
+        "Percent": 52.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRYANT, Gordon",
+        "Votes": "27375",
+        "Percent": 47.8
+      }
+    ]
+  },
+  "1955": {
+    "title": "Deakin, VIC   1955",
+    "rows": [
+      {
+        "Party": "ALPAC",
+        "Candidate": "COLLINS, Terence",
+        "Votes": "5512",
+        "Percent": 13.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DAVIS, Frank",
+        "Votes": "21641",
+        "Percent": 53.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GRIFFITHS, Norman",
+        "Votes": "13422",
+        "Percent": 33.1
+      }
+    ]
+  },
+  "1958": {
+    "title": "Deakin, VIC   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DAVIS, Frank",
+        "Votes": 24709,
+        "Percent": 50.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GRIFFITHS, Norman",
+        "Votes": 17411,
+        "Percent": 35.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "COLLINS, Terence",
+        "Votes": 6877,
+        "Percent": 14.0
+      }
+    ]
+  },
+  "1961": {
+    "title": "Deakin, VIC   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DAVIS, Frank",
+        "Votes": 28392,
+        "Percent": 47.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SLATER, George",
+        "Votes": 23839,
+        "Percent": 39.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "WESTON, Maurice",
+        "Votes": 7802,
+        "Percent": 13.0
+      }
+    ]
+  },
+  "1963": {
+    "title": "Deakin, VIC   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "WESTON, Maurice",
+        "Votes": "7184",
+        "Percent": 10.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DAVIS, Frank",
+        "Votes": "34863",
+        "Percent": 52.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HUBBARD, Arnold",
+        "Votes": "25045",
+        "Percent": 37.3
+      }
+    ]
+  },
+  "1966": {
+    "title": "Deakin, VIC   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JARMAN, Alan",
+        "Votes": 39183,
+        "Percent": 50.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCKENZIE, David",
+        "Votes": 25039,
+        "Percent": 31.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "WESTON, Maurice",
+        "Votes": 8915,
+        "Percent": 11.4
+      },
+      {
+        "Party": "LRG",
+        "Candidate": "DEGENDORJER, Michael",
+        "Votes": 5284,
+        "Percent": 6.7
+      }
+    ]
+  },
+  "1969": {
+    "title": "Deakin, VIC   1969",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JARMAN, Alan",
+        "Votes": 23592,
+        "Percent": 47.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MILDNER, Bernard",
+        "Votes": 18095,
+        "Percent": 36.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "WESTON, Maurice",
+        "Votes": 4862,
+        "Percent": 9.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NILSEN, Raymond",
+        "Votes": 3658,
+        "Percent": 7.3
+      }
+    ]
+  },
+  "1972": {
+    "title": "Deakin, VIC   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FRENCH, William",
+        "Votes": 23987,
+        "Percent": 43.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JARMAN, Alan",
+        "Votes": 22873,
+        "Percent": 41.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "WESTON, Maurice",
+        "Votes": 3732,
+        "Percent": 6.8
+      },
+      {
+        "Party": "AP",
+        "Candidate": "BURN, Gavan",
+        "Votes": 2336,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JEFFREY, Harold",
+        "Votes": 1658,
+        "Percent": 3.0
+      }
+    ]
+  },
+  "1974": {
+    "title": "Deakin, VIC   1974",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JARMAN, Alan",
+        "Votes": 28102,
+        "Percent": 46.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "OAKLEY, Gavan",
+        "Votes": 26642,
+        "Percent": 44.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BROSNAN, James",
+        "Votes": 2783,
+        "Percent": 4.6
+      },
+      {
+        "Party": "AP",
+        "Candidate": "JEFFREY, Harold",
+        "Votes": 1627,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FRENCH, William",
+        "Votes": 967,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LYDEN, Stanley",
+        "Votes": 279,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1975": {
+    "title": "Deakin, VIC   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JARMAN, Alan",
+        "Votes": 33935,
+        "Percent": 54.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "OAKLEY, Gavan",
+        "Votes": 23607,
+        "Percent": 37.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BROSNAN, James",
+        "Votes": 2626,
+        "Percent": 4.2
+      },
+      {
+        "Party": "AP",
+        "Candidate": "INGLIS, William",
+        "Votes": 1196,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILLIAMS, Walter",
+        "Votes": 928,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1977": {
+    "title": "Deakin, VIC   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JARMAN, Alan",
+        "Votes": 32378,
+        "Percent": 46.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GAY, Neville",
+        "Votes": 22730,
+        "Percent": 32.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TEED, Alan",
+        "Votes": 11451,
+        "Percent": 16.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CONDON, Daniel",
+        "Votes": 3670,
+        "Percent": 5.2
+      }
+    ]
+  },
+  "1980": {
+    "title": "Deakin, VIC   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JARMAN, Alan",
+        "Votes": 33011,
+        "Percent": 43.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MADDEN, John",
+        "Votes": 31277,
+        "Percent": 41.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ADAMSON, Edwin",
+        "Votes": 9014,
+        "Percent": 11.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FERWERDA, Peter",
+        "Votes": 2291,
+        "Percent": 3.0
+      }
+    ]
+  },
+  "1983": {
+    "title": "Deakin, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SAUNDERSON, John",
+        "Votes": 38225,
+        "Percent": 47.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JARMAN, Alan",
+        "Votes": 33225,
+        "Percent": 41.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCALPINE, Jeffrey",
+        "Votes": 5324,
+        "Percent": 6.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FERWERDA, Peter",
+        "Votes": 2949,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THIELE, Wilfrid",
+        "Votes": 333,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1984": {
+    "title": "Deakin, VIC   1984",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BEALE, Julian",
+        "Votes": 28975,
+        "Percent": 46.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JOHNS, Richard",
+        "Votes": 27980,
+        "Percent": 45.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCALPINE, Jeffrey",
+        "Votes": 3774,
+        "Percent": 6.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FERWERDA, Peter",
+        "Votes": 1240,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "1987": {
+    "title": "Deakin, VIC   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BEALE, Julian",
+        "Votes": 30665,
+        "Percent": 48.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MYATT, Madelyn",
+        "Votes": 27884,
+        "Percent": 44.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BOSCH, Marcus",
+        "Votes": 3992,
+        "Percent": 6.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WRIGHT, Rick",
+        "Votes": 401,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SPEIRS, Gil",
+        "Votes": 267,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1990": {
+    "title": "Deakin, VIC   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ALDRED, Ken",
+        "Votes": 31212,
+        "Percent": 44.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LAMB, Tony",
+        "Votes": 23955,
+        "Percent": 34.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ENDERS, Louise",
+        "Votes": 11652,
+        "Percent": 16.7
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "NARDI, Rodger",
+        "Votes": 2591,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BEECHEY, Bronwen",
+        "Votes": 413,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1993": {
+    "title": "Deakin, VIC   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "BACKHOUSE, William",
+        "Votes": "987",
+        "Percent": 1.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MAGART, Peter",
+        "Votes": "3519",
+        "Percent": 4.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ALDRED, Ken",
+        "Votes": "34123",
+        "Percent": 47.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ADKINS, Greg",
+        "Votes": "31073",
+        "Percent": 43.2
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "BARRON, Ian",
+        "Votes": "1227",
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NIEUWENHUIS, Robert",
+        "Votes": "1060",
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1996": {
+    "title": "Deakin, VIC   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BARRESI, Phillip",
+        "Votes": 34292,
+        "Percent": 44.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BUCKLEY, Kerrin",
+        "Votes": 29639,
+        "Percent": 38.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SIDDONS, John",
+        "Votes": 6801,
+        "Percent": 8.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LOTHIAN, Kathy",
+        "Votes": 1870,
+        "Percent": 2.4
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "GRAHAM, Murray",
+        "Votes": 1495,
+        "Percent": 2.0
+      },
+      {
+        "Party": "AAFI",
+        "Candidate": "COELLI, Paul",
+        "Votes": 1226,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAWRENCE, Maggie",
+        "Votes": 730,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WHITE, David",
+        "Votes": 429,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOFFA, Gilbert",
+        "Votes": 194,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1998": {
+    "title": "Deakin, VIC   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BARRESI, Phillip",
+        "Votes": 34047,
+        "Percent": 44.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BERTOLUS, Peter",
+        "Votes": 30079,
+        "Percent": 38.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SIDDONS, John",
+        "Votes": 6177,
+        "Percent": 8.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "COELLI, Paul",
+        "Votes": 2232,
+        "Percent": 2.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "EVANS, Robyn",
+        "Votes": 1929,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PETHERBRIDGE, Tim",
+        "Votes": 1486,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TENG, Geoffrey",
+        "Votes": 1289,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEATH, Linda",
+        "Votes": 230,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "Deakin, VIC   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BARRESI, Phillip",
+        "Votes": 37417,
+        "Percent": 47.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BUCKINGHAM, Helen",
+        "Votes": 30397,
+        "Percent": 38.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "AYLIFFE, Nahum",
+        "Votes": 6317,
+        "Percent": 8.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "EVANS, Robyn",
+        "Votes": 5045,
+        "Percent": 6.4
+      }
+    ]
+  },
+  "2004": {
+    "title": "Deakin, VIC   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BARRESI, Phil",
+        "Votes": 40922,
+        "Percent": 50.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LYNCH, Dr Peter",
+        "Votes": 29240,
+        "Percent": 36.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PEMBERTON, Bill",
+        "Votes": 6359,
+        "Percent": 7.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ZILWA, Yasmin De",
+        "Votes": 1889,
+        "Percent": 2.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BAILEY, Alan",
+        "Votes": 1595,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RASKOVY, Steve",
+        "Votes": 739,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TAIT, Simon",
+        "Votes": 140,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2007": {
+    "title": "Deakin, VIC   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BARRESI, Phil",
+        "Votes": 36501,
+        "Percent": 44.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SYMON, Mike",
+        "Votes": 34451,
+        "Percent": 41.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PEMBERTON, Bill",
+        "Votes": 6978,
+        "Percent": 8.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BRONTE, Fiona",
+        "Votes": 2589,
+        "Percent": 3.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NICHOLSON, Paula",
+        "Votes": 1205,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STEVENSON, Nick",
+        "Votes": 586,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2010": {
+    "title": "Deakin, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BARRESI, Phil",
+        "Votes": 33553,
+        "Percent": 41.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SYMON, Mike",
+        "Votes": 31941,
+        "Percent": 39.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HOWELL, David",
+        "Votes": 10338,
+        "Percent": 12.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LAKE, Peter",
+        "Votes": 2532,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SEVILOGLOU, Abraham",
+        "Votes": 836,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WALSH, Benjamin",
+        "Votes": 505,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NORWICK, Alex",
+        "Votes": 295,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2013": {
+    "title": "Deakin, VIC   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SUKKAR, Michael",
+        "Votes": 40482,
+        "Percent": 45.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SYMON, Mike",
+        "Votes": 28883,
+        "Percent": 32.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "POWELL, Brendan",
+        "Votes": 9560,
+        "Percent": 10.8
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "GUARDIANI, Mario",
+        "Votes": 1949,
+        "Percent": 2.2
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "BARBER, Stephen",
+        "Votes": 1856,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOBBY, Ian",
+        "Votes": 1698,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARCLAY, Mike",
+        "Votes": 1519,
+        "Percent": 1.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "WESTBROOK, Hannah",
+        "Votes": 1200,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ZILWA, Yasmin De",
+        "Votes": 327,
+        "Percent": 0.4
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "RASKOVY, Steve",
+        "Votes": 293,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Toni",
+        "Votes": 261,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CARBONARI, John",
+        "Votes": 212,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2016": {
+    "title": "Deakin, VIC   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SUKKAR, Michael",
+        "Votes": 45161,
+        "Percent": 50.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CLARK, Tony",
+        "Votes": 28021,
+        "Percent": 31.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BRIERS, Joshua",
+        "Votes": 10587,
+        "Percent": 11.7
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "BROWNE, Vanessa",
+        "Votes": 2394,
+        "Percent": 2.6
+      },
+      {
+        "Party": "AC",
+        "Candidate": "DOBBY, Karen",
+        "Votes": 2096,
+        "Percent": 2.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "COOMBES, Gary",
+        "Votes": 2009,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "2019": {
+    "title": "Deakin, VIC   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SUKKAR, Hon Michael",
+        "Votes": 46536,
+        "Percent": 47.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Dr Shireen",
+        "Votes": 31648,
+        "Percent": 32.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SUN, Sophia",
+        "Votes": 8730,
+        "Percent": 9.0
+      },
+      {
+        "Party": "DHJP",
+        "Candidate": "SULLIVAN, Ellie",
+        "Votes": 3386,
+        "Percent": 3.5
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "WILDE, Milton",
+        "Votes": 1997,
+        "Percent": 2.1
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "CONSTANTINO, Vinita",
+        "Votes": 1964,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JANSON, Vickie",
+        "Votes": 1614,
+        "Percent": 1.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HORST, Joel van der",
+        "Votes": 1394,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2022": {
+    "title": "Deakin, VIC   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SUKKAR, Hon Michael",
+        "Votes": 41626,
+        "Percent": 41.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GREGG, Matt",
+        "Votes": 32844,
+        "Percent": 32.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HUMPHREYS, Rob",
+        "Votes": 13904,
+        "Percent": 13.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "GIDLEY, Bianca",
+        "Votes": 2836,
+        "Percent": 2.8
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "COUGHLAN, Natasha",
+        "Votes": 2306,
+        "Percent": 2.3
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "CARR, Harrison",
+        "Votes": 1843,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "DOLHEGUY, Katherine",
+        "Votes": 1650,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LIU, Qian",
+        "Votes": 1271,
+        "Percent": 1.3
+      },
+      {
+        "Party": "DHJP",
+        "Candidate": "THOMPSON, Judith",
+        "Votes": 1080,
+        "Percent": 1.1
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "BASTIN, Samantha",
+        "Votes": 909,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2025": {
+    "title": "Deakin, VIC   2025",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SUKKAR, Michael",
+        "Votes": 44732,
+        "Percent": 38.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GREGG, Matt",
+        "Votes": 40177,
+        "Percent": 34.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MILLS, Amy",
+        "Votes": 13758,
+        "Percent": 11.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NESS, Jess",
+        "Votes": 8253,
+        "Percent": 7.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "COOKE, Anne",
+        "Votes": 3043,
+        "Percent": 2.6
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "GRIFFITH-JONES, Richard",
+        "Votes": 2106,
+        "Percent": 1.8
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "WILDE, Milton",
+        "Votes": 1853,
+        "Percent": 1.6
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "VANDERMEER, Will",
+        "Votes": 1585,
+        "Percent": 1.4
+      }
+    ]
+  }
+}

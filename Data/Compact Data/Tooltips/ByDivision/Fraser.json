@@ -1,0 +1,757 @@
+{
+  "1974": {
+    "title": "Fraser, ACT   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FRY, Kenneth",
+        "Votes": 27294,
+        "Percent": 57.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PICKERING, Lawrence",
+        "Votes": 16662,
+        "Percent": 35.0
+      },
+      {
+        "Party": "AP",
+        "Candidate": "FILLER, John",
+        "Votes": 1610,
+        "Percent": 3.4
+      },
+      {
+        "Party": "CP",
+        "Candidate": "LAMB, Stephen",
+        "Votes": 1429,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EMERSON-ELLIOTT, Anthony",
+        "Votes": 393,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WISE, Kevin",
+        "Votes": 279,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1975": {
+    "title": "Fraser, ACT   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FRY, Kenneth",
+        "Votes": 28227,
+        "Percent": 51.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MAILATH, Imre",
+        "Votes": 25030,
+        "Percent": 45.3
+      },
+      {
+        "Party": "LM",
+        "Candidate": "HAMMOND, Claude",
+        "Votes": 1944,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "1977": {
+    "title": "Fraser, ACT   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FRY, Kenneth",
+        "Votes": 34609,
+        "Percent": 59.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MAILATH, Imre",
+        "Votes": 23612,
+        "Percent": 40.6
+      }
+    ]
+  },
+  "1980": {
+    "title": "Fraser, ACT   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FRY, Kenneth",
+        "Votes": 36564,
+        "Percent": 57.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "YABSLEY, Michael",
+        "Votes": 22059,
+        "Percent": 34.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GRAAFF, Dimmen de",
+        "Votes": 4156,
+        "Percent": 6.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WISE, Kevin",
+        "Votes": 636,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "YAKIMOV, Basil",
+        "Votes": 367,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1983": {
+    "title": "Fraser, ACT   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FRY, Kenneth",
+        "Votes": 41755,
+        "Percent": 65.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GRANT, Elizabeth",
+        "Votes": 18848,
+        "Percent": 29.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GREENLAND, Rohan",
+        "Votes": 1619,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WISE, Kevin",
+        "Votes": 1419,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1984": {
+    "title": "Fraser, ACT   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LANGMORE, John",
+        "Votes": 38183,
+        "Percent": 55.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCLAREN, John",
+        "Votes": 21558,
+        "Percent": 31.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FREEMAN, Andrew",
+        "Votes": 6138,
+        "Percent": 8.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DANIELL, Rozalyn",
+        "Votes": 2102,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRUNORO, Emile",
+        "Votes": 737,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WISE, Kevin",
+        "Votes": 353,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BURNS, Arthur",
+        "Votes": 345,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1987": {
+    "title": "Fraser, ACT   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LANGMORE, John",
+        "Votes": 40616,
+        "Percent": 54.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FARROW, Ian",
+        "Votes": 21767,
+        "Percent": 28.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HAYES, Peter",
+        "Votes": 5412,
+        "Percent": 7.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Gareth",
+        "Votes": 3852,
+        "Percent": 5.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CASLEY-SMITH, Dawn",
+        "Votes": 2050,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'SULLIVAN, Larry",
+        "Votes": 539,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WISE, Kevin",
+        "Votes": 536,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRUNORO, Emile",
+        "Votes": 473,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1990": {
+    "title": "Fraser, ACT   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LANGMORE, John",
+        "Votes": 36544,
+        "Percent": 46.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROOKE, Sandie",
+        "Votes": 24746,
+        "Percent": 31.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JEFFCOAT, Heather",
+        "Votes": 12876,
+        "Percent": 16.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BOLTON, Sue",
+        "Votes": 3213,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Gareth",
+        "Votes": 1185,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRUNORO, Emile",
+        "Votes": 949,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1993": {
+    "title": "Fraser, ACT   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "BRUNORO, Emile",
+        "Votes": "672",
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WISE, Kev",
+        "Votes": "657",
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GORDON, Andrew",
+        "Votes": "654",
+        "Percent": 0.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KRAMER, Greg",
+        "Votes": "5559",
+        "Percent": 6.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LANGMORE, John",
+        "Votes": "49098",
+        "Percent": 54.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JOSEPH, Peter",
+        "Votes": "463",
+        "Percent": 0.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DUNN, Martin",
+        "Votes": "29031",
+        "Percent": 32.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EASTMAN, David",
+        "Votes": "2070",
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOLTON, Sue",
+        "Votes": "2023",
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1996": {
+    "title": "Fraser, ACT   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LANGMORE, John",
+        "Votes": 30459,
+        "Percent": 50.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HILL, Cheryl",
+        "Votes": 23877,
+        "Percent": 39.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KIRSCHBAUM, Miko",
+        "Votes": 5970,
+        "Percent": 9.9
+      }
+    ]
+  },
+  "1998": {
+    "title": "Fraser, ACT   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCMULLAN, Hon Bob",
+        "Votes": 50573,
+        "Percent": 52.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SMITH, Peter",
+        "Votes": 27088,
+        "Percent": 28.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WOOD, Jason",
+        "Votes": 7157,
+        "Percent": 7.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SPENCE, Chris",
+        "Votes": 4773,
+        "Percent": 4.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCALLISTER, Gordon",
+        "Votes": 4371,
+        "Percent": 4.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BULL, Sue",
+        "Votes": 1214,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLARKE, Joanne",
+        "Votes": 1057,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SEATON, David",
+        "Votes": 258,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2001": {
+    "title": "Fraser, ACT   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCMULLAN, Hon Bob",
+        "Votes": 48583,
+        "Percent": 47.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DUNN, Martin",
+        "Votes": 31503,
+        "Percent": 30.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WIMBOURNE, Fleur",
+        "Votes": 8168,
+        "Percent": 8.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "O'CALLAGHAN, Ben",
+        "Votes": 8067,
+        "Percent": 7.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "KEMP, Paul",
+        "Votes": 2397,
+        "Percent": 2.3
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "O'SULLIVAN, Caroline",
+        "Votes": 2251,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VASSILOPOULOS, James",
+        "Votes": 1369,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2004": {
+    "title": "Fraser, ACT   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCMULLAN, Hon Bob",
+        "Votes": 54622,
+        "Percent": 50.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GILES, Adam",
+        "Votes": 36270,
+        "Percent": 33.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TURBAYNE, David",
+        "Votes": 12197,
+        "Percent": 11.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GRIMSEY, Lynne",
+        "Votes": 2792,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VASSILOPOULOS, James",
+        "Votes": 2067,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "2007": {
+    "title": "Fraser, ACT   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCMULLAN, Hon Bob",
+        "Votes": 55533,
+        "Percent": 51.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WILLIAMS, Troy",
+        "Votes": 33936,
+        "Percent": 31.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HUNTER, Meredith",
+        "Votes": 14546,
+        "Percent": 13.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CHURCHILL, Darren",
+        "Votes": 2509,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TARANTO, Kerri",
+        "Votes": 1275,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "IQBAL, Farida",
+        "Votes": 539,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ARNOLD, Jim",
+        "Votes": 342,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "Fraser, ACT   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LEIGH, Dr Andrew",
+        "Votes": 51092,
+        "Percent": 45.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MILLIGAN, James",
+        "Votes": 36148,
+        "Percent": 32.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ESGUERRA, Indra",
+        "Votes": 22126,
+        "Percent": 19.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HEDGES-PHILLIPS, Quintin",
+        "Votes": 2175,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "2013": {
+    "title": "Fraser, ACT   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LEIGH, Hon Dr Andrew",
+        "Votes": 56063,
+        "Percent": 44.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LEE, Elizabeth",
+        "Votes": 39693,
+        "Percent": 31.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "VERWEY, Adam",
+        "Votes": 17665,
+        "Percent": 14.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HUGGINS, Sam",
+        "Votes": 5099,
+        "Percent": 4.1
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "ALCAZAR, Freddy",
+        "Votes": 3063,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHURCHILL, Darren",
+        "Votes": 2444,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROSS, Jill",
+        "Votes": 1508,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2019": {
+    "title": "Fraser, VIC   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MULINO, Dr Daniel",
+        "Votes": 46709,
+        "Percent": 50.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BAIN, Peter",
+        "Votes": 23929,
+        "Percent": 25.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SCORGIE, Rebecca",
+        "Votes": 7645,
+        "Percent": 8.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "CHAU, Ving Van",
+        "Votes": 7314,
+        "Percent": 7.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TRAN, Van",
+        "Votes": 5306,
+        "Percent": 5.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOBRAN, Tony",
+        "Votes": 1656,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "2022": {
+    "title": "Fraser, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MULINO, Dr Daniel",
+        "Votes": 38732,
+        "Percent": 42.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WOOD, David",
+        "Votes": 22730,
+        "Percent": 24.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MITCHELL-SEARS, Bella",
+        "Votes": 17078,
+        "Percent": 18.6
+      },
+      {
+        "Party": "VS",
+        "Candidate": "ROBERTSON, Catherine",
+        "Votes": 4429,
+        "Percent": 4.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "RAYMOND, Keith",
+        "Votes": 4088,
+        "Percent": 4.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "PYLE, Sabine De",
+        "Votes": 2695,
+        "Percent": 3.0
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "CURSIO, Anthony",
+        "Votes": 2349,
+        "Percent": 2.6
+      }
+    ]
+  },
+  "2025": {
+    "title": "Fraser, VIC   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MULINO, Daniel",
+        "Votes": 45786,
+        "Percent": 42.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TRUONG, Huong",
+        "Votes": 27171,
+        "Percent": 25.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PATEL, Satish",
+        "Votes": 18125,
+        "Percent": 16.9
+      },
+      {
+        "Party": "VNS",
+        "Candidate": "DUFF, Jasmine",
+        "Votes": 6705,
+        "Percent": 6.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "ROZARIO, George",
+        "Votes": 5135,
+        "Percent": 4.8
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "RANCIE, Rob",
+        "Votes": 4545,
+        "Percent": 4.2
+      }
+    ]
+  }
+}

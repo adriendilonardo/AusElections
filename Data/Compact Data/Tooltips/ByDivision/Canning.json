@@ -1,0 +1,1106 @@
+{
+  "1949": {
+    "title": "Canning, WA   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "HAMILTON, Leonard",
+        "Votes": 12159,
+        "Percent": 36.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GILLESPIE, William",
+        "Votes": 10244,
+        "Percent": 31.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SCADDAN, Thomas",
+        "Votes": 10002,
+        "Percent": 30.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NEVILLE, Arthur",
+        "Votes": 594,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "1951": {
+    "title": "Canning, WA   1951",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "HAMILTON, Leonard",
+        "Votes": "22012",
+        "Percent": 64.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MUNDAY, Percy",
+        "Votes": "12057",
+        "Percent": 35.4
+      }
+    ]
+  },
+  "1954": {
+    "title": "Canning, WA   1954",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "HAMILTON, Leonard",
+        "Votes": "23196",
+        "Percent": 61.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MUNDAY, Percy",
+        "Votes": "14714",
+        "Percent": 38.8
+      }
+    ]
+  },
+  "1955": {
+    "title": "Canning, WA   1955",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "HAMILTON, Leonard",
+        "Votes": "Unopposed",
+        "Percent": 100.0
+      }
+    ]
+  },
+  "1958": {
+    "title": "Canning, WA   1958",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "HAMILTON, Leonard",
+        "Votes": 24763,
+        "Percent": 72.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CRANLEY, Patrick",
+        "Votes": 9447,
+        "Percent": 27.6
+      }
+    ]
+  },
+  "1961": {
+    "title": "Canning, WA   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCNEILL, Neil",
+        "Votes": 13931,
+        "Percent": 38.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EDWARDS, Charles",
+        "Votes": 10659,
+        "Percent": 29.2
+      },
+      {
+        "Party": "CP",
+        "Candidate": "HALLETT, John",
+        "Votes": 10168,
+        "Percent": 27.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MEREDITH, Stanley",
+        "Votes": 1706,
+        "Percent": 4.7
+      }
+    ]
+  },
+  "1963": {
+    "title": "Canning, WA   1963",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCNEILL, Neil",
+        "Votes": "17000",
+        "Percent": 43.5
+      },
+      {
+        "Party": "CP",
+        "Candidate": "HALLETT, John",
+        "Votes": "10844",
+        "Percent": 27.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BATEY, Ronald",
+        "Votes": "1072",
+        "Percent": 2.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EDWARDS, Charles",
+        "Votes": "10204",
+        "Percent": 26.1
+      }
+    ]
+  },
+  "1966": {
+    "title": "Canning, WA   1966",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "HALLETT, John",
+        "Votes": 17709,
+        "Percent": 43.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EDWARDS, Charles",
+        "Votes": 11110,
+        "Percent": 27.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SNOW, Norman",
+        "Votes": 10119,
+        "Percent": 24.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FINLAY, Bryan",
+        "Votes": 2227,
+        "Percent": 5.4
+      }
+    ]
+  },
+  "1969": {
+    "title": "Canning, WA   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SCOTT, Allan",
+        "Votes": 20245,
+        "Percent": 42.2
+      },
+      {
+        "Party": "CP",
+        "Candidate": "HALLETT, John",
+        "Votes": 14445,
+        "Percent": 30.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PENNINGTON, Harry",
+        "Votes": 10722,
+        "Percent": 22.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BAILEY, Maurice",
+        "Votes": 2617,
+        "Percent": 5.4
+      }
+    ]
+  },
+  "1972": {
+    "title": "Canning, WA   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SCOTT, Allan",
+        "Votes": 23398,
+        "Percent": 39.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PRATT, Ian",
+        "Votes": 15873,
+        "Percent": 26.9
+      },
+      {
+        "Party": "CP",
+        "Candidate": "HALLETT, John",
+        "Votes": 15461,
+        "Percent": 26.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HICKEY, Patrick",
+        "Votes": 1558,
+        "Percent": 2.6
+      },
+      {
+        "Party": "AP",
+        "Candidate": "HARTIGAN, Thomas",
+        "Votes": 1436,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BURNS, Brian",
+        "Votes": 1301,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1974": {
+    "title": "Canning, WA   1974",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BUNGEY, Melville",
+        "Votes": 19133,
+        "Percent": 35.7
+      },
+      {
+        "Party": NaN,
+        "Candidate": "HALLETT, John",
+        "Votes": 16961,
+        "Percent": 31.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LAFFER, James",
+        "Votes": 16378,
+        "Percent": 30.6
+      },
+      {
+        "Party": "AP",
+        "Candidate": "DUNCAN, John",
+        "Votes": 1093,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "1975": {
+    "title": "Canning, WA   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BUNGEY, Melville",
+        "Votes": 28002,
+        "Percent": 46.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ANTHONY, Marilyn",
+        "Votes": 17916,
+        "Percent": 30.0
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "HALLETT, John",
+        "Votes": 13748,
+        "Percent": 23.0
+      }
+    ]
+  },
+  "1977": {
+    "title": "Canning, WA   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BUNGEY, Melville",
+        "Votes": 29503,
+        "Percent": 48.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SAVAGE, Charles",
+        "Votes": 16491,
+        "Percent": 26.9
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "DILLEY, Marie",
+        "Votes": 7447,
+        "Percent": 12.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DEBELJAKOVIC, Velibor",
+        "Votes": 6206,
+        "Percent": 10.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JOYCE, Douglas",
+        "Votes": 822,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ENGLISH, John",
+        "Votes": 725,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1980": {
+    "title": "Canning, WA   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BUNGEY, Melville",
+        "Votes": 31821,
+        "Percent": 47.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HANSEN, James",
+        "Votes": 28206,
+        "Percent": 42.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CUNNINGHAM, Theresa",
+        "Votes": 6285,
+        "Percent": 9.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WELLS, Pamela",
+        "Votes": 896,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "1983": {
+    "title": "Canning, WA   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FATIN, Wendy",
+        "Votes": 40740,
+        "Percent": 54.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BUNGEY, Melville",
+        "Votes": 30410,
+        "Percent": 40.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RITTER, Jean",
+        "Votes": 3164,
+        "Percent": 4.3
+      }
+    ]
+  },
+  "1984": {
+    "title": "Canning, WA   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GEAR, George",
+        "Votes": 27415,
+        "Percent": 50.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JOHNSTON, Ricky",
+        "Votes": 23430,
+        "Percent": 43.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CAPILL, Elizabeth",
+        "Votes": 3363,
+        "Percent": 6.2
+      }
+    ]
+  },
+  "1987": {
+    "title": "Canning, WA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GEAR, George",
+        "Votes": 29223,
+        "Percent": 49.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JOHNSTON, Ricky",
+        "Votes": 22247,
+        "Percent": 37.4
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "CHAPMAN, Bob",
+        "Votes": 4122,
+        "Percent": 6.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BEADLE, Mark",
+        "Votes": 3909,
+        "Percent": 6.6
+      }
+    ]
+  },
+  "1990": {
+    "title": "Canning, WA   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JOHNSTON, Ricky",
+        "Votes": 24161,
+        "Percent": 40.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GEAR, George",
+        "Votes": 23984,
+        "Percent": 40.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BRYANT, Don",
+        "Votes": 4340,
+        "Percent": 7.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROPER, Neil",
+        "Votes": 4139,
+        "Percent": 7.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROBERTSON, Arthur",
+        "Votes": 887,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOOPER, Phil",
+        "Votes": 506,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "OATS, Carol",
+        "Votes": 492,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SPENCER, Geoff",
+        "Votes": 473,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HIGGINS, Bill",
+        "Votes": 260,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1993": {
+    "title": "Canning, WA   1993",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GEAR, George",
+        "Votes": "29187",
+        "Percent": 44.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JOHNSTON, Ricky",
+        "Votes": "28972",
+        "Percent": 44.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BESSELL, Daniel",
+        "Votes": "2663",
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROBERTS, Patti",
+        "Votes": "253",
+        "Percent": 0.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TILBURY, Rosslyn",
+        "Votes": "1688",
+        "Percent": 2.6
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "GOIRAN, Gerard",
+        "Votes": "1683",
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HUNTY, Shirley de la",
+        "Votes": "1372",
+        "Percent": 2.1
+      }
+    ]
+  },
+  "1996": {
+    "title": "Canning, WA   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JOHNSTON, Ricky",
+        "Votes": 30949,
+        "Percent": 44.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GEAR, Hon George",
+        "Votes": 28984,
+        "Percent": 41.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BLOOMER, Anthony",
+        "Votes": 4332,
+        "Percent": 6.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TWOMEY, Chris",
+        "Votes": 3686,
+        "Percent": 5.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DEVEREUX, Michael",
+        "Votes": 1839,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROBERTS, Patti",
+        "Votes": 307,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1998": {
+    "title": "Canning, WA   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GERICK, Jane",
+        "Votes": 29201,
+        "Percent": 40.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JOHNSTON, Ricky",
+        "Votes": 25350,
+        "Percent": 34.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "TAYLOR, Colin",
+        "Votes": 9823,
+        "Percent": 13.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BEILBY, Margo",
+        "Votes": 3007,
+        "Percent": 4.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CRAIG, Dean",
+        "Votes": 2489,
+        "Percent": 3.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "SHAVE, Michelle",
+        "Votes": 1457,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCOTT, Lance",
+        "Votes": 918,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROBERTS, Patti",
+        "Votes": 185,
+        "Percent": 0.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCCARTHY, Brian",
+        "Votes": 136,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "Canning, WA   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RANDALL, Don",
+        "Votes": 28947,
+        "Percent": 41.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GERICK, Jane",
+        "Votes": 26490,
+        "Percent": 38.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "DACHEFF, Angelo",
+        "Votes": 4976,
+        "Percent": 7.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "READ, Keith",
+        "Votes": 3711,
+        "Percent": 5.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BROWN, Darren",
+        "Votes": 2639,
+        "Percent": 3.8
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "KENNEDY, Doug",
+        "Votes": 1779,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MACDONALD, John",
+        "Votes": 648,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2004": {
+    "title": "Canning, WA   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RANDALL, Don",
+        "Votes": 39354,
+        "Percent": 52.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HALLAHAN, Hon Kay",
+        "Votes": 24533,
+        "Percent": 32.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BEILBY, Margo",
+        "Votes": 3766,
+        "Percent": 5.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "DACHEFF, Angelo",
+        "Votes": 2035,
+        "Percent": 2.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "HILL, Vivian",
+        "Votes": 1802,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DODD, Margaret",
+        "Votes": 871,
+        "Percent": 1.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BENNELL, Tony",
+        "Votes": 864,
+        "Percent": 1.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CUSTERS, Bev",
+        "Votes": 756,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCCARTHY, Brian",
+        "Votes": 642,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2007": {
+    "title": "Canning, WA   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RANDALL, Don",
+        "Votes": 42639,
+        "Percent": 49.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HUGHES, John",
+        "Votes": 31669,
+        "Percent": 37.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HARDIE, Denise",
+        "Votes": 6396,
+        "Percent": 7.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "SWARTS, Kevin",
+        "Votes": 2427,
+        "Percent": 2.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "DEANE, Brian",
+        "Votes": 1264,
+        "Percent": 1.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "GRASSO, Rodney",
+        "Votes": 1112,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCCARTHY, Brian F",
+        "Votes": 261,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "Canning, WA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RANDALL, Don",
+        "Votes": 36999,
+        "Percent": 46.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MACTIERNAN, Alannah",
+        "Votes": 32330,
+        "Percent": 40.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HARDIE, Denise",
+        "Votes": 6645,
+        "Percent": 8.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BURGEL, Jamie Van",
+        "Votes": 2470,
+        "Percent": 3.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "VERNEDE, Darren",
+        "Votes": 1231,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TUFFNELL, Ian",
+        "Votes": 446,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2013": {
+    "title": "Canning, WA   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RANDALL, Don",
+        "Votes": 45189,
+        "Percent": 51.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DEAN, Joanne",
+        "Votes": 23578,
+        "Percent": 26.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PAGES-OLIVER, Damon",
+        "Votes": 6547,
+        "Percent": 7.4
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "LAMOTTE, Wendy",
+        "Votes": 6088,
+        "Percent": 6.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRUNING, Derek",
+        "Votes": 2742,
+        "Percent": 3.1
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "FORSYTH, James",
+        "Votes": 1707,
+        "Percent": 1.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HARPER, Alice",
+        "Votes": 1197,
+        "Percent": 1.4
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "ELDRIDGE, Richard",
+        "Votes": 776,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RUMBLE, Lee",
+        "Votes": 669,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2016": {
+    "title": "Canning, WA   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HASTIE, Andrew",
+        "Votes": 42497,
+        "Percent": 50.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WINMAR, Barry",
+        "Votes": 27918,
+        "Percent": 33.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BLUNDELL-CAMDEN, Aeron",
+        "Votes": 7388,
+        "Percent": 8.7
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "TURNER, Jason",
+        "Votes": 3581,
+        "Percent": 4.2
+      },
+      {
+        "Party": "AC",
+        "Candidate": "VEN, Janine Vander",
+        "Votes": 3110,
+        "Percent": 3.7
+      }
+    ]
+  },
+  "2019": {
+    "title": "Canning, WA   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HASTIE, Andrew",
+        "Votes": 44580,
+        "Percent": 49.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TEEDE, Mellisa",
+        "Votes": 24996,
+        "Percent": 27.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MOFFAT, Jodie",
+        "Votes": 6840,
+        "Percent": 7.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "WREFORD, Jackson",
+        "Votes": 6503,
+        "Percent": 7.2
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "CLARKE, Brett",
+        "Votes": 2554,
+        "Percent": 2.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "VEEVERS, Steve",
+        "Votes": 2055,
+        "Percent": 2.3
+      },
+      {
+        "Party": "AChr",
+        "Candidate": "BURGEL, Jamie van",
+        "Votes": 1764,
+        "Percent": 1.9
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "HEFFERNAN, Malcolm",
+        "Votes": 1600,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "2022": {
+    "title": "Canning, WA   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HASTIE, Hon Andrew",
+        "Votes": 41294,
+        "Percent": 43.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HUNT, Amanda",
+        "Votes": 30897,
+        "Percent": 32.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MOFFAT, Jodie",
+        "Votes": 7659,
+        "Percent": 8.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "SIWES, Tammi",
+        "Votes": 4215,
+        "Percent": 4.5
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "WALDECK, James",
+        "Votes": 2438,
+        "Percent": 2.6
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "BEDFORD, Brad",
+        "Votes": 2202,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILLIAMS, Ashley",
+        "Votes": 1708,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AC",
+        "Candidate": "PLESSIS, Andriette Du",
+        "Votes": 1689,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IMOP",
+        "Candidate": "CONGRENE, Judith",
+        "Votes": 785,
+        "Percent": 0.8
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "GARDINER, David",
+        "Votes": 749,
+        "Percent": 0.8
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "GARDYNE, Anthony",
+        "Votes": 628,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2025": {
+    "title": "Canning, WA   2025",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HASTIE, Andrew",
+        "Votes": 42794,
+        "Percent": 42.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GOOLD, Jarrad",
+        "Votes": 30098,
+        "Percent": 29.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BOVE, Fernando",
+        "Votes": 11488,
+        "Percent": 11.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CAHILL, Jordan",
+        "Votes": 8967,
+        "Percent": 8.9
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "GULLAN, Paul",
+        "Votes": 6216,
+        "Percent": 6.2
+      },
+      {
+        "Party": "CEC",
+        "Candidate": "CAREY, John Raymond",
+        "Votes": 1084,
+        "Percent": 1.1
+      }
+    ]
+  }
+}

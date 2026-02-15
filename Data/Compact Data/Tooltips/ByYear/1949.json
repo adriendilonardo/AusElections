@@ -1,0 +1,2753 @@
+{
+  "Banks": {
+    "title": "Banks, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "COSTA, Dominic",
+        "Votes": 24537,
+        "Percent": 58.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FLETCHER, Howard",
+        "Votes": 15371,
+        "Percent": 36.5
+      },
+      {
+        "Party": "ALPN",
+        "Candidate": "FOY, Francis",
+        "Votes": 2202,
+        "Percent": 5.2
+      }
+    ]
+  },
+  "Barton": {
+    "title": "Barton, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EVATT, Rt Hon Dr Herbert",
+        "Votes": 21681,
+        "Percent": 53.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WAKE, Nancy",
+        "Votes": 19037,
+        "Percent": 46.8
+      }
+    ]
+  },
+  "Bennelong": {
+    "title": "Bennelong, NSW   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CRAMER, John",
+        "Votes": 23568,
+        "Percent": 59.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WATT, Raymond",
+        "Votes": 15952,
+        "Percent": 40.4
+      }
+    ]
+  },
+  "Blaxland": {
+    "title": "Blaxland, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HARRISON, James",
+        "Votes": 19403,
+        "Percent": 49.3
+      },
+      {
+        "Party": "ALPN",
+        "Candidate": "LANG, Hon Jack",
+        "Votes": 9752,
+        "Percent": 24.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HANDRAN-SMITH, Thomas",
+        "Votes": 9364,
+        "Percent": 23.8
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "KIRBY, Roy",
+        "Votes": 865,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "Bradfield": {
+    "title": "Bradfield, NSW   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HUGHES, Rt Hon Billy",
+        "Votes": 28428,
+        "Percent": 71.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GEE, Kenneth",
+        "Votes": 8645,
+        "Percent": 21.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PRICE, Edward",
+        "Votes": 2764,
+        "Percent": 6.9
+      }
+    ]
+  },
+  "Calare": {
+    "title": "Calare, NSW   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOWSE, John",
+        "Votes": 21399,
+        "Percent": 57.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GIBBONS, George",
+        "Votes": 16139,
+        "Percent": 43.0
+      }
+    ]
+  },
+  "Cook": {
+    "title": "Cook, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SHEEHAN, Thomas",
+        "Votes": 27485,
+        "Percent": 75.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DAVIS, Gerald",
+        "Votes": 5970,
+        "Percent": 16.3
+      },
+      {
+        "Party": "ALPN",
+        "Candidate": "ELDRIDGE, John",
+        "Votes": 1920,
+        "Percent": 5.2
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "PIDCOCK, Mervyn",
+        "Votes": 1276,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "Cowper": {
+    "title": "Cowper, NSW   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "PAGE, Rt Hon Sir Earle",
+        "Votes": 22791,
+        "Percent": 61.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JABOUR, Dr Louis",
+        "Votes": 14134,
+        "Percent": 38.3
+      }
+    ]
+  },
+  "Cunningham": {
+    "title": "Cunningham, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DAVIES, Billy",
+        "Votes": 22795,
+        "Percent": 60.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "THOMSON, Alan",
+        "Votes": 11892,
+        "Percent": 31.7
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "AARONS, Eric",
+        "Votes": 2854,
+        "Percent": 7.6
+      }
+    ]
+  },
+  "Dalley": {
+    "title": "Dalley, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ROSEVEAR, Hon Sol",
+        "Votes": 27501,
+        "Percent": 73.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SHIELDS, Charles",
+        "Votes": 10190,
+        "Percent": 27.0
+      }
+    ]
+  },
+  "Darling": {
+    "title": "Darling, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CLARK, Joseph",
+        "Votes": 20843,
+        "Percent": 63.8
+      },
+      {
+        "Party": "CP",
+        "Candidate": "WHYTE, Elson",
+        "Votes": 10348,
+        "Percent": 31.7
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "CONNORS, Cecil",
+        "Votes": 1017,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROBERTS, Madge",
+        "Votes": 450,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "East Sydney": {
+    "title": "East Sydney, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WARD, Hon Eddie",
+        "Votes": 22496,
+        "Percent": 57.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MANT, John",
+        "Votes": 15398,
+        "Percent": 39.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DALTON, William",
+        "Votes": 1552,
+        "Percent": 3.9
+      }
+    ]
+  },
+  "Eden-Monaro": {
+    "title": "Eden-Monaro, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FRASER, Allan",
+        "Votes": 19004,
+        "Percent": 50.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MACARTHUR-ONSLOW, Denzil",
+        "Votes": 18317,
+        "Percent": 49.1
+      }
+    ]
+  },
+  "Evans": {
+    "title": "Evans, NSW   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "OSBORNE, Frederick",
+        "Votes": 21616,
+        "Percent": 56.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NICHOLLS, Ronald",
+        "Votes": 16588,
+        "Percent": 43.4
+      }
+    ]
+  },
+  "Farrer": {
+    "title": "Farrer, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCGRATH, Thomas",
+        "Votes": 14853,
+        "Percent": 39.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FAIRBAIRN, David",
+        "Votes": 14425,
+        "Percent": 38.2
+      },
+      {
+        "Party": "CP",
+        "Candidate": "MACKAY, John",
+        "Votes": 8099,
+        "Percent": 21.4
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "GOLLAN, William",
+        "Votes": 419,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Grayndler": {
+    "title": "Grayndler, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DALY, Fred",
+        "Votes": 25622,
+        "Percent": 67.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CLARK, Donald",
+        "Votes": 11299,
+        "Percent": 29.6
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MCPHILLIPS, Henry",
+        "Votes": 920,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCCRISTAL, Timothy",
+        "Votes": 349,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "Gwydir": {
+    "title": "Gwydir, NSW   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "TRELOAR, Thomas",
+        "Votes": 20018,
+        "Percent": 55.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SCULLY, Hon William",
+        "Votes": 16282,
+        "Percent": 44.9
+      }
+    ]
+  },
+  "Hume": {
+    "title": "Hume, NSW   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ANDERSON, Charles",
+        "Votes": 18871,
+        "Percent": 51.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FULLER, Arthur",
+        "Votes": 18104,
+        "Percent": 49.0
+      }
+    ]
+  },
+  "Hunter": {
+    "title": "Hunter, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JAMES, Rowland",
+        "Votes": 26704,
+        "Percent": 68.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FLETCHER, Edward",
+        "Votes": 8502,
+        "Percent": 21.8
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "PHILLIPS, Evan",
+        "Votes": 3729,
+        "Percent": 9.6
+      }
+    ]
+  },
+  "Kingsford-Smith": {
+    "title": "Kingsford-Smith, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ANDERSON, Gordon",
+        "Votes": 18573,
+        "Percent": 49.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MONCHAUX, Charles de",
+        "Votes": 17387,
+        "Percent": 46.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CRITTENDEN, Henry",
+        "Votes": 1206,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PETERS, Clare",
+        "Votes": 221,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "Lang": {
+    "title": "Lang, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MULCAHY, Daniel",
+        "Votes": 20421,
+        "Percent": 50.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WILLIS, Eric",
+        "Votes": 18369,
+        "Percent": 45.1
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "BOYD, Roy",
+        "Votes": 1905,
+        "Percent": 4.7
+      }
+    ]
+  },
+  "Lawson": {
+    "title": "Lawson, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MANNING, Alan",
+        "Votes": 15969,
+        "Percent": 43.0
+      },
+      {
+        "Party": "CP",
+        "Candidate": "FAILES, Laurence",
+        "Votes": 11531,
+        "Percent": 31.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CROFT, Elwyn",
+        "Votes": 9249,
+        "Percent": 24.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FERGUSON, William",
+        "Votes": 392,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "Lowe": {
+    "title": "Lowe, NSW   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCMAHON, William",
+        "Votes": 20489,
+        "Percent": 52.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCDONALD, Hector",
+        "Votes": 15908,
+        "Percent": 40.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHORTLAND, Edith",
+        "Votes": 2470,
+        "Percent": 6.4
+      }
+    ]
+  },
+  "Lyne": {
+    "title": "Lyne, NSW   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "EGGINS, Jim",
+        "Votes": 10212,
+        "Percent": 27.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HAYES, Edward",
+        "Votes": 10160,
+        "Percent": 27.6
+      },
+      {
+        "Party": "CP",
+        "Candidate": "LUCOCK, Philip",
+        "Votes": 6984,
+        "Percent": 19.0
+      },
+      {
+        "Party": "CP",
+        "Candidate": "MACKAY, Eric",
+        "Votes": 6111,
+        "Percent": 16.6
+      },
+      {
+        "Party": "CP",
+        "Candidate": "HAIN, Francis",
+        "Votes": 2296,
+        "Percent": 6.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CORDNER, Joseph",
+        "Votes": 1057,
+        "Percent": 2.9
+      }
+    ]
+  },
+  "Macarthur": {
+    "title": "Macarthur, NSW   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BATE, Jeff",
+        "Votes": 25184,
+        "Percent": 64.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCDONNELL, William",
+        "Votes": 13776,
+        "Percent": 35.4
+      }
+    ]
+  },
+  "Mackellar": {
+    "title": "Mackellar, NSW   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WENTWORTH, William",
+        "Votes": 25678,
+        "Percent": 62.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MITCHELL, James",
+        "Votes": 15314,
+        "Percent": 37.4
+      }
+    ]
+  },
+  "Macquarie": {
+    "title": "Macquarie, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHIFLEY, Rt Hon Ben",
+        "Votes": 21683,
+        "Percent": 57.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "COTTON, Robert",
+        "Votes": 14585,
+        "Percent": 38.8
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "KING, John",
+        "Votes": 1320,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "Martin": {
+    "title": "Martin, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, William",
+        "Votes": 20603,
+        "Percent": 53.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MANN, Frederick",
+        "Votes": 14550,
+        "Percent": 37.8
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "DOWLING, Thomas",
+        "Votes": 1847,
+        "Percent": 4.8
+      },
+      {
+        "Party": "ALPN",
+        "Candidate": "MOSS, Frank",
+        "Votes": 808,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "IVEY, Malinda",
+        "Votes": 681,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "Mitchell": {
+    "title": "Mitchell, NSW   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WHEELER, Roy",
+        "Votes": 23274,
+        "Percent": 56.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WHITE, Joseph",
+        "Votes": 17643,
+        "Percent": 43.1
+      }
+    ]
+  },
+  "New England": {
+    "title": "New England, NSW   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "DRUMMOND, Hon David",
+        "Votes": 16159,
+        "Percent": 44.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILSON, William",
+        "Votes": 13515,
+        "Percent": 37.0
+      },
+      {
+        "Party": "CP",
+        "Candidate": "SHAND, Donald",
+        "Votes": 6830,
+        "Percent": 18.7
+      }
+    ]
+  },
+  "Newcastle": {
+    "title": "Newcastle, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WATKINS, David",
+        "Votes": 21705,
+        "Percent": 55.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "QUINLAN, Harry",
+        "Votes": 15529,
+        "Percent": 39.9
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "AARONS, Laurence",
+        "Votes": 1257,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLAND, Grahame",
+        "Votes": 445,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "North Sydney": {
+    "title": "North Sydney, NSW   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "JACK, William",
+        "Votes": 19650,
+        "Percent": 50.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HAYLEN, Leo",
+        "Votes": 16094,
+        "Percent": 41.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILLIAMS, Patrick",
+        "Votes": 1642,
+        "Percent": 4.3
+      },
+      {
+        "Party": "ALPN",
+        "Candidate": "FERGUSON, Norman",
+        "Votes": 1205,
+        "Percent": 3.1
+      }
+    ]
+  },
+  "Parkes": {
+    "title": "Parkes, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HAYLEN, Leslie",
+        "Votes": 19966,
+        "Percent": 51.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DEIN, Adam",
+        "Votes": 18579,
+        "Percent": 48.2
+      }
+    ]
+  },
+  "Parramatta": {
+    "title": "Parramatta, NSW   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BEALE, Howard",
+        "Votes": 25411,
+        "Percent": 62.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JACKSON, Clement",
+        "Votes": 15211,
+        "Percent": 37.4
+      }
+    ]
+  },
+  "Paterson": {
+    "title": "Paterson, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ROBINSON, Cecil",
+        "Votes": 14089,
+        "Percent": 37.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FAIRHALL, Allen",
+        "Votes": 11189,
+        "Percent": 30.1
+      },
+      {
+        "Party": "CP",
+        "Candidate": "DORSMAN, Arie",
+        "Votes": 5293,
+        "Percent": 14.2
+      },
+      {
+        "Party": "CP",
+        "Candidate": "MCGIRR, John",
+        "Votes": 3842,
+        "Percent": 10.3
+      },
+      {
+        "Party": "CP",
+        "Candidate": "CLENDINNING, Robert",
+        "Votes": 2101,
+        "Percent": 5.7
+      },
+      {
+        "Party": "CP",
+        "Candidate": "SLATER, Ernest",
+        "Votes": 656,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "Phillip": {
+    "title": "Phillip, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "FITZGERALD, Joseph",
+        "Votes": 19455,
+        "Percent": 51.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LATIMER, William",
+        "Votes": 16302,
+        "Percent": 42.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STREET, Jessie",
+        "Votes": 2272,
+        "Percent": 6.0
+      }
+    ]
+  },
+  "Reid": {
+    "title": "Reid, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MORGAN, Charles",
+        "Votes": 24607,
+        "Percent": 58.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CLOUGH, James",
+        "Votes": 12304,
+        "Percent": 29.0
+      },
+      {
+        "Party": "ALPN",
+        "Candidate": "SHELDON, Rupert",
+        "Votes": 5467,
+        "Percent": 12.9
+      }
+    ]
+  },
+  "Richmond": {
+    "title": "Richmond, NSW   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ANTHONY, Hon Larry",
+        "Votes": 27504,
+        "Percent": 75.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRYEN, Alexander",
+        "Votes": 9139,
+        "Percent": 24.9
+      }
+    ]
+  },
+  "Riverina": {
+    "title": "Riverina, NSW   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ROBERTON, Hugh",
+        "Votes": 19904,
+        "Percent": 53.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LANGTRY, Joseph",
+        "Votes": 16880,
+        "Percent": 45.2
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MITCHELL, William",
+        "Votes": 560,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "Robertson": {
+    "title": "Robertson, NSW   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DEAN, Roger",
+        "Votes": 21617,
+        "Percent": 54.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIAMS, Thomas",
+        "Votes": 18236,
+        "Percent": 45.8
+      }
+    ]
+  },
+  "Shortland": {
+    "title": "Shortland, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "GRIFFITHS, Charles",
+        "Votes": 21921,
+        "Percent": 54.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DAISLEY, Harold",
+        "Votes": 10513,
+        "Percent": 26.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOA, Alfred",
+        "Votes": 6423,
+        "Percent": 15.9
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MARSHALL, Eugene",
+        "Votes": 882,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LONGWORTH, Isabel",
+        "Votes": 570,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "St George": {
+    "title": "St George, NSW   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GRAHAM, Bruce",
+        "Votes": 19987,
+        "Percent": 52.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NICHOLSON, Joseph",
+        "Votes": 18475,
+        "Percent": 48.0
+      }
+    ]
+  },
+  "Warringah": {
+    "title": "Warringah, NSW   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SPENDER, Hon Percy",
+        "Votes": 27563,
+        "Percent": 70.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FISHER, William",
+        "Votes": 8356,
+        "Percent": 21.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHADWICK, Norman",
+        "Votes": 3315,
+        "Percent": 8.4
+      }
+    ]
+  },
+  "Watson": {
+    "title": "Watson, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CURTIN, Daniel",
+        "Votes": 19515,
+        "Percent": 49.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CARD, Stanley",
+        "Votes": 15147,
+        "Percent": 38.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FALSTEIN, Max",
+        "Votes": 3656,
+        "Percent": 9.2
+      },
+      {
+        "Party": "ALPN",
+        "Candidate": "O'REILLY, Harold",
+        "Votes": 1210,
+        "Percent": 3.1
+      }
+    ]
+  },
+  "Wentworth": {
+    "title": "Wentworth, NSW   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HARRISON, Hon Eric",
+        "Votes": 28821,
+        "Percent": 75.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCKELL, William",
+        "Votes": 9533,
+        "Percent": 24.9
+      }
+    ]
+  },
+  "Werriwa": {
+    "title": "Werriwa, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LAZZARINI, Hon Hubert",
+        "Votes": 24142,
+        "Percent": 56.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WATSON, Raymond",
+        "Votes": 18787,
+        "Percent": 43.8
+      }
+    ]
+  },
+  "West Sydney": {
+    "title": "West Sydney, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MINOGUE, Daniel",
+        "Votes": 17732,
+        "Percent": 49.8
+      },
+      {
+        "Party": "ALPN",
+        "Candidate": "FOLEY, Horace",
+        "Votes": 8872,
+        "Percent": 24.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MOTTERSHEAD, Basil",
+        "Votes": 7235,
+        "Percent": 20.3
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MORAN, Stanley",
+        "Votes": 1786,
+        "Percent": 5.0
+      }
+    ]
+  },
+  "Balaclava": {
+    "title": "Balaclava, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WHITE, Hon Thomas",
+        "Votes": 26157,
+        "Percent": 63.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DUNNE, Martin",
+        "Votes": 14796,
+        "Percent": 36.1
+      }
+    ]
+  },
+  "Ballaarat": {
+    "title": "Ballaarat, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PITTARD, Alan",
+        "Votes": 19851,
+        "Percent": 50.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HYATT, Raymond",
+        "Votes": 19522,
+        "Percent": 49.6
+      }
+    ]
+  },
+  "Batman": {
+    "title": "Batman, VIC   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BIRD, Alan",
+        "Votes": 22662,
+        "Percent": 58.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCKAY, Neil",
+        "Votes": 16139,
+        "Percent": 41.6
+      }
+    ]
+  },
+  "Bendigo": {
+    "title": "Bendigo, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GRIGG, Thomas",
+        "Votes": 19268,
+        "Percent": 47.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CLAREY, Hon Percy",
+        "Votes": 18962,
+        "Percent": 47.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GOODMAN, Allan",
+        "Votes": 2134,
+        "Percent": 5.3
+      }
+    ]
+  },
+  "Burke": {
+    "title": "Burke, VIC   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PETERS, Edward",
+        "Votes": 24362,
+        "Percent": 62.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WALL, Alfred",
+        "Votes": 9865,
+        "Percent": 25.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HODGES, Henry",
+        "Votes": 4720,
+        "Percent": 12.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WHITWORTH, James",
+        "Votes": 271,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Chisholm": {
+    "title": "Chisholm, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HUGHES, Hon Wilfrid KENT",
+        "Votes": 26628,
+        "Percent": 64.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FENNESSY, Leo",
+        "Votes": 13615,
+        "Percent": 33.1
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "TREGEAR, William",
+        "Votes": 937,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "Corangamite": {
+    "title": "Corangamite, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCDONALD, Hon Allan",
+        "Votes": 21670,
+        "Percent": 57.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STACPOOLE, Henry",
+        "Votes": 14936,
+        "Percent": 39.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRUSHFIELD, Elsie",
+        "Votes": 1080,
+        "Percent": 2.9
+      }
+    ]
+  },
+  "Corio": {
+    "title": "Corio, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "OPPERMAN, Hubert",
+        "Votes": 20018,
+        "Percent": 50.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DEDMAN, Hon John",
+        "Votes": 19783,
+        "Percent": 49.7
+      }
+    ]
+  },
+  "Darebin": {
+    "title": "Darebin, VIC   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ANDREWS, Thomas",
+        "Votes": 24719,
+        "Percent": 62.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCCOLL, Jack",
+        "Votes": 14688,
+        "Percent": 37.3
+      }
+    ]
+  },
+  "Deakin": {
+    "title": "Deakin, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DAVIS, Frank",
+        "Votes": 23517,
+        "Percent": 55.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LEESON, Roderick",
+        "Votes": 18784,
+        "Percent": 44.4
+      }
+    ]
+  },
+  "Fawkner": {
+    "title": "Fawkner, VIC   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BOURKE, William",
+        "Votes": 20228,
+        "Percent": 50.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CORMACK, Magnus",
+        "Votes": 20201,
+        "Percent": 50.0
+      }
+    ]
+  },
+  "Flinders": {
+    "title": "Flinders, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RYAN, Rupert",
+        "Votes": 21096,
+        "Percent": 54.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILSON, Robert",
+        "Votes": 11410,
+        "Percent": 29.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HUGHES, Andrew",
+        "Votes": 6018,
+        "Percent": 15.6
+      }
+    ]
+  },
+  "Gellibrand": {
+    "title": "Gellibrand, VIC   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MULLENS, John",
+        "Votes": 20519,
+        "Percent": 51.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MASSEY, William",
+        "Votes": 8904,
+        "Percent": 22.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MACDONALD, Angus",
+        "Votes": 6323,
+        "Percent": 15.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ANDERSON, William",
+        "Votes": 2865,
+        "Percent": 7.2
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "ARROWSMITH, John",
+        "Votes": 1418,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "Gippsland": {
+    "title": "Gippsland, VIC   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "BOWDEN, George",
+        "Votes": 22824,
+        "Percent": 66.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HAWKINS, Horace",
+        "Votes": 11373,
+        "Percent": 33.3
+      }
+    ]
+  },
+  "Henty": {
+    "title": "Henty, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GULLETT, Jo",
+        "Votes": 22650,
+        "Percent": 55.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DOUBE, Valentine",
+        "Votes": 17548,
+        "Percent": 42.7
+      },
+      {
+        "Party": "ALPN",
+        "Candidate": "DICKER, Charles",
+        "Votes": 858,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "Higgins": {
+    "title": "Higgins, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOLT, Hon Harold",
+        "Votes": 26018,
+        "Percent": 66.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MELTZER, Jules",
+        "Votes": 12909,
+        "Percent": 33.2
+      }
+    ]
+  },
+  "Higinbotham": {
+    "title": "Higinbotham, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TIMSON, Frank",
+        "Votes": 22832,
+        "Percent": 53.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FIELD, Francis",
+        "Votes": 19760,
+        "Percent": 46.4
+      }
+    ]
+  },
+  "Hoddle": {
+    "title": "Hoddle, VIC   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CREMEAN, John",
+        "Votes": 28351,
+        "Percent": 77.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KIRBY, Terence",
+        "Votes": 6593,
+        "Percent": 17.9
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "LOYE, Leslie",
+        "Votes": 1137,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WALLACE, Albert",
+        "Votes": 689,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "Indi": {
+    "title": "Indi, VIC   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EDMONDSON, Charles",
+        "Votes": 13626,
+        "Percent": 36.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BOSTOCK, William",
+        "Votes": 12377,
+        "Percent": 33.3
+      },
+      {
+        "Party": "CP",
+        "Candidate": "NASON, Clive",
+        "Votes": 11157,
+        "Percent": 30.0
+      }
+    ]
+  },
+  "Isaacs": {
+    "title": "Isaacs, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAWORTH, William",
+        "Votes": 21260,
+        "Percent": 54.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BOURKE, John",
+        "Votes": 18100,
+        "Percent": 46.0
+      }
+    ]
+  },
+  "Kooyong": {
+    "title": "Kooyong, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MENZIES, Rt Hon Robert",
+        "Votes": 27912,
+        "Percent": 67.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EWERT, Keith",
+        "Votes": 13691,
+        "Percent": 32.9
+      }
+    ]
+  },
+  "La Trobe": {
+    "title": "La Trobe, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CASEY, Rt Hon Richard",
+        "Votes": 23645,
+        "Percent": 58.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BALCOMBE, Robert",
+        "Votes": 16714,
+        "Percent": 41.4
+      }
+    ]
+  },
+  "Lalor": {
+    "title": "Lalor, VIC   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "POLLARD, Hon Reginald",
+        "Votes": 20264,
+        "Percent": 51.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BELLAIR, John",
+        "Votes": 18970,
+        "Percent": 48.4
+      }
+    ]
+  },
+  "Mcmillan": {
+    "title": "Mcmillan, VIC   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KELTIE, Adam",
+        "Votes": 14263,
+        "Percent": 38.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROWN, Geoffrey",
+        "Votes": 11938,
+        "Percent": 32.4
+      },
+      {
+        "Party": "CP",
+        "Candidate": "MAY, Robert",
+        "Votes": 9714,
+        "Percent": 26.4
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "HAMILTON, Robert",
+        "Votes": 912,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "Mallee": {
+    "title": "Mallee, VIC   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "TURNBULL, Winton",
+        "Votes": 22658,
+        "Percent": 64.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, Alfred",
+        "Votes": 12410,
+        "Percent": 35.4
+      }
+    ]
+  },
+  "Maribyrnong": {
+    "title": "Maribyrnong, VIC   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DRAKEFORD, Hon Arthur",
+        "Votes": 26639,
+        "Percent": 61.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HANNAN, George",
+        "Votes": 14675,
+        "Percent": 34.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NEYLAND, Colin",
+        "Votes": 1751,
+        "Percent": 4.1
+      }
+    ]
+  },
+  "Melbourne": {
+    "title": "Melbourne, VIC   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CALWELL, Hon Arthur",
+        "Votes": 24187,
+        "Percent": 64.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCGINNES, Desmond",
+        "Votes": 9366,
+        "Percent": 25.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCLAREN, Charles",
+        "Votes": 1350,
+        "Percent": 3.6
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "O'DAY, Dr Gerald",
+        "Votes": 1244,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NEYLAND, Niven",
+        "Votes": 794,
+        "Percent": 2.1
+      },
+      {
+        "Party": "ALPN",
+        "Candidate": "WILSON, Philip",
+        "Votes": 576,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "Melbourne Ports": {
+    "title": "Melbourne Ports, VIC   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HOLLOWAY, Rt Hon Jack",
+        "Votes": 26792,
+        "Percent": 67.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BLOCK, Arthur",
+        "Votes": 12690,
+        "Percent": 32.1
+      }
+    ]
+  },
+  "Murray": {
+    "title": "Murray, VIC   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "MCEWEN, Hon John",
+        "Votes": 23778,
+        "Percent": 63.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DEVLIN, Desmond",
+        "Votes": 13650,
+        "Percent": 36.5
+      }
+    ]
+  },
+  "Wannon": {
+    "title": "Wannon, VIC   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCLEOD, Donald",
+        "Votes": 16905,
+        "Percent": 47.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MACKINNON, Daniel",
+        "Votes": 13235,
+        "Percent": 36.9
+      },
+      {
+        "Party": "CP",
+        "Candidate": "MARFELL, Helena",
+        "Votes": 5716,
+        "Percent": 15.9
+      }
+    ]
+  },
+  "Wills": {
+    "title": "Wills, VIC   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BRYSON, William",
+        "Votes": 18918,
+        "Percent": 44.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TYRER, Allan",
+        "Votes": 15101,
+        "Percent": 35.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLACKBURN, Doris",
+        "Votes": 8801,
+        "Percent": 20.6
+      }
+    ]
+  },
+  "Wimmera": {
+    "title": "Wimmera, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LAWRENCE, William",
+        "Votes": 13761,
+        "Percent": 39.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SUDHOLZ, Cyril",
+        "Votes": 11184,
+        "Percent": 31.7
+      },
+      {
+        "Party": "CP",
+        "Candidate": "WADE, Harrie",
+        "Votes": 10343,
+        "Percent": 29.3
+      }
+    ]
+  },
+  "Yarra": {
+    "title": "Yarra, VIC   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KEON, Stan",
+        "Votes": 23211,
+        "Percent": 58.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BARRINGTON, Charles",
+        "Votes": 14189,
+        "Percent": 35.9
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "PRESCOTT, John",
+        "Votes": 1098,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VINES, Wenham",
+        "Votes": 991,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "Bowman": {
+    "title": "Bowman, QLD   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCCOLM, Malcolm",
+        "Votes": 20090,
+        "Percent": 53.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COUTTS, Wilfred",
+        "Votes": 16886,
+        "Percent": 44.9
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "HANSON, Mabel",
+        "Votes": 656,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "Brisbane": {
+    "title": "Brisbane, QLD   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LAWSON, Hon George",
+        "Votes": 18890,
+        "Percent": 52.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LONG, James",
+        "Votes": 15269,
+        "Percent": 42.3
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "GRAHAM, Albert",
+        "Votes": 1954,
+        "Percent": 5.4
+      }
+    ]
+  },
+  "Capricornia": {
+    "title": "Capricornia, QLD   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PEARCE, George",
+        "Votes": 16949,
+        "Percent": 52.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GARDNER, Harold",
+        "Votes": 15121,
+        "Percent": 46.6
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "ROBERTSON, Edward",
+        "Votes": 413,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "Darling Downs": {
+    "title": "Darling Downs, QLD   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SWARTZ, Reginald",
+        "Votes": 21261,
+        "Percent": 58.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KANE, James",
+        "Votes": 11281,
+        "Percent": 31.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FARQUHARSON, Charles",
+        "Votes": 3041,
+        "Percent": 8.4
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MULLALY, Raymond",
+        "Votes": 281,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LACAZE, Charles",
+        "Votes": 260,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "Dawson": {
+    "title": "Dawson, QLD   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "DAVIDSON, Charles",
+        "Votes": 19302,
+        "Percent": 58.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BURNS, George",
+        "Votes": 12389,
+        "Percent": 37.5
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "ANDREW, Richard",
+        "Votes": 1379,
+        "Percent": 4.2
+      }
+    ]
+  },
+  "Fisher": {
+    "title": "Fisher, QLD   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ADERMANN, Charles",
+        "Votes": 26630,
+        "Percent": 66.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROBERTS, Edmund",
+        "Votes": 9980,
+        "Percent": 24.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LOGAN, Norman",
+        "Votes": 3419,
+        "Percent": 8.5
+      }
+    ]
+  },
+  "Griffith": {
+    "title": "Griffith, QLD   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BERRY, Douglas",
+        "Votes": 18381,
+        "Percent": 51.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CONELAN, William",
+        "Votes": 16464,
+        "Percent": 46.3
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "SLATER, Anna",
+        "Votes": 727,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "Herbert": {
+    "title": "Herbert, QLD   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "EDMONDS, William",
+        "Votes": 17395,
+        "Percent": 49.4
+      },
+      {
+        "Party": "CP",
+        "Candidate": "JEFFREY, Douglas",
+        "Votes": 15973,
+        "Percent": 45.4
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "HENDERSON, James",
+        "Votes": 1847,
+        "Percent": 5.2
+      }
+    ]
+  },
+  "Kennedy": {
+    "title": "Kennedy, QLD   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RIORDAN, Hon William",
+        "Votes": 15127,
+        "Percent": 55.1
+      },
+      {
+        "Party": "CP",
+        "Candidate": "BROWNE, Sylvester",
+        "Votes": 11397,
+        "Percent": 41.5
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "WYPER, Eric",
+        "Votes": 947,
+        "Percent": 3.4
+      }
+    ]
+  },
+  "Leichhardt": {
+    "title": "Leichhardt, QLD   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "GILMORE, Thomas",
+        "Votes": 16291,
+        "Percent": 49.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HOLDCROFT, Cecil",
+        "Votes": 13894,
+        "Percent": 42.3
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "LEINSTER, Ralph",
+        "Votes": 1141,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MACKEY, Thomas",
+        "Votes": 1106,
+        "Percent": 3.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEOUGH, Leslie",
+        "Votes": 424,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "Lilley": {
+    "title": "Lilley, QLD   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WIGHT, Bruce",
+        "Votes": 22488,
+        "Percent": 59.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HADLEY, James",
+        "Votes": 15368,
+        "Percent": 40.6
+      }
+    ]
+  },
+  "Mcpherson": {
+    "title": "Mcpherson, QLD   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "FADDEN, Rt Hon Arthur",
+        "Votes": 24263,
+        "Percent": 74.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HILTON, John",
+        "Votes": 8436,
+        "Percent": 25.8
+      }
+    ]
+  },
+  "Maranoa": {
+    "title": "Maranoa, QLD   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "RUSSELL, Charles",
+        "Votes": 18652,
+        "Percent": 59.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LARACY, Martin",
+        "Votes": 12657,
+        "Percent": 40.4
+      }
+    ]
+  },
+  "Moreton": {
+    "title": "Moreton, QLD   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FRANCIS, Hon Josiah",
+        "Votes": 25125,
+        "Percent": 61.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "THIEME, William",
+        "Votes": 14915,
+        "Percent": 36.4
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "YARROW, William",
+        "Votes": 904,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "Oxley": {
+    "title": "Oxley, QLD   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CAMERON, Dr Donald",
+        "Votes": 14895,
+        "Percent": 42.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MARGINSON, Evan",
+        "Votes": 14268,
+        "Percent": 40.3
+      },
+      {
+        "Party": "CP",
+        "Candidate": "MARTIN, John",
+        "Votes": 5658,
+        "Percent": 16.0
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "CRISP, Edmund",
+        "Votes": 576,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "Petrie": {
+    "title": "Petrie, QLD   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HULME, Alan",
+        "Votes": 23803,
+        "Percent": 59.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MARTIN, Samuel",
+        "Votes": 14593,
+        "Percent": 36.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RYAN, James",
+        "Votes": 1488,
+        "Percent": 3.7
+      }
+    ]
+  },
+  "Ryan": {
+    "title": "Ryan, QLD   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DRURY, Nigel",
+        "Votes": 24917,
+        "Percent": 60.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EASTMENT, Leonard",
+        "Votes": 16431,
+        "Percent": 39.7
+      }
+    ]
+  },
+  "Wide Bay": {
+    "title": "Wide Bay, QLD   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "CORSER, Bernard",
+        "Votes": 22037,
+        "Percent": 56.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROUND, Samuel",
+        "Votes": 10941,
+        "Percent": 28.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCDOWELL, Robert",
+        "Votes": 6037,
+        "Percent": 15.5
+      }
+    ]
+  },
+  "Adelaide": {
+    "title": "Adelaide, SA   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHAMBERS, Hon Cyril",
+        "Votes": 23823,
+        "Percent": 59.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HARFORD, Basil",
+        "Votes": 14820,
+        "Percent": 37.2
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "WATT, Elsie",
+        "Votes": 683,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOHERTY, Christopher",
+        "Votes": 504,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "Angas": {
+    "title": "Angas, SA   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DOWNER, Alexander",
+        "Votes": 23987,
+        "Percent": 60.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STRACHAN, Albert",
+        "Votes": 13615,
+        "Percent": 34.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WHITTLE, Ralph",
+        "Votes": 1857,
+        "Percent": 4.7
+      }
+    ]
+  },
+  "Barker": {
+    "title": "Barker, SA   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CAMERON, Hon Archie",
+        "Votes": 26034,
+        "Percent": 64.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KLAR, John",
+        "Votes": 13354,
+        "Percent": 33.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GARTNER, John",
+        "Votes": 1004,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "Boothby": {
+    "title": "Boothby, SA   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCLEAY, John",
+        "Votes": 24897,
+        "Percent": 61.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WELLS, Ralph",
+        "Votes": 15714,
+        "Percent": 38.7
+      }
+    ]
+  },
+  "Grey": {
+    "title": "Grey, SA   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RUSSELL, Edgar",
+        "Votes": 20465,
+        "Percent": 54.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ANDREWS, Edward",
+        "Votes": 17145,
+        "Percent": 45.6
+      }
+    ]
+  },
+  "Hindmarsh": {
+    "title": "Hindmarsh, SA   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CAMERON, Clyde",
+        "Votes": 29260,
+        "Percent": 69.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TURNBULL, Albert",
+        "Votes": 12736,
+        "Percent": 30.3
+      }
+    ]
+  },
+  "Kingston": {
+    "title": "Kingston, SA   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HANDBY, Herbert",
+        "Votes": 23713,
+        "Percent": 51.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SHEEHY, Thomas",
+        "Votes": 22233,
+        "Percent": 48.4
+      }
+    ]
+  },
+  "Port Adelaide": {
+    "title": "Port Adelaide, SA   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THOMPSON, Bert",
+        "Votes": 31977,
+        "Percent": 71.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BOSCOMBE, Frederick",
+        "Votes": 11879,
+        "Percent": 26.5
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "SYMON, Peter",
+        "Votes": 889,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "Sturt": {
+    "title": "Sturt, SA   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Keith",
+        "Votes": 21157,
+        "Percent": 50.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCMULLIN, Leslie",
+        "Votes": 18828,
+        "Percent": 45.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Leonard",
+        "Votes": 1628,
+        "Percent": 3.9
+      }
+    ]
+  },
+  "Wakefield": {
+    "title": "Wakefield, SA   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCBRIDE, Hon Philip",
+        "Votes": 23847,
+        "Percent": 61.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HASSE, Cyril",
+        "Votes": 15008,
+        "Percent": 38.6
+      }
+    ]
+  },
+  "Canning": {
+    "title": "Canning, WA   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "HAMILTON, Leonard",
+        "Votes": 12159,
+        "Percent": 36.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GILLESPIE, William",
+        "Votes": 10244,
+        "Percent": 31.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SCADDAN, Thomas",
+        "Votes": 10002,
+        "Percent": 30.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NEVILLE, Arthur",
+        "Votes": 594,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "Curtin": {
+    "title": "Curtin, WA   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HASLUCK, Paul",
+        "Votes": 24857,
+        "Percent": 61.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LONNIE, William",
+        "Votes": 15781,
+        "Percent": 38.8
+      }
+    ]
+  },
+  "Forrest": {
+    "title": "Forrest, WA   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LEMMON, Hon Nelson",
+        "Votes": 15935,
+        "Percent": 43.8
+      },
+      {
+        "Party": "CP",
+        "Candidate": "POTTS, Arnold",
+        "Votes": 10003,
+        "Percent": 27.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FREETH, Gordon",
+        "Votes": 9828,
+        "Percent": 27.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOLITHO, James",
+        "Votes": 642,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "Fremantle": {
+    "title": "Fremantle, WA   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BEAZLEY, Kim",
+        "Votes": 22463,
+        "Percent": 54.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SNEDDEN, Billy",
+        "Votes": 17918,
+        "Percent": 43.6
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "TROY, Patrick",
+        "Votes": 675,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "Kalgoorlie": {
+    "title": "Kalgoorlie, WA   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JOHNSON, Hon Victor",
+        "Votes": 18127,
+        "Percent": 62.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PORTEUS, John",
+        "Votes": 10902,
+        "Percent": 37.6
+      }
+    ]
+  },
+  "Moore": {
+    "title": "Moore, WA   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BYRNE, Kevin",
+        "Votes": 12282,
+        "Percent": 38.0
+      },
+      {
+        "Party": "CP",
+        "Candidate": "LESLIE, Hugh",
+        "Votes": 12244,
+        "Percent": 37.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JONES, Kenneth",
+        "Votes": 7836,
+        "Percent": 24.2
+      }
+    ]
+  },
+  "Perth": {
+    "title": "Perth, WA   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BURKE, Thomas",
+        "Votes": 18412,
+        "Percent": 47.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HACK, Gordon",
+        "Votes": 17858,
+        "Percent": 46.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COLLINS, James",
+        "Votes": 1756,
+        "Percent": 4.6
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "KELLY, James",
+        "Votes": 486,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "Swan": {
+    "title": "Swan, WA   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GRAYDEN, William",
+        "Votes": 22821,
+        "Percent": 52.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WEBB, Harry",
+        "Votes": 20699,
+        "Percent": 47.6
+      }
+    ]
+  },
+  "Bass": {
+    "title": "Bass, TAS   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KEKWICK, Bruce",
+        "Votes": 15686,
+        "Percent": 50.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BARNARD, Hon Claude",
+        "Votes": 15312,
+        "Percent": 49.4
+      }
+    ]
+  },
+  "Darwin": {
+    "title": "Darwin, TAS   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LYONS, Dame Enid",
+        "Votes": 16455,
+        "Percent": 56.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KIRKPATRICK, Harold",
+        "Votes": 12602,
+        "Percent": 43.4
+      }
+    ]
+  },
+  "Denison": {
+    "title": "Denison, TAS   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TOWNLEY, Athol",
+        "Votes": 16431,
+        "Percent": 55.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COSGROVE, Henry",
+        "Votes": 13394,
+        "Percent": 44.9
+      }
+    ]
+  },
+  "Franklin": {
+    "title": "Franklin, TAS   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FALKINDER, Charles",
+        "Votes": 17644,
+        "Percent": 58.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FROST, Stewart",
+        "Votes": 12790,
+        "Percent": 42.0
+      }
+    ]
+  },
+  "Wilmot": {
+    "title": "Wilmot, TAS   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DUTHIE, Gilbert",
+        "Votes": 16150,
+        "Percent": 52.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FURMAGE, Richard",
+        "Votes": 14532,
+        "Percent": 47.4
+      }
+    ]
+  },
+  "Northern Territory": {
+    "title": "Northern Territory, NT   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "NELSON, John",
+        "Votes": 2303,
+        "Percent": 44.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLAIN, Adair",
+        "Votes": 1932,
+        "Percent": 37.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WEBSTER, Victor",
+        "Votes": 961,
+        "Percent": 18.5
+      }
+    ]
+  },
+  "Australian Capital Territory": {
+    "title": "Australian Capital Territory, ACT   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "RHODES, Sidney",
+        "Votes": 4823,
+        "Percent": 43.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NOTT, Dr Lewis",
+        "Votes": 3475,
+        "Percent": 31.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MOIR, Malcolm",
+        "Votes": 2510,
+        "Percent": 22.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ASHTON, Jessie",
+        "Votes": 366,
+        "Percent": 3.3
+      }
+    ]
+  }
+}

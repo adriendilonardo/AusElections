@@ -1,0 +1,77 @@
+{
+  "1949": {
+    "title": "Hoddle, VIC   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CREMEAN, John",
+        "Votes": 28351,
+        "Percent": 77.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KIRBY, Terence",
+        "Votes": 6593,
+        "Percent": 17.9
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "LOYE, Leslie",
+        "Votes": 1137,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WALLACE, Albert",
+        "Votes": 689,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "1951": {
+    "title": "Hoddle, VIC   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "EASTON, Ernest",
+        "Votes": "6193",
+        "Percent": 17.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CREMEAN, John",
+        "Votes": "27685",
+        "Percent": 78.7
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "LOYE, Leslie",
+        "Votes": "1310",
+        "Percent": 3.7
+      }
+    ]
+  },
+  "1954": {
+    "title": "Hoddle, VIC   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BYRNE, Desmond",
+        "Votes": "6302",
+        "Percent": 20.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CREMEAN, John",
+        "Votes": "23439",
+        "Percent": 75.8
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "PRESCOTT, John",
+        "Votes": "1198",
+        "Percent": 3.9
+      }
+    ]
+  }
+}

@@ -1,0 +1,1111 @@
+{
+  "1946": {
+    "title": "Forrest, WA   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LEMMON, Nelson",
+        "Votes": 23944,
+        "Percent": 50.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CUMMING, James",
+        "Votes": 13349,
+        "Percent": 28.0
+      },
+      {
+        "Party": "CP",
+        "Candidate": "NORTON, Jasper",
+        "Votes": 10466,
+        "Percent": 21.9
+      }
+    ]
+  },
+  "1949": {
+    "title": "Forrest, WA   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LEMMON, Hon Nelson",
+        "Votes": 15935,
+        "Percent": 43.8
+      },
+      {
+        "Party": "CP",
+        "Candidate": "POTTS, Arnold",
+        "Votes": 10003,
+        "Percent": 27.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FREETH, Gordon",
+        "Votes": 9828,
+        "Percent": 27.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOLITHO, James",
+        "Votes": 642,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "1951": {
+    "title": "Forrest, WA   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FREETH, Gordon",
+        "Votes": "22287",
+        "Percent": 59.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, Frederick",
+        "Votes": "15171",
+        "Percent": 40.5
+      }
+    ]
+  },
+  "1954": {
+    "title": "Forrest, WA   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FREETH, Gordon",
+        "Votes": "23643",
+        "Percent": 57.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "O'CONNOR, Frederick",
+        "Votes": "17331",
+        "Percent": 42.3
+      }
+    ]
+  },
+  "1955": {
+    "title": "Forrest, WA   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FREETH, Gordon",
+        "Votes": "Unopposed",
+        "Percent": 100.0
+      }
+    ]
+  },
+  "1958": {
+    "title": "Forrest, WA   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FREETH, Gordon",
+        "Votes": 19273,
+        "Percent": 51.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STAPLETON, Ernest",
+        "Votes": 14480,
+        "Percent": 38.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ADDIS, Arthur",
+        "Votes": 3600,
+        "Percent": 9.6
+      }
+    ]
+  },
+  "1961": {
+    "title": "Forrest, WA   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FREETH, Hon Gordon",
+        "Votes": 22275,
+        "Percent": 57.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STAPLETON, Ernest",
+        "Votes": 16462,
+        "Percent": 42.5
+      }
+    ]
+  },
+  "1963": {
+    "title": "Forrest, WA   1963",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "OATES, Frank",
+        "Votes": "3304",
+        "Percent": 8.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FREETH, Hon Gordon",
+        "Votes": "20921",
+        "Percent": 52.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMITHSON, Robert",
+        "Votes": "15899",
+        "Percent": 39.6
+      }
+    ]
+  },
+  "1966": {
+    "title": "Forrest, WA   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FREETH, Hon Gordon",
+        "Votes": 20834,
+        "Percent": 51.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KIRWAN, Frank",
+        "Votes": 15796,
+        "Percent": 38.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BAILEY, Maurice",
+        "Votes": 4163,
+        "Percent": 10.2
+      }
+    ]
+  },
+  "1969": {
+    "title": "Forrest, WA   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KIRWAN, Frank",
+        "Votes": 22149,
+        "Percent": 47.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FREETH, Hon Gordon",
+        "Votes": 19955,
+        "Percent": 42.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SULLIVAN, Henry",
+        "Votes": 3332,
+        "Percent": 7.2
+      },
+      {
+        "Party": "AP",
+        "Candidate": "MONTGOMERY, Anthony",
+        "Votes": 1106,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "1972": {
+    "title": "Forrest, WA   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "KIRWAN, Frank",
+        "Votes": 20843,
+        "Percent": 43.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DRUMMOND, Peter",
+        "Votes": 15304,
+        "Percent": 32.0
+      },
+      {
+        "Party": "CP",
+        "Candidate": "REID, David",
+        "Votes": 9723,
+        "Percent": 20.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FLEETON, John",
+        "Votes": 1483,
+        "Percent": 3.1
+      },
+      {
+        "Party": "AP",
+        "Candidate": "MOFFET, Russell",
+        "Votes": 455,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1974": {
+    "title": "Forrest, WA   1974",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DRUMMOND, Peter",
+        "Votes": 24860,
+        "Percent": 46.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NEWMAN, Albert",
+        "Votes": 19801,
+        "Percent": 37.2
+      },
+      {
+        "Party": NaN,
+        "Candidate": "BEST, Terence",
+        "Votes": 7967,
+        "Percent": 15.0
+      },
+      {
+        "Party": "AP",
+        "Candidate": "GIBSON, Lawrence",
+        "Votes": 569,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1975": {
+    "title": "Forrest, WA   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DRUMMOND, Peter",
+        "Votes": 30158,
+        "Percent": 54.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DAVY, Geoffrey",
+        "Votes": 19075,
+        "Percent": 34.6
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "KLOPPER, Noel",
+        "Votes": 5134,
+        "Percent": 9.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DUGGAN, Noel",
+        "Votes": 484,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HORDACRE, Duncan",
+        "Votes": 290,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1977": {
+    "title": "Forrest, WA   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DRUMMOND, Peter",
+        "Votes": 30723,
+        "Percent": 48.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DRAKE-BROCKMAN, Allan",
+        "Votes": 17640,
+        "Percent": 27.8
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "GARDINER, John",
+        "Votes": 8183,
+        "Percent": 12.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STEWART, Donald",
+        "Votes": 4466,
+        "Percent": 7.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CRABB, Reginald",
+        "Votes": 2495,
+        "Percent": 3.9
+      }
+    ]
+  },
+  "1980": {
+    "title": "Forrest, WA   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DRUMMOND, Peter",
+        "Votes": 31005,
+        "Percent": 51.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MACMILLAN, Walter",
+        "Votes": 21749,
+        "Percent": 36.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BUSSELL, Alfred",
+        "Votes": 4206,
+        "Percent": 7.0
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "TIMMS, Francis",
+        "Votes": 3468,
+        "Percent": 5.7
+      }
+    ]
+  },
+  "1983": {
+    "title": "Forrest, WA   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DRUMMOND, Peter",
+        "Votes": 32076,
+        "Percent": 48.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CHURCHES, David",
+        "Votes": 29643,
+        "Percent": 45.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STEWART, Donald",
+        "Votes": 2416,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUSSELL, Alfred",
+        "Votes": 1485,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "1984": {
+    "title": "Forrest, WA   1984",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "DRUMMOND, Peter",
+        "Votes": 30009,
+        "Percent": 50.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HOLLAND, Peter",
+        "Votes": 27177,
+        "Percent": 45.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FUSSELL, Anne",
+        "Votes": 1701,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUSSELL, Alfred",
+        "Votes": 646,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1987": {
+    "title": "Forrest, WA   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PROSSER, Geoffrey",
+        "Votes": 27925,
+        "Percent": 44.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "THOMPSON, Gerry",
+        "Votes": 26764,
+        "Percent": 42.2
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "CHAMBERS, Joe",
+        "Votes": 5175,
+        "Percent": 8.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CHURCHES, David",
+        "Votes": 3553,
+        "Percent": 5.6
+      }
+    ]
+  },
+  "1990": {
+    "title": "Forrest, WA   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PROSSER, Geoff",
+        "Votes": 31770,
+        "Percent": 48.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KEELY, Simon",
+        "Votes": 19219,
+        "Percent": 29.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WATSON, Liz",
+        "Votes": 5742,
+        "Percent": 8.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CHURCHES, David",
+        "Votes": 4760,
+        "Percent": 7.2
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BEATTY, Rick",
+        "Votes": 4245,
+        "Percent": 6.5
+      }
+    ]
+  },
+  "1993": {
+    "title": "Forrest, WA   1993",
+    "rows": [
+      {
+        "Party": "GRN",
+        "Candidate": "READING, Jill",
+        "Votes": "5869",
+        "Percent": 8.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PROSSER, Geoff",
+        "Votes": "40099",
+        "Percent": 56.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CHURCHES, David",
+        "Votes": "3581",
+        "Percent": 5.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PROCTER, Peter",
+        "Votes": "21964",
+        "Percent": 30.7
+      }
+    ]
+  },
+  "1996": {
+    "title": "Forrest, WA   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PROSSER, Geoff",
+        "Votes": 43067,
+        "Percent": 57.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MILLS, Ann",
+        "Votes": 21920,
+        "Percent": 29.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SCHUR, Basil",
+        "Votes": 5537,
+        "Percent": 7.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HELLYER, Ronald",
+        "Votes": 3864,
+        "Percent": 5.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MARSDEN, Alexander",
+        "Votes": 1181,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1998": {
+    "title": "Forrest, WA   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PROSSER, Hon Geoff",
+        "Votes": 32171,
+        "Percent": 42.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DEAN, Tony",
+        "Votes": 20332,
+        "Percent": 27.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "EMBRY, Paddy",
+        "Votes": 10029,
+        "Percent": 13.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LLEWELLYN, Paul",
+        "Votes": 5303,
+        "Percent": 7.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "THOMAS, Steve",
+        "Votes": 2354,
+        "Percent": 3.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DENMAN, Alf",
+        "Votes": 2253,
+        "Percent": 3.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "CUMMINS, Jim",
+        "Votes": 1316,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STONE, Ted",
+        "Votes": 897,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOUST, Jon",
+        "Votes": 424,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WATSON, John",
+        "Votes": 117,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "Forrest, WA   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PROSSER, Hon Geoff",
+        "Votes": 34392,
+        "Percent": 46.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Tresslyn",
+        "Votes": 22872,
+        "Percent": 30.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "GIORGI, Alan",
+        "Votes": 7510,
+        "Percent": 10.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LLEWELLYN, Paul",
+        "Votes": 5359,
+        "Percent": 7.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WYLIE, Alison",
+        "Votes": 2477,
+        "Percent": 3.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "CALDWELL, Charles",
+        "Votes": 1397,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KIRWAN, Megan",
+        "Votes": 433,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARVEY, Arthur",
+        "Votes": 281,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2004": {
+    "title": "Forrest, WA   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PROSSER, Hon Geoff",
+        "Votes": 41422,
+        "Percent": 53.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SMITH, Tresslyn",
+        "Votes": 21665,
+        "Percent": 27.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GIBSON, Kingsley",
+        "Votes": 6549,
+        "Percent": 8.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "GIORGI, Alan",
+        "Votes": 2667,
+        "Percent": 3.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WELCH, Adam",
+        "Votes": 1311,
+        "Percent": 1.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ROSE, Linda",
+        "Votes": 1281,
+        "Percent": 1.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "FLANEGAN, Shane",
+        "Votes": 1242,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VAGG, Ken",
+        "Votes": 1075,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TUFFNELL, Ian",
+        "Votes": 334,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2007": {
+    "title": "Forrest, WA   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MARINO, Nola",
+        "Votes": 38928,
+        "Percent": 45.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MACFARLANE, Peter",
+        "Votes": 25883,
+        "Percent": 30.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRUNNING, Noel",
+        "Votes": 9924,
+        "Percent": 11.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GIBSON, Kingsley",
+        "Votes": 7150,
+        "Percent": 8.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "LEWIS, John",
+        "Votes": 1643,
+        "Percent": 1.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "KNOLL, Leighton",
+        "Votes": 1150,
+        "Percent": 1.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "YARDLEY, Jodie",
+        "Votes": 928,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TUFFNELL, Ian",
+        "Votes": 144,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2010": {
+    "title": "Forrest, WA   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MARINO, Nola",
+        "Votes": 39460,
+        "Percent": 49.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JARVIS, Jackie",
+        "Votes": 22724,
+        "Percent": 28.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PETERSEN, Luke",
+        "Votes": 10863,
+        "Percent": 13.5
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "HILL, Cale",
+        "Votes": 4822,
+        "Percent": 6.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CUSTERS, Bev",
+        "Votes": 1573,
+        "Percent": 2.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "HERRIDGE, Lee",
+        "Votes": 1158,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2013": {
+    "title": "Forrest, WA   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MARINO, Nola",
+        "Votes": 42640,
+        "Percent": 49.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BORLINI, John",
+        "Votes": 21579,
+        "Percent": 25.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TAYLER, Gordon",
+        "Votes": 8136,
+        "Percent": 9.5
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "ROSE, Michael",
+        "Votes": 5338,
+        "Percent": 6.3
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "DABROWSKI, Edward",
+        "Votes": 4301,
+        "Percent": 5.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARNETT, Wayne",
+        "Votes": 1374,
+        "Percent": 1.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CUSTERS, Bev",
+        "Votes": 1270,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MORIEN, Mark",
+        "Votes": 581,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TUFNELL, Ian",
+        "Votes": 204,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2016": {
+    "title": "Forrest, WA   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MARINO, Nola",
+        "Votes": 41869,
+        "Percent": 49.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LOUD, Lorrae",
+        "Votes": 19596,
+        "Percent": 23.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "READING, Jill",
+        "Votes": 10137,
+        "Percent": 12.0
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "PILKINGTON, Luke",
+        "Votes": 4306,
+        "Percent": 5.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SLATER, Ross",
+        "Votes": 2896,
+        "Percent": 3.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FISHLOCK, David",
+        "Votes": 2375,
+        "Percent": 2.8
+      },
+      {
+        "Party": "AC",
+        "Candidate": "DABROWSKI, Edward",
+        "Votes": 1858,
+        "Percent": 2.2
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "WHATELY, Jennifer",
+        "Votes": 1654,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "2019": {
+    "title": "Forrest, WA   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MARINO, Nola",
+        "Votes": 47470,
+        "Percent": 52.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SANFORD, Wayne",
+        "Votes": 19126,
+        "Percent": 21.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BOSHAMMER, Nerilee",
+        "Votes": 11645,
+        "Percent": 12.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "JAMIESON, Kalven",
+        "Votes": 5371,
+        "Percent": 5.9
+      },
+      {
+        "Party": "SFF",
+        "Candidate": "MCCALL, Mark",
+        "Votes": 2881,
+        "Percent": 3.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "BROMLEY, Dale",
+        "Votes": 1564,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MARSDEN, Alexander",
+        "Votes": 1238,
+        "Percent": 1.4
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "MOLYNEUX, Ian",
+        "Votes": 1167,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2022": {
+    "title": "Forrest, WA   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MARINO, Hon Nola",
+        "Votes": 41006,
+        "Percent": 43.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ENGLISH, Bronwen",
+        "Votes": 26092,
+        "Percent": 27.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TERRANTROY, Christine",
+        "Votes": 12780,
+        "Percent": 13.4
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MEZGER, Shane",
+        "Votes": 5020,
+        "Percent": 5.3
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "AITKEN, Tracy",
+        "Votes": 2907,
+        "Percent": 3.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "ALLAN, Helen",
+        "Votes": 2426,
+        "Percent": 2.6
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "STEPHENS, Greg",
+        "Votes": 2130,
+        "Percent": 2.2
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MARKHAM, Paul",
+        "Votes": 1577,
+        "Percent": 1.7
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "DUNN, Mailee",
+        "Votes": 1152,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2025": {
+    "title": "Forrest, WA   2025",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SMALL, Ben",
+        "Votes": 31011,
+        "Percent": 31.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DOWDING, Tabitha",
+        "Votes": 22423,
+        "Percent": 22.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHAPMAN, Sue",
+        "Votes": 18206,
+        "Percent": 18.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "van der MEY, Paul",
+        "Votes": 8670,
+        "Percent": 8.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BEARDMAN, Georgia",
+        "Votes": 7840,
+        "Percent": 7.9
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "PEET, Aaron",
+        "Votes": 5131,
+        "Percent": 5.2
+      },
+      {
+        "Party": "NP",
+        "Candidate": "PARSONS, Cam",
+        "Votes": 4771,
+        "Percent": 4.8
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "GREENLAND, Peter",
+        "Votes": 1405,
+        "Percent": 1.4
+      }
+    ]
+  }
+}

@@ -1,0 +1,767 @@
+{
+  "1984": {
+    "title": "Page, NSW   1984",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "ROBINSON, Hon Ian",
+        "Votes": 27883,
+        "Percent": 47.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MORRIS, Brian",
+        "Votes": 24144,
+        "Percent": 41.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STONE, Brian",
+        "Votes": 3800,
+        "Percent": 6.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BROWN, Anne",
+        "Votes": 2875,
+        "Percent": 4.9
+      }
+    ]
+  },
+  "1987": {
+    "title": "Page, NSW   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "ROBINSON, Hon Ian",
+        "Votes": 27756,
+        "Percent": 44.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ELLEM, Trevor",
+        "Votes": 21357,
+        "Percent": 34.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EGERTON, William",
+        "Votes": 9149,
+        "Percent": 14.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BROWN, Ivor",
+        "Votes": 4586,
+        "Percent": 7.3
+      }
+    ]
+  },
+  "1990": {
+    "title": "Page, NSW   1990",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "ROBINSON, Hon Ian",
+        "Votes": 30431,
+        "Percent": 43.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WOODS, Harry",
+        "Votes": 26841,
+        "Percent": 37.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LOWE, Charles",
+        "Votes": 6252,
+        "Percent": 8.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FROHLICH, Martin",
+        "Votes": 5456,
+        "Percent": 7.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KITSON, David",
+        "Votes": 956,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, Ivor",
+        "Votes": 885,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1993": {
+    "title": "Page, NSW   1993",
+    "rows": [
+      {
+        "Party": "AD",
+        "Candidate": "INGLIS, Deborah",
+        "Votes": "985",
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "OLEN, Lindsay",
+        "Votes": "377",
+        "Percent": 0.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WOODS, Harry",
+        "Votes": "30772",
+        "Percent": 41.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "IRWIN, Ros",
+        "Votes": "2890",
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LEAN, Graeme",
+        "Votes": "259",
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'NEILL, Rhondda",
+        "Votes": "2446",
+        "Percent": 3.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "EMERSON, Mike",
+        "Votes": "21206",
+        "Percent": 28.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FIKKE, Elle",
+        "Votes": "1766",
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PERRY, Antoinette",
+        "Votes": "134",
+        "Percent": 0.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MARSHALL, Malcolm",
+        "Votes": "12732",
+        "Percent": 17.3
+      }
+    ]
+  },
+  "1996": {
+    "title": "Page, NSW   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WOODS, Harry",
+        "Votes": 28972,
+        "Percent": 38.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "CAUSLEY, Hon Ian",
+        "Votes": 27927,
+        "Percent": 36.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HUNTER, Anne",
+        "Votes": 12132,
+        "Percent": 15.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HIGGINSON, Sue",
+        "Votes": 2971,
+        "Percent": 3.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PAGE, James",
+        "Votes": 2514,
+        "Percent": 3.3
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "ARTHUR, Trevor",
+        "Votes": 1119,
+        "Percent": 1.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "OSHLACK, Al",
+        "Votes": 535,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1998": {
+    "title": "Page, NSW   1998",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "CAUSLEY, Hon Ian",
+        "Votes": 31313,
+        "Percent": 41.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MATHEWS, Joy",
+        "Votes": 26548,
+        "Percent": 35.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "WENBAN, Warren",
+        "Votes": 8473,
+        "Percent": 11.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROGERS, Nicole",
+        "Votes": 3460,
+        "Percent": 4.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WRIGHTSON, Peter",
+        "Votes": 2162,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BEHN, Doug",
+        "Votes": 1498,
+        "Percent": 2.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "CLAUSEN, Graham",
+        "Votes": 1133,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'DRISCOLL, Kath",
+        "Votes": 402,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2001": {
+    "title": "Page, NSW   2001",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "CAUSLEY, Hon Ian",
+        "Votes": 31204,
+        "Percent": 41.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FLANAGAN, Terry",
+        "Votes": 21618,
+        "Percent": 29.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COOPER, Tom",
+        "Votes": 5482,
+        "Percent": 7.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CORKHILL, John",
+        "Votes": 5365,
+        "Percent": 7.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MATHEW, Marie",
+        "Votes": 4039,
+        "Percent": 5.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JEFFERIES, Allen",
+        "Votes": 2012,
+        "Percent": 2.7
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "FELSCH, Arthur",
+        "Votes": 1344,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CANALES, Judy",
+        "Votes": 1274,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POLLARD-O'HARA, Kathryn",
+        "Votes": 1240,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BEHN, Doug",
+        "Votes": 636,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAMPIS, Edda",
+        "Votes": 231,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRIFFITHS, Angela",
+        "Votes": 110,
+        "Percent": 0.1
+      }
+    ]
+  },
+  "2004": {
+    "title": "Page, NSW   2004",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "CAUSLEY, Hon Ian",
+        "Votes": 37637,
+        "Percent": 48.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BELL, Kevin",
+        "Votes": 25702,
+        "Percent": 33.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JACKSON, Mark",
+        "Votes": 8399,
+        "Percent": 10.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ANDERSON, Belinda",
+        "Votes": 2155,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MATEER, Chris",
+        "Votes": 1225,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BEHN, Doug",
+        "Votes": 1216,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRIFFITHS, Angela",
+        "Votes": 839,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FLANAGAN, Tom",
+        "Votes": 460,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2007": {
+    "title": "Page, NSW   2007",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "GULAPTIS, Chris",
+        "Votes": 36813,
+        "Percent": 43.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SAFFIN, Janelle",
+        "Votes": 35636,
+        "Percent": 41.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JONGEN, Theo",
+        "Votes": 6930,
+        "Percent": 8.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BEHN, Doug",
+        "Votes": 1525,
+        "Percent": 1.8
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "AVASALU, Rhonda",
+        "Votes": 1430,
+        "Percent": 1.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MELLAND, Julia",
+        "Votes": 910,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KANE, Tony",
+        "Votes": 877,
+        "Percent": 1.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "VEGA, Mirian",
+        "Votes": 784,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BEATTY, Ben",
+        "Votes": 462,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CULVERWELL, John",
+        "Votes": 143,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2010": {
+    "title": "Page, NSW   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SAFFIN, Janelle",
+        "Votes": 39043,
+        "Percent": 45.7
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "HOGAN, Kevin",
+        "Votes": 36263,
+        "Percent": 42.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JOHNSON, Jeff",
+        "Votes": 7325,
+        "Percent": 8.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BEHN, Doug",
+        "Votes": 1259,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SUMMERVILLE, Merle",
+        "Votes": 896,
+        "Percent": 1.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MELLAND, Julia",
+        "Votes": 598,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2013": {
+    "title": "Page, NSW   2013",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "HOGAN, Kevin",
+        "Votes": 40088,
+        "Percent": 46.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SAFFIN, Janelle",
+        "Votes": 33336,
+        "Percent": 38.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BANKS, Desley",
+        "Votes": 5601,
+        "Percent": 6.5
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "JANES, Stephen",
+        "Votes": 4135,
+        "Percent": 4.8
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "ORDISH, Carol",
+        "Votes": 1394,
+        "Percent": 1.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SMITH, Rod",
+        "Votes": 1381,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2016": {
+    "title": "Page, NSW   2016",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "HOGAN, Kevin",
+        "Votes": 46327,
+        "Percent": 44.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SAFFIN, Janelle",
+        "Votes": 36471,
+        "Percent": 34.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FALLA-RICKETTS, Kudra",
+        "Votes": 11649,
+        "Percent": 11.1
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "ELLIS, Mark",
+        "Votes": 4199,
+        "Percent": 4.0
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "LUDVIK, Anna",
+        "Votes": 2984,
+        "Percent": 2.9
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "MCALPINE, Beth",
+        "Votes": 2982,
+        "Percent": 2.9
+      }
+    ]
+  },
+  "2019": {
+    "title": "Page, NSW   2019",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "HOGAN, Kevin",
+        "Votes": 53672,
+        "Percent": 49.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DEEGAN, Patrick",
+        "Votes": 28507,
+        "Percent": 26.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "REID, Dan",
+        "Votes": 12634,
+        "Percent": 11.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LEVINY, Fiona",
+        "Votes": 5240,
+        "Percent": 4.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MUDGE, John",
+        "Votes": 3460,
+        "Percent": 3.2
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "WATERS, Alison",
+        "Votes": 2646,
+        "Percent": 2.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "WALKER, Peter",
+        "Votes": 1992,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "2022": {
+    "title": "Page, NSW   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "HOGAN, Hon Kevin",
+        "Votes": 47701,
+        "Percent": 45.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DEEGAN, Patrick",
+        "Votes": 19531,
+        "Percent": 18.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LUKE, Dr Hanabeth",
+        "Votes": 13734,
+        "Percent": 13.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MILLER, Kashmir",
+        "Votes": 8863,
+        "Percent": 8.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "PIKE, Donna",
+        "Votes": 5621,
+        "Percent": 5.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "SEARLES, Thomas",
+        "Votes": 3896,
+        "Percent": 3.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "WILLIAMSON, Ian",
+        "Votes": 2431,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IAPA",
+        "Candidate": "DUROUX, Brett",
+        "Votes": 1733,
+        "Percent": 1.7
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "SMITH, Heather",
+        "Votes": 816,
+        "Percent": 0.8
+      },
+      {
+        "Party": "TNL",
+        "Candidate": "KILLINGBECK, Serge",
+        "Votes": 243,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2025": {
+    "title": "Page, NSW   2025",
+    "rows": [
+      {
+        "Party": "NP",
+        "Candidate": "HOGAN, Kevin",
+        "Votes": 48049,
+        "Percent": 44.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BACKHOUS, Wendy",
+        "Votes": 23711,
+        "Percent": 22.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROBINSON, Luke",
+        "Votes": 16265,
+        "Percent": 15.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "NOTTLE, Peter",
+        "Votes": 6132,
+        "Percent": 5.7
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "PIKE, Donna Lee",
+        "Votes": 2932,
+        "Percent": 2.7
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "PIANCA, Josh",
+        "Votes": 2345,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WELLS, Richard",
+        "Votes": 2260,
+        "Percent": 2.1
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "GRADY, Andrew",
+        "Votes": 2235,
+        "Percent": 2.1
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "WILLIAMS, Brenton",
+        "Votes": 1495,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COLLESS, Jordan",
+        "Votes": 1431,
+        "Percent": 1.3
+      },
+      {
+        "Party": "CEC",
+        "Candidate": "BAKER, Jennifer",
+        "Votes": 739,
+        "Percent": 0.7
+      }
+    ]
+  }
+}

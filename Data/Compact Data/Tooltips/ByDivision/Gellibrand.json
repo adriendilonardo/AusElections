@@ -1,0 +1,1046 @@
+{
+  "1949": {
+    "title": "Gellibrand, VIC   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MULLENS, John",
+        "Votes": 20519,
+        "Percent": 51.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MASSEY, William",
+        "Votes": 8904,
+        "Percent": 22.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MACDONALD, Angus",
+        "Votes": 6323,
+        "Percent": 15.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ANDERSON, William",
+        "Votes": 2865,
+        "Percent": 7.2
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "ARROWSMITH, John",
+        "Votes": 1418,
+        "Percent": 3.5
+      }
+    ]
+  },
+  "1951": {
+    "title": "Gellibrand, VIC   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TREWIN, Gordon",
+        "Votes": "9973",
+        "Percent": 25.0
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "DOBBIN, Alexander",
+        "Votes": "4003",
+        "Percent": 10.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MULLENS, John",
+        "Votes": "25863",
+        "Percent": 64.9
+      }
+    ]
+  },
+  "1954": {
+    "title": "Gellibrand, VIC   1954",
+    "rows": [
+      {
+        "Party": "CPA",
+        "Candidate": "DOBBIN, Alexander",
+        "Votes": "2584",
+        "Percent": 6.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MULLENS, John",
+        "Votes": "25637",
+        "Percent": 66.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CARRINGTON, George",
+        "Votes": "10235",
+        "Percent": 26.6
+      }
+    ]
+  },
+  "1955": {
+    "title": "Gellibrand, VIC   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BOWN, John",
+        "Votes": "8741",
+        "Percent": 22.1
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "JOHNSON, Francis",
+        "Votes": "788",
+        "Percent": 2.0
+      },
+      {
+        "Party": "ALPAC",
+        "Candidate": "EUDEY, James",
+        "Votes": "5733",
+        "Percent": 14.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCIVOR, Hector",
+        "Votes": "24324",
+        "Percent": 61.4
+      }
+    ]
+  },
+  "1958": {
+    "title": "Gellibrand, VIC   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCIVOR, Hector",
+        "Votes": 25054,
+        "Percent": 63.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MADDERN, Barry",
+        "Votes": 7211,
+        "Percent": 18.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "EUDEY, James",
+        "Votes": 6760,
+        "Percent": 17.0
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "JOHNSON, Francis",
+        "Votes": 758,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "1961": {
+    "title": "Gellibrand, VIC   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCIVOR, Hector",
+        "Votes": 25634,
+        "Percent": 65.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CANNON, Reginald",
+        "Votes": 8031,
+        "Percent": 20.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ROSZKOWSKI, Jan",
+        "Votes": 4691,
+        "Percent": 11.9
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "JOHNSON, Francis",
+        "Votes": 1000,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1963": {
+    "title": "Gellibrand, VIC   1963",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PRICE, Harley",
+        "Votes": "8183",
+        "Percent": 21.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ROSZKOWSKI, Jan",
+        "Votes": "4375",
+        "Percent": 11.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCIVOR, Hector",
+        "Votes": "25035",
+        "Percent": 64.2
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "DAVIES, David",
+        "Votes": "1395",
+        "Percent": 3.6
+      }
+    ]
+  },
+  "1966": {
+    "title": "Gellibrand, VIC   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCIVOR, Hector",
+        "Votes": 19913,
+        "Percent": 55.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCARTHUR, John",
+        "Votes": 8777,
+        "Percent": 24.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "THOMAS, Robin",
+        "Votes": 4426,
+        "Percent": 12.3
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "DAYKIN, Ian",
+        "Votes": 2890,
+        "Percent": 8.0
+      }
+    ]
+  },
+  "1969": {
+    "title": "Gellibrand, VIC   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCIVOR, Hector",
+        "Votes": 31458,
+        "Percent": 62.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CROUCH, Ian",
+        "Votes": 12245,
+        "Percent": 24.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "THOMAS, Robin",
+        "Votes": 6798,
+        "Percent": 13.5
+      }
+    ]
+  },
+  "1972": {
+    "title": "Gellibrand, VIC   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIS, Ralph",
+        "Votes": 32029,
+        "Percent": 64.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MUNRO, David",
+        "Votes": 12722,
+        "Percent": 25.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "THOMAS, Robin",
+        "Votes": 4951,
+        "Percent": 10.0
+      }
+    ]
+  },
+  "1974": {
+    "title": "Gellibrand, VIC   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIS, Ralph",
+        "Votes": 35578,
+        "Percent": 65.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "STOREY, Cecile",
+        "Votes": 12158,
+        "Percent": 22.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BAILEY, Albert",
+        "Votes": 5009,
+        "Percent": 9.3
+      },
+      {
+        "Party": "AP",
+        "Candidate": "SCHWARZ, Veronica",
+        "Votes": 1252,
+        "Percent": 2.3
+      }
+    ]
+  },
+  "1975": {
+    "title": "Gellibrand, VIC   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIS, Ralph",
+        "Votes": 32669,
+        "Percent": 61.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WILLIAMS, Iris",
+        "Votes": 15779,
+        "Percent": 29.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BAILEY, Albert",
+        "Votes": 4769,
+        "Percent": 9.0
+      }
+    ]
+  },
+  "1977": {
+    "title": "Gellibrand, VIC   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIS, Ralph",
+        "Votes": 38433,
+        "Percent": 58.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ZAJC, Anton",
+        "Votes": 15241,
+        "Percent": 23.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BAILEY, Albert",
+        "Votes": 6606,
+        "Percent": 10.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SMITH, June",
+        "Votes": 5663,
+        "Percent": 8.6
+      }
+    ]
+  },
+  "1980": {
+    "title": "Gellibrand, VIC   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIS, Ralph",
+        "Votes": 43474,
+        "Percent": 65.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KELLY, John",
+        "Votes": 14711,
+        "Percent": 22.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BOLD, Shirley",
+        "Votes": 5955,
+        "Percent": 9.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRYER, Lynne",
+        "Votes": 2268,
+        "Percent": 3.4
+      }
+    ]
+  },
+  "1983": {
+    "title": "Gellibrand, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIS, Ralph",
+        "Votes": 47412,
+        "Percent": 70.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GOUDGE, Peter",
+        "Votes": 14120,
+        "Percent": 21.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOUGHNEY, James",
+        "Votes": 2842,
+        "Percent": 4.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCLEOD, Barry",
+        "Votes": 2695,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TITTER, Augustus",
+        "Votes": 304,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1984": {
+    "title": "Gellibrand, VIC   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIS, Hon Ralph",
+        "Votes": 40777,
+        "Percent": 69.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GOWING, Christopher",
+        "Votes": 14073,
+        "Percent": 24.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BOLD, Shirley",
+        "Votes": 2148,
+        "Percent": 3.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "REED, Margaret",
+        "Votes": 982,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOUGHNEY, James",
+        "Votes": 672,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1987": {
+    "title": "Gellibrand, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIS, Hon Ralph",
+        "Votes": 38451,
+        "Percent": 64.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WARNER, Tim",
+        "Votes": 14506,
+        "Percent": 24.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HOLMES, Susan",
+        "Votes": 3665,
+        "Percent": 6.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VICARI, Rosalba",
+        "Votes": 1569,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOUGHNEY, James",
+        "Votes": 1097,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "1990": {
+    "title": "Gellibrand, VIC   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIS, Hon Ralph",
+        "Votes": 36267,
+        "Percent": 54.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WARNER, Tim",
+        "Votes": 17631,
+        "Percent": 26.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FICHERA, Frank",
+        "Votes": 7023,
+        "Percent": 10.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PHILLIPS, Richard",
+        "Votes": 2487,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VEITCH, Don",
+        "Votes": 1593,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WALTERS, Garry",
+        "Votes": 1478,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1993": {
+    "title": "Gellibrand, VIC   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "STAROPOLI, Leon",
+        "Votes": "585",
+        "Percent": 0.8
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "SANKO, Peter",
+        "Votes": "570",
+        "Percent": 0.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIS, Hon Ralph",
+        "Votes": "47968",
+        "Percent": 69.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PARKER, Alan",
+        "Votes": "2275",
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BENSON, Nada",
+        "Votes": "2236",
+        "Percent": 3.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MACGREGOR, Chris",
+        "Votes": "15779",
+        "Percent": 22.7
+      }
+    ]
+  },
+  "1996": {
+    "title": "Gellibrand, VIC   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WILLIS, Hon Ralph",
+        "Votes": 46533,
+        "Percent": 63.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BEST, John",
+        "Votes": 15978,
+        "Percent": 21.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NGUYEN, Khiet",
+        "Votes": 3889,
+        "Percent": 5.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RICE, Janet",
+        "Votes": 2440,
+        "Percent": 3.2
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "SANKO, Peter",
+        "Votes": 1630,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KELLY, John",
+        "Votes": 1392,
+        "Percent": 1.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SPENCER, Luke",
+        "Votes": 1166,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ANDREACCHIO, Marco",
+        "Votes": 306,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1998": {
+    "title": "Gellibrand, VIC   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ROXON, Nicola",
+        "Votes": 51443,
+        "Percent": 67.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CURSIO, Anthony",
+        "Votes": 15233,
+        "Percent": 20.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WARK, David",
+        "Votes": 3420,
+        "Percent": 4.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "KAVALENKA, Nikolas",
+        "Votes": 2638,
+        "Percent": 3.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "INGHAM, Liz",
+        "Votes": 2180,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHORLAND, Adrian",
+        "Votes": 1078,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POLLOCK, Michael",
+        "Votes": 249,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2001": {
+    "title": "Gellibrand, VIC   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ROXON, Nicola",
+        "Votes": 46124,
+        "Percent": 60.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TANN, Christopher",
+        "Votes": 19191,
+        "Percent": 25.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RICHARDS, Rachel",
+        "Votes": 5256,
+        "Percent": 6.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FINEY, Michele",
+        "Votes": 4831,
+        "Percent": 6.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JOQUERA, Jorge",
+        "Votes": 963,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2004": {
+    "title": "Gellibrand, VIC   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ROXON, Nicola",
+        "Votes": 43383,
+        "Percent": 54.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCCONNELL, David",
+        "Votes": 25069,
+        "Percent": 31.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BUI, Nam",
+        "Votes": 7210,
+        "Percent": 9.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LEE, Dr Michael",
+        "Votes": 1463,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GRAROCK, Max",
+        "Votes": 1032,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ASSAF, Wajde",
+        "Votes": 606,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WALDRON, Linda",
+        "Votes": 508,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ISHERWOOD, Kel",
+        "Votes": 149,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2007": {
+    "title": "Gellibrand, VIC   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ROXON, Nicola",
+        "Votes": 50681,
+        "Percent": 60.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TSENG, Wayne",
+        "Votes": 19220,
+        "Percent": 22.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GIBSON, Robert",
+        "Votes": 7898,
+        "Percent": 9.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'NEIL, Dave",
+        "Votes": 1950,
+        "Percent": 2.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "GARG, Mukesh",
+        "Votes": 1700,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COURTICE, Ben",
+        "Votes": 1334,
+        "Percent": 1.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RICHARDS, Rachel",
+        "Votes": 1088,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOEL, Rodney",
+        "Votes": 285,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "Gellibrand, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "ROXON, Hon Nicola",
+        "Votes": 48971,
+        "Percent": 58.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCCONNELL, David",
+        "Votes": 19070,
+        "Percent": 22.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SOLIN, Rodney",
+        "Votes": 12779,
+        "Percent": 15.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MUMBY, Liz",
+        "Votes": 1440,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COURTICE, Ben",
+        "Votes": 528,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BAPTIST, Tania",
+        "Votes": 475,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2013": {
+    "title": "Gellibrand, VIC   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WATTS, Tim",
+        "Votes": 40236,
+        "Percent": 46.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCCONNELL, David",
+        "Votes": 23343,
+        "Percent": 26.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SWIFT, Rod",
+        "Votes": 14623,
+        "Percent": 16.7
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "SINGLETON, Dwayne",
+        "Votes": 3413,
+        "Percent": 3.9
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "CASHION, Allan",
+        "Votes": 2540,
+        "Percent": 2.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "ARCH, Kerry",
+        "Votes": 2266,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O\u00c2\u0080\u0099NEILL, Anthony",
+        "Votes": 967,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2016": {
+    "title": "Gellibrand, VIC   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WATTS, Tim",
+        "Votes": 42340,
+        "Percent": 46.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WILLIS, Ben",
+        "Votes": 24607,
+        "Percent": 26.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MARSDEN, Jonathon",
+        "Votes": 19855,
+        "Percent": 21.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TRAN, David",
+        "Votes": 4615,
+        "Percent": 5.0
+      }
+    ]
+  },
+  "2019": {
+    "title": "Gellibrand, VIC   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WATTS, Tim",
+        "Votes": 47942,
+        "Percent": 48.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MITCHELL, Anthony",
+        "Votes": 28895,
+        "Percent": 29.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "THOMAS, Bernadette",
+        "Votes": 16303,
+        "Percent": 16.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "BENTLEY, Lisa",
+        "Votes": 5391,
+        "Percent": 5.5
+      }
+    ]
+  },
+  "2022": {
+    "title": "Gellibrand, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WATTS, Tim",
+        "Votes": 39382,
+        "Percent": 42.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CLARK, Monica",
+        "Votes": 24869,
+        "Percent": 27.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RODOREDA, Suzette",
+        "Votes": 15251,
+        "Percent": 16.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "ISAC, Abraham",
+        "Votes": 5080,
+        "Percent": 5.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "BRADDOCK, Rob",
+        "Votes": 2802,
+        "Percent": 3.0
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "GLASSON, Chloe",
+        "Votes": 2185,
+        "Percent": 3.0
+      },
+      {
+        "Party": "VS",
+        "Candidate": "CHARLES, Andrew",
+        "Votes": 1503,
+        "Percent": 1.6
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "MOORS, Sharynn",
+        "Votes": 1135,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2025": {
+    "title": "Gellibrand, VIC   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WATTS, Tim",
+        "Votes": 49044,
+        "Percent": 46.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "REESON, Ben",
+        "Votes": 27539,
+        "Percent": 26.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KRISHNA PANDI, Ponraj",
+        "Votes": 17933,
+        "Percent": 17.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BENNETT, Stephen",
+        "Votes": 6290,
+        "Percent": 6.0
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "GARCIA, Jo",
+        "Votes": 4396,
+        "Percent": 4.2
+      }
+    ]
+  }
+}

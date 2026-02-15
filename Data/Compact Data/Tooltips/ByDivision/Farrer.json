@@ -1,0 +1,1082 @@
+{
+  "1949": {
+    "title": "Farrer, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCGRATH, Thomas",
+        "Votes": 14853,
+        "Percent": 39.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FAIRBAIRN, David",
+        "Votes": 14425,
+        "Percent": 38.2
+      },
+      {
+        "Party": "CP",
+        "Candidate": "MACKAY, John",
+        "Votes": 8099,
+        "Percent": 21.4
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "GOLLAN, William",
+        "Votes": 419,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1951": {
+    "title": "Farrer, NSW   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FAIRBAIRN, David",
+        "Votes": "21678",
+        "Percent": 56.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BYRNES, Daniel",
+        "Votes": "16744",
+        "Percent": 43.6
+      }
+    ]
+  },
+  "1954": {
+    "title": "Farrer, NSW   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FAIRBAIRN, David",
+        "Votes": "22668",
+        "Percent": 57.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BYRNES, Daniel",
+        "Votes": "17005",
+        "Percent": 42.9
+      }
+    ]
+  },
+  "1955": {
+    "title": "Farrer, NSW   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FAIRBAIRN, David",
+        "Votes": "25805",
+        "Percent": 65.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GARLAND, Robert",
+        "Votes": "13361",
+        "Percent": 34.1
+      }
+    ]
+  },
+  "1958": {
+    "title": "Farrer, NSW   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FAIRBAIRN, David",
+        "Votes": 23395,
+        "Percent": 58.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GARLAND, Robert",
+        "Votes": 12441,
+        "Percent": 30.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BRENNAN, William",
+        "Votes": 4412,
+        "Percent": 11.0
+      }
+    ]
+  },
+  "1961": {
+    "title": "Farrer, NSW   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FAIRBAIRN, David",
+        "Votes": 22707,
+        "Percent": 55.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCPHERSON, Herbert",
+        "Votes": 13899,
+        "Percent": 34.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BRENNAN, William",
+        "Votes": 4195,
+        "Percent": 10.3
+      }
+    ]
+  },
+  "1963": {
+    "title": "Farrer, NSW   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "ESLER, Lawrence",
+        "Votes": "3901",
+        "Percent": 9.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FAIRBAIRN, Hon David",
+        "Votes": "24744",
+        "Percent": 58.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCPHERSON, Herbert",
+        "Votes": "13341",
+        "Percent": 31.8
+      }
+    ]
+  },
+  "1966": {
+    "title": "Farrer, NSW   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FAIRBAIRN, Hon David",
+        "Votes": 28700,
+        "Percent": 66.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "THOMSON, Alan",
+        "Votes": 10151,
+        "Percent": 23.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "KEOGH, James",
+        "Votes": 4271,
+        "Percent": 9.9
+      }
+    ]
+  },
+  "1969": {
+    "title": "Farrer, NSW   1969",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FAIRBAIRN, Hon David",
+        "Votes": 26058,
+        "Percent": 54.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MURRAY, Noel",
+        "Votes": 15324,
+        "Percent": 32.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "KEOGH, James",
+        "Votes": 3507,
+        "Percent": 7.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROSS, John",
+        "Votes": 2574,
+        "Percent": 5.4
+      }
+    ]
+  },
+  "1972": {
+    "title": "Farrer, NSW   1972",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FAIRBAIRN, Hon David",
+        "Votes": 24096,
+        "Percent": 47.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ESLER, Kevin",
+        "Votes": 19276,
+        "Percent": 38.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "QUINN, Anthony",
+        "Votes": 3531,
+        "Percent": 7.0
+      },
+      {
+        "Party": "AP",
+        "Candidate": "DONELAN, Michael",
+        "Votes": 3394,
+        "Percent": 6.7
+      }
+    ]
+  },
+  "1974": {
+    "title": "Farrer, NSW   1974",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FAIRBAIRN, Hon David",
+        "Votes": 32125,
+        "Percent": 55.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ESLER, Kevin",
+        "Votes": 22926,
+        "Percent": 39.9
+      },
+      {
+        "Party": "AP",
+        "Candidate": "BENTON, Peter",
+        "Votes": 2477,
+        "Percent": 4.3
+      }
+    ]
+  },
+  "1975": {
+    "title": "Farrer, NSW   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FIFE, Hon Wallace",
+        "Votes": 29570,
+        "Percent": 49.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BRASSIL, Patrick",
+        "Votes": 18100,
+        "Percent": 30.4
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "BOWTELL, Kevin",
+        "Votes": 10403,
+        "Percent": 17.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "QUINN, Anthony",
+        "Votes": 519,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROBINSON, Arthur",
+        "Votes": 514,
+        "Percent": 0.9
+      },
+      {
+        "Party": "AP",
+        "Candidate": "DONELAN, Michael",
+        "Votes": 413,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1977": {
+    "title": "Farrer, NSW   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FIFE, Hon Wallace",
+        "Votes": 40187,
+        "Percent": 61.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FLEMING, Donald",
+        "Votes": 19400,
+        "Percent": 29.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HEALEY, Margaret",
+        "Votes": 3962,
+        "Percent": 6.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GUY, Thomas",
+        "Votes": 718,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NATHAN, Maureen",
+        "Votes": 643,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1980": {
+    "title": "Farrer, NSW   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FIFE, Hon Wallace",
+        "Votes": 39670,
+        "Percent": 58.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIOTT, Lloyd",
+        "Votes": 22856,
+        "Percent": 33.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DOMINISH, Rodney",
+        "Votes": 4613,
+        "Percent": 6.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NATHAN, Maureen",
+        "Votes": 808,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1983": {
+    "title": "Farrer, NSW   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FIFE, Hon Wallace",
+        "Votes": 40060,
+        "Percent": 57.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DIFFEY, Noel",
+        "Votes": 27168,
+        "Percent": 38.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MILNE, Scott",
+        "Votes": 1872,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NATHAN, Maureen",
+        "Votes": 740,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1984": {
+    "title": "Farrer, NSW   1984",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "FISCHER, Tim",
+        "Votes": 26986,
+        "Percent": 43.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "THOMAS, Eric",
+        "Votes": 22238,
+        "Percent": 35.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ROACH, John",
+        "Votes": 12915,
+        "Percent": 20.8
+      }
+    ]
+  },
+  "1987": {
+    "title": "Farrer, NSW   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "FISCHER, Tim",
+        "Votes": 37753,
+        "Percent": 58.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MARKS, Barry",
+        "Votes": 21129,
+        "Percent": 32.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROOKS, Ray",
+        "Votes": 5977,
+        "Percent": 9.2
+      }
+    ]
+  },
+  "1990": {
+    "title": "Farrer, NSW   1990",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "FISCHER, Tim",
+        "Votes": 46091,
+        "Percent": 67.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HIGGINS, Bill",
+        "Votes": 21898,
+        "Percent": 32.2
+      }
+    ]
+  },
+  "1993": {
+    "title": "Farrer, NSW   1993",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "FISCHER, Tim",
+        "Votes": "45447",
+        "Percent": 65.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HIGGINS, Bill",
+        "Votes": "3354",
+        "Percent": 4.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCKENZIE, Ian",
+        "Votes": "20648",
+        "Percent": 29.7
+      }
+    ]
+  },
+  "1996": {
+    "title": "Farrer, NSW   1996",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "FISCHER, Tim",
+        "Votes": 47231,
+        "Percent": 66.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SUMMERS, Lynda",
+        "Votes": 17563,
+        "Percent": 24.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CLANCY, John",
+        "Votes": 3043,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WHITFIELD, Peter",
+        "Votes": 1337,
+        "Percent": 1.9
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "EVERINGHAM, John",
+        "Votes": 1047,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DOWNING, Luke",
+        "Votes": 979,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1998": {
+    "title": "Farrer, NSW   1998",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "FISCHER, Hon Tim",
+        "Votes": 36602,
+        "Percent": 52.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "VOSS, Vivien",
+        "Votes": 16489,
+        "Percent": 23.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MCKINNON, Donald",
+        "Votes": 9664,
+        "Percent": 14.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SHARP, Rohan",
+        "Votes": 2940,
+        "Percent": 4.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DUNCAN-STRELEC, Amanda",
+        "Votes": 2234,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRODERICK, Cliff",
+        "Votes": 728,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOYD, Alan",
+        "Votes": 329,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FURLAN, Maurice",
+        "Votes": 240,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2001": {
+    "title": "Farrer, NSW   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LEY, Sussan",
+        "Votes": 28449,
+        "Percent": 37.7
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BOTT, Bill",
+        "Votes": 17641,
+        "Percent": 23.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MILLEN, Frank",
+        "Votes": 15830,
+        "Percent": 21.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "WILKINSON, Max",
+        "Votes": 4795,
+        "Percent": 6.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SOBEY, Chris",
+        "Votes": 2583,
+        "Percent": 3.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PATERSON, Brett",
+        "Votes": 1959,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TAYLOR, Sue",
+        "Votes": 1254,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WATSON, Stuart",
+        "Votes": 1068,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KREUTZBERGER, Keith",
+        "Votes": 696,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WEYRICH, Tom",
+        "Votes": 485,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GIBSON, Andrew",
+        "Votes": 416,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CORBETT, David",
+        "Votes": 356,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2004": {
+    "title": "Farrer, NSW   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LEY, Sussan",
+        "Votes": 48304,
+        "Percent": 63.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MATHEWS, Nico",
+        "Votes": 17354,
+        "Percent": 22.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROWSTON, Bruce",
+        "Votes": 2732,
+        "Percent": 3.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BURBIDGE, John",
+        "Votes": 1956,
+        "Percent": 2.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "JONES, Ray",
+        "Votes": 1618,
+        "Percent": 2.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "WALLACE, Jennifer",
+        "Votes": 1395,
+        "Percent": 1.8
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "BURN, Ian",
+        "Votes": 1275,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MORGAN, Matt",
+        "Votes": 682,
+        "Percent": 0.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KOVACS, Frank",
+        "Votes": 463,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAHY, Chris",
+        "Votes": 318,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2007": {
+    "title": "Farrer, NSW   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LEY, Hon Sussan",
+        "Votes": 49794,
+        "Percent": 57.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "RYAN, Chris",
+        "Votes": 28238,
+        "Percent": 32.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "STONEHOUSE, Darran",
+        "Votes": 4069,
+        "Percent": 4.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "LEVER, Rhonda",
+        "Votes": 2657,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HENDERSON, Douglas",
+        "Votes": 1088,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MATHERS, Pat",
+        "Votes": 313,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2010": {
+    "title": "Farrer, NSW   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LEY, Hon Sussan",
+        "Votes": 42646,
+        "Percent": 51.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EMMERY, Christian",
+        "Votes": 20931,
+        "Percent": 25.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BURGE, Louise",
+        "Votes": 9350,
+        "Percent": 11.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CARRUTHERS, Peter",
+        "Votes": 4880,
+        "Percent": 5.9
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "MALE, James",
+        "Votes": 2664,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CROTHERS, Mathew",
+        "Votes": 1099,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLANCY, Jason",
+        "Votes": 724,
+        "Percent": 0.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BINGLE, Stephen",
+        "Votes": 603,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2013": {
+    "title": "Farrer, NSW   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LEY, Hon Sussan",
+        "Votes": 47977,
+        "Percent": 57.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HICKEY, Gavin",
+        "Votes": 19708,
+        "Percent": 23.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SOBEY, Christina",
+        "Votes": 3643,
+        "Percent": 4.4
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "EMMERTON, Ronald",
+        "Votes": 3392,
+        "Percent": 4.1
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "TREWIN, Ken",
+        "Votes": 3091,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAVIS, Narelle",
+        "Votes": 1646,
+        "Percent": 2.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CATTELL, Brendan",
+        "Votes": 1509,
+        "Percent": 1.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POWELL, Tracey",
+        "Votes": 1048,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HORWILL, Frank",
+        "Votes": 982,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2016": {
+    "title": "Farrer, NSW   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LEY, Hon Sussan",
+        "Votes": 55893,
+        "Percent": 57.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KUNDE, Christian",
+        "Votes": 17486,
+        "Percent": 18.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COHN, Amanda",
+        "Votes": 7936,
+        "Percent": 8.2
+      },
+      {
+        "Party": "ALA",
+        "Candidate": "PIKE, Ron",
+        "Votes": 5874,
+        "Percent": 6.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MILLS, Brian",
+        "Votes": 4133,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROSSETTO, Paul",
+        "Votes": 3474,
+        "Percent": 3.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'BRIEN, Trevor",
+        "Votes": 1783,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "2019": {
+    "title": "Farrer, NSW   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LEY, Hon Sussan",
+        "Votes": 49316,
+        "Percent": 50.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MACK, Kevin",
+        "Votes": 19926,
+        "Percent": 20.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DRABSCH, Kieran",
+        "Votes": 14236,
+        "Percent": 14.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MOSS, Dean",
+        "Votes": 4147,
+        "Percent": 4.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "ROSE, Mike",
+        "Votes": 3898,
+        "Percent": 4.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HAMILTON, Ross",
+        "Votes": 1429,
+        "Percent": 1.5
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "LANGFIELD, Philip",
+        "Votes": 1327,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MILLS, Brian",
+        "Votes": 1255,
+        "Percent": 1.3
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "ELLIS, Mark",
+        "Votes": 1084,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2022": {
+    "title": "Farrer, NSW   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LEY, Hon Sussan",
+        "Votes": 52566,
+        "Percent": 52.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CAMERON, Darren",
+        "Votes": 19097,
+        "Percent": 19.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DAVERN, Eli",
+        "Votes": 9163,
+        "Percent": 9.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "FRANCIS, Richard",
+        "Votes": 6363,
+        "Percent": 6.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SF&F, Paul Britton",
+        "Votes": 5339,
+        "Percent": 5.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "RAMOS, Julie",
+        "Votes": 3270,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DUNCAN-STRELEC, Amanda",
+        "Votes": 3189,
+        "Percent": 3.2
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "ROWORTH, Ian",
+        "Votes": 1595,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2025": {
+    "title": "Farrer, NSW   2025",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LEY, Sussan",
+        "Votes": 44743,
+        "Percent": 43.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MILTHORPE, Michelle",
+        "Votes": 20567,
+        "Percent": 20.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HYDE, Glen",
+        "Votes": 15551,
+        "Percent": 15.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HICKS, Emma",
+        "Votes": 6803,
+        "Percent": 6.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HENDRIE, Richard August",
+        "Votes": 5085,
+        "Percent": 4.9
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "SINCLAIR, Peter",
+        "Votes": 3577,
+        "Percent": 3.5
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "HARGRAVES, Tanya",
+        "Votes": 2441,
+        "Percent": 2.4
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "SCRIVEN, Rebecca",
+        "Votes": 2218,
+        "Percent": 2.2
+      },
+      {
+        "Party": "GRPF",
+        "Candidate": "O'REILLY, David",
+        "Votes": 2078,
+        "Percent": 2.0
+      }
+    ]
+  }
+}

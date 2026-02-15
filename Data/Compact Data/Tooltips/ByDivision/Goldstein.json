@@ -1,0 +1,629 @@
+{
+  "1984": {
+    "title": "Goldstein, VIC   1984",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MACPHEE, Hon Ian",
+        "Votes": 32788,
+        "Percent": 52.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MOORE, Garry",
+        "Votes": 24147,
+        "Percent": 38.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BOALER, Maureen",
+        "Votes": 3232,
+        "Percent": 5.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "KEELAN, Patrick",
+        "Votes": 1763,
+        "Percent": 2.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BROWN, Pat",
+        "Votes": 1014,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1987": {
+    "title": "Goldstein, VIC   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MACPHEE, Hon Ian",
+        "Votes": 35029,
+        "Percent": 55.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCINNES, Murray",
+        "Votes": 22343,
+        "Percent": 35.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BOALER, Maureen",
+        "Votes": 3654,
+        "Percent": 5.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ROWE, Michael",
+        "Votes": 1436,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CASLEY, Tiger",
+        "Votes": 739,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1990": {
+    "title": "Goldstein, VIC   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KEMP, Dr David",
+        "Votes": 33468,
+        "Percent": 47.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DANBY, Michael",
+        "Votes": 21138,
+        "Percent": 29.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BRETHERTON, Dr Di",
+        "Votes": 9318,
+        "Percent": 13.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WOLOWSKI, Diana",
+        "Votes": 4751,
+        "Percent": 6.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARRETT, Adrienne",
+        "Votes": 1006,
+        "Percent": 1.4
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "MCGIBBONY, Phillip",
+        "Votes": 758,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CASLEY, John",
+        "Votes": 222,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KORMOCZY, Peter",
+        "Votes": 160,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "1993": {
+    "title": "Goldstein, VIC   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "RITCHIE, James",
+        "Votes": "983",
+        "Percent": 1.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KEMP, Dr David",
+        "Votes": "38474",
+        "Percent": 52.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HERBERT, Geoff",
+        "Votes": "3479",
+        "Percent": 4.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PAKULA, Martin",
+        "Votes": "28436",
+        "Percent": 39.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GALE, Brian",
+        "Votes": "1503",
+        "Percent": 2.1
+      }
+    ]
+  },
+  "1996": {
+    "title": "Goldstein, VIC   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KEMP, Dr David",
+        "Votes": 44139,
+        "Percent": 55.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CALVERY, Kip",
+        "Votes": 25623,
+        "Percent": 32.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BARRY, Diane",
+        "Votes": 6650,
+        "Percent": 8.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KENNEDY, Justin",
+        "Votes": 3027,
+        "Percent": 3.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JOHNSON, Robert",
+        "Votes": 425,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1998": {
+    "title": "Goldstein, VIC   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KEMP, Hon Dr David",
+        "Votes": 41881,
+        "Percent": 52.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KHOURI, Margaret",
+        "Votes": 26980,
+        "Percent": 33.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BARRY, Diane",
+        "Votes": 6156,
+        "Percent": 7.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BRUNTON, Nick",
+        "Votes": 2328,
+        "Percent": 2.9
+      },
+      {
+        "Party": "ON",
+        "Candidate": "CRAWFORD, Peter",
+        "Votes": 1822,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHTRAMBRANDT, Arkadi",
+        "Votes": 672,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FIELD, Meret",
+        "Votes": 413,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DICKINS, Joan",
+        "Votes": 225,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2001": {
+    "title": "Goldstein, VIC   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "KEMP, Hon Dr David",
+        "Votes": 43535,
+        "Percent": 52.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "POWNING, Rachel",
+        "Votes": 22730,
+        "Percent": 27.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NEWELL, Michaela",
+        "Votes": 6215,
+        "Percent": 7.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PUSZKA, Teresa",
+        "Votes": 5294,
+        "Percent": 6.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STEGLEY, Kristin",
+        "Votes": 4807,
+        "Percent": 5.8
+      }
+    ]
+  },
+  "2004": {
+    "title": "Goldstein, VIC   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ROBB, Andrew",
+        "Votes": 45829,
+        "Percent": 56.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TUCKER, Craig",
+        "Votes": 24941,
+        "Percent": 30.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CLAIR, Bill",
+        "Votes": 7251,
+        "Percent": 8.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O\u00cf\u00bf\u00bdBRIEN, Terry",
+        "Votes": 1585,
+        "Percent": 1.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HERMANS, Mark",
+        "Votes": 1088,
+        "Percent": 1.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "IGAI, Aron",
+        "Votes": 1006,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHOMALI, Heather",
+        "Votes": 168,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2007": {
+    "title": "Goldstein, VIC   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ROBB, Hon Andrew",
+        "Votes": 45141,
+        "Percent": 52.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MASON, Julia",
+        "Votes": 28734,
+        "Percent": 33.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PILLING, Neil",
+        "Votes": 8846,
+        "Percent": 10.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BAILEY, Michael",
+        "Votes": 1422,
+        "Percent": 1.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "KHOO, Joyce",
+        "Votes": 970,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HORNE, Colin",
+        "Votes": 186,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2010": {
+    "title": "Goldstein, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ROBB, Hon Andrew",
+        "Votes": 44436,
+        "Percent": 52.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EDEN, Nick",
+        "Votes": 25227,
+        "Percent": 29.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PILLING, Neil",
+        "Votes": 13708,
+        "Percent": 16.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "FORSTER, Anthony",
+        "Votes": 1187,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2013": {
+    "title": "Goldstein, VIC   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ROBB, Hon Andrew",
+        "Votes": 51193,
+        "Percent": 56.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GUTTMANN, Daniel",
+        "Votes": 21591,
+        "Percent": 23.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "READ, Rose",
+        "Votes": 14408,
+        "Percent": 15.9
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "RYDER, Keith",
+        "Votes": 2044,
+        "Percent": 2.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "JOYNER, Ian",
+        "Votes": 751,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HANNIE, Lynette",
+        "Votes": 604,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2016": {
+    "title": "Goldstein, VIC   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Tim",
+        "Votes": 52694,
+        "Percent": 56.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COOTE, Matthew",
+        "Votes": 20466,
+        "Percent": 21.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HERCUS, Cheryl",
+        "Votes": 14871,
+        "Percent": 15.9
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "CHELLAPPAH, Naren",
+        "Votes": 2222,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KAVANAGH, Lee",
+        "Votes": 1738,
+        "Percent": 1.9
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BISHOP, Trevor",
+        "Votes": 1549,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "2019": {
+    "title": "Goldstein, VIC   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Tim",
+        "Votes": 52320,
+        "Percent": 52.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "POLLOCK, Daniel",
+        "Votes": 28111,
+        "Percent": 28.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PENNICUIK, Sue",
+        "Votes": 13951,
+        "Percent": 14.0
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "CONNOLLY, Wayne",
+        "Votes": 1945,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOULT, Brandon",
+        "Votes": 1653,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CASLEY, John",
+        "Votes": 1349,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2022": {
+    "title": "Goldstein, VIC   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Hon Tim",
+        "Votes": 39607,
+        "Percent": 40.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DANIEL, Zoe",
+        "Votes": 33815,
+        "Percent": 34.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ABBOTT, Martyn",
+        "Votes": 10799,
+        "Percent": 11.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GALLI-MCROSTIE, Alana",
+        "Votes": 7683,
+        "Percent": 7.8
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "SEGAL, David",
+        "Votes": 2072,
+        "Percent": 2.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "REYNOLDS, Catherine",
+        "Votes": 1840,
+        "Percent": 1.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "STARK, Lisa",
+        "Votes": 1239,
+        "Percent": 1.3
+      },
+      {
+        "Party": "DHJP",
+        "Candidate": "SULLIVAN, Ellie",
+        "Votes": 589,
+        "Percent": 0.6
+      },
+      {
+        "Party": "Sust",
+        "Candidate": "HOULT, Brandon",
+        "Votes": 443,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2025": {
+    "title": "Goldstein, VIC   2025",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WILSON, Tim",
+        "Votes": 50228,
+        "Percent": 43.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DANIEL, Zoe",
+        "Votes": 35533,
+        "Percent": 30.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GADANI, Nildhara",
+        "Votes": 15812,
+        "Percent": 13.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GALLI-McROSTIE, Alana",
+        "Votes": 8320,
+        "Percent": 7.2
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "WILLIAMS, Vicki Jane",
+        "Votes": 2066,
+        "Percent": 1.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "GARDINER, Leon",
+        "Votes": 2037,
+        "Percent": 1.8
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "SEGAL, David",
+        "Votes": 1677,
+        "Percent": 1.4
+      }
+    ]
+  }
+}

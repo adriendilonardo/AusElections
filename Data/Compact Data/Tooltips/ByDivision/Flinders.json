@@ -1,0 +1,1087 @@
+{
+  "1946": {
+    "title": "Flinders, VIC   1946",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RYAN, Rupert",
+        "Votes": 36615,
+        "Percent": 54.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LEE, Thomas",
+        "Votes": 30698,
+        "Percent": 45.6
+      }
+    ]
+  },
+  "1949": {
+    "title": "Flinders, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RYAN, Rupert",
+        "Votes": 21096,
+        "Percent": 54.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILSON, Robert",
+        "Votes": 11410,
+        "Percent": 29.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HUGHES, Andrew",
+        "Votes": 6018,
+        "Percent": 15.6
+      }
+    ]
+  },
+  "1951": {
+    "title": "Flinders, VIC   1951",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "HIPWELL, Robert",
+        "Votes": "891",
+        "Percent": 2.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RYAN, Rupert",
+        "Votes": "22728",
+        "Percent": 54.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EWERT, Keith",
+        "Votes": "17833",
+        "Percent": 43.0
+      }
+    ]
+  },
+  "1954": {
+    "title": "Flinders, VIC   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LINDSAY, Robert",
+        "Votes": "24235",
+        "Percent": 51.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EWART, Keith",
+        "Votes": "22707",
+        "Percent": 48.4
+      }
+    ]
+  },
+  "1955": {
+    "title": "Flinders, VIC   1955",
+    "rows": [
+      {
+        "Party": "ALPAC",
+        "Candidate": "AUSTIN, John",
+        "Votes": "6015",
+        "Percent": 14.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LINDSAY, Robert",
+        "Votes": "21515",
+        "Percent": 53.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CRANSTON, Francis",
+        "Votes": "13001",
+        "Percent": 32.1
+      }
+    ]
+  },
+  "1958": {
+    "title": "Flinders, VIC   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LINDSAY, Robert",
+        "Votes": 23283,
+        "Percent": 50.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BARBER, Nola",
+        "Votes": 18011,
+        "Percent": 39.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "FLANAGAN, Thomas",
+        "Votes": 4698,
+        "Percent": 10.2
+      }
+    ]
+  },
+  "1961": {
+    "title": "Flinders, VIC   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LINDSAY, Robert",
+        "Votes": 23251,
+        "Percent": 44.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CATHIE, Ian",
+        "Votes": 19466,
+        "Percent": 37.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "AUSTIN, John",
+        "Votes": 7717,
+        "Percent": 14.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KNOWLES, Edmund",
+        "Votes": 1796,
+        "Percent": 3.4
+      }
+    ]
+  },
+  "1963": {
+    "title": "Flinders, VIC   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "CURRY, Martin",
+        "Votes": "5781",
+        "Percent": 10.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LINDSAY, Robert",
+        "Votes": "29723",
+        "Percent": 52.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BARBER, Nola",
+        "Votes": "21464",
+        "Percent": 37.7
+      }
+    ]
+  },
+  "1966": {
+    "title": "Flinders, VIC   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LYNCH, Phillip",
+        "Votes": 31530,
+        "Percent": 49.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BORASTON, Ian",
+        "Votes": 24067,
+        "Percent": 37.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CASS, John",
+        "Votes": 6171,
+        "Percent": 9.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRUNNING, George",
+        "Votes": 1787,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "1969": {
+    "title": "Flinders, VIC   1969",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LYNCH, Hon Phillip",
+        "Votes": 27179,
+        "Percent": 55.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NOTTAGE, Fay",
+        "Votes": 16820,
+        "Percent": 34.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "GOBEL, Josephus",
+        "Votes": 3480,
+        "Percent": 7.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOLLOW, Monty",
+        "Votes": 1880,
+        "Percent": 3.8
+      }
+    ]
+  },
+  "1972": {
+    "title": "Flinders, VIC   1972",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LYNCH, Hon Philip",
+        "Votes": 29640,
+        "Percent": 48.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BEDNALL, Colin",
+        "Votes": 27273,
+        "Percent": 44.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "GLYNN, John",
+        "Votes": 2380,
+        "Percent": 3.9
+      },
+      {
+        "Party": "AP",
+        "Candidate": "HEATH, David",
+        "Votes": 1801,
+        "Percent": 2.9
+      }
+    ]
+  },
+  "1974": {
+    "title": "Flinders, VIC   1974",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LYNCH, Hon Philip",
+        "Votes": 37148,
+        "Percent": 50.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BEDNALL, Colin",
+        "Votes": 33630,
+        "Percent": 45.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "GLYNN, John",
+        "Votes": 1383,
+        "Percent": 1.9
+      },
+      {
+        "Party": "AP",
+        "Candidate": "HEATH, David",
+        "Votes": 1052,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FAUST, Beatrice",
+        "Votes": 639,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1975": {
+    "title": "Flinders, VIC   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LYNCH, Hon Phillip",
+        "Votes": 46155,
+        "Percent": 57.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EASTWOOD, Geoffrey",
+        "Votes": 30251,
+        "Percent": 37.7
+      },
+      {
+        "Party": "AP",
+        "Candidate": "DALTON, Peter",
+        "Votes": 1851,
+        "Percent": 2.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "GLYNN, John",
+        "Votes": 1654,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HILLMAN, Stanley",
+        "Votes": 375,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1977": {
+    "title": "Flinders, VIC   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LYNCH, Rt Hon Phillip",
+        "Votes": 32897,
+        "Percent": 50.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "EASTWOOD, Geoffrey",
+        "Votes": 19401,
+        "Percent": 29.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FRASER, Harold",
+        "Votes": 10070,
+        "Percent": 15.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CASS, John",
+        "Votes": 2089,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOLLOW, Monty",
+        "Votes": 639,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1980": {
+    "title": "Flinders, VIC   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LYNCH, Rt Hon Phillip",
+        "Votes": 36587,
+        "Percent": 50.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCLEAN, Jean",
+        "Votes": 28565,
+        "Percent": 39.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TOWERS, William",
+        "Votes": 7643,
+        "Percent": 10.5
+      }
+    ]
+  },
+  "1983": {
+    "title": "Flinders, VIC   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "CHYNOWETH, Robert",
+        "Votes": 38134,
+        "Percent": 47.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "REITH, Peter",
+        "Votes": 35847,
+        "Percent": 44.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "FRASER, Harold",
+        "Votes": 4861,
+        "Percent": 6.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "PAYNE, Kenneth",
+        "Votes": 1977,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "1984": {
+    "title": "Flinders, VIC   1984",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "REITH, Peter",
+        "Votes": 25450,
+        "Percent": 45.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JOINER, Russell",
+        "Votes": 25287,
+        "Percent": 45.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GILL, Murray",
+        "Votes": 2389,
+        "Percent": 4.3
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "STAVEREN, Paul van",
+        "Votes": 1780,
+        "Percent": 3.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MCNAMARA, John",
+        "Votes": 646,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MILN, John",
+        "Votes": 529,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1987": {
+    "title": "Flinders, VIC   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "REITH, Peter",
+        "Votes": 31737,
+        "Percent": 47.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LACK, Tony",
+        "Votes": 29469,
+        "Percent": 43.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SUTTIE, Andrew",
+        "Votes": 3655,
+        "Percent": 5.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MILN, Jonathan",
+        "Votes": 1449,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MAUD, Noel",
+        "Votes": 986,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1990": {
+    "title": "Flinders, VIC   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "REITH, Peter",
+        "Votes": 32853,
+        "Percent": 50.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MOORE, Tony",
+        "Votes": 22363,
+        "Percent": 34.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JABOOR, Nance",
+        "Votes": 8516,
+        "Percent": 13.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GILBERT, David",
+        "Votes": 793,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1993": {
+    "title": "Flinders, VIC   1993",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "REITH, Peter",
+        "Votes": "36735",
+        "Percent": 53.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BROWN, Malcolm",
+        "Votes": "3167",
+        "Percent": 4.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HASSETT, Denise",
+        "Votes": "27832",
+        "Percent": 40.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHARLWOOD, Jan",
+        "Votes": "1636",
+        "Percent": 2.4
+      }
+    ]
+  },
+  "1996": {
+    "title": "Flinders, VIC   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "REITH, Peter",
+        "Votes": 39503,
+        "Percent": 53.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WATKINSON, Ian",
+        "Votes": 24438,
+        "Percent": 33.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BEEFORTH, Colin",
+        "Votes": 5485,
+        "Percent": 7.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WARD, Ian",
+        "Votes": 2989,
+        "Percent": 4.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROBERTS, Ralph",
+        "Votes": 798,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHARLWOOD, Jan",
+        "Votes": 355,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1998": {
+    "title": "Flinders, VIC   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "REITH, Hon Peter",
+        "Votes": 36570,
+        "Percent": 47.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ARMITAGE, John",
+        "Votes": 28874,
+        "Percent": 37.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ALLISON, David",
+        "Votes": 4923,
+        "Percent": 6.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "LANGLEY, Robert",
+        "Votes": 4029,
+        "Percent": 5.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "VOGT, Mervyn",
+        "Votes": 2057,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KAMPS, Tony",
+        "Votes": 451,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHARLWOOD, Jan",
+        "Votes": 264,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2001": {
+    "title": "Flinders, VIC   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HUNT, Greg",
+        "Votes": 43601,
+        "Percent": 51.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FINCH, Wayne",
+        "Votes": 27695,
+        "Percent": 32.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RANGO, David De",
+        "Votes": 4886,
+        "Percent": 5.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ARMSTRONG, Richard",
+        "Votes": 4690,
+        "Percent": 5.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "DOWEY, Kevin",
+        "Votes": 1911,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILSON, Earle",
+        "Votes": 968,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLADE, Ashley",
+        "Votes": 567,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2004": {
+    "title": "Flinders, VIC   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HUNT, Greg",
+        "Votes": 48249,
+        "Percent": 58.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NAPTHINE, Simon",
+        "Votes": 25621,
+        "Percent": 30.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KINGSFORD, Stuart",
+        "Votes": 5204,
+        "Percent": 6.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "JOHNSTONE, Dean",
+        "Votes": 1435,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MADIGAN, Paul",
+        "Votes": 1043,
+        "Percent": 1.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ERROL, Bruce",
+        "Votes": 715,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ADAMS, Neale",
+        "Votes": 503,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROADBENT, Henry",
+        "Votes": 174,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2007": {
+    "title": "Flinders, VIC   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HUNT, Hon Greg",
+        "Votes": 48343,
+        "Percent": 54.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MARCH, Gary",
+        "Votes": 30073,
+        "Percent": 33.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BROWN, Robert",
+        "Votes": 7529,
+        "Percent": 8.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "EASTMAN, Cameron",
+        "Votes": 1988,
+        "Percent": 2.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BATTEN, David",
+        "Votes": 822,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2010": {
+    "title": "Flinders, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HUNT, Hon Greg",
+        "Votes": 49146,
+        "Percent": 54.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GAGLIANO-VENTURA, Francis",
+        "Votes": 28747,
+        "Percent": 31.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BROWN, Robert",
+        "Votes": 10410,
+        "Percent": 11.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SMITH, Reade",
+        "Votes": 2198,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "2013": {
+    "title": "Flinders, VIC   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HUNT, Hon Greg",
+        "Votes": 51972,
+        "Percent": 55.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SINCLAIR, Joshua",
+        "Votes": 23666,
+        "Percent": 25.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RUSH, Martin",
+        "Votes": 9148,
+        "Percent": 9.7
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "CLARK, Linda",
+        "Votes": 5639,
+        "Percent": 6.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CLARK, David",
+        "Votes": 1091,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MADIGAN, Paul",
+        "Votes": 708,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BELSAR, Ashleigh",
+        "Votes": 523,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DORIAN, Angela",
+        "Votes": 481,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCCORMACK, Denis",
+        "Votes": 478,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ZABANEH, John",
+        "Votes": 215,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2016": {
+    "title": "Flinders, VIC   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HUNT, Hon Greg",
+        "Votes": 52412,
+        "Percent": 51.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GLEIXNER, Carolyn",
+        "Votes": 27459,
+        "Percent": 27.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HOGARTH, Willisa",
+        "Votes": 10868,
+        "Percent": 10.7
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "WILD, Ben",
+        "Votes": 4347,
+        "Percent": 4.3
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "GENTLE, Yvonne",
+        "Votes": 3381,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LEWIS, Shane",
+        "Votes": 3107,
+        "Percent": 3.1
+      }
+    ]
+  },
+  "2019": {
+    "title": "Flinders, VIC   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HUNT, Hon Greg",
+        "Votes": 45293,
+        "Percent": 46.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SINCLAIR, Josh",
+        "Votes": 23982,
+        "Percent": 24.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BANKS, Julia",
+        "Votes": 13367,
+        "Percent": 13.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LESSLIE, Nathan",
+        "Votes": 6599,
+        "Percent": 6.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MCSHANE, Christine",
+        "Votes": 2447,
+        "Percent": 2.5
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "PERSSON, James",
+        "Votes": 2304,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Reade",
+        "Votes": 1072,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BEVERIDGE, Susie",
+        "Votes": 948,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DERGER, Harry",
+        "Votes": 940,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2022": {
+    "title": "Flinders, VIC   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCKENZIE, Zoe",
+        "Votes": 43013,
+        "Percent": 43.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SNOWBALL, Surbhi",
+        "Votes": 21487,
+        "Percent": 21.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LANE, Colin",
+        "Votes": 9293,
+        "Percent": 9.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'CONNOR, Despi",
+        "Votes": 7163,
+        "Percent": 7.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RUSSELL, Sarah",
+        "Votes": 5189,
+        "Percent": 5.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "END, Alex Van Der",
+        "Votes": 4472,
+        "Percent": 4.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MARR, Cyndi",
+        "Votes": 3373,
+        "Percent": 3.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "ABRAHAM, Chrysten",
+        "Votes": 2366,
+        "Percent": 2.4
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "ENGELANDER, Pamela",
+        "Votes": 2060,
+        "Percent": 2.1
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "EARL, Jefferson",
+        "Votes": 486,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2025": {
+    "title": "Flinders, VIC   2025",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "McKENZIE, Zoe",
+        "Votes": 47375,
+        "Percent": 41.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "RACE, Sarah",
+        "Votes": 25622,
+        "Percent": 22.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Ben",
+        "Votes": 24406,
+        "Percent": 21.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FROGLEY, Adam",
+        "Votes": 7305,
+        "Percent": 6.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BROWN, Mike",
+        "Votes": 6091,
+        "Percent": 5.3
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "SMART, Jason",
+        "Votes": 3144,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TOSCANO, Joseph",
+        "Votes": 980,
+        "Percent": 0.9
+      }
+    ]
+  }
+}

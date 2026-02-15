@@ -1,0 +1,31 @@
+{
+  "1996": {
+    "title": "Namadgi, ACT   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SMYTH, Brendan",
+        "Votes": 28638,
+        "Percent": 45.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIS, Annette",
+        "Votes": 28583,
+        "Percent": 45.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RATTENBURY, Shane",
+        "Votes": 4579,
+        "Percent": 7.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROSBOROUGH, Derek",
+        "Votes": 1636,
+        "Percent": 2.6
+      }
+    ]
+  }
+}

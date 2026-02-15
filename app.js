@@ -8,12 +8,19 @@
    - Data sourced from Australian Electoral Commission historical results
 */
 
-// ---------- Arbitrary example datasets ----------
 async function makeDataset(year) {
   try {
     // Load JSON file for the given year
     const data = await d3.json(`Data/Compact Data/Colour-Positions/ByYear/${year}.json`)
-    
+    const tooltipData = await d3.json(`Data/Compact Data/Tooltips/ByYear/${year}.json`);
+
+    // Merge tooltip data into main dataset based on division key
+    for (const [div, info] of Object.entries(data)) {
+      if (tooltipData[div]) {
+        info.tooltip = tooltipData[div];
+      }
+    }
+
     const rows = Object.entries(data).map(([key, value]) => { 
       return {
         id: key,
@@ -22,6 +29,7 @@ async function makeDataset(year) {
         color: value.colour,
         x: value.x,
         y: value.y,
+        tooltip: value.tooltip || null
       };
     });
     return rows;
@@ -42,7 +50,8 @@ const YEARS = [
     2010, 2013, 2016, 2019, 
     2022, 2025
 ];
-// Data will be loaded on-demand since makeDataset is now async
+
+// Data will be loaded on-demand since makeDataset is async
 const DATA_BY_YEAR = new Map();
 
 // ---------- SVG + layout ----------
@@ -147,7 +156,7 @@ yearSelect.selectAll("option")
   .attr("value", d => d)
   .text(d => d);
 
-let currentYear = YEARS[0];
+let currentYear = YEARS[YEARS.length - 1]; // default to most recent year
 let selectedId = null;
 
 yearSelect.property("value", currentYear);
@@ -194,33 +203,43 @@ nextButton.on("click", async () => {
 updateButtonStates();
 
 // ---------- Tooltip helpers ----------
-// function showTooltip(event, d) {
-//   tooltip
-//     .style("opacity", 1)
-//     .html(
-//       `<div><b>${d.label}</b></div>` +
-//       `<div>Year: ${d.year}</div>` +
-//       `<div>Winner: ${d.color}</div>` +
-//       `<div>Labor: ${(d.a * 100).toFixed(1)}% | Coalition: ${(d.b * 100).toFixed(1)}% | Others: ${(d.c * 100).toFixed(1)}%</div>`
-//     );
-// }
-      // '<div class="vote-tooltip"><h3 style="margin-top:0">{row["Division"]}, {row["State"]}, {default_year}</h3><table>'
-      // + '<tr><th>Party</th><th>Vote Share</th><th>Candidate</th></tr>'
-      // + ''.join(
-      //     f'<tr><td>{p}</td><td>{v:.2f}</td><td>{c}</td></tr>'
-      //     for p, v, c in zip(row["Party"], row["Percent"], row["Candidate"])
-      // )
-      // + '</table></div>'
 
-// function moveTooltip(event) {
-//   tooltip
-//     .style("left", `${event.clientX}px`)
-//     .style("top", `${event.clientY}px`);
-// }
+function showTooltip(event, d) {
+  const rows = (d.tooltip.rows || []).map(p =>
+    `<tr>
+      <td style="padding:4px 8px;text-align:center">${p.Party}</td>
+      <td style="padding:4px 8px;text-align:center">${p.Candidate || ''}</td>
+      <td style="padding:4px 8px;text-align:center">${p.Votes || '0'}</td>
+      <td style="padding:4px 8px;text-align:center">${(p.Percent).toFixed(1)}%</td>
+    </tr>`
+  ).join("");
 
-// function hideTooltip(event, d) {
-//   tooltip.style("opacity", 0);
-// }
+  const html =
+    `<div><h3 style="margin:0 0 6px 0">${d.tooltip.title}</h3>` +
+    `<table style="border-collapse:collapse;font-size:12px"><thead>
+      <tr>
+        <th style="text-align:center">Party</th>
+        <th style="text-align:center">Candidate</th>
+        <th style="text-align:center">Votes</th>
+        <th style="text-align:center"></th>
+      </tr></thead><tbody>` +
+    rows +
+    `</tbody></table></div>`;
+
+  tooltip
+    .style("opacity", 1)
+    .html(html);
+}
+
+function moveTooltip(event) {
+  tooltip
+    .style("left", `${event.clientX}px`)
+    .style("top", `${event.clientY}px`);
+}
+
+function hideTooltip(event, d) {
+  tooltip.style("opacity", 0);
+}
 
 // ---------- Update / render with transitions ----------
 async function update(year) {
@@ -253,9 +272,9 @@ async function update(year) {
     .attr("r", 0)
     .attr("fill", d => d.color)
     .attr("opacity", 1)
-    // .on("mouseover", showTooltip)
-    // .on("mousemove", moveTooltip)
-    // .on("mouseout", hideTooltip)
+    .on("mouseover", showTooltip)
+    .on("mousemove", moveTooltip)
+    .on("mouseout", hideTooltip)
     .on("click", async (event, d) => {
       event.stopPropagation(); // don't trigger background clear
       selectedId = (selectedId === d.id) ? null : d.id;

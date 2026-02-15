@@ -1,0 +1,221 @@
+{
+  "1946": {
+    "title": "East Sydney, NSW   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WARD, Hon Eddie",
+        "Votes": 37863,
+        "Percent": 65.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "DOUGHERTY, Ivan",
+        "Votes": 16348,
+        "Percent": 28.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAMPBELL, John",
+        "Votes": 3578,
+        "Percent": 6.2
+      }
+    ]
+  },
+  "1949": {
+    "title": "East Sydney, NSW   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WARD, Hon Eddie",
+        "Votes": 22496,
+        "Percent": 57.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MANT, John",
+        "Votes": 15398,
+        "Percent": 39.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DALTON, William",
+        "Votes": 1552,
+        "Percent": 3.9
+      }
+    ]
+  },
+  "1951": {
+    "title": "East Sydney, NSW   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WARD, Hon Eddie",
+        "Votes": "20379",
+        "Percent": 54.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "STEWART, Alexander",
+        "Votes": "16767",
+        "Percent": 45.1
+      }
+    ]
+  },
+  "1954": {
+    "title": "East Sydney, NSW   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WARD, Hon Eddie",
+        "Votes": "19282",
+        "Percent": 58.0
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "BROWN, Wilton",
+        "Votes": "1904",
+        "Percent": 5.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CHAMBERS, George",
+        "Votes": "12068",
+        "Percent": 36.3
+      }
+    ]
+  },
+  "1955": {
+    "title": "East Sydney, NSW   1955",
+    "rows": [
+      {
+        "Party": "CPA",
+        "Candidate": "BROWN, Wilton",
+        "Votes": "3251",
+        "Percent": 8.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WARD, Hon Eddie",
+        "Votes": "24859",
+        "Percent": 63.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LANDOR, Joseph",
+        "Votes": "10953",
+        "Percent": 28.0
+      }
+    ]
+  },
+  "1958": {
+    "title": "East Sydney, NSW   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WARD, Hon Eddie",
+        "Votes": 22377,
+        "Percent": 63.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MONTEFIORE-CASTLE, Derek",
+        "Votes": 8059,
+        "Percent": 22.8
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MAHER, Edward",
+        "Votes": 2703,
+        "Percent": 7.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "REID, Mervyn",
+        "Votes": 2283,
+        "Percent": 6.4
+      }
+    ]
+  },
+  "1961": {
+    "title": "East Sydney, NSW   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WARD, Hon Eddie",
+        "Votes": 21999,
+        "Percent": 67.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FOLBIGG, John",
+        "Votes": 7137,
+        "Percent": 22.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BERGIN, Joseph",
+        "Votes": 2276,
+        "Percent": 7.0
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "BROWN, Wilton",
+        "Votes": 1030,
+        "Percent": 3.2
+      }
+    ]
+  },
+  "1963": {
+    "title": "East Sydney, NSW   1963",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DEVINE, Leonard",
+        "Votes": "19779",
+        "Percent": 61.2
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "BROWN, Wilton",
+        "Votes": "1827",
+        "Percent": 5.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FOSTER, William",
+        "Votes": "10711",
+        "Percent": 33.1
+      }
+    ]
+  },
+  "1966": {
+    "title": "East Sydney, NSW   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DEVINE, Leonard",
+        "Votes": 15004,
+        "Percent": 52.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BERMAN, William",
+        "Votes": 10636,
+        "Percent": 37.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "ANTCLIFF, Melvyn",
+        "Votes": 1807,
+        "Percent": 6.4
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "BROWN, Wilton",
+        "Votes": 940,
+        "Percent": 3.3
+      }
+    ]
+  }
+}

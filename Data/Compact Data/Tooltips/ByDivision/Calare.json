@@ -1,0 +1,1069 @@
+{
+  "1946": {
+    "title": "Calare, NSW   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BREEN, John",
+        "Votes": 22988,
+        "Percent": 47.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HOWSE, John",
+        "Votes": 14270,
+        "Percent": 29.3
+      },
+      {
+        "Party": "CP",
+        "Candidate": "THORBY, Hon Harold",
+        "Votes": 11189,
+        "Percent": 23.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROBERTS, Madge",
+        "Votes": 296,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1949": {
+    "title": "Calare, NSW   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOWSE, John",
+        "Votes": 21399,
+        "Percent": 57.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GIBBONS, George",
+        "Votes": 16139,
+        "Percent": 43.0
+      }
+    ]
+  },
+  "1951": {
+    "title": "Calare, NSW   1951",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "GARDINER, Archibald",
+        "Votes": "2067",
+        "Percent": 5.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HOWSE, John",
+        "Votes": "20517",
+        "Percent": 54.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HOWELL, John",
+        "Votes": "15141",
+        "Percent": 40.1
+      }
+    ]
+  },
+  "1954": {
+    "title": "Calare, NSW   1954",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "ROBERTS, Madge",
+        "Votes": "447",
+        "Percent": 1.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HOWSE, John",
+        "Votes": "21733",
+        "Percent": 55.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BREEN, John",
+        "Votes": "16872",
+        "Percent": 43.2
+      }
+    ]
+  },
+  "1955": {
+    "title": "Calare, NSW   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOWSE, John",
+        "Votes": "23956",
+        "Percent": 61.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WOOD, Lionel",
+        "Votes": "15189",
+        "Percent": 38.8
+      }
+    ]
+  },
+  "1958": {
+    "title": "Calare, NSW   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOWSE, John",
+        "Votes": 22557,
+        "Percent": 58.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "RYGATE, Robert",
+        "Votes": 16296,
+        "Percent": 41.9
+      }
+    ]
+  },
+  "1961": {
+    "title": "Calare, NSW   1961",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ENGLAND, John",
+        "Votes": 19547,
+        "Percent": 50.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SERISIER, Leroy",
+        "Votes": 16210,
+        "Percent": 41.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "BOLAND, George",
+        "Votes": 3240,
+        "Percent": 8.3
+      }
+    ]
+  },
+  "1963": {
+    "title": "Calare, NSW   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "BOLAND, George",
+        "Votes": "3289",
+        "Percent": 8.2
+      },
+      {
+        "Party": "CP",
+        "Candidate": "ENGLAND, John",
+        "Votes": "21690",
+        "Percent": 54.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SERISIER, Leroy",
+        "Votes": "14933",
+        "Percent": 37.4
+      }
+    ]
+  },
+  "1966": {
+    "title": "Calare, NSW   1966",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ENGLAND, John",
+        "Votes": 25200,
+        "Percent": 62.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STAVERT, William",
+        "Votes": 11985,
+        "Percent": 29.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "GRANT, John",
+        "Votes": 3053,
+        "Percent": 7.6
+      }
+    ]
+  },
+  "1969": {
+    "title": "Calare, NSW   1969",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ENGLAND, John",
+        "Votes": 23384,
+        "Percent": 52.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SCOTT, Kerry",
+        "Votes": 18381,
+        "Percent": 41.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "GRANT, John",
+        "Votes": 2764,
+        "Percent": 6.2
+      }
+    ]
+  },
+  "1972": {
+    "title": "Calare, NSW   1972",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ENGLAND, John",
+        "Votes": 23517,
+        "Percent": 51.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HALL, Francis",
+        "Votes": 19748,
+        "Percent": 43.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "GRANT, John",
+        "Votes": 2443,
+        "Percent": 5.3
+      }
+    ]
+  },
+  "1974": {
+    "title": "Calare, NSW   1974",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ENGLAND, John",
+        "Votes": 27817,
+        "Percent": 55.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BOWERS, Neville",
+        "Votes": 13082,
+        "Percent": 26.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HALL, Francis",
+        "Votes": 8517,
+        "Percent": 17.0
+      },
+      {
+        "Party": "AP",
+        "Candidate": "BRAY, Douglas",
+        "Votes": 682,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1975": {
+    "title": "Calare, NSW   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HALL, Francis",
+        "Votes": 18845,
+        "Percent": 36.8
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "MACKENZIE, Sandy",
+        "Votes": 18106,
+        "Percent": 35.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ASHTON, James",
+        "Votes": 14309,
+        "Percent": 27.9
+      }
+    ]
+  },
+  "1977": {
+    "title": "Calare, NSW   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SIMMONS, David",
+        "Votes": 26799,
+        "Percent": 40.5
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "MACKENZIE, Alexander",
+        "Votes": 20893,
+        "Percent": 31.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ASHTON, James",
+        "Votes": 13509,
+        "Percent": 20.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BAIRD, Darvell",
+        "Votes": 4986,
+        "Percent": 7.5
+      }
+    ]
+  },
+  "1980": {
+    "title": "Calare, NSW   1980",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "MACKENZIE, Alexander",
+        "Votes": 34234,
+        "Percent": 50.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SIMMONS, David",
+        "Votes": 31645,
+        "Percent": 46.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RITTER, Anne",
+        "Votes": 2539,
+        "Percent": 3.7
+      }
+    ]
+  },
+  "1983": {
+    "title": "Calare, NSW   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SIMMONS, David",
+        "Votes": 35089,
+        "Percent": 50.6
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "MACKENZIE, Alexander",
+        "Votes": 31087,
+        "Percent": 44.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RITTER, Ann",
+        "Votes": 2562,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SIMPSON, George",
+        "Votes": 566,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1984": {
+    "title": "Calare, NSW   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SIMMONS, David",
+        "Votes": 30956,
+        "Percent": 49.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "TURNER, Russ",
+        "Votes": 13664,
+        "Percent": 22.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BYRNE, Ian",
+        "Votes": 10794,
+        "Percent": 17.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STEVENSON, Margaret",
+        "Votes": 4596,
+        "Percent": 7.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HAMILTON, Gregory",
+        "Votes": 2101,
+        "Percent": 3.4
+      }
+    ]
+  },
+  "1987": {
+    "title": "Calare, NSW   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SIMMONS, David",
+        "Votes": 31988,
+        "Percent": 48.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ENGLISH, Mick",
+        "Votes": 16319,
+        "Percent": 25.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "HESPE, Stewart",
+        "Votes": 13653,
+        "Percent": 20.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DOLTON, Bob",
+        "Votes": 2767,
+        "Percent": 4.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUSCOMBE, Eve",
+        "Votes": 656,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1990": {
+    "title": "Calare, NSW   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SIMMONS, Hon David",
+        "Votes": 31645,
+        "Percent": 46.2
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "LEWIS, Joanne",
+        "Votes": 16229,
+        "Percent": 23.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LONEREGAN, John",
+        "Votes": 13387,
+        "Percent": 19.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ADAMS, Steve",
+        "Votes": 3759,
+        "Percent": 5.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PHILLIPS, Mike",
+        "Votes": 1814,
+        "Percent": 2.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAVIS, Brian",
+        "Votes": 1706,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1993": {
+    "title": "Calare, NSW   1993",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SIMMONS, Hon David",
+        "Votes": "36830",
+        "Percent": 51.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAVIS, Brian",
+        "Votes": "2097",
+        "Percent": 2.9
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "PENNY, Ron",
+        "Votes": "18787",
+        "Percent": 26.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "STAAL, John",
+        "Votes": "13376",
+        "Percent": 18.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CIANFRANCO, Robert",
+        "Votes": "1130",
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1996": {
+    "title": "Calare, NSW   1996",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "ANDREN, Peter",
+        "Votes": 21708,
+        "Percent": 29.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ALLEN, Rob",
+        "Votes": 21407,
+        "Percent": 29.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "TOOLE, Trevor",
+        "Votes": 15371,
+        "Percent": 20.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FARDELL, Ray",
+        "Votes": 11613,
+        "Percent": 15.7
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "MCLEAN, Bruce",
+        "Votes": 1459,
+        "Percent": 2.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MULLIN, Sharon",
+        "Votes": 1312,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BAKER, Peter",
+        "Votes": 859,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NOLAN, Richard",
+        "Votes": 172,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "1998": {
+    "title": "Calare, NSW   1998",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "ANDREN, Peter",
+        "Votes": 29522,
+        "Percent": 40.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CORKIN, Terence",
+        "Votes": 17425,
+        "Percent": 23.9
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "BLUME, Rod",
+        "Votes": 8556,
+        "Percent": 11.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "GLEESON, Martin",
+        "Votes": 7954,
+        "Percent": 10.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SLOAN, Garry",
+        "Votes": 7640,
+        "Percent": 10.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LAMBERT, Joan",
+        "Votes": 676,
+        "Percent": 0.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SAUL, Ben",
+        "Votes": 581,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EDWARDS, Nelle",
+        "Votes": 290,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SIMPSON, David",
+        "Votes": 168,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "Calare, NSW   2001",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "ANDREN, Peter",
+        "Votes": 40786,
+        "Percent": 51.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KNOWLES, Kathryn",
+        "Votes": 16314,
+        "Percent": 20.6
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "SHEARING, David",
+        "Votes": 16289,
+        "Percent": 20.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "NIXON, Terry",
+        "Votes": 3249,
+        "Percent": 4.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WATTS, Ian",
+        "Votes": 1217,
+        "Percent": 1.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MARSHALL, Don",
+        "Votes": 1191,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SIMPSON, David",
+        "Votes": 311,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2004": {
+    "title": "Calare, NSW   2004",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "ANDREN, Peter",
+        "Votes": 40851,
+        "Percent": 50.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ADAMS, Robyn",
+        "Votes": 13439,
+        "Percent": 16.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BLANCH, Paul",
+        "Votes": 13087,
+        "Percent": 16.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "GRIFFITH, Robert",
+        "Votes": 10482,
+        "Percent": 12.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NUGENT, Stephen",
+        "Votes": 1868,
+        "Percent": 2.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "WOODS, Melanie",
+        "Votes": 959,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCHAIK, Heidi Van",
+        "Votes": 648,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2007": {
+    "title": "Calare, NSW   2007",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "COBB, Hon John",
+        "Votes": 39941,
+        "Percent": 48.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ALLEN, Michael",
+        "Votes": 20266,
+        "Percent": 24.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PRIESTLEY, Gavin",
+        "Votes": 19035,
+        "Percent": 23.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BUCKINGHAM, Jeremy",
+        "Votes": 2351,
+        "Percent": 2.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SIMPSON, David John",
+        "Votes": 794,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2010": {
+    "title": "Calare, NSW   2010",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "COBB, Hon John",
+        "Votes": 46775,
+        "Percent": 52.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DUFFY, Kevin",
+        "Votes": 25926,
+        "Percent": 29.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BUCKINGHAM, Jeremy",
+        "Votes": 5354,
+        "Percent": 6.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLANCH, Paul",
+        "Votes": 4137,
+        "Percent": 4.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROMANO, Karen",
+        "Votes": 3276,
+        "Percent": 3.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "NORSWORTHY, Jessyka",
+        "Votes": 1957,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MACGREGOR, Ross",
+        "Votes": 1817,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "2013": {
+    "title": "Calare, NSW   2013",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "COBB, Hon John",
+        "Votes": 52650,
+        "Percent": 57.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JENNINGS, Jess",
+        "Votes": 23185,
+        "Percent": 25.4
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "CAIN, Brian",
+        "Votes": 4356,
+        "Percent": 4.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MALLARD, David",
+        "Votes": 4054,
+        "Percent": 4.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MACGREGOR, Ross",
+        "Votes": 2388,
+        "Percent": 2.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "LYONS, Ian",
+        "Votes": 1628,
+        "Percent": 1.8
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "KIRKLAND, Billie",
+        "Votes": 1293,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCHULTZE, Peter",
+        "Votes": 1010,
+        "Percent": 1.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CRAIG, Anthony",
+        "Votes": 759,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2016": {
+    "title": "Calare, NSW   2016",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "GEE, Andrew",
+        "Votes": 47717,
+        "Percent": 47.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JENNINGS, Jess",
+        "Votes": 27132,
+        "Percent": 27.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SKY, Delanie",
+        "Votes": 7238,
+        "Percent": 7.2
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "DAVIS, Glen",
+        "Votes": 6557,
+        "Percent": 6.5
+      },
+      {
+        "Party": "NXT",
+        "Candidate": "BLOOMFIELD, Rod",
+        "Votes": 5412,
+        "Percent": 5.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CRAIG, Anthony",
+        "Votes": 3836,
+        "Percent": 3.8
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "GESLING, Bernie",
+        "Votes": 2386,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "2019": {
+    "title": "Calare, NSW   2019",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "GEE, Hon Andrew",
+        "Votes": 46632,
+        "Percent": 44.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JENNINGS, Dr Jess",
+        "Votes": 23074,
+        "Percent": 22.1
+      },
+      {
+        "Party": "SFF",
+        "Candidate": "ROMANO, Sam",
+        "Votes": 18129,
+        "Percent": 17.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LUKE, Stephanie",
+        "Votes": 6315,
+        "Percent": 6.1
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "BISGROVE, Stephen",
+        "Votes": 4775,
+        "Percent": 4.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "CAMERON, Beverley",
+        "Votes": 3371,
+        "Percent": 3.2
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "CHEN, Shuyi",
+        "Votes": 1992,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "2022": {
+    "title": "Calare, NSW   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "GEE, Hon Andrew",
+        "Votes": 51161,
+        "Percent": 47.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOOK, Kate",
+        "Votes": 21891,
+        "Percent": 20.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ELLIOTT, Sarah",
+        "Votes": 16252,
+        "Percent": 15.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "WHITTAKER, Stacey",
+        "Votes": 9057,
+        "Percent": 8.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NANKERVIS, Kay",
+        "Votes": 4891,
+        "Percent": 4.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "JANNIS, Adam",
+        "Votes": 4067,
+        "Percent": 3.8
+      }
+    ]
+  },
+  "2025": {
+    "title": "Calare, NSW   2025",
+    "rows": [
+      {
+        "Party": "NP",
+        "Candidate": "FARRAWAY, Sam",
+        "Votes": 31577,
+        "Percent": 29.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GEE, Andrew",
+        "Votes": 25172,
+        "Percent": 23.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOOK, Kate",
+        "Votes": 16756,
+        "Percent": 15.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CUNNINGHAM, Julie",
+        "Votes": 11086,
+        "Percent": 10.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HUGHES, Jennifer",
+        "Votes": 8200,
+        "Percent": 7.7
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "RAYE, Sue",
+        "Votes": 4162,
+        "Percent": 3.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PARKER, Ben",
+        "Votes": 3753,
+        "Percent": 3.5
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "LESAGE, Jase",
+        "Votes": 2245,
+        "Percent": 2.1
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "HAZELTON, Ross Angus",
+        "Votes": 1733,
+        "Percent": 1.6
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "O'LEARY, Vicki Elizabeth",
+        "Votes": 1583,
+        "Percent": 1.5
+      }
+    ]
+  }
+}

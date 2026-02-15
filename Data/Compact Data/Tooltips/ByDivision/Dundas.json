@@ -1,0 +1,176 @@
+{
+  "1977": {
+    "title": "Dundas, NSW   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RUDDOCK, Philip",
+        "Votes": 36427,
+        "Percent": 53.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ROLLASON, Russell",
+        "Votes": 22980,
+        "Percent": 33.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MOHIDE, Brendan",
+        "Votes": 6484,
+        "Percent": 9.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCKINNON, Malcolm",
+        "Votes": 1824,
+        "Percent": 2.7
+      }
+    ]
+  },
+  "1980": {
+    "title": "Dundas, NSW   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RUDDOCK, Philip",
+        "Votes": 35836,
+        "Percent": 53.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HOURIHAN, Margery",
+        "Votes": 25407,
+        "Percent": 37.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BASTIAN, Stephen",
+        "Votes": 4922,
+        "Percent": 7.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BROWN, Archibald",
+        "Votes": 1243,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "1983": {
+    "title": "Dundas, NSW   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RUDDOCK, Philip",
+        "Votes": 33509,
+        "Percent": 50.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BLAXELL, Margaret",
+        "Votes": 29727,
+        "Percent": 44.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TUMMINELLO, John",
+        "Votes": 3712,
+        "Percent": 5.5
+      }
+    ]
+  },
+  "1984": {
+    "title": "Dundas, NSW   1984",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RUDDOCK, Philip",
+        "Votes": 33846,
+        "Percent": 55.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BLAXELL, Margaret",
+        "Votes": 22076,
+        "Percent": 36.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TUMINELLO, John",
+        "Votes": 5400,
+        "Percent": 8.8
+      }
+    ]
+  },
+  "1987": {
+    "title": "Dundas, NSW   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RUDDOCK, Philip",
+        "Votes": 35747,
+        "Percent": 57.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HUSTED, Veronica",
+        "Votes": 20786,
+        "Percent": 33.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SPRINGETT, Robert",
+        "Votes": 5738,
+        "Percent": 9.2
+      }
+    ]
+  },
+  "1990": {
+    "title": "Dundas, NSW   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "RUDDOCK, Philip",
+        "Votes": 30887,
+        "Percent": 49.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TALBOT, Richard",
+        "Votes": 19191,
+        "Percent": 30.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "REDDY, Peter",
+        "Votes": 7447,
+        "Percent": 11.9
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "COLEMAN, Bruce",
+        "Votes": 1559,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PREDA, Alec",
+        "Votes": 1499,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LIGGINS, Barry",
+        "Votes": 1376,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WILSON, John",
+        "Votes": 513,
+        "Percent": 0.8
+      }
+    ]
+  }
+}

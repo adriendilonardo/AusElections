@@ -1,0 +1,72 @@
+{
+  "1984": {
+    "title": "Streeton, VIC   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LAMB, Tony",
+        "Votes": 27239,
+        "Percent": 49.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROADBENT, Russell",
+        "Votes": 21798,
+        "Percent": 39.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "CUNNINGHAM, Tessa",
+        "Votes": 4133,
+        "Percent": 7.4
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "CLIFFORD, John",
+        "Votes": 1538,
+        "Percent": 2.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "GRULKE, David",
+        "Votes": 852,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1987": {
+    "title": "Streeton, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LAMB, Tony",
+        "Votes": 29038,
+        "Percent": 46.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BROADBENT, Russell",
+        "Votes": 26288,
+        "Percent": 42.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MASON, Rika",
+        "Votes": 5063,
+        "Percent": 8.1
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "TREMBATH, Ken",
+        "Votes": 998,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CUNNINGHAM, Tessa",
+        "Votes": 822,
+        "Percent": 1.3
+      }
+    ]
+  }
+}

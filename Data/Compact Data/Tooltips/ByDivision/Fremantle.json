@@ -1,0 +1,1075 @@
+{
+  "1946": {
+    "title": "Fremantle, WA   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BEAZLEY, Kim",
+        "Votes": 45383,
+        "Percent": 64.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HENDERSON, Claude",
+        "Votes": 25428,
+        "Percent": 35.9
+      }
+    ]
+  },
+  "1949": {
+    "title": "Fremantle, WA   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BEAZLEY, Kim",
+        "Votes": 22463,
+        "Percent": 54.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SNEDDEN, Billy",
+        "Votes": 17918,
+        "Percent": 43.6
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "TROY, Patrick",
+        "Votes": 675,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1951": {
+    "title": "Fremantle, WA   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BEAZLEY, Kim",
+        "Votes": "23901",
+        "Percent": 56.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SEATON, Leonard",
+        "Votes": "18273",
+        "Percent": 43.3
+      }
+    ]
+  },
+  "1954": {
+    "title": "Fremantle, WA   1954",
+    "rows": [
+      {
+        "Party": "CPA",
+        "Candidate": "TROY, Patrick",
+        "Votes": "765",
+        "Percent": 1.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BEAZLEY, Kim",
+        "Votes": "26079",
+        "Percent": 54.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCPHERSON, Norman",
+        "Votes": "21002",
+        "Percent": 43.9
+      }
+    ]
+  },
+  "1955": {
+    "title": "Fremantle, WA   1955",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BEAZLEY, Kim",
+        "Votes": "22011",
+        "Percent": 57.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HUBBARD, Vernon",
+        "Votes": "15336",
+        "Percent": 39.8
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "TROY, Patrick",
+        "Votes": "1231",
+        "Percent": 3.2
+      }
+    ]
+  },
+  "1958": {
+    "title": "Fremantle, WA   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BEAZLEY, Kim",
+        "Votes": 23780,
+        "Percent": 57.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GOODE, Peter",
+        "Votes": 16725,
+        "Percent": 40.2
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "TROY, Patrick",
+        "Votes": 1051,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1961": {
+    "title": "Fremantle, WA   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BEAZLEY, Kim",
+        "Votes": 27615,
+        "Percent": 60.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WAGHORNE, John",
+        "Votes": 16747,
+        "Percent": 36.8
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "WILLIAMS, Marjorie",
+        "Votes": 1107,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "1963": {
+    "title": "Fremantle, WA   1963",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "COLLINS, James",
+        "Votes": "748",
+        "Percent": 1.5
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "TROY, Patrick",
+        "Votes": "676",
+        "Percent": 1.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BEAZLEY, Kim",
+        "Votes": "27203",
+        "Percent": 54.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WAGHORNE, John",
+        "Votes": "20931",
+        "Percent": 42.2
+      }
+    ]
+  },
+  "1966": {
+    "title": "Fremantle, WA   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BEAZLEY, Kim",
+        "Votes": 29827,
+        "Percent": 57.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WAGHORNE, John",
+        "Votes": 18909,
+        "Percent": 36.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MARTYR, John",
+        "Votes": 2378,
+        "Percent": 4.5
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "TROY, Patrick",
+        "Votes": 1248,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "1969": {
+    "title": "Fremantle, WA   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BEAZLEY, Kim",
+        "Votes": 34336,
+        "Percent": 63.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FRENCH, Robert",
+        "Votes": 17520,
+        "Percent": 32.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "POWNALL, Francis",
+        "Votes": 2417,
+        "Percent": 4.5
+      }
+    ]
+  },
+  "1972": {
+    "title": "Fremantle, WA   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BEAZLEY, Kim",
+        "Votes": 32803,
+        "Percent": 56.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LAWTON, Erica",
+        "Votes": 22637,
+        "Percent": 39.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "TOBORI, Rosemary",
+        "Votes": 1764,
+        "Percent": 3.0
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "MARKS, Albert",
+        "Votes": 786,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1974": {
+    "title": "Fremantle, WA   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BEAZLEY, Hon Kim",
+        "Votes": 35932,
+        "Percent": 59.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FERNIHOUGH, Douglas",
+        "Votes": 21711,
+        "Percent": 35.9
+      },
+      {
+        "Party": NaN,
+        "Candidate": "MOOREHOUSE, Peter",
+        "Votes": 2136,
+        "Percent": 3.5
+      },
+      {
+        "Party": "AP",
+        "Candidate": "PIERCE, Charles",
+        "Votes": 723,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "1975": {
+    "title": "Fremantle, WA   1975",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BEAZLEY, Hon Kim",
+        "Votes": 32570,
+        "Percent": 51.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LAPINSKI, Leon",
+        "Votes": 30509,
+        "Percent": 48.4
+      }
+    ]
+  },
+  "1977": {
+    "title": "Fremantle, WA   1977",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DAWKINS, John",
+        "Votes": 29700,
+        "Percent": 45.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RAMSHAW, Peter",
+        "Votes": 27372,
+        "Percent": 41.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KERNOTT, John",
+        "Votes": 6491,
+        "Percent": 9.9
+      },
+      {
+        "Party": "CPA",
+        "Candidate": "SLATER, Victor",
+        "Votes": 1305,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAVATER, David",
+        "Votes": 957,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1980": {
+    "title": "Fremantle, WA   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DAWKINS, John",
+        "Votes": 36272,
+        "Percent": 58.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MCLEOD, Donald",
+        "Votes": 21425,
+        "Percent": 34.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HULL, Graham",
+        "Votes": 3791,
+        "Percent": 6.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LOPEZ, Angelo",
+        "Votes": 915,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1983": {
+    "title": "Fremantle, WA   1983",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DAWKINS, John",
+        "Votes": 43326,
+        "Percent": 63.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ADAMS, Maxwell",
+        "Votes": 22025,
+        "Percent": 32.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HULL, Colin",
+        "Votes": 1733,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PEACH, Timothy",
+        "Votes": 970,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CONDOLEON, Margo",
+        "Votes": 360,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "1984": {
+    "title": "Fremantle, WA   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DAWKINS, Hon John",
+        "Votes": 33366,
+        "Percent": 59.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ADAMS, Max",
+        "Votes": 19152,
+        "Percent": 33.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HUNTY, Shirley de la",
+        "Votes": 3362,
+        "Percent": 5.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PEACH, Timothy",
+        "Votes": 650,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1987": {
+    "title": "Fremantle, WA   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DAWKINS, Hon John",
+        "Votes": 36646,
+        "Percent": 61.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HOEK, Jenny van den",
+        "Votes": 19487,
+        "Percent": 32.5
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "CLARKE, Jack",
+        "Votes": 3834,
+        "Percent": 6.4
+      }
+    ]
+  },
+  "1990": {
+    "title": "Fremantle, WA   1990",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DAWKINS, Hon John",
+        "Votes": 28009,
+        "Percent": 42.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "STEVENAGE, Paul",
+        "Votes": 21564,
+        "Percent": 33.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CARY, Jennie",
+        "Votes": 6886,
+        "Percent": 10.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TILBURY, Ray",
+        "Votes": 6754,
+        "Percent": 10.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BOLAS, Ian",
+        "Votes": 1370,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RILEY, Ronnie",
+        "Votes": 657,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1993": {
+    "title": "Fremantle, WA   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "HAYNES, Tom",
+        "Votes": "755",
+        "Percent": 1.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SALTER, Mary",
+        "Votes": "4725",
+        "Percent": 6.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DAWKINS, Hon John",
+        "Votes": "35084",
+        "Percent": 50.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PAPAPHOTIS, John",
+        "Votes": "27071",
+        "Percent": 38.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MULLINS, Patrick",
+        "Votes": "2247",
+        "Percent": 3.2
+      }
+    ]
+  },
+  "1996": {
+    "title": "Fremantle, WA   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LAWRENCE, Hon Dr Carmen",
+        "Votes": 33763,
+        "Percent": 46.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TILLER, Dr Mick",
+        "Votes": 29067,
+        "Percent": 40.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GARIS, Alison de",
+        "Votes": 4930,
+        "Percent": 6.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GUENTHER, Joe",
+        "Votes": 4188,
+        "Percent": 5.8
+      }
+    ]
+  },
+  "1998": {
+    "title": "Fremantle, WA   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LAWRENCE, Hon Dr Carmen",
+        "Votes": 36631,
+        "Percent": 47.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TILLER, Dr Mick",
+        "Votes": 25051,
+        "Percent": 32.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HILL, Tony",
+        "Votes": 5834,
+        "Percent": 7.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DEEGAN, Leonie",
+        "Votes": 5281,
+        "Percent": 6.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ZAKNIC, Jakica",
+        "Votes": 3450,
+        "Percent": 4.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHAVE, Lawrence",
+        "Votes": 957,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2001": {
+    "title": "Fremantle, WA   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LAWRENCE, Hon Dr Carmen",
+        "Votes": 34054,
+        "Percent": 47.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SMYTH, Louise",
+        "Votes": 22025,
+        "Percent": 30.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DELVES, Robert",
+        "Votes": 6565,
+        "Percent": 9.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "REYNOLDS, Chris",
+        "Votes": 4308,
+        "Percent": 5.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SWIFT, Rod",
+        "Votes": 3878,
+        "Percent": 5.3
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "SHAVE, Michelle",
+        "Votes": 1025,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARRIS, Sarah",
+        "Votes": 588,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2004": {
+    "title": "Fremantle, WA   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "LAWRENCE, Hon Dr Carmen",
+        "Votes": 32394,
+        "Percent": 44.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ZAGAMI, Carmelo",
+        "Votes": 26118,
+        "Percent": 35.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PARIS, Nicola",
+        "Votes": 8562,
+        "Percent": 11.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MACKINTOSH, Craig",
+        "Votes": 1687,
+        "Percent": 2.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "SHAVE, Michelle",
+        "Votes": 1524,
+        "Percent": 2.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BEAUMONT, Delys",
+        "Votes": 1231,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POOLE, Damian",
+        "Votes": 800,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JAMIESON, Ian",
+        "Votes": 350,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2007": {
+    "title": "Fremantle, WA   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PARKE, Melissa",
+        "Votes": 36102,
+        "Percent": 45.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JAMIESON, John",
+        "Votes": 28042,
+        "Percent": 35.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WALKER, Steve",
+        "Votes": 11645,
+        "Percent": 14.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "HEGGERS, Bill",
+        "Votes": 1376,
+        "Percent": 1.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "PLESSIS, Andriette Du",
+        "Votes": 1145,
+        "Percent": 1.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "BATEMAN, Sue",
+        "Votes": 988,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WAINWRIGHT, Sam",
+        "Votes": 361,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ELLISON, Paul",
+        "Votes": 242,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "Fremantle, WA   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PARKE, Melissa",
+        "Votes": 32063,
+        "Percent": 38.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TAYLOR, Matt",
+        "Votes": 31755,
+        "Percent": 38.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DAVIS, Kate",
+        "Votes": 14531,
+        "Percent": 17.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "PARSONS, Larry",
+        "Votes": 1409,
+        "Percent": 1.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "ROBERTSON, Scott",
+        "Votes": 1294,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ANDREW, Sanna",
+        "Votes": 662,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCENCROE, Keith",
+        "Votes": 622,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2013": {
+    "title": "Fremantle, WA   2013",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "PARKE, Hon Melissa",
+        "Votes": 35554,
+        "Percent": 40.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HANSSEN, Matthew",
+        "Votes": 33219,
+        "Percent": 38.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "STEELE-JOHN, Jordon",
+        "Votes": 10354,
+        "Percent": 11.9
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "SHARMA, Vashil",
+        "Votes": 3451,
+        "Percent": 4.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MULDER, Owen",
+        "Votes": 1163,
+        "Percent": 1.3
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "MCNAUGHT, Richard",
+        "Votes": 1061,
+        "Percent": 1.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MCCOURT, Jim",
+        "Votes": 811,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WAINWRIGHT, Sam",
+        "Votes": 743,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCOTT, Philip",
+        "Votes": 416,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LIESHOUT, Teresa van",
+        "Votes": 205,
+        "Percent": 0.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROWLANDS, Ron",
+        "Votes": 131,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2016": {
+    "title": "Fremantle, WA   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WILSON, Josh",
+        "Votes": 34792,
+        "Percent": 41.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KELLY, Pierrette",
+        "Votes": 31292,
+        "Percent": 36.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DAVIS, Kate",
+        "Votes": 15053,
+        "Percent": 17.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CONNOLLY, Mick",
+        "Votes": 2335,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "JENKINS, Chris",
+        "Votes": 1404,
+        "Percent": 1.7
+      }
+    ]
+  },
+  "2019": {
+    "title": "Fremantle, WA   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WILSON, Josh",
+        "Votes": 34636,
+        "Percent": 38.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ROBINS, Nicole",
+        "Votes": 31862,
+        "Percent": 35.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HUTCHINSON, Jesse",
+        "Votes": 14574,
+        "Percent": 16.0
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "WEARY, Brett",
+        "Votes": 3485,
+        "Percent": 3.8
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "KNAPP, Janetia",
+        "Votes": 2333,
+        "Percent": 2.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "LEVER, Fatima",
+        "Votes": 1767,
+        "Percent": 1.9
+      },
+      {
+        "Party": "AChr",
+        "Candidate": "MULDER, Laetisia",
+        "Votes": 1456,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WAINWRIGHT, Sam",
+        "Votes": 990,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2022": {
+    "title": "Fremantle, WA   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WILSON, Josh",
+        "Votes": 43111,
+        "Percent": 44.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KOUL, Bill",
+        "Votes": 23749,
+        "Percent": 24.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TOWNSEND, Felicity",
+        "Votes": 17790,
+        "Percent": 18.1
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "EDGAR, William",
+        "Votes": 3060,
+        "Percent": 3.1
+      },
+      {
+        "Party": "GAP",
+        "Candidate": "TILBURY, Ben",
+        "Votes": 2293,
+        "Percent": 2.3
+      },
+      {
+        "Party": "WAP",
+        "Candidate": "KNAPP, Janetia",
+        "Votes": 2248,
+        "Percent": 2.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "JINMAN, Stella",
+        "Votes": 2000,
+        "Percent": 2.0
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "GAVRANICH, Cathy",
+        "Votes": 1367,
+        "Percent": 1.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "LOH, Yan",
+        "Votes": 1251,
+        "Percent": 1.3
+      },
+      {
+        "Party": "SAll",
+        "Candidate": "WAINWRIGHT, Sam",
+        "Votes": 1184,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2025": {
+    "title": "Fremantle, WA   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "WILSON, Josh",
+        "Votes": 39427,
+        "Percent": 38.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HULETT, Kate",
+        "Votes": 23500,
+        "Percent": 23.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MARSTON, Tait",
+        "Votes": 19254,
+        "Percent": 18.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WARNE, Amy",
+        "Votes": 11802,
+        "Percent": 11.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MARRINER, Hannah",
+        "Votes": 6245,
+        "Percent": 6.1
+      },
+      {
+        "Party": "SAL",
+        "Candidate": "LAST, Joshua",
+        "Votes": 970,
+        "Percent": 0.9
+      },
+      {
+        "Party": "CEC",
+        "Candidate": "BIRD, John Alexander",
+        "Votes": 932,
+        "Percent": 0.9
+      }
+    ]
+  }
+}

@@ -1,0 +1,957 @@
+{
+  "1949": {
+    "title": "Higgins, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOLT, Hon Harold",
+        "Votes": 26018,
+        "Percent": 66.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MELTZER, Jules",
+        "Votes": 12909,
+        "Percent": 33.2
+      }
+    ]
+  },
+  "1951": {
+    "title": "Higgins, VIC   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOLT, Hon Harold",
+        "Votes": "24217",
+        "Percent": 64.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HUGHES, Mary Kent",
+        "Votes": "1925",
+        "Percent": 5.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NICHOLAS, Benjamin",
+        "Votes": "11490",
+        "Percent": 30.5
+      }
+    ]
+  },
+  "1954": {
+    "title": "Higgins, VIC   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOLT, Rt Hon Harold",
+        "Votes": "22849",
+        "Percent": 65.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NICHOLAS, Benjamin",
+        "Votes": "12108",
+        "Percent": 34.6
+      }
+    ]
+  },
+  "1955": {
+    "title": "Higgins, VIC   1955",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "HUGHES, Andrew",
+        "Votes": "8752",
+        "Percent": 22.1
+      },
+      {
+        "Party": "ALPAC",
+        "Candidate": "FITZGERALD, John",
+        "Votes": "5331",
+        "Percent": 13.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HOLT, Rt Hon Harold",
+        "Votes": "25476",
+        "Percent": 64.4
+      }
+    ]
+  },
+  "1958": {
+    "title": "Higgins, VIC   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOLT, Rt Hon Harold",
+        "Votes": 24486,
+        "Percent": 63.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SHIFF, Alfred",
+        "Votes": 9564,
+        "Percent": 24.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "LAIRD, Celia",
+        "Votes": 4701,
+        "Percent": 12.1
+      }
+    ]
+  },
+  "1961": {
+    "title": "Higgins, VIC   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOLT, Rt Hon Harold",
+        "Votes": 22004,
+        "Percent": 56.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KIRBY, Roger",
+        "Votes": 11353,
+        "Percent": 29.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "LAIRD, Celia",
+        "Votes": 5428,
+        "Percent": 14.0
+      }
+    ]
+  },
+  "1963": {
+    "title": "Higgins, VIC   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "LAIRD, Celia",
+        "Votes": "4223",
+        "Percent": 11.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HOLT, Rt Hon Harold",
+        "Votes": "22835",
+        "Percent": 60.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KIRBY, Roger",
+        "Votes": "10915",
+        "Percent": 28.7
+      }
+    ]
+  },
+  "1966": {
+    "title": "Higgins, VIC   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HOLT, Rt Hon Harold",
+        "Votes": 23918,
+        "Percent": 63.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PHAYER, Bruce",
+        "Votes": 9510,
+        "Percent": 25.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SKINNER, Frederick",
+        "Votes": 4370,
+        "Percent": 11.6
+      }
+    ]
+  },
+  "1969": {
+    "title": "Higgins, VIC   1969",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GORTON, Rt Hon John",
+        "Votes": 30191,
+        "Percent": 58.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KAPPHAN, Wilhelm",
+        "Votes": 14868,
+        "Percent": 28.8
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "GRANT, Peter",
+        "Votes": 4208,
+        "Percent": 8.1
+      },
+      {
+        "Party": "AP",
+        "Candidate": "PICKERING, Walter",
+        "Votes": 1598,
+        "Percent": 3.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "REVELMAN, Morris",
+        "Votes": 777,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1972": {
+    "title": "Higgins, VIC   1972",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GORTON, Rt Hon John",
+        "Votes": 29335,
+        "Percent": 53.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HARDY, David",
+        "Votes": 19362,
+        "Percent": 35.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "GRANT, Peter",
+        "Votes": 3142,
+        "Percent": 5.7
+      },
+      {
+        "Party": "AP",
+        "Candidate": "HAMMOND, Jack",
+        "Votes": 3069,
+        "Percent": 5.6
+      }
+    ]
+  },
+  "1974": {
+    "title": "Higgins, VIC   1974",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GORTON, Rt Hon John",
+        "Votes": 34640,
+        "Percent": 58.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KAPPHAN, Wilhelm",
+        "Votes": 20614,
+        "Percent": 34.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MAGREE, Thomas",
+        "Votes": 2048,
+        "Percent": 3.5
+      },
+      {
+        "Party": "AP",
+        "Candidate": "SLANEY, Rafe",
+        "Votes": 1809,
+        "Percent": 3.1
+      }
+    ]
+  },
+  "1975": {
+    "title": "Higgins, VIC   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SHIPTON, Roger",
+        "Votes": 35577,
+        "Percent": 60.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HOMER, Andrew",
+        "Votes": 19134,
+        "Percent": 32.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "COTTER, John",
+        "Votes": 2833,
+        "Percent": 4.8
+      },
+      {
+        "Party": "AP",
+        "Candidate": "SLANEY, Rafe",
+        "Votes": 1091,
+        "Percent": 1.9
+      }
+    ]
+  },
+  "1977": {
+    "title": "Higgins, VIC   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SHIPTON, Roger",
+        "Votes": 36504,
+        "Percent": 55.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JACKSON, Ann",
+        "Votes": 17308,
+        "Percent": 26.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "THORNLEY, Jim",
+        "Votes": 8292,
+        "Percent": 12.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CAHILL, Martin",
+        "Votes": 3998,
+        "Percent": 6.0
+      }
+    ]
+  },
+  "1980": {
+    "title": "Higgins, VIC   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SHIPTON, Roger",
+        "Votes": 37292,
+        "Percent": 57.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BUNDY, Jennifer",
+        "Votes": 22512,
+        "Percent": 34.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "THORNLEY, James",
+        "Votes": 4554,
+        "Percent": 7.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOLMES, Maureen",
+        "Votes": 636,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KAPPHAN, Wilhelm",
+        "Votes": 437,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "1983": {
+    "title": "Higgins, VIC   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SHIPTON, Roger",
+        "Votes": 35189,
+        "Percent": 55.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BUNDY, Jennifer",
+        "Votes": 24184,
+        "Percent": 37.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SIDDONS, Antony",
+        "Votes": 3880,
+        "Percent": 6.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOLMES, Maureen",
+        "Votes": 500,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "1984": {
+    "title": "Higgins, VIC   1984",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SHIPTON, Roger",
+        "Votes": 35062,
+        "Percent": 57.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PENALUNA, Kenneth",
+        "Votes": 20543,
+        "Percent": 33.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LEVY, Laurence",
+        "Votes": 3570,
+        "Percent": 5.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "FRANCIS, Babette",
+        "Votes": 1600,
+        "Percent": 2.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "SEMMEL, Robert",
+        "Votes": 692,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1987": {
+    "title": "Higgins, VIC   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "SHIPTON, Roger",
+        "Votes": 36139,
+        "Percent": 59.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HIGGINS, Barbara",
+        "Votes": 19899,
+        "Percent": 32.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JACKSON, Clive",
+        "Votes": 5188,
+        "Percent": 8.5
+      }
+    ]
+  },
+  "1990": {
+    "title": "Higgins, VIC   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "COSTELLO, Peter",
+        "Votes": 38594,
+        "Percent": 56.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WALSH, Laurie",
+        "Votes": 18497,
+        "Percent": 27.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JACKSON, Clive",
+        "Votes": 10826,
+        "Percent": 15.8
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "BALUCH, Neil",
+        "Votes": 670,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "1993": {
+    "title": "Higgins, VIC   1993",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "COSTELLO, Peter",
+        "Votes": "41501",
+        "Percent": 57.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JACKSON, Clive",
+        "Votes": "4040",
+        "Percent": 5.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CERRITELLI, Joe",
+        "Votes": "25077",
+        "Percent": 34.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MENDELSON, Lesley",
+        "Votes": "1740",
+        "Percent": 2.4
+      }
+    ]
+  },
+  "1996": {
+    "title": "Higgins, VIC   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "COSTELLO, Peter",
+        "Votes": 42778,
+        "Percent": 55.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GRIVAS, Ilias",
+        "Votes": 23392,
+        "Percent": 30.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KUNA, Nicolle",
+        "Votes": 7002,
+        "Percent": 9.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NICHOLLS, Mark",
+        "Votes": 2995,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCURFIELD, Lorna",
+        "Votes": 490,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1998": {
+    "title": "Higgins, VIC   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "COSTELLO, Hon Peter",
+        "Votes": 41353,
+        "Percent": 53.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WALLACE, Jude",
+        "Votes": 24852,
+        "Percent": 32.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SHAW, Craig",
+        "Votes": 5770,
+        "Percent": 7.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TRAFFICANTE, Robert",
+        "Votes": 2155,
+        "Percent": 2.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SPENCER, Rod",
+        "Votes": 1208,
+        "Percent": 1.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ZYNGIER, David",
+        "Votes": 1031,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LAWSON, Ian",
+        "Votes": 584,
+        "Percent": 0.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DICKINS, Michael",
+        "Votes": 205,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DWYER, Russell",
+        "Votes": 128,
+        "Percent": 0.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TORNEY, President",
+        "Votes": 93,
+        "Percent": 0.1
+      }
+    ]
+  },
+  "2001": {
+    "title": "Higgins, VIC   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "COSTELLO, Hon Peter",
+        "Votes": 42437,
+        "Percent": 53.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STEPHENS, Katarina",
+        "Votes": 23038,
+        "Percent": 28.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MOSS, Dr Katie",
+        "Votes": 7275,
+        "Percent": 9.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GILES, Tanya",
+        "Votes": 7029,
+        "Percent": 8.8
+      }
+    ]
+  },
+  "2004": {
+    "title": "Higgins, VIC   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "COSTELLO, Hon Peter",
+        "Votes": 43739,
+        "Percent": 55.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KLISARIS, Paul",
+        "Votes": 24166,
+        "Percent": 30.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TRAFFICANTE, Robert",
+        "Votes": 8993,
+        "Percent": 11.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCBETH, Adam",
+        "Votes": 1440,
+        "Percent": 1.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "PRINGLE, Glen",
+        "Votes": 658,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "REID, Katherine",
+        "Votes": 243,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2007": {
+    "title": "Higgins, VIC   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "COSTELLO, Hon Peter",
+        "Votes": 43761,
+        "Percent": 53.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NORMAN, Barbara",
+        "Votes": 25367,
+        "Percent": 31.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WILBUR-HAM, Michael",
+        "Votes": 8777,
+        "Percent": 10.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MAYNE, Stephen",
+        "Votes": 1615,
+        "Percent": 2.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DETTMAN, Mary",
+        "Votes": 990,
+        "Percent": 1.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BADWAL, Penny",
+        "Votes": 627,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FORDE, Genevieve",
+        "Votes": 265,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MEDDINGS, Graeme",
+        "Votes": 227,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "Higgins, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "O'DWYER, Kelly",
+        "Votes": 42086,
+        "Percent": 51.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CLARK, Tony",
+        "Votes": 22700,
+        "Percent": 27.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HIBBINS, Samuel",
+        "Votes": 14559,
+        "Percent": 17.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FAWCETT, David",
+        "Votes": 1225,
+        "Percent": 1.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "TRUTER, Ashley",
+        "Votes": 777,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2013": {
+    "title": "Higgins, VIC   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "O'DWYER, Kelly",
+        "Votes": 47467,
+        "Percent": 54.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CHAU, Wesa",
+        "Votes": 21027,
+        "Percent": 24.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HARRISON, James",
+        "Votes": 14669,
+        "Percent": 16.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WEBER, Graeme",
+        "Votes": 1663,
+        "Percent": 1.9
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "DALL, Phillip",
+        "Votes": 1385,
+        "Percent": 1.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BALDWIN, Jamie",
+        "Votes": 742,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PRICE, Leanne",
+        "Votes": 354,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2016": {
+    "title": "Higgins, VIC   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "O'DWYER, Hon Kelly",
+        "Votes": 46953,
+        "Percent": 52.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BALL, Jason",
+        "Votes": 22870,
+        "Percent": 25.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KATTER, Carl",
+        "Votes": 13495,
+        "Percent": 14.9
+      },
+      {
+        "Party": "NXT",
+        "Candidate": "BASSETT, Nancy",
+        "Votes": 2007,
+        "Percent": 2.2
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "GULLONE, Eleonora",
+        "Votes": 1344,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'BRIEN, Rebecca",
+        "Votes": 1265,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TREGEAR, Jessica",
+        "Votes": 1264,
+        "Percent": 1.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "KENNEDY, Robert",
+        "Votes": 1093,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2019": {
+    "title": "Higgins, VIC   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ALLEN, Dr Katie",
+        "Votes": 48091,
+        "Percent": 47.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCLEOD, Fiona",
+        "Votes": 25498,
+        "Percent": 25.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BALL, Jason",
+        "Votes": 22573,
+        "Percent": 22.5
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "WALKER, Alicia",
+        "Votes": 1729,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MORAN, Michaela",
+        "Votes": 1338,
+        "Percent": 1.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "RYAN, Tim",
+        "Votes": 1249,
+        "Percent": 1.2
+      }
+    ]
+  },
+  "2022": {
+    "title": "Higgins, VIC   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "ALLEN, Dr Katie",
+        "Votes": 38859,
+        "Percent": 40.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ANANDA-RAJAH, Dr Michelle",
+        "Votes": 27187,
+        "Percent": 28.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SEMMENS, Sonya",
+        "Votes": 21632,
+        "Percent": 22.7
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "FORD, Matthew",
+        "Votes": 2648,
+        "Percent": 2.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SPENCER, Ingram",
+        "Votes": 1917,
+        "Percent": 2.0
+      },
+      {
+        "Party": "Reas",
+        "Candidate": "JOHNSON, Andrew",
+        "Votes": 1458,
+        "Percent": 1.5
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "WALKER, Alicia",
+        "Votes": 1295,
+        "Percent": 1.4
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "MENOUDAKIS, Suzie",
+        "Votes": 515,
+        "Percent": 0.5
+      }
+    ]
+  }
+}

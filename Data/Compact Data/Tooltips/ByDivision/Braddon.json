@@ -1,0 +1,821 @@
+{
+  "1955": {
+    "title": "Braddon, TAS   1955",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "LUCK, Aubrey",
+        "Votes": "18590",
+        "Percent": 58.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MURRAY, Reginald",
+        "Votes": "12990",
+        "Percent": 41.1
+      }
+    ]
+  },
+  "1958": {
+    "title": "Braddon, TAS   1958",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DAVIES, Ronald",
+        "Votes": 15243,
+        "Percent": 46.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LUCK, Aubrey",
+        "Votes": 14525,
+        "Percent": 44.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "LANE, Francis",
+        "Votes": 2786,
+        "Percent": 8.6
+      }
+    ]
+  },
+  "1961": {
+    "title": "Braddon, TAS   1961",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DAVIES, Ronald",
+        "Votes": 21093,
+        "Percent": 60.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "YOUNG, William",
+        "Votes": 11433,
+        "Percent": 33.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "LANE, Frances",
+        "Votes": 2094,
+        "Percent": 6.0
+      }
+    ]
+  },
+  "1963": {
+    "title": "Braddon, TAS   1963",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DAVIES, Ronald",
+        "Votes": "20843",
+        "Percent": 57.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "LANE, Frances",
+        "Votes": "1853",
+        "Percent": 5.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FENTON, Paul",
+        "Votes": "13488",
+        "Percent": 37.3
+      }
+    ]
+  },
+  "1966": {
+    "title": "Braddon, TAS   1966",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DAVIES, Ronald",
+        "Votes": 21040,
+        "Percent": 55.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FENTON, Paul",
+        "Votes": 14637,
+        "Percent": 38.9
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CHAPMAN-MORTIMER, John",
+        "Votes": 1934,
+        "Percent": 5.1
+      }
+    ]
+  },
+  "1969": {
+    "title": "Braddon, TAS   1969",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DAVIES, Ronald",
+        "Votes": 26224,
+        "Percent": 62.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "ROTHWELL, Peter",
+        "Votes": 13637,
+        "Percent": 32.6
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MCNAMARA, Dudley",
+        "Votes": 1955,
+        "Percent": 4.7
+      }
+    ]
+  },
+  "1972": {
+    "title": "Braddon, TAS   1972",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DAVIES, Ronald",
+        "Votes": 27502,
+        "Percent": 62.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "LUCK, William",
+        "Votes": 15210,
+        "Percent": 34.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MCNAMARA, Dudley",
+        "Votes": 1506,
+        "Percent": 3.4
+      }
+    ]
+  },
+  "1974": {
+    "title": "Braddon, TAS   1974",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DAVIES, Ronald",
+        "Votes": 26075,
+        "Percent": 53.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GROOM, Raymond",
+        "Votes": 21678,
+        "Percent": 44.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHAPMAN-MORTIMER, John",
+        "Votes": 767,
+        "Percent": 1.6
+      },
+      {
+        "Party": "AP",
+        "Candidate": "ROACH, Walter",
+        "Votes": 423,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "1975": {
+    "title": "Braddon, TAS   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GROOM, Ray",
+        "Votes": 27131,
+        "Percent": 52.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DAVIES, Ronald",
+        "Votes": 23270,
+        "Percent": 45.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUCKINGHAM, Lance",
+        "Votes": 552,
+        "Percent": 1.1
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "WHILEY, Barry",
+        "Votes": 328,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1977": {
+    "title": "Braddon, TAS   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GROOM, Raymond",
+        "Votes": 27384,
+        "Percent": 58.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COLQUHOUN-KERR, Duncan",
+        "Votes": 19656,
+        "Percent": 41.8
+      }
+    ]
+  },
+  "1980": {
+    "title": "Braddon, TAS   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GROOM, Hon Ray",
+        "Votes": 27307,
+        "Percent": 55.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FEE, Lance",
+        "Votes": 22275,
+        "Percent": 44.9
+      }
+    ]
+  },
+  "1983": {
+    "title": "Braddon, TAS   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GROOM, Hon Ray",
+        "Votes": 31143,
+        "Percent": 61.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FEE, Lance",
+        "Votes": 18016,
+        "Percent": 35.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "SARGENT, Greg",
+        "Votes": 1731,
+        "Percent": 3.4
+      }
+    ]
+  },
+  "1984": {
+    "title": "Braddon, TAS   1984",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MILES, Chris",
+        "Votes": 27296,
+        "Percent": 52.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PEART, Greg",
+        "Votes": 22500,
+        "Percent": 43.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BUGG, Gavin",
+        "Votes": 2047,
+        "Percent": 3.9
+      }
+    ]
+  },
+  "1987": {
+    "title": "Braddon, TAS   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MILES, Christopher",
+        "Votes": 32108,
+        "Percent": 57.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CURRIE, David",
+        "Votes": 23307,
+        "Percent": 42.1
+      }
+    ]
+  },
+  "1990": {
+    "title": "Braddon, TAS   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MILES, Chris",
+        "Votes": 31860,
+        "Percent": 55.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HYNES, Terry",
+        "Votes": 20325,
+        "Percent": 35.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "REILLY, James",
+        "Votes": 3808,
+        "Percent": 6.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "EGGLESTONE, Tom",
+        "Votes": 1458,
+        "Percent": 2.5
+      }
+    ]
+  },
+  "1993": {
+    "title": "Braddon, TAS   1993",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MILES, Chris",
+        "Votes": "29863",
+        "Percent": 49.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GARD, Mike",
+        "Votes": "25365",
+        "Percent": 41.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COOMBES, John",
+        "Votes": "2426",
+        "Percent": 4.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "REILLY, Jim",
+        "Votes": "1676",
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LOHREY, Royce",
+        "Votes": "1151",
+        "Percent": 1.9
+      }
+    ]
+  },
+  "1996": {
+    "title": "Braddon, TAS   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MILES, Chris",
+        "Votes": 31201,
+        "Percent": 52.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SIDEBOTTOM, Sid",
+        "Votes": 22928,
+        "Percent": 38.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "THOMPSON, Clare",
+        "Votes": 3375,
+        "Percent": 5.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "IVORY, Chris",
+        "Votes": 2337,
+        "Percent": 3.9
+      }
+    ]
+  },
+  "1998": {
+    "title": "Braddon, TAS   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SIDEBOTTOM, Sid",
+        "Votes": 26643,
+        "Percent": 45.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MILES, Hon Chris",
+        "Votes": 23480,
+        "Percent": 40.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "THOMPSON, Clare",
+        "Votes": 2794,
+        "Percent": 4.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "THOMSON, John",
+        "Votes": 2446,
+        "Percent": 4.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MORGAN, Peter",
+        "Votes": 1601,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "THOMPSON, Gavin",
+        "Votes": 1143,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "2001": {
+    "title": "Braddon, TAS   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SIDEBOTTOM, Sid",
+        "Votes": 30572,
+        "Percent": 48.4
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PATTISON, Alan",
+        "Votes": 24743,
+        "Percent": 39.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "THOMPSON, Clare",
+        "Votes": 3461,
+        "Percent": 5.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "PICKFORD, Steve",
+        "Votes": 2615,
+        "Percent": 4.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COOPER, Craig",
+        "Votes": 1773,
+        "Percent": 2.8
+      }
+    ]
+  },
+  "2004": {
+    "title": "Braddon, TAS   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BAKER, Mark",
+        "Votes": 30681,
+        "Percent": 47.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SIDEBOTTOM, Sid",
+        "Votes": 27893,
+        "Percent": 43.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FOALE, Michelle",
+        "Votes": 3632,
+        "Percent": 5.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BOMFORD, Wayne De",
+        "Votes": 2581,
+        "Percent": 4.0
+      }
+    ]
+  },
+  "2007": {
+    "title": "Braddon, TAS   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "BAKER, Mark",
+        "Votes": 29152,
+        "Percent": 44.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SIDEBOTTOM, Sid",
+        "Votes": 28948,
+        "Percent": 43.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "O'HALLORAN, Paul",
+        "Votes": 5392,
+        "Percent": 8.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BOMFORD, Wayne de",
+        "Votes": 2135,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CUNNINGHAM, Peter",
+        "Votes": 321,
+        "Percent": 0.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DICK, Stephen",
+        "Votes": 313,
+        "Percent": 0.5
+      }
+    ]
+  },
+  "2010": {
+    "title": "Braddon, TAS   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "SIDEBOTTOM, Sid",
+        "Votes": 31890,
+        "Percent": 48.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CARPENTER, Garry",
+        "Votes": 25779,
+        "Percent": 39.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JORDAN, Scott",
+        "Votes": 7836,
+        "Percent": 12.0
+      }
+    ]
+  },
+  "2013": {
+    "title": "Braddon, TAS   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WHITELEY, Brett",
+        "Votes": 30904,
+        "Percent": 46.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SIDEBOTTOM, Hon Sid",
+        "Votes": 24791,
+        "Percent": 37.6
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "MORGAN, Kevin",
+        "Votes": 6125,
+        "Percent": 9.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HOUGHTON, Melissa",
+        "Votes": 3410,
+        "Percent": 5.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SHAW, Bernard",
+        "Votes": 726,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2016": {
+    "title": "Braddon, TAS   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "WHITELEY, Brett",
+        "Votes": 26841,
+        "Percent": 41.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KEAY, Justine",
+        "Votes": 25898,
+        "Percent": 40.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JORDAN, Scott",
+        "Votes": 4358,
+        "Percent": 6.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SALTMARSH, Glen",
+        "Votes": 3701,
+        "Percent": 5.7
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "BOAG, Joshua",
+        "Votes": 1380,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RICE, Clinton",
+        "Votes": 1343,
+        "Percent": 2.1
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "HODGE, Graham",
+        "Votes": 1151,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "2019": {
+    "title": "Braddon, TAS   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PEARCE, Gavin",
+        "Votes": 26513,
+        "Percent": 37.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KEAY, Justine",
+        "Votes": 22434,
+        "Percent": 32.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRAKEY, Craig",
+        "Votes": 7619,
+        "Percent": 10.9
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "GALLAHER, Graham",
+        "Votes": 3879,
+        "Percent": 5.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PARSONS, Phill",
+        "Votes": 3384,
+        "Percent": 4.8
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SPAULDING, Karen",
+        "Votes": 2575,
+        "Percent": 3.7
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "MILBOURNE, Sally",
+        "Votes": 1654,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SMITH, Brett",
+        "Votes": 1203,
+        "Percent": 1.7
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "ALLAN, Shane",
+        "Votes": 712,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2022": {
+    "title": "Braddon, TAS   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "PEARCE, Gavin",
+        "Votes": 31142,
+        "Percent": 44.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LYNCH, Chris",
+        "Votes": 15886,
+        "Percent": 22.5
+      },
+      {
+        "Party": "JLN",
+        "Candidate": "LEHMANN, Sophie",
+        "Votes": 6966,
+        "Percent": 9.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GARLAND, Craig",
+        "Votes": 5538,
+        "Percent": 7.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BRIGGS, Darren",
+        "Votes": 4745,
+        "Percent": 6.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MINEUR, Ludo",
+        "Votes": 3065,
+        "Percent": 4.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "BOBBERMIEN, Darren",
+        "Votes": 1000,
+        "Percent": 1.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "WHITE, Duncan",
+        "Votes": 971,
+        "Percent": 1.4
+      },
+      {
+        "Party": "Local",
+        "Candidate": "RANKIN, Scott",
+        "Votes": 719,
+        "Percent": 1.0
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "MARTIN, Keone",
+        "Votes": 566,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2025": {
+    "title": "Braddon, TAS   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "URQUHART, Anne",
+        "Votes": 29579,
+        "Percent": 39.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HINGSTON, Mal",
+        "Votes": 23700,
+        "Percent": 31.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MORROW, Erin",
+        "Votes": 6318,
+        "Percent": 8.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MARTIN, Adam",
+        "Votes": 6174,
+        "Percent": 8.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "METHORST, Christopher",
+        "Votes": 5709,
+        "Percent": 7.6
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "KENNEY, Stephen John",
+        "Votes": 3360,
+        "Percent": 4.5
+      }
+    ]
+  }
+}

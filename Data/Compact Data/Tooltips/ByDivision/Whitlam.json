@@ -1,0 +1,190 @@
+{
+  "2016": {
+    "title": "Whitlam, NSW   2016",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Stephen",
+        "Votes": 51939,
+        "Percent": 52.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HEWITT, Marcus",
+        "Votes": 25870,
+        "Percent": 26.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HUNT, Tom",
+        "Votes": 8162,
+        "Percent": 8.3
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "MANDELSON, Jan",
+        "Votes": 6341,
+        "Percent": 6.4
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "PINSUTI, Susan",
+        "Votes": 4048,
+        "Percent": 4.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARTMAN, Wayne",
+        "Votes": 2081,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "2019": {
+    "title": "Whitlam, NSW   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Stephen",
+        "Votes": 50102,
+        "Percent": 48.8
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "WENTWORTH, Stephen",
+        "Votes": 26145,
+        "Percent": 25.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DIXON, Jamie",
+        "Votes": 9461,
+        "Percent": 9.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "CUDA, Angelo",
+        "Votes": 9071,
+        "Percent": 8.8
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "NERO, Frank",
+        "Votes": 4214,
+        "Percent": 4.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DAVIS, Ken",
+        "Votes": 3678,
+        "Percent": 3.6
+      }
+    ]
+  },
+  "2022": {
+    "title": "Whitlam, NSW   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Stephen",
+        "Votes": 49218,
+        "Percent": 45.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CAINS, Mike",
+        "Votes": 30849,
+        "Percent": 28.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DIXON, Jamie",
+        "Votes": 11779,
+        "Percent": 10.8
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "HUGHES, Colin",
+        "Votes": 7543,
+        "Percent": 6.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "WODE, Allan",
+        "Votes": 5886,
+        "Percent": 5.4
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "WHEELER, Michael",
+        "Votes": 4062,
+        "Percent": 3.7
+      }
+    ]
+  },
+  "2025": {
+    "title": "Whitlam, NSW   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BERRY, Carol",
+        "Votes": 42230,
+        "Percent": 38.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "SMITH, Nathaniel",
+        "Votes": 30908,
+        "Percent": 28.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "DIXON, Jamie",
+        "Votes": 13558,
+        "Percent": 12.4
+      },
+      {
+        "Party": "ON",
+        "Candidate": "COUSINS, Sharon",
+        "Votes": 8379,
+        "Percent": 7.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRITTON, Ben",
+        "Votes": 5246,
+        "Percent": 4.8
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "CUDA, Angelo",
+        "Votes": 3101,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MOYLAN, Paddy",
+        "Votes": 2211,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BUTTERFIELD, Glenn",
+        "Votes": 1905,
+        "Percent": 1.7
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "KHOURY, Raymond",
+        "Votes": 1188,
+        "Percent": 1.1
+      },
+      {
+        "Party": "CEC",
+        "Candidate": "HINTON, Cheryl Ann",
+        "Votes": 590,
+        "Percent": 0.5
+      }
+    ]
+  }
+}

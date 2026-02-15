@@ -1,0 +1,653 @@
+{
+  "1984": {
+    "title": "Jagajaga, VIC   1984",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "STAPLES, Peter",
+        "Votes": 29781,
+        "Percent": 53.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "GARRATT, Frederick",
+        "Votes": 20905,
+        "Percent": 37.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LOVELL, Peter",
+        "Votes": 3038,
+        "Percent": 5.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MOORE, Len",
+        "Votes": 2106,
+        "Percent": 3.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TRESS, Nino de",
+        "Votes": 357,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1987": {
+    "title": "Jagajaga, VIC   1987",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "STAPLES, Peter",
+        "Votes": 29698,
+        "Percent": 51.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PASQUARELLI, John",
+        "Votes": 21479,
+        "Percent": 37.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCCALLUM, Howard",
+        "Votes": 5023,
+        "Percent": 8.7
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "KIRWAN, Laurie",
+        "Votes": 977,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MANNING, Lynette",
+        "Votes": 757,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "1990": {
+    "title": "Jagajaga, VIC   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "GARRETT, Fred",
+        "Votes": 26513,
+        "Percent": 40.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STAPLES, Hon Peter",
+        "Votes": 26510,
+        "Percent": 40.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCCALLUM, Howard",
+        "Votes": 10208,
+        "Percent": 15.6
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "ARNOLD, Colin",
+        "Votes": 1647,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MORRIS, Robert",
+        "Votes": 748,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1993": {
+    "title": "Jagajaga, VIC   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "VASSIS, Chris",
+        "Votes": "843",
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WALKER, Angela",
+        "Votes": "842",
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRIFFITHS, Sue",
+        "Votes": "795",
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FOLEY, Gary",
+        "Votes": "592",
+        "Percent": 0.9
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "O'KANE, Doreen",
+        "Votes": "436",
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KIRKWOOD, Eric",
+        "Votes": "344",
+        "Percent": 0.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STAPLES, Hon Peter",
+        "Votes": "33881",
+        "Percent": 50.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "URQUHART, Alistair",
+        "Votes": "27441",
+        "Percent": 40.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FITZHERBERT, Richard",
+        "Votes": "260",
+        "Percent": 0.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WEST, Bob",
+        "Votes": "2137",
+        "Percent": 3.2
+      }
+    ]
+  },
+  "1996": {
+    "title": "Jagajaga, VIC   1996",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MACKLIN, Jenny",
+        "Votes": 34977,
+        "Percent": 44.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PENSON, Michelle",
+        "Votes": 33823,
+        "Percent": 42.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "NEWHOUSE, Timothy",
+        "Votes": 5496,
+        "Percent": 6.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "COLEMAN, Susan",
+        "Votes": 2609,
+        "Percent": 3.3
+      },
+      {
+        "Party": "AAFI",
+        "Candidate": "TOBIAS, Paul",
+        "Votes": 994,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MACKENZIE, Andrew",
+        "Votes": 839,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RIGBY, Byron",
+        "Votes": 249,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VASSIS, Chris",
+        "Votes": 214,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "1998": {
+    "title": "Jagajaga, VIC   1998",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MACKLIN, Jenny",
+        "Votes": 38842,
+        "Percent": 48.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "RAUNIC, Tony",
+        "Votes": 31760,
+        "Percent": 39.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCPHERSON, John",
+        "Votes": 4732,
+        "Percent": 5.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROBERTS, Robyn",
+        "Votes": 2633,
+        "Percent": 3.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MASON, Ray",
+        "Votes": 1971,
+        "Percent": 2.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WALTERS, Grant",
+        "Votes": 468,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GRIFFITH, Steve",
+        "Votes": 265,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2001": {
+    "title": "Jagajaga, VIC   2001",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MACKLIN, Jenny",
+        "Votes": 37027,
+        "Percent": 45.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "JONES, Brett",
+        "Votes": 32619,
+        "Percent": 40.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WIGG, Dr Peter",
+        "Votes": 5421,
+        "Percent": 6.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ROBERTS, Samantha",
+        "Votes": 5178,
+        "Percent": 6.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCHOREL-HLAVKA, Gary",
+        "Votes": 673,
+        "Percent": 0.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GALLAGHER, Paul",
+        "Votes": 266,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2004": {
+    "title": "Jagajaga, VIC   2004",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MACKLIN, Jenny",
+        "Votes": 38303,
+        "Percent": 44.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "INMAN, Woody",
+        "Votes": 36210,
+        "Percent": 42.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ARDIN, Don",
+        "Votes": 7111,
+        "Percent": 8.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "BARTON, Jennifer",
+        "Votes": 1956,
+        "Percent": 2.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HAYWARD, Cate",
+        "Votes": 983,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MINISTER, Barry",
+        "Votes": 527,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCHOREL-HLAVKA, Gary",
+        "Votes": 285,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LELE, Stephen",
+        "Votes": 162,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2007": {
+    "title": "Jagajaga, VIC   2007",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MACKLIN, Jenny",
+        "Votes": 42154,
+        "Percent": 48.2
+      },
+      {
+        "Party": "LP",
+        "Candidate": "D'SOUZA, Dr Conrad",
+        "Votes": 32870,
+        "Percent": 37.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HODGSON, Lisa",
+        "Votes": 8971,
+        "Percent": 10.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CONLON, Andrew",
+        "Votes": 2065,
+        "Percent": 2.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GRAHAM, Jason",
+        "Votes": 979,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LELE, Stephen",
+        "Votes": 496,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "2010": {
+    "title": "Jagajaga, VIC   2010",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MACKLIN, Hon Jenny",
+        "Votes": 40682,
+        "Percent": 47.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BAUCH, Joh",
+        "Votes": 29745,
+        "Percent": 34.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KEARNEY, Chris",
+        "Votes": 12847,
+        "Percent": 15.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SGARLATA, Joe",
+        "Votes": 2109,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARRIS, Peter",
+        "Votes": 560,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2013": {
+    "title": "Jagajaga, VIC   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MCGOWAN, Nick",
+        "Votes": 38422,
+        "Percent": 41.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MACKLIN, Hon Jenny",
+        "Votes": 34813,
+        "Percent": 38.0
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KEARNEY, Chris",
+        "Votes": 11863,
+        "Percent": 13.0
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "WALLIS, Nicholas",
+        "Votes": 2565,
+        "Percent": 2.8
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "SNAPE, Kitten",
+        "Votes": 2452,
+        "Percent": 2.7
+      },
+      {
+        "Party": "FF",
+        "Candidate": "EADIE, Tahlia",
+        "Votes": 1490,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "2016": {
+    "title": "Jagajaga, VIC   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "MULHOLLAND, David",
+        "Votes": 37920,
+        "Percent": 41.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MACKLIN, Hon Jenny",
+        "Votes": 36238,
+        "Percent": 39.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCKINNON, Hugh",
+        "Votes": 13696,
+        "Percent": 14.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "WARD, Jessica",
+        "Votes": 2341,
+        "Percent": 2.5
+      },
+      {
+        "Party": "AJP",
+        "Candidate": "SCHRAM, Nathan",
+        "Votes": 2235,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "2019": {
+    "title": "Jagajaga, VIC   2019",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THWAITES, Kate",
+        "Votes": 41086,
+        "Percent": 42.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "WELCH, Richard",
+        "Votes": 37755,
+        "Percent": 38.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "KENNEDY, Paul",
+        "Votes": 13929,
+        "Percent": 14.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "RIGONI, Maria",
+        "Votes": 3652,
+        "Percent": 3.7
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "TRUSCOTT, Jeff",
+        "Votes": 1345,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "2022": {
+    "title": "Jagajaga, VIC   2022",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THWAITES, Kate",
+        "Votes": 41412,
+        "Percent": 40.9
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TOMAR, Sahil",
+        "Votes": 29535,
+        "Percent": 29.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CHASE, Liz",
+        "Votes": 16855,
+        "Percent": 16.7
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "TESA, Maya",
+        "Votes": 3760,
+        "Percent": 3.7
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "ZELINKA, Allison",
+        "Votes": 3493,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MUSTAF, Zahra",
+        "Votes": 3150,
+        "Percent": 3.7
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "BOOKER, John",
+        "Votes": 2274,
+        "Percent": 2.3
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "PALMARINI, Brendan",
+        "Votes": 764,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2025": {
+    "title": "Jagajaga, VIC   2025",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "THWAITES, Kate",
+        "Votes": 47284,
+        "Percent": 42.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "PARR, Chris",
+        "Votes": 32724,
+        "Percent": 29.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "SANDFORD, Jy",
+        "Votes": 17334,
+        "Percent": 15.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KEARNEY, Chris",
+        "Votes": 5167,
+        "Percent": 4.7
+      },
+      {
+        "Party": "ON",
+        "Candidate": "RALPH, Leslie",
+        "Votes": 4297,
+        "Percent": 3.9
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "RANCIE, Rae",
+        "Votes": 2775,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MOHAMED, Abdi",
+        "Votes": 1518,
+        "Percent": 1.4
+      }
+    ]
+  }
+}

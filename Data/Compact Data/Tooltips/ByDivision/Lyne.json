@@ -1,0 +1,1112 @@
+{
+  "1949": {
+    "title": "Lyne, NSW   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "EGGINS, Jim",
+        "Votes": 10212,
+        "Percent": 27.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HAYES, Edward",
+        "Votes": 10160,
+        "Percent": 27.6
+      },
+      {
+        "Party": "CP",
+        "Candidate": "LUCOCK, Philip",
+        "Votes": 6984,
+        "Percent": 19.0
+      },
+      {
+        "Party": "CP",
+        "Candidate": "MACKAY, Eric",
+        "Votes": 6111,
+        "Percent": 16.6
+      },
+      {
+        "Party": "CP",
+        "Candidate": "HAIN, Francis",
+        "Votes": 2296,
+        "Percent": 6.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CORDNER, Joseph",
+        "Votes": 1057,
+        "Percent": 2.9
+      }
+    ]
+  },
+  "1951": {
+    "title": "Lyne, NSW   1951",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "EGGINS, Jim",
+        "Votes": "24971",
+        "Percent": 65.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CORDNER, Joseph",
+        "Votes": "1745",
+        "Percent": 4.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "HAYES, Edward",
+        "Votes": "11381",
+        "Percent": 29.9
+      }
+    ]
+  },
+  "1954": {
+    "title": "Lyne, NSW   1954",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "LUCOCK, Philip",
+        "Votes": "21388",
+        "Percent": 53.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CORDNER, Joseph",
+        "Votes": "2051",
+        "Percent": 5.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LANCASTER, Donald",
+        "Votes": "16518",
+        "Percent": 41.3
+      }
+    ]
+  },
+  "1955": {
+    "title": "Lyne, NSW   1955",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "LUCOCK, Philip",
+        "Votes": "23477",
+        "Percent": 59.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CORDNER, Joseph",
+        "Votes": "1555",
+        "Percent": 4.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COLLINS, Herbert",
+        "Votes": "14198",
+        "Percent": 36.2
+      }
+    ]
+  },
+  "1958": {
+    "title": "Lyne, NSW   1958",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "LUCOCK, Philip",
+        "Votes": 21548,
+        "Percent": 53.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ALLAN, John",
+        "Votes": 13028,
+        "Percent": 32.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOOKE, Murray",
+        "Votes": 3921,
+        "Percent": 9.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "GLEESON, William",
+        "Votes": 1322,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CORDNER, Joseph",
+        "Votes": 561,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1961": {
+    "title": "Lyne, NSW   1961",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "LUCOCK, Philip",
+        "Votes": 22599,
+        "Percent": 54.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ALLAN, John",
+        "Votes": 16295,
+        "Percent": 39.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "COLLINS, Herbert",
+        "Votes": 1971,
+        "Percent": 4.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CORDNER, Joseph",
+        "Votes": 671,
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1963": {
+    "title": "Lyne, NSW   1963",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "LUCOCK, Philip",
+        "Votes": "25869",
+        "Percent": 61.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ALLAN, John",
+        "Votes": "15039",
+        "Percent": 35.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CORDNER, Joseph",
+        "Votes": "1181",
+        "Percent": 2.8
+      }
+    ]
+  },
+  "1966": {
+    "title": "Lyne, NSW   1966",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "LUCOCK, Philip",
+        "Votes": 27822,
+        "Percent": 64.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ALLAN, John",
+        "Votes": 13537,
+        "Percent": 31.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "POWER, William",
+        "Votes": 933,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CORDNER, Joseph",
+        "Votes": 923,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "1969": {
+    "title": "Lyne, NSW   1969",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "LUCOCK, Philip",
+        "Votes": 25898,
+        "Percent": 58.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ALLAN, John",
+        "Votes": 15631,
+        "Percent": 35.5
+      },
+      {
+        "Party": "AP",
+        "Candidate": "MCPHERSON, Percival",
+        "Votes": 1561,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CORDNER, Joseph",
+        "Votes": 973,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "1972": {
+    "title": "Lyne, NSW   1972",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "LUCOCK, Philip",
+        "Votes": 24633,
+        "Percent": 51.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CARNEY, Peter",
+        "Votes": 20619,
+        "Percent": 42.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "COLLINS, Herbert",
+        "Votes": 1550,
+        "Percent": 3.2
+      },
+      {
+        "Party": "AP",
+        "Candidate": "THEW, Stephanie",
+        "Votes": 1204,
+        "Percent": 2.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CORDNER, Joseph",
+        "Votes": 286,
+        "Percent": 0.6
+      }
+    ]
+  },
+  "1974": {
+    "title": "Lyne, NSW   1974",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "LUCOCK, Philip",
+        "Votes": 33253,
+        "Percent": 59.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "REED, Kenneth",
+        "Votes": 20306,
+        "Percent": 36.5
+      },
+      {
+        "Party": "AP",
+        "Candidate": "HAIG, David",
+        "Votes": 2005,
+        "Percent": 3.6
+      }
+    ]
+  },
+  "1975": {
+    "title": "Lyne, NSW   1975",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "LUCOCK, Philip",
+        "Votes": 35554,
+        "Percent": 60.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LANGFORD, Bruce",
+        "Votes": 18377,
+        "Percent": 31.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SIMPSON, Peter",
+        "Votes": 5362,
+        "Percent": 9.0
+      }
+    ]
+  },
+  "1977": {
+    "title": "Lyne, NSW   1977",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "LUCOCK, Philip",
+        "Votes": 36678,
+        "Percent": 55.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "UNICOMB, Noel",
+        "Votes": 22308,
+        "Percent": 34.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "EDWARDS, Allen",
+        "Votes": 6687,
+        "Percent": 10.2
+      }
+    ]
+  },
+  "1980": {
+    "title": "Lyne, NSW   1980",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "BROWN, Leslie",
+        "Votes": 27714,
+        "Percent": 37.7
+      },
+      {
+        "Party": "NCP",
+        "Candidate": "COWAN, Bruce",
+        "Votes": 23413,
+        "Percent": 31.8
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MORRIS, Milton",
+        "Votes": 20636,
+        "Percent": 28.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "POPPLETON, Edwin",
+        "Votes": 1792,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "1983": {
+    "title": "Lyne, NSW   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "COWAN, David",
+        "Votes": 40140,
+        "Percent": 50.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MURRAY, Francis",
+        "Votes": 31877,
+        "Percent": 40.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JEFFRIES, Stephen",
+        "Votes": 3953,
+        "Percent": 5.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BRYANT, John",
+        "Votes": 2800,
+        "Percent": 3.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CANNINGS, Alfred",
+        "Votes": 514,
+        "Percent": 0.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "VEENSTRA, John",
+        "Votes": 284,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "1984": {
+    "title": "Lyne, NSW   1984",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "COWAN, Bruce",
+        "Votes": 31801,
+        "Percent": 53.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MAY, Fred",
+        "Votes": 23707,
+        "Percent": 39.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "INMAN, Roland",
+        "Votes": 3401,
+        "Percent": 5.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "COOPER, Stewart",
+        "Votes": 863,
+        "Percent": 1.4
+      }
+    ]
+  },
+  "1987": {
+    "title": "Lyne, NSW   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "COWAN, Bruce",
+        "Votes": 36467,
+        "Percent": 55.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WORTH, Garry",
+        "Votes": 24252,
+        "Percent": 36.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "AITKEN, John",
+        "Votes": 5534,
+        "Percent": 8.4
+      }
+    ]
+  },
+  "1990": {
+    "title": "Lyne, NSW   1990",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "COWAN, Bruce",
+        "Votes": 38963,
+        "Percent": 51.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WORTH, Garry",
+        "Votes": 25414,
+        "Percent": 33.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "COOPER, Peter",
+        "Votes": 11758,
+        "Percent": 15.4
+      }
+    ]
+  },
+  "1993": {
+    "title": "Lyne, NSW   1993",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "DRIVER, Dennis",
+        "Votes": "28424",
+        "Percent": 40.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROWSELL, Marje",
+        "Votes": "2247",
+        "Percent": 3.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "STOKES, John",
+        "Votes": "1949",
+        "Percent": 2.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "VAILE, Mark",
+        "Votes": "18670",
+        "Percent": 26.7
+      },
+      {
+        "Party": "LP",
+        "Candidate": "BARRETT, John",
+        "Votes": "18668",
+        "Percent": 26.7
+      }
+    ]
+  },
+  "1996": {
+    "title": "Lyne, NSW   1996",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "VAILE, Mark",
+        "Votes": 44056,
+        "Percent": 58.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WEATE, John",
+        "Votes": 21717,
+        "Percent": 29.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RIACH, Rodger",
+        "Votes": 3379,
+        "Percent": 4.5
+      },
+      {
+        "Party": "AAFI",
+        "Candidate": "ROWSELL, Marje",
+        "Votes": 3237,
+        "Percent": 4.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RUSSELL, Susie",
+        "Votes": 2478,
+        "Percent": 3.3
+      }
+    ]
+  },
+  "1998": {
+    "title": "Lyne, NSW   1998",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "VAILE, Hon Mark",
+        "Votes": 38812,
+        "Percent": 51.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GRIEVES, Vicki",
+        "Votes": 22456,
+        "Percent": 29.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "DANTON, Ray",
+        "Votes": 9011,
+        "Percent": 11.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "QUARTLY, Allan",
+        "Votes": 1974,
+        "Percent": 2.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JACOBI, Carrie",
+        "Votes": 1501,
+        "Percent": 2.0
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "WATTS, Barry",
+        "Votes": 1166,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SIMMS, Terrence",
+        "Votes": 984,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MULDOON, Graeme",
+        "Votes": 197,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2001": {
+    "title": "Lyne, NSW   2001",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "VAILE, Hon Mark",
+        "Votes": 42699,
+        "Percent": 53.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STEVENS, Patrick",
+        "Votes": 23405,
+        "Percent": 29.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "STANFIELD, Lynn",
+        "Votes": 8178,
+        "Percent": 10.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ISHERWOOD, Siobhan",
+        "Votes": 2380,
+        "Percent": 3.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JIRMAN, Phillip",
+        "Votes": 2237,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SARA, Dane",
+        "Votes": 963,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MULDOON, Graeme",
+        "Votes": 247,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2004": {
+    "title": "Lyne, NSW   2004",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "VAILE, Hon Mark",
+        "Votes": 46958,
+        "Percent": 56.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WATTERS, Greg",
+        "Votes": 22325,
+        "Percent": 26.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BRADLEY, Jeremy",
+        "Votes": 3966,
+        "Percent": 4.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "STANFIELD, Joan",
+        "Votes": 3046,
+        "Percent": 3.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MURPHY, Robyn",
+        "Votes": 2824,
+        "Percent": 3.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WILDBLOOD, Peter",
+        "Votes": 1401,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SALT, Kerry",
+        "Votes": 1327,
+        "Percent": 1.6
+      },
+      {
+        "Party": "FF",
+        "Candidate": "APOSTLE, Simon",
+        "Votes": 1181,
+        "Percent": 1.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MULDOON, Graeme",
+        "Votes": 225,
+        "Percent": 0.3
+      },
+      {
+        "Party": "SA",
+        "Candidate": "BAILEY, Ron",
+        "Votes": 141,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2007": {
+    "title": "Lyne, NSW   2007",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "VAILE, Hon Mark",
+        "Votes": 41319,
+        "Percent": 52.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LANGLEY, James",
+        "Votes": 25358,
+        "Percent": 32.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RUSSELL, Susie",
+        "Votes": 5649,
+        "Percent": 7.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HARRISON, Jamie",
+        "Votes": 3326,
+        "Percent": 4.2
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "WALDRON, Robert L",
+        "Votes": 1679,
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WRIGHT, Barry",
+        "Votes": 979,
+        "Percent": 1.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SCOTT-IRVING, Stewart",
+        "Votes": 330,
+        "Percent": 0.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RIACH, Rodger",
+        "Votes": 238,
+        "Percent": 0.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MULDOON, Graeme",
+        "Votes": 184,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2010": {
+    "title": "Lyne, NSW   2010",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "OAKESHOTT, Rob",
+        "Votes": 40061,
+        "Percent": 47.2
+      },
+      {
+        "Party": "NAT",
+        "Candidate": "GILLESPIE, Dr David",
+        "Votes": 29216,
+        "Percent": 34.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LIPS, Frederik",
+        "Votes": 11459,
+        "Percent": 13.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "OXENFORD, Ian",
+        "Votes": 3645,
+        "Percent": 4.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WRIGHT, Barry",
+        "Votes": 586,
+        "Percent": 0.7
+      }
+    ]
+  },
+  "2013": {
+    "title": "Lyne, NSW   2013",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "GILLESPIE, Dr David",
+        "Votes": 45871,
+        "Percent": 53.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ALLEY, Peter",
+        "Votes": 18352,
+        "Percent": 21.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ATTKINS, Steve",
+        "Votes": 6561,
+        "Percent": 7.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "OXENFORD, Ian",
+        "Votes": 5340,
+        "Percent": 6.2
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "WILKIE, Troy",
+        "Votes": 4727,
+        "Percent": 5.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HUTH, Craig",
+        "Votes": 2208,
+        "Percent": 2.6
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "KLOSE, John",
+        "Votes": 2054,
+        "Percent": 2.4
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "CLARE, Brian Buckley",
+        "Votes": 814,
+        "Percent": 0.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GOUGH, Michael",
+        "Votes": 318,
+        "Percent": 0.4
+      }
+    ]
+  },
+  "2016": {
+    "title": "Lyne, NSW   2016",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "GILLESPIE, Dr David",
+        "Votes": 49399,
+        "Percent": 49.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ALLEY, Peter",
+        "Votes": 26470,
+        "Percent": 26.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "LYFORD, Julie",
+        "Votes": 9406,
+        "Percent": 9.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHRISTENSEN, Brad",
+        "Votes": 9227,
+        "Percent": 9.3
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "CARTER, Elaine",
+        "Votes": 3026,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RIACH, Rodger",
+        "Votes": 2126,
+        "Percent": 2.1
+      }
+    ]
+  },
+  "2019": {
+    "title": "Lyne, NSW   2019",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "GILLESPIE, Hon Dr David",
+        "Votes": 49934,
+        "Percent": 49.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COSTA, Phil",
+        "Votes": 24371,
+        "Percent": 24.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "WATSON, Stuart",
+        "Votes": 6589,
+        "Percent": 6.5
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MCCRAE, Dean",
+        "Votes": 5864,
+        "Percent": 5.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MILLER, Jeremy",
+        "Votes": 5168,
+        "Percent": 5.1
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "BOURKE, Garry",
+        "Votes": 4098,
+        "Percent": 4.1
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "GOLDSPRING, Ryan",
+        "Votes": 1986,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CARUANA, Ed",
+        "Votes": 1676,
+        "Percent": 1.7
+      },
+      {
+        "Party": "CDP",
+        "Candidate": "ZHAO, Catherine",
+        "Votes": 1493,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "2022": {
+    "title": "Lyne, NSW   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "GILLESPIE, Hon Dr David",
+        "Votes": 46661,
+        "Percent": 43.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SIMPSON, Alex",
+        "Votes": 23024,
+        "Percent": 21.5
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "CASHMAN, Josephine",
+        "Votes": 8502,
+        "Percent": 7.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "ATTENBOROUGH, Karl",
+        "Votes": 8422,
+        "Percent": 7.9
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "HORNSHAW, Mark",
+        "Votes": 6824,
+        "Percent": 6.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ATTKINS, Steve",
+        "Votes": 5574,
+        "Percent": 5.2
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "PUTLAND, Joel",
+        "Votes": 4421,
+        "Percent": 4.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PEARCE, Joanne",
+        "Votes": 3820,
+        "Percent": 3.6
+      }
+    ]
+  },
+  "2025": {
+    "title": "Lyne, NSW   2025",
+    "rows": [
+      {
+        "Party": "NP",
+        "Candidate": "PENFOLD, Alison",
+        "Votes": 39629,
+        "Percent": 36.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILSON, Digby",
+        "Votes": 21667,
+        "Percent": 19.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MILLER, Jeremy",
+        "Votes": 16943,
+        "Percent": 15.5
+      },
+      {
+        "Party": "ON",
+        "Candidate": "HUGHES, Colin",
+        "Votes": 9174,
+        "Percent": 8.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "FERRIER, Tom",
+        "Votes": 6977,
+        "Percent": 6.4
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "MANLEY, Keys",
+        "Votes": 5995,
+        "Percent": 5.5
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "HORNSHAW, Mark Alexander",
+        "Votes": 4165,
+        "Percent": 3.8
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "CHARSLEY, Cathy",
+        "Votes": 2690,
+        "Percent": 2.5
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "MASTERS, David",
+        "Votes": 1662,
+        "Percent": 1.5
+      },
+      {
+        "Party": "CEC",
+        "Candidate": "BURKE, Stephen John",
+        "Votes": 448,
+        "Percent": 0.4
+      }
+    ]
+  }
+}

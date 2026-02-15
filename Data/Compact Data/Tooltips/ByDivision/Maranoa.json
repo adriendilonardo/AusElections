@@ -1,0 +1,1009 @@
+{
+  "1946": {
+    "title": "Maranoa, QLD   1946",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "ADERMANN, Charles",
+        "Votes": 29547,
+        "Percent": 58.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DUFFICY, John",
+        "Votes": 18934,
+        "Percent": 37.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WALKER, John",
+        "Votes": 2441,
+        "Percent": 4.8
+      }
+    ]
+  },
+  "1949": {
+    "title": "Maranoa, QLD   1949",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "RUSSELL, Charles",
+        "Votes": 18652,
+        "Percent": 59.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LARACY, Martin",
+        "Votes": 12657,
+        "Percent": 40.4
+      }
+    ]
+  },
+  "1951": {
+    "title": "Maranoa, QLD   1951",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "RUSSELL, Charles",
+        "Votes": "9502",
+        "Percent": 29.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "DOHRING, Alfred",
+        "Votes": "11989",
+        "Percent": 37.7
+      },
+      {
+        "Party": "CP",
+        "Candidate": "BRIMBLECOMBE, Wilfred",
+        "Votes": "10316",
+        "Percent": 32.4
+      }
+    ]
+  },
+  "1954": {
+    "title": "Maranoa, QLD   1954",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "RUSSELL, Charles",
+        "Votes": "5906",
+        "Percent": 17.4
+      },
+      {
+        "Party": "CP",
+        "Candidate": "BRIMBLECOMBE, Wilfred",
+        "Votes": "14323",
+        "Percent": 42.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TAYLOR, Eric",
+        "Votes": "13649",
+        "Percent": 40.3
+      }
+    ]
+  },
+  "1955": {
+    "title": "Maranoa, QLD   1955",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "BAUERS, Paul",
+        "Votes": "4035",
+        "Percent": 11.7
+      },
+      {
+        "Party": "CP",
+        "Candidate": "BRIMBLECOMBE, Wilfred",
+        "Votes": "15363",
+        "Percent": 44.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RUSSELL, Charles",
+        "Votes": "15066",
+        "Percent": 43.7
+      }
+    ]
+  },
+  "1958": {
+    "title": "Maranoa, QLD   1958",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "BRIMBLECOMBE, Wildred",
+        "Votes": 18699,
+        "Percent": 51.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BEAUMONT, Leslie",
+        "Votes": 12384,
+        "Percent": 34.3
+      },
+      {
+        "Party": "QLP",
+        "Candidate": "DOHRING, Alfred",
+        "Votes": 5027,
+        "Percent": 13.9
+      }
+    ]
+  },
+  "1961": {
+    "title": "Maranoa, QLD   1961",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "BRIMBLECOMBE, Wilfred",
+        "Votes": 17554,
+        "Percent": 47.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ALEXANDER, Trevor",
+        "Votes": 16390,
+        "Percent": 44.3
+      },
+      {
+        "Party": "QLP",
+        "Candidate": "HURLEY, Bryan",
+        "Votes": 3013,
+        "Percent": 8.2
+      }
+    ]
+  },
+  "1963": {
+    "title": "Maranoa, QLD   1963",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "BRIMBLECOMBE, Wilfred",
+        "Votes": "20649",
+        "Percent": 54.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ALEXANDER, Trevor",
+        "Votes": "15965",
+        "Percent": 42.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "EUNSON, Mervyn",
+        "Votes": "1054",
+        "Percent": 2.8
+      }
+    ]
+  },
+  "1966": {
+    "title": "Maranoa, QLD   1966",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "CORBETT, James",
+        "Votes": 22656,
+        "Percent": 59.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "TONKIN, Jack",
+        "Votes": 11974,
+        "Percent": 31.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "HURLEY, Bryan",
+        "Votes": 3419,
+        "Percent": 9.0
+      }
+    ]
+  },
+  "1969": {
+    "title": "Maranoa, QLD   1969",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "CORBETT, James",
+        "Votes": 23413,
+        "Percent": 55.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BERTOLOTTI, Edward",
+        "Votes": 16283,
+        "Percent": 38.5
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "DAVIS, John",
+        "Votes": 2576,
+        "Percent": 6.1
+      }
+    ]
+  },
+  "1972": {
+    "title": "Maranoa, QLD   1972",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "CORBETT, James",
+        "Votes": 22863,
+        "Percent": 56.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WALKER, Timothy",
+        "Votes": 14615,
+        "Percent": 36.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "GREEN, Harry",
+        "Votes": 2327,
+        "Percent": 5.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DWYER, James",
+        "Votes": 595,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1974": {
+    "title": "Maranoa, QLD   1974",
+    "rows": [
+      {
+        "Party": "CP",
+        "Candidate": "CORBETT, James",
+        "Votes": 30104,
+        "Percent": 68.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SALTAU, Janice",
+        "Votes": 13721,
+        "Percent": 31.3
+      }
+    ]
+  },
+  "1975": {
+    "title": "Maranoa, QLD   1975",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "CORBETT, James",
+        "Votes": 30158,
+        "Percent": 68.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COUPE, Reuben",
+        "Votes": 11962,
+        "Percent": 27.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "STURGESS, Lindsay",
+        "Votes": 1688,
+        "Percent": 3.9
+      }
+    ]
+  },
+  "1977": {
+    "title": "Maranoa, QLD   1977",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "CORBETT, James",
+        "Votes": 41466,
+        "Percent": 68.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KIDMAN, John",
+        "Votes": 14320,
+        "Percent": 23.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WHITWORTH, Betty",
+        "Votes": 2012,
+        "Percent": 3.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CALDWELL, Christopher",
+        "Votes": 1663,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "FOUNTAIN, Maurice",
+        "Votes": 879,
+        "Percent": 1.5
+      }
+    ]
+  },
+  "1980": {
+    "title": "Maranoa, QLD   1980",
+    "rows": [
+      {
+        "Party": "NCP",
+        "Candidate": "CAMERON, Ian",
+        "Votes": 35035,
+        "Percent": 57.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ABBEY, Kenneth",
+        "Votes": 18047,
+        "Percent": 29.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "KERSLAKE, Reginald",
+        "Votes": 5655,
+        "Percent": 9.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BRANNIGAN, Austin",
+        "Votes": 2412,
+        "Percent": 3.9
+      }
+    ]
+  },
+  "1983": {
+    "title": "Maranoa, QLD   1983",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "CAMERON, Ian",
+        "Votes": 39591,
+        "Percent": 62.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KEATS, Warren",
+        "Votes": 19057,
+        "Percent": 30.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BRANNIGAN, Austin",
+        "Votes": 4300,
+        "Percent": 6.8
+      }
+    ]
+  },
+  "1984": {
+    "title": "Maranoa, QLD   1984",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "CAMERON, Ian",
+        "Votes": 38132,
+        "Percent": 62.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SUMMERS, Dave",
+        "Votes": 19084,
+        "Percent": 31.5
+      },
+      {
+        "Party": "AD",
+        "Candidate": "BRANNIGAN, Mick",
+        "Votes": 3384,
+        "Percent": 5.6
+      }
+    ]
+  },
+  "1987": {
+    "title": "Maranoa, QLD   1987",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "CAMERON, Ian",
+        "Votes": 35594,
+        "Percent": 55.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PAROZ, Raymond",
+        "Votes": 20596,
+        "Percent": 32.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CHRISTIE, Bruce",
+        "Votes": 5364,
+        "Percent": 8.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MCCARTHY, Richard",
+        "Votes": 2605,
+        "Percent": 4.1
+      }
+    ]
+  },
+  "1990": {
+    "title": "Maranoa, QLD   1990",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "SCOTT, Bruce",
+        "Votes": 31594,
+        "Percent": 47.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "ADAMS, John",
+        "Votes": 20716,
+        "Percent": 31.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "STONE, John",
+        "Votes": 8373,
+        "Percent": 12.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "HOPKINS, Mary",
+        "Votes": 5567,
+        "Percent": 8.4
+      }
+    ]
+  },
+  "1993": {
+    "title": "Maranoa, QLD   1993",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CLARKE, Gerard",
+        "Votes": "6859",
+        "Percent": 8.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "TURNBULL, Rose",
+        "Votes": "626",
+        "Percent": 0.8
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "SCOTT, Bruce",
+        "Votes": "41502",
+        "Percent": 53.4
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CHAMBERS, Andrew",
+        "Votes": "3703",
+        "Percent": 4.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HOOPER, Brian",
+        "Votes": "2248",
+        "Percent": 2.9
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DUTTON, Danny",
+        "Votes": "2039",
+        "Percent": 2.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "JONES, Anne",
+        "Votes": "19475",
+        "Percent": 25.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MOLES, Sarah",
+        "Votes": "1217",
+        "Percent": 1.6
+      }
+    ]
+  },
+  "1996": {
+    "title": "Maranoa, QLD   1996",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "SCOTT, Bruce",
+        "Votes": 53867,
+        "Percent": 70.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MURRAY, Bob",
+        "Votes": 16066,
+        "Percent": 21.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MAY, Alan",
+        "Votes": 4630,
+        "Percent": 6.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BEATTY, Franklin",
+        "Votes": 1855,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "1998": {
+    "title": "Maranoa, QLD   1998",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "SCOTT, Hon Bruce",
+        "Votes": 34075,
+        "Percent": 45.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "POMMER, Elizabeth",
+        "Votes": 18936,
+        "Percent": 25.1
+      },
+      {
+        "Party": "ON",
+        "Candidate": "CADZOW, Robyn",
+        "Votes": 16892,
+        "Percent": 22.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "GLEESON, Regina",
+        "Votes": 2114,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WHEELDON, Lorraine",
+        "Votes": 2076,
+        "Percent": 2.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MILLER, Peter",
+        "Votes": 243,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2001": {
+    "title": "Maranoa, QLD   2001",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "SCOTT, Hon Bruce",
+        "Votes": 41685,
+        "Percent": 54.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BOWDEN, David",
+        "Votes": 17696,
+        "Percent": 23.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "MCNICHOL, Mark",
+        "Votes": 11429,
+        "Percent": 15.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WILSON, Rhonda",
+        "Votes": 2977,
+        "Percent": 3.9
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NEMETH, Noel",
+        "Votes": 1512,
+        "Percent": 2.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ROLLS, Cindy",
+        "Votes": 600,
+        "Percent": 0.8
+      }
+    ]
+  },
+  "2004": {
+    "title": "Maranoa, QLD   2004",
+    "rows": [
+      {
+        "Party": "NPA",
+        "Candidate": "SCOTT, Hon Bruce",
+        "Votes": 47846,
+        "Percent": 60.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GULEY, Shane",
+        "Votes": 17636,
+        "Percent": 22.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "FERRARO, Santo",
+        "Votes": 3535,
+        "Percent": 4.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MOLONEY, Stephen",
+        "Votes": 3067,
+        "Percent": 3.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BLACK, Philip",
+        "Votes": 2570,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BENHAM, Rick",
+        "Votes": 1654,
+        "Percent": 2.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "RIHAN, Jonathon",
+        "Votes": 1580,
+        "Percent": 2.0
+      },
+      {
+        "Party": "AD",
+        "Candidate": "RIDGE, Greg",
+        "Votes": 903,
+        "Percent": 1.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "KLINGSPORN, David",
+        "Votes": 280,
+        "Percent": 0.3
+      }
+    ]
+  },
+  "2007": {
+    "title": "Maranoa, QLD   2007",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "SCOTT, Hon Bruce",
+        "Votes": 46293,
+        "Percent": 58.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BATHERSBY, Mike",
+        "Votes": 23288,
+        "Percent": 29.5
+      },
+      {
+        "Party": "FF",
+        "Candidate": "TOTENHOFER, David",
+        "Votes": 3034,
+        "Percent": 3.8
+      },
+      {
+        "Party": "ON",
+        "Candidate": "WATSON, Rod",
+        "Votes": 2774,
+        "Percent": 3.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "EAST, Bob",
+        "Votes": 2646,
+        "Percent": 3.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "DICKSON, Alan",
+        "Votes": 1004,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "Maranoa, QLD   2010",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "SCOTT, Hon Bruce",
+        "Votes": 57100,
+        "Percent": 65.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KEATING, Geoff",
+        "Votes": 17398,
+        "Percent": 20.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "NASON, Charles",
+        "Votes": 4597,
+        "Percent": 5.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NEWSON, Grant",
+        "Votes": 4490,
+        "Percent": 5.2
+      },
+      {
+        "Party": "FF",
+        "Candidate": "MCKAY, Greg",
+        "Votes": 3560,
+        "Percent": 4.1
+      }
+    ]
+  },
+  "2013": {
+    "title": "Maranoa, QLD   2013",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "SCOTT, Hon Bruce",
+        "Votes": 51622,
+        "Percent": 57.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CEDRIC-THOMPSON, Nick",
+        "Votes": 14649,
+        "Percent": 16.3
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "BJELKE-PETERSEN, John",
+        "Votes": 12506,
+        "Percent": 13.9
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "WALTON, Rowell",
+        "Votes": 5027,
+        "Percent": 5.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "NEWSON, Grant",
+        "Votes": 2762,
+        "Percent": 3.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SPELLMAN, John",
+        "Votes": 2481,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CLOUSTON, George",
+        "Votes": 861,
+        "Percent": 1.0
+      }
+    ]
+  },
+  "2016": {
+    "title": "Maranoa, QLD   2016",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "LITTLEPROUD, David",
+        "Votes": 44297,
+        "Percent": 49.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KERRIGAN, Dave",
+        "Votes": 16456,
+        "Percent": 18.3
+      },
+      {
+        "Party": "ON",
+        "Candidate": "KEEHN, Lynette",
+        "Votes": 16047,
+        "Percent": 17.9
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "GURNETT, Rick",
+        "Votes": 4306,
+        "Percent": 4.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "HOMPES, Katherine",
+        "Votes": 3056,
+        "Percent": 3.4
+      },
+      {
+        "Party": "FF",
+        "Candidate": "SCHENK, Myfanwy",
+        "Votes": 2905,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ARBUCKLE, Luke",
+        "Votes": 2141,
+        "Percent": 2.4
+      },
+      {
+        "Party": "RUA",
+        "Candidate": "CHURCH, Sherrilyn",
+        "Votes": 841,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2019": {
+    "title": "Maranoa, QLD   2019",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "LITTLEPROUD, Hon David",
+        "Votes": 51950,
+        "Percent": 56.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LITTLE, Linda",
+        "Votes": 14427,
+        "Percent": 15.6
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "MOULDEN, Rosemary",
+        "Votes": 13564,
+        "Percent": 14.6
+      },
+      {
+        "Party": "KAP",
+        "Candidate": "WALLIS, Anthony",
+        "Votes": 4245,
+        "Percent": 4.6
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "SAUNDERS, Julie",
+        "Votes": 3367,
+        "Percent": 3.6
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CHIDLEY, Emmeline",
+        "Votes": 3177,
+        "Percent": 3.4
+      },
+      {
+        "Party": "FACNP",
+        "Candidate": "CHRISTIANSEN, Darren",
+        "Votes": 2030,
+        "Percent": 2.2
+      }
+    ]
+  },
+  "2022": {
+    "title": "Maranoa, QLD   2022",
+    "rows": [
+      {
+        "Party": "NAT",
+        "Candidate": "LITTLEPROUD, Hon David",
+        "Votes": 52382,
+        "Percent": 56.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "KERRIGAN, Dave",
+        "Votes": 14236,
+        "Percent": 15.3
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "KELLY, Mike",
+        "Votes": 11070,
+        "Percent": 11.9
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "MCDONALD, Nathan",
+        "Votes": 6202,
+        "Percent": 6.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "PARKER, Ellisa",
+        "Votes": 4533,
+        "Percent": 4.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "SF&F, Malcolm Richardson",
+        "Votes": 3695,
+        "Percent": 4.0
+      },
+      {
+        "Party": "AFP",
+        "Candidate": "TUNBRIDGE, Brett",
+        "Votes": 997,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2025": {
+    "title": "Maranoa, QLD   2025",
+    "rows": [
+      {
+        "Party": "LNP",
+        "Candidate": "LITTLEPROUD, David",
+        "Votes": 51947,
+        "Percent": 53.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "NEWMAN, Alex",
+        "Votes": 15675,
+        "Percent": 16.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "DUNCAN, Sharon",
+        "Votes": 12018,
+        "Percent": 12.3
+      },
+      {
+        "Party": "GRPF",
+        "Candidate": "DRAPER, Rod",
+        "Votes": 5552,
+        "Percent": 5.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "JOHNSTON, Elizabeth",
+        "Votes": 5032,
+        "Percent": 5.2
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "WHITTLE, John Matthew",
+        "Votes": 2802,
+        "Percent": 2.9
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "CUMES, Jonathan Allen",
+        "Votes": 2764,
+        "Percent": 2.8
+      },
+      {
+        "Party": "LTP",
+        "Candidate": "OFFERDAHL, Michael",
+        "Votes": 1897,
+        "Percent": 1.9
+      }
+    ]
+  }
+}

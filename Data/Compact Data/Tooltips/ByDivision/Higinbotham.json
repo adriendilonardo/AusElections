@@ -1,0 +1,180 @@
+{
+  "1949": {
+    "title": "Higinbotham, VIC   1949",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TIMSON, Frank",
+        "Votes": 22832,
+        "Percent": 53.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FIELD, Francis",
+        "Votes": 19760,
+        "Percent": 46.4
+      }
+    ]
+  },
+  "1951": {
+    "title": "Higinbotham, VIC   1951",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TIMSON, Frank",
+        "Votes": "25493",
+        "Percent": 54.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SOWERBUTTS, Geoffrey",
+        "Votes": "21368",
+        "Percent": 45.6
+      }
+    ]
+  },
+  "1954": {
+    "title": "Higinbotham, VIC   1954",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TIMSON, Frank",
+        "Votes": "30579",
+        "Percent": 54.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SOWERBUTTS, Geoffrey",
+        "Votes": "25537",
+        "Percent": 45.5
+      }
+    ]
+  },
+  "1955": {
+    "title": "Higinbotham, VIC   1955",
+    "rows": [
+      {
+        "Party": "ALPAC",
+        "Candidate": "GAFFY, Francis",
+        "Votes": "4176",
+        "Percent": 10.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "TIMSON, Frank",
+        "Votes": "21251",
+        "Percent": 50.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "COATES, Leslie",
+        "Votes": "16419",
+        "Percent": 39.2
+      }
+    ]
+  },
+  "1958": {
+    "title": "Higinbotham, VIC   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TIMSON, Frank",
+        "Votes": 24770,
+        "Percent": 49.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "LAMB, Edwin",
+        "Votes": 19600,
+        "Percent": 39.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "WARD, Desmond",
+        "Votes": 5665,
+        "Percent": 11.3
+      }
+    ]
+  },
+  "1961": {
+    "title": "Higinbotham, VIC   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CHIPP, Donald",
+        "Votes": 24525,
+        "Percent": 43.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FOWLER, Henry",
+        "Votes": 22991,
+        "Percent": 41.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CAMERON, William",
+        "Votes": 8588,
+        "Percent": 15.3
+      }
+    ]
+  },
+  "1963": {
+    "title": "Higinbotham, VIC   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "CAMERON, William",
+        "Votes": "5965",
+        "Percent": 10.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "CHIPP, Donald",
+        "Votes": "30406",
+        "Percent": 51.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BUTLER, Reginald",
+        "Votes": "22457",
+        "Percent": 38.2
+      }
+    ]
+  },
+  "1966": {
+    "title": "Higinbotham, VIC   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "CHIPP, Donald",
+        "Votes": 30497,
+        "Percent": 51.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BUTLER, Reginald",
+        "Votes": 18667,
+        "Percent": 31.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CAMERON, William",
+        "Votes": 5463,
+        "Percent": 9.2
+      },
+      {
+        "Party": "LRG",
+        "Candidate": "LITTLE, John",
+        "Votes": 3251,
+        "Percent": 5.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "A'MURRAY, John",
+        "Votes": 1561,
+        "Percent": 2.6
+      }
+    ]
+  }
+}

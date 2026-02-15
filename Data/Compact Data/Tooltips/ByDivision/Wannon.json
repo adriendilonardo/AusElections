@@ -1,0 +1,997 @@
+{
+  "1946": {
+    "title": "Wannon, VIC   1946",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCLEOD, Donald",
+        "Votes": 24387,
+        "Percent": 47.3
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MACKINNON, Daniel",
+        "Votes": 15262,
+        "Percent": 29.6
+      },
+      {
+        "Party": "CP",
+        "Candidate": "RODDA, Leonard",
+        "Votes": 11955,
+        "Percent": 23.1
+      }
+    ]
+  },
+  "1949": {
+    "title": "Wannon, VIC   1949",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCLEOD, Donald",
+        "Votes": 16905,
+        "Percent": 47.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MACKINNON, Daniel",
+        "Votes": 13235,
+        "Percent": 36.9
+      },
+      {
+        "Party": "CP",
+        "Candidate": "MARFELL, Helena",
+        "Votes": 5716,
+        "Percent": 15.9
+      }
+    ]
+  },
+  "1951": {
+    "title": "Wannon, VIC   1951",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCLEOD, Donald",
+        "Votes": "18427",
+        "Percent": 51.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "MACKINNON, Daniel",
+        "Votes": "17601",
+        "Percent": 48.9
+      }
+    ]
+  },
+  "1954": {
+    "title": "Wannon, VIC   1954",
+    "rows": [
+      {
+        "Party": "ALP",
+        "Candidate": "MCLEOD, Donald",
+        "Votes": "18509",
+        "Percent": 50.0
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FRASER, Malcolm",
+        "Votes": "18492",
+        "Percent": 50.0
+      }
+    ]
+  },
+  "1955": {
+    "title": "Wannon, VIC   1955",
+    "rows": [
+      {
+        "Party": "ALPAC",
+        "Candidate": "CALLENDER, Terence",
+        "Votes": "6322",
+        "Percent": 15.5
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FRASER, Malcolm",
+        "Votes": "19911",
+        "Percent": 48.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "CUNDY, Roy",
+        "Votes": "14522",
+        "Percent": 35.6
+      }
+    ]
+  },
+  "1958": {
+    "title": "Wannon, VIC   1958",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FRASER, Malcolm",
+        "Votes": 20550,
+        "Percent": 48.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STANFORD, John",
+        "Votes": 15501,
+        "Percent": 36.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CALLANDER, Terence",
+        "Votes": 6614,
+        "Percent": 15.5
+      }
+    ]
+  },
+  "1961": {
+    "title": "Wannon, VIC   1961",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FRASER, Malcolm",
+        "Votes": 20833,
+        "Percent": 48.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "STANFORD, John",
+        "Votes": 15162,
+        "Percent": 35.2
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CALLENDER, Terence",
+        "Votes": 7069,
+        "Percent": 16.4
+      }
+    ]
+  },
+  "1963": {
+    "title": "Wannon, VIC   1963",
+    "rows": [
+      {
+        "Party": "DLP",
+        "Candidate": "CALLANDER, Terence",
+        "Votes": "6549",
+        "Percent": 15.1
+      },
+      {
+        "Party": "LP",
+        "Candidate": "FRASER, Malcolm",
+        "Votes": "22503",
+        "Percent": 51.9
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PRIMMER, Cyril",
+        "Votes": "14307",
+        "Percent": 33.0
+      }
+    ]
+  },
+  "1966": {
+    "title": "Wannon, VIC   1966",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FRASER, Hon Malcolm",
+        "Votes": 23220,
+        "Percent": 53.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "PRIMMER, Cyril",
+        "Votes": 13800,
+        "Percent": 31.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CALLANDER, Terence",
+        "Votes": 6514,
+        "Percent": 15.0
+      }
+    ]
+  },
+  "1969": {
+    "title": "Wannon, VIC   1969",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FRASER, Hon Malcolm",
+        "Votes": 23711,
+        "Percent": 51.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GINIFER, Kenneth",
+        "Votes": 17175,
+        "Percent": 37.1
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "PURCELL, Maurice",
+        "Votes": 5355,
+        "Percent": 11.6
+      }
+    ]
+  },
+  "1972": {
+    "title": "Wannon, VIC   1972",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FRASER, Hon Malcolm",
+        "Votes": 21760,
+        "Percent": 46.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GARTH, Edward",
+        "Votes": 19375,
+        "Percent": 41.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "MCINERNEY, Adrian",
+        "Votes": 3800,
+        "Percent": 8.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CAMERON, Linden",
+        "Votes": 2284,
+        "Percent": 4.8
+      }
+    ]
+  },
+  "1974": {
+    "title": "Wannon, VIC   1974",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FRASER, Hon Malcolm",
+        "Votes": 28117,
+        "Percent": 54.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GARTH, Edward",
+        "Votes": 19133,
+        "Percent": 37.3
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CASANOVA, John",
+        "Votes": 3431,
+        "Percent": 6.7
+      },
+      {
+        "Party": "AP",
+        "Candidate": "HOPGOOD, Peter",
+        "Votes": 581,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "1975": {
+    "title": "Wannon, VIC   1975",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FRASER, Hon Malcolm",
+        "Votes": 33290,
+        "Percent": 63.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILSON, Keith",
+        "Votes": 16521,
+        "Percent": 31.4
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CASANOVA, John",
+        "Votes": 2804,
+        "Percent": 5.3
+      }
+    ]
+  },
+  "1977": {
+    "title": "Wannon, VIC   1977",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FRASER, Rt Hon Malcolm",
+        "Votes": 35640,
+        "Percent": 56.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "FROST, Andrew",
+        "Votes": 19483,
+        "Percent": 31.0
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "CASANOVA, John",
+        "Votes": 4125,
+        "Percent": 6.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "TRAYLING, Thelma",
+        "Votes": 3617,
+        "Percent": 5.8
+      }
+    ]
+  },
+  "1980": {
+    "title": "Wannon, VIC   1980",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FRASER, Rt Hon Malcolm",
+        "Votes": 37680,
+        "Percent": 58.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILSON, Keith",
+        "Votes": 22670,
+        "Percent": 35.1
+      },
+      {
+        "Party": "AD",
+        "Candidate": "KRUGER, Bernhard",
+        "Votes": 2625,
+        "Percent": 4.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "YOUNG, Joseph",
+        "Votes": 1546,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "1983": {
+    "title": "Wannon, VIC   1983",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "FRASER, Rt Hon Malcolm",
+        "Votes": 37792,
+        "Percent": 57.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GENARDINI, Nancy",
+        "Votes": 24359,
+        "Percent": 37.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JEFFREY, Harold",
+        "Votes": 3416,
+        "Percent": 5.2
+      }
+    ]
+  },
+  "1984": {
+    "title": "Wannon, VIC   1984",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAWKER, David",
+        "Votes": 36748,
+        "Percent": 58.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "GENARDINI, Nancy",
+        "Votes": 20130,
+        "Percent": 32.0
+      },
+      {
+        "Party": "NPA",
+        "Candidate": "GEE, Betty",
+        "Votes": 3294,
+        "Percent": 5.2
+      },
+      {
+        "Party": "AD",
+        "Candidate": "MAY, Kathleen",
+        "Votes": 1683,
+        "Percent": 2.7
+      },
+      {
+        "Party": "DLP",
+        "Candidate": "VERHOEF, Bill",
+        "Votes": 1115,
+        "Percent": 1.8
+      }
+    ]
+  },
+  "1987": {
+    "title": "Wannon, VIC   1987",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAWKER, David",
+        "Votes": 38838,
+        "Percent": 60.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WATT, Kevin",
+        "Votes": 21478,
+        "Percent": 33.3
+      },
+      {
+        "Party": "AD",
+        "Candidate": "JENNINGS, Julie",
+        "Votes": 4235,
+        "Percent": 6.6
+      }
+    ]
+  },
+  "1990": {
+    "title": "Wannon, VIC   1990",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAWKER, David",
+        "Votes": 41104,
+        "Percent": 57.0
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "SAWYER, Phillip",
+        "Votes": 22187,
+        "Percent": 30.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "THOMPSON, Allan",
+        "Votes": 6441,
+        "Percent": 8.9
+      },
+      {
+        "Party": "CTA",
+        "Candidate": "WINTER, Terry",
+        "Votes": 2376,
+        "Percent": 3.3
+      }
+    ]
+  },
+  "1993": {
+    "title": "Wannon, VIC   1993",
+    "rows": [
+      {
+        "Party": "IND",
+        "Candidate": "WILSON, David",
+        "Votes": "746",
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HORSHAM, Yasmin",
+        "Votes": "462",
+        "Percent": 0.6
+      },
+      {
+        "Party": "LP",
+        "Candidate": "HAWKER, David",
+        "Votes": "40819",
+        "Percent": 55.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MORROW, Richard",
+        "Votes": "26846",
+        "Percent": 36.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PHILPOT, John",
+        "Votes": "1963",
+        "Percent": 2.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "ANDERSON, Donald",
+        "Votes": "1534",
+        "Percent": 2.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "HEMINGWAY, Les",
+        "Votes": "1234",
+        "Percent": 1.7
+      }
+    ]
+  },
+  "1996": {
+    "title": "Wannon, VIC   1996",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAWKER, David",
+        "Votes": 44695,
+        "Percent": 57.5
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MORROW, Richard",
+        "Votes": 25978,
+        "Percent": 33.4
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LINDOP, Maggie",
+        "Votes": 7051,
+        "Percent": 9.1
+      }
+    ]
+  },
+  "1998": {
+    "title": "Wannon, VIC   1998",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAWKER, David",
+        "Votes": 37570,
+        "Percent": 49.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "VITUE, Mia",
+        "Votes": 23897,
+        "Percent": 31.2
+      },
+      {
+        "Party": "ON",
+        "Candidate": "EDGE, Simon",
+        "Votes": 5889,
+        "Percent": 7.7
+      },
+      {
+        "Party": "AD",
+        "Candidate": "LINDOP, Maggie",
+        "Votes": 4957,
+        "Percent": 6.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCDONALD, Leigh",
+        "Votes": 2427,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'BRIEN, Robert",
+        "Votes": 1824,
+        "Percent": 2.4
+      }
+    ]
+  },
+  "2001": {
+    "title": "Wannon, VIC   2001",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAWKER, David",
+        "Votes": 40366,
+        "Percent": 52.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MORROW, Richard",
+        "Votes": 25648,
+        "Percent": 33.3
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BLAIR, Gillian",
+        "Votes": 2764,
+        "Percent": 3.6
+      },
+      {
+        "Party": "AD",
+        "Candidate": "PACKER, Amanda",
+        "Votes": 2296,
+        "Percent": 3.0
+      },
+      {
+        "Party": "ON",
+        "Candidate": "SCHMIDT, Olive",
+        "Votes": 2138,
+        "Percent": 2.8
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCDONALD, Leigh",
+        "Votes": 1760,
+        "Percent": 2.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "WITNEY, Ricky",
+        "Votes": 1195,
+        "Percent": 1.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'BRIEN, Robert",
+        "Votes": 878,
+        "Percent": 1.1
+      }
+    ]
+  },
+  "2004": {
+    "title": "Wannon, VIC   2004",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAWKER, David",
+        "Votes": 48687,
+        "Percent": 57.8
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCALPINE, Robert",
+        "Votes": 26816,
+        "Percent": 31.8
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "BLAIR, Gillian",
+        "Votes": 3663,
+        "Percent": 4.3
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HAZELTON, Ruth",
+        "Votes": 2508,
+        "Percent": 3.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCDONALD, Leigh",
+        "Votes": 1555,
+        "Percent": 1.8
+      },
+      {
+        "Party": "AD",
+        "Candidate": "WILLSHER, Kerre",
+        "Votes": 806,
+        "Percent": 1.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "BARWICK, Robert",
+        "Votes": 149,
+        "Percent": 0.2
+      }
+    ]
+  },
+  "2007": {
+    "title": "Wannon, VIC   2007",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "HAWKER, Hon David",
+        "Votes": 44834,
+        "Percent": 52.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MOORE, Antony",
+        "Votes": 30852,
+        "Percent": 36.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "OWEN, Lisa",
+        "Votes": 5953,
+        "Percent": 7.0
+      },
+      {
+        "Party": "FF",
+        "Candidate": "PECH, Daniel",
+        "Votes": 3663,
+        "Percent": 4.3
+      }
+    ]
+  },
+  "2010": {
+    "title": "Wannon, VIC   2010",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TEHAN, Dan",
+        "Votes": 38813,
+        "Percent": 46.6
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MCNAMARA, Judith",
+        "Votes": 24502,
+        "Percent": 29.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "OWEN, Lisa",
+        "Votes": 5016,
+        "Percent": 6.0
+      },
+      {
+        "Party": "IND",
+        "Candidate": "PURCELL, James",
+        "Votes": 4652,
+        "Percent": 5.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "RAINSFORD, Katrina",
+        "Votes": 4066,
+        "Percent": 4.9
+      },
+      {
+        "Party": "IND",
+        "Candidate": "LEUTTON, Ralph",
+        "Votes": 2582,
+        "Percent": 3.1
+      },
+      {
+        "Party": "FF",
+        "Candidate": "CONCEPCION, Jahzeel",
+        "Votes": 1795,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MARSH, Allan",
+        "Votes": 1080,
+        "Percent": 1.3
+      },
+      {
+        "Party": "IND",
+        "Candidate": "O'BRIEN, Robert",
+        "Votes": 745,
+        "Percent": 0.9
+      }
+    ]
+  },
+  "2013": {
+    "title": "Wannon, VIC   2013",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TEHAN, Dan",
+        "Votes": 47392,
+        "Percent": 53.7
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BARLING, Michael",
+        "Votes": 26044,
+        "Percent": 29.5
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "EMANUELLE, Tim",
+        "Votes": 5668,
+        "Percent": 6.4
+      },
+      {
+        "Party": "PUP",
+        "Candidate": "FERGUSON, Bradley",
+        "Votes": 3519,
+        "Percent": 4.0
+      },
+      {
+        "Party": "ASP",
+        "Candidate": "JOHNSON, Chris",
+        "Votes": 2455,
+        "Percent": 2.8
+      },
+      {
+        "Party": "FF",
+        "Candidate": "HABERFIELD, Craig",
+        "Votes": 1957,
+        "Percent": 2.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "CORBETT, Therese",
+        "Votes": 1617,
+        "Percent": 1.3
+      }
+    ]
+  },
+  "2016": {
+    "title": "Wannon, VIC   2016",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TEHAN, Hon Dan",
+        "Votes": 47513,
+        "Percent": 53.2
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BARLING, Michael",
+        "Votes": 27411,
+        "Percent": 30.7
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "CAMPBELL, Thomas",
+        "Votes": 7264,
+        "Percent": 8.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "MCCLUSKEY, Michael",
+        "Votes": 4048,
+        "Percent": 4.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ATKINSON, Bernardine",
+        "Votes": 3019,
+        "Percent": 3.4
+      }
+    ]
+  },
+  "2019": {
+    "title": "Wannon, VIC   2019",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TEHAN, Hon Dan",
+        "Votes": 53094,
+        "Percent": 51.1
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "BILLI, Maurice",
+        "Votes": 27150,
+        "Percent": 26.1
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DYSON, Alex",
+        "Votes": 10797,
+        "Percent": 10.4
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "TAYLOR, Zephlyn",
+        "Votes": 6590,
+        "Percent": 6.3
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "WALLACE, Joshua",
+        "Votes": 6258,
+        "Percent": 6.0
+      }
+    ]
+  },
+  "2022": {
+    "title": "Wannon, VIC   2022",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TEHAN, Hon Dan",
+        "Votes": 44948,
+        "Percent": 44.5
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DYSON, Alex",
+        "Votes": 19504,
+        "Percent": 19.3
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "WILSON, Gilbert",
+        "Votes": 19303,
+        "Percent": 19.1
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "MCALLISTER, Hilary",
+        "Votes": 6444,
+        "Percent": 6.4
+      },
+      {
+        "Party": "UAP",
+        "Candidate": "KENSEN, Craige",
+        "Votes": 3308,
+        "Percent": 3.3
+      },
+      {
+        "Party": "PHON",
+        "Candidate": "GRAHAM, Ronnie",
+        "Votes": 3275,
+        "Percent": 3.2
+      },
+      {
+        "Party": "IND",
+        "Candidate": "GARNER, Graham",
+        "Votes": 2346,
+        "Percent": 2.3
+      },
+      {
+        "Party": "LDP",
+        "Candidate": "MEAD, Amanda",
+        "Votes": 1973,
+        "Percent": 2.0
+      }
+    ]
+  },
+  "2025": {
+    "title": "Wannon, VIC   2025",
+    "rows": [
+      {
+        "Party": "LP",
+        "Candidate": "TEHAN, Dan",
+        "Votes": 47312,
+        "Percent": 43.6
+      },
+      {
+        "Party": "IND",
+        "Candidate": "DYSON, Alex",
+        "Votes": 34012,
+        "Percent": 31.4
+      },
+      {
+        "Party": "ALP",
+        "Candidate": "MACKENZIE, Fiona",
+        "Votes": 11438,
+        "Percent": 10.6
+      },
+      {
+        "Party": "ON",
+        "Candidate": "CURTAIN, Leo",
+        "Votes": 4529,
+        "Percent": 4.2
+      },
+      {
+        "Party": "GRN",
+        "Candidate": "GAZZARD, Kate",
+        "Votes": 3427,
+        "Percent": 3.2
+      },
+      {
+        "Party": "HMP",
+        "Candidate": "SWAN, Robbie",
+        "Votes": 3037,
+        "Percent": 2.8
+      },
+      {
+        "Party": "FFP",
+        "Candidate": "ELMES, Lee-Ann",
+        "Votes": 2065,
+        "Percent": 1.9
+      },
+      {
+        "Party": "CYA",
+        "Candidate": "MCCAMISH, Julie Ann",
+        "Votes": 1789,
+        "Percent": 1.7
+      },
+      {
+        "Party": "IND",
+        "Candidate": "ATKINSON, Bernadine",
+        "Votes": 794,
+        "Percent": 0.7
+      }
+    ]
+  }
+}
