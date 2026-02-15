@@ -39,6 +39,30 @@ async function makeDataset(year) {
   }
 }
 
+async function makeDatasetByDivision(division) {
+  try {
+    // Load JSON files for the given division
+    const data = await d3.json(`Data/Compact Data/Colour-Positions/ByDivision/${division}.json`);
+    const tooltipData = await d3.json(`Data/Compact Data/Tooltips/ByDivision/${division}.json`);
+
+    const rows = Object.entries(data).map(([year, value]) => {
+      return {
+        id: `${division}_${year}`,
+        year: +year,
+        division: division,
+        color: value.colour,
+        x: value.x,
+        y: value.y,
+        tooltip: tooltipData[year] || null
+      };
+    });
+    return rows;
+  } catch (error) {
+    console.error(`Error loading data for division ${division}:`, error);
+    return []; // Return empty array on error
+  }
+}
+
 const YEARS = [
     1946, 1949, 
     1951, 1954, 1955, 1958, 
@@ -53,6 +77,7 @@ const YEARS = [
 
 // Data will be loaded on-demand since makeDataset is async
 const DATA_BY_YEAR = new Map();
+const DATA_BY_DIVISION = new Map();
 
 // ---------- SVG + layout ----------
 const svg = d3.select("#chart");
@@ -93,8 +118,32 @@ function projectTernary(d) {
 const g = svg.append("g");
 const gGrid = g.append("g");
 const gFrame = g.append("g");
+const gArrows = g.append("g");
 const gPoints = g.append("g");
 const gLabels = g.append("g");
+
+// Define arrowhead marker
+const defs = svg.append("defs");
+
+// Create multiple arrowhead markers for different colors
+function createArrowMarker(color, id) {
+  const marker = defs.append("marker")
+    .attr("id", id)
+    .attr("viewBox", "0 -5 10 10")
+    .attr("refX", 8)
+    .attr("refY", 0)
+    .attr("markerWidth", 4)
+    .attr("markerHeight", 4)
+    .attr("orient", "auto");
+    
+  marker.append("path")
+    .attr("d", "M0,-5L10,0L0,5")
+    .attr("fill", color)
+    .attr("stroke", "none");
+}
+
+// Create default arrowhead
+createArrowMarker("#666", "arrowhead");
 
 // Background rect to catch “clear selection” clicks
 g.append("rect")
@@ -102,7 +151,12 @@ g.append("rect")
   .attr("width", 920).attr("height", 680)
   .attr("fill", "transparent")
   .lower()
-  .on("click", async () => { selectedId = null; await update(currentYear); });
+  .on("click", async () => { 
+    selectedId = null; 
+    selectedDivision = null;
+    divisionMode = false;
+    await update(currentYear); 
+  });
 
 // ---------- Draw triangle + simple grid ----------
 function drawFrame() {
@@ -158,11 +212,17 @@ yearSelect.selectAll("option")
 
 let currentYear = YEARS[YEARS.length - 1]; // default to most recent year
 let selectedId = null;
+let selectedDivision = null;
+let divisionMode = false;
 
 yearSelect.property("value", currentYear);
 yearSelect.on("change", async (event) => {
   currentYear = +event.target.value;
-  await update(currentYear);
+  if (!divisionMode) {
+    await update(currentYear);
+  } else {
+    await updateDivision(selectedDivision);
+  }
 });
 
 // ---------- Navigation buttons ----------
@@ -184,7 +244,11 @@ prevButton.on("click", async () => {
   if (currentIndex > 0) {
     currentYear = YEARS[currentIndex - 1];
     yearSelect.property("value", currentYear);
-    await update(currentYear);
+    if (!divisionMode) {
+      await update(currentYear);
+    } else {
+      await updateDivision(selectedDivision);
+    }
     updateButtonStates();
   }
 });
@@ -194,7 +258,11 @@ nextButton.on("click", async () => {
   if (currentIndex < YEARS.length - 1) {
     currentYear = YEARS[currentIndex + 1];
     yearSelect.property("value", currentYear);
-    await update(currentYear);
+    if (!divisionMode) {
+      await update(currentYear);
+    } else {
+      await updateDivision(selectedDivision);
+    }
     updateButtonStates();
   }
 });
@@ -252,6 +320,9 @@ async function update(year) {
     
     const data = DATA_BY_YEAR.get(year);
 
+    // Clear arrows in year mode
+    gArrows.selectAll("*").remove();
+
     // Data join with key for smooth transitions
     const sel = gPoints.selectAll("circle")
       .data(data, d => d.id);
@@ -277,8 +348,12 @@ async function update(year) {
     .on("mouseout", hideTooltip)
     .on("click", async (event, d) => {
       event.stopPropagation(); // don't trigger background clear
-      selectedId = (selectedId === d.id) ? null : d.id;
-      await update(currentYear);
+      
+      // Switch to division mode - show all years for this division
+      selectedDivision = d.division;
+      divisionMode = true;
+      selectedId = null;
+      await updateDivision(d.division);
     });
 
   // ENTER + UPDATE merge
@@ -299,6 +374,125 @@ async function update(year) {
   updateButtonStates();
   } catch (error) {
     console.error(`Error updating visualization for year ${year}:`, error);
+  }
+}
+
+async function updateDivision(division) {
+  try {
+    // Load data if not already cached
+    if (!DATA_BY_DIVISION.has(division)) {
+      const data = await makeDatasetByDivision(division);
+      DATA_BY_DIVISION.set(division, data);
+    }
+    
+    const data = DATA_BY_DIVISION.get(division);
+    
+    // Sort data by year to create chronological arrows
+    const sortedData = [...data].sort((a, b) => a.year - b.year);
+    
+    // Create arrows between consecutive years
+    const arrowData = [];
+    for (let i = 0; i < sortedData.length - 1; i++) {
+      const current = sortedData[i];
+      const next = sortedData[i + 1];
+      
+      const x1 = current.x * triW + A.x;
+      const y1 = -current.y * triW + A.y;
+      const x2 = next.x * triW + A.x;
+      const y2 = -next.y * triW + A.y;
+      
+      arrowData.push({
+        id: `arrow_${current.year}_${next.year}`,
+        x1, y1, x2, y2,
+        fromYear: current.year,
+        toYear: next.year,
+        fromColor: current.color,
+        toColor: next.color
+      });
+    }
+    
+    // Render arrows
+    const arrowSel = gArrows.selectAll("path")
+      .data(arrowData, d => d.id);
+    
+    arrowSel.exit()
+      .transition().duration(300)
+      .style("opacity", 0)
+      .remove();
+    
+    const arrowEnter = arrowSel.enter()
+      .append("path")
+      .attr("class", "trajectory-arrow")
+      .attr("fill", "none")
+      .attr("stroke", d => d.fromColor)
+      .attr("stroke-width", 2)
+      .attr("stroke-opacity", 0.7)
+      .attr("marker-end", "url(#arrowhead)")
+      .style("opacity", 0)
+      .on("mousemove", moveTooltip)
+      .on("mouseout", hideTooltip);
+    
+    arrowEnter.merge(arrowSel)
+      .transition().duration(650)
+      .style("opacity", 1)
+      .attr("stroke-width", 2)
+      .attr("d", d => `M${d.x1},${d.y1}L${d.x2},${d.y2}`)
+      .attr("stroke", d => d.toColor)
+      .attr("marker-end", "url(#arrowhead)");
+
+    // Data join with key for smooth transitions
+    const sel = gPoints.selectAll("circle")
+      .data(data, d => d.id);
+
+    // EXIT
+    sel.exit()
+      .transition().duration(450)
+      .attr("r", 0)
+      .style("opacity", 0)
+      .remove();
+
+    // ENTER
+    const enter = sel.enter()
+      .append("circle")
+      .attr("class", "point division-point")
+      .attr("cx", d => d.x*triW + A.x)
+      .attr("cy", d => -d.y*triW + A.y)
+      .attr("r", 0)
+      .attr("fill", d => d.color)
+      .attr("opacity", 1)
+      .on("mouseover", showTooltip)
+      .on("mousemove", moveTooltip)
+      .on("mouseout", hideTooltip)
+      .on("click", async (event, d) => {
+        event.stopPropagation();
+        // Exit division mode and return to year view
+        selectedDivision = null;
+        divisionMode = false;
+        selectedId = null;
+        await update(currentYear);
+      });
+
+    // ENTER + UPDATE merge
+    enter.merge(sel)
+      .transition().duration(650).ease(d3.easeCubicInOut)
+      .attr("cx", d => d.x*triW + A.x)
+      .attr("cy", d => -d.y*triW + A.y)
+      .attr("r", d => d.year === currentYear ? 6 : 4) // Larger radius for current year
+      .attr("fill", d => d.color)
+      .style("opacity", d => 1) // More opaque for current year
+      .attr("stroke", d => "#333")
+      .attr("stroke-width", d => 2);
+
+    // Apply CSS classes
+    gPoints.selectAll("circle")
+      .classed("selected", false)
+      .classed("faded", false)
+      .classed("current-year", d => d.year === currentYear)
+      .classed("historical-year", d => d.year !== currentYear);
+      
+    updateButtonStates();
+  } catch (error) {
+    console.error(`Error updating visualization for division ${division}:`, error);
   }
 }
 

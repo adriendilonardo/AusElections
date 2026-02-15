@@ -16,6 +16,13 @@
     .point { cursor: pointer; stroke: #000; stroke-width: 1px; }
     .point.faded { opacity: 0.12; }
     .point.selected { stroke: #000; stroke-width: 1px; }
+    .point.current-year { stroke: #000; stroke-width: 1px; }
+    .point.historical-year { stroke: #000; stroke-width: 1px; }
+    .point.division-point { cursor: pointer; }
+    
+    .trajectory-arrow {
+      transition: opacity 1s ease;
+    }
 
     .tooltip {
       position: fixed;
@@ -52,6 +59,10 @@
 
     <svg id="chart" viewBox="0 0 920 750" role="img" aria-label="Ternary scatter plot"></svg>
     
+    <div class="hint" style="text-align:center;">
+      Click on any electorate to see its trajectory across all election years with arrows showing the progression.<br>
+      Click background or any point to return to single-year view.
+    </div>
   </div>
 
   <div id="tooltip" class="tooltip"></div>
