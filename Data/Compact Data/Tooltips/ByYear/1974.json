@@ -3140,7 +3140,7 @@
         "Percent": 35.7
       },
       {
-        "Party": NaN,
+        "Party": "NA",
         "Candidate": "HALLETT, John",
         "Votes": 16961,
         "Percent": 31.7
@@ -3175,7 +3175,7 @@
         "Percent": 38.9
       },
       {
-        "Party": NaN,
+        "Party": "NA",
         "Candidate": "MCDONNELL, Terence",
         "Votes": 3051,
         "Percent": 4.9
@@ -3210,7 +3210,7 @@
         "Percent": 37.2
       },
       {
-        "Party": NaN,
+        "Party": "NA",
         "Candidate": "BEST, Terence",
         "Votes": 7967,
         "Percent": 15.0
@@ -3239,7 +3239,7 @@
         "Percent": 35.9
       },
       {
-        "Party": NaN,
+        "Party": "NA",
         "Candidate": "MOOREHOUSE, Peter",
         "Votes": 2136,
         "Percent": 3.5
@@ -3268,7 +3268,7 @@
         "Percent": 41.9
       },
       {
-        "Party": NaN,
+        "Party": "NA",
         "Candidate": "KYROS, George",
         "Votes": 2520,
         "Percent": 5.5
@@ -3303,7 +3303,7 @@
         "Percent": 35.5
       },
       {
-        "Party": NaN,
+        "Party": "NA",
         "Candidate": "MAISEY, Donald",
         "Votes": 14889,
         "Percent": 26.1
@@ -3332,7 +3332,7 @@
         "Percent": 37.7
       },
       {
-        "Party": NaN,
+        "Party": "NA",
         "Candidate": "CRANLEY, Dorothy",
         "Votes": 2487,
         "Percent": 4.2
@@ -3367,7 +3367,7 @@
         "Percent": 46.3
       },
       {
-        "Party": NaN,
+        "Party": "NA",
         "Candidate": "CLARK, Marie",
         "Votes": 2797,
         "Percent": 5.2
@@ -3396,7 +3396,7 @@
         "Percent": 38.9
       },
       {
-        "Party": NaN,
+        "Party": "NA",
         "Candidate": "BENDOTTI, Pietro",
         "Votes": 4087,
         "Percent": 6.6
@@ -3425,7 +3425,7 @@
         "Percent": 41.6
       },
       {
-        "Party": NaN,
+        "Party": "NA",
         "Candidate": "BUNCE, June",
         "Votes": 3430,
         "Percent": 6.2
