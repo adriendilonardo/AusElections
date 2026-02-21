@@ -83,9 +83,11 @@ const DATA_BY_DIVISION = new Map();
 const svg = d3.select("#chart");
 const tooltip = d3.select("#tooltip");
 
-const margin = { top: 30, right: 40, bottom: 40, left: 60 };
-const W = 920 - margin.left - margin.right;
-const H = 680 - margin.top - margin.bottom;
+const margin = { top: 10, right: 10, bottom: 10, left: 10 };
+const totalWidth = svg.node().getBoundingClientRect().width;
+const totalHeight = svg.node().getBoundingClientRect().height;
+const W = totalWidth - margin.left - margin.right;
+const H = totalHeight - margin.top - margin.bottom;
 
 // Equilateral triangle geometry (base width W, height = W*sqrt(3)/2)
 const triW = Math.min(W, 740);
@@ -148,7 +150,7 @@ createArrowMarker("#666", "arrowhead");
 // Background rect to catch “clear selection” clicks
 g.append("rect")
   .attr("x", 0).attr("y", 0)
-  .attr("width", 920).attr("height", 680)
+  .attr("width", totalWidth).attr("height", totalHeight)
   .attr("fill", "transparent")
   .lower()
   .on("click", async () => { 

@@ -5,12 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>AusFedPol Data Visualisation</title>
   <style>
-    body { font-family: system-ui, sans-serif; margin: 20px; }
+    body { font-family: system-ui, sans-serif; margin: 10px; }
     .row { display: flex; gap: 16px; align-items: center; flex-wrap: wrap; }
-    .card { max-width: 980px; padding: 16px; border: 0px solid #ddd; border-radius: 12px; }
-    #chart { width: 900px; max-width: 100%; height: auto; display: block; }
+    .card { max-width: 750px; padding: 8px; border: 0px solid #ddd; border-radius: 8px; }
+    #chart { width: 750px; height: 500px; max-width: 100%; display: block; margin: 0 auto; }
 
-    .triangle { fill: none; stroke: #999; stroke-width: 1.5px; }
+    .triangle { fill: none; stroke: #000000; stroke-width: 1.5px; }
     .grid { fill: none; stroke: #00000080; stroke-width: 1px; }
 
     .point { cursor: pointer; stroke: #000; stroke-width: 1px; }
@@ -28,7 +28,7 @@
       position: fixed;
       pointer-events: none;
       opacity: 0;
-      background: rgba(0,0,0,0.82);
+      background: rgba(0,0,0,0.75);
       color: white;
       padding: 8px 10px;
       border-radius: 8px;
@@ -38,7 +38,7 @@
       max-width: 260px;
     }
 
-    .hint { color: #555; font-size: 13px; margin-top: 10px; }
+    .hint { color: #555; font-size: 13px; margin-top: 10px; width: 750px; max-width: 100%; margin: 10px auto 0; text-align: center; }
     select { padding: 6px 10px; border-radius: 8px; border: 1px solid #ccc; }
   </style>
 </head>
@@ -57,11 +57,11 @@
       </div>
     </div>
 
-    <svg id="chart" viewBox="0 0 920 750" role="img" aria-label="Ternary scatter plot"></svg>
+    <svg id="chart" viewBox="0 0 750 750" role="img" aria-label="Ternary scatter plot"></svg>
     
-    <div class="hint" style="text-align:center;">
+    <div class="hint">
       Click on any electorate to see its trajectory across all election years with arrows showing the progression.<br>
-      Click background or any point to return to single-year view.
+      Click background to return to single-year view.
     </div>
   </div>
 
