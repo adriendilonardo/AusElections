@@ -6,8 +6,14 @@
   <title>AusFedPol Data Visualisation</title>
   <style>
     body { font-family: system-ui, sans-serif; margin: 10px; }
-    .row { display: flex; gap: 16px; align-items: center; flex-wrap: wrap; }
-    .card { max-width: 750px; padding: 8px; border: 0px solid #ddd; border-radius: 8px; }
+    .row { display: flex; gap: 16px; align-items: center; flex-wrap: wrap; justify-content: center;}
+    .panel {  
+      padding: 8px; 
+      border: 2px solid #000000; 
+      border-radius: 8px; 
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      margin: 0 auto;
+    }
     #chart { width: 750px; height: 500px; max-width: 100%; display: block; margin: 0 auto; }
 
     .triangle { fill: none; stroke: #000000; stroke-width: 1.5px; }
@@ -38,32 +44,34 @@
       max-width: 260px;
     }
 
-    .hint { color: #555; font-size: 13px; margin-top: 10px; width: 750px; max-width: 100%; margin: 10px auto 0; text-align: center; }
+    .hint { color: #555; font-size: 13px; margin-top: 10px; width: 500px; max-width: 100%; margin: 10px auto 0; text-align: center; }
     select { padding: 6px 10px; border-radius: 8px; border: 1px solid #ccc; }
   </style>
 </head>
 <body>
-  <div class="card">
+  <div class="panel">
+    <h2 style="text-align: left; margin: 0;">First Preference Votes</h2>
     <div class="row">
-      <!-- <h2 style="margin:0;">Interactive Ternary Scatter (D3)</h2> -->
-
-      <div style="margin-left:auto; display: flex; align-items: center; gap: 8px;">
-        <button id="prevYear" style="padding: 6px 10px; border-radius: 8px; border: 1px solid #ccc; background: white; cursor: pointer;">‹</button>
-        <label>
-          Year:
-          <select id="yearSelect"></select>
-        </label>
-        <button id="nextYear" style="padding: 6px 10px; border-radius: 8px; border: 1px solid #ccc; background: white; cursor: pointer;">›</button>
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <label>Year: </label>
+        <button id="prevYear" style="padding: 6px 10px; border-radius: 8px; border: 1px solid #ccc; background: white; cursor: pointer;">←</button>
+        <select id="yearSelect"></select>
+        
+        <button id="nextYear" style="padding: 6px 10px; border-radius: 8px; border: 1px solid #ccc; background: white; cursor: pointer;">→</button>
       </div>
     </div>
 
     <svg id="chart" viewBox="0 0 750 750" role="img" aria-label="Ternary scatter plot"></svg>
     
-    <div class="hint">
+    <!-- <div class="hint">
       Click on any electorate to see its trajectory across all election years with arrows showing the progression.<br>
       Click background to return to single-year view.
-    </div>
+    </div> -->
   </div>
+
+  <!-- <div class="panel"> 
+
+  </div> -->
 
   <div id="tooltip" class="tooltip"></div>
 

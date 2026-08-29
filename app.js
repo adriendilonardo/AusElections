@@ -194,13 +194,13 @@ function drawFrame() {
   });
 
   // Corner labels for Australian politics
-  gLabels.append("text").attr("x", A.x - 10).attr("y", A.y + 20).attr("text-anchor", "end").text("Labor");
-  gLabels.append("text").attr("x", B.x + 10).attr("y", B.y + 20).attr("text-anchor", "start").text("Coalition");
+  gLabels.append("text").attr("x", A.x - 12).attr("y", A.y + 12).attr("text-anchor", "end").text("Labor");
+  gLabels.append("text").attr("x", B.x + 12).attr("y", B.y + 12).attr("text-anchor", "start").text("Coalition");
   gLabels.append("text").attr("x", C.x).attr("y", C.y - 12).attr("text-anchor", "middle").text("Others");
 
-  // Axis hints
-  gLabels.append("text").attr("x", (A.x + B.x) / 2).attr("y", A.y + 40).attr("text-anchor", "middle").attr("fill", "#666")
-    .text("First preference vote distribution by party");
+  // // Axis hints
+  // gLabels.append("text").attr("x", (A.x + B.x) / 2).attr("y", A.y + 40).attr("text-anchor", "middle").attr("fill", "#666")
+  //   .text("First preference vote distribution by party");
 }
 drawFrame();
 
