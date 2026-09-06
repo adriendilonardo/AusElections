@@ -8,9 +8,15 @@
    - Data sourced from Australian Electoral Commission historical results
 */
 
+// -----------------------------------------------------------------------------
+// DATA LOADING
+// This function loads the chart coordinates and tooltip text for one election year.
+// The returned array is the shape the rest of the script expects: one object per
+// electorate, with x/y positions that will be plotted on the ternary chart.
+// -----------------------------------------------------------------------------
 async function makeDataset(year) {
   try {
-    // Load JSON file for the given year
+    // Load the position data and tooltip data for the selected year.
     const data = await d3.json(`Data/Compact Data/Colour-Positions/ByYear/${year}.json`)
     const tooltipData = await d3.json(`Data/Compact Data/Tooltips/ByYear/${year}.json`);
 
@@ -39,9 +45,14 @@ async function makeDataset(year) {
   }
 }
 
+// -----------------------------------------------------------------------------
+// DIVISION MODE DATA
+// When a user clicks a point, the chart switches from "all electorates for one year"
+// to "all years for one electorate". This function loads that historical sequence.
+// -----------------------------------------------------------------------------
 async function makeDatasetByDivision(division) {
   try {
-    // Load JSON files for the given division
+    // Load the historical position data for one division across many years.
     const data = await d3.json(`Data/Compact Data/Colour-Positions/ByDivision/${division}.json`);
     const tooltipData = await d3.json(`Data/Compact Data/Tooltips/ByDivision/${division}.json`);
 
@@ -63,6 +74,8 @@ async function makeDatasetByDivision(division) {
   }
 }
 
+// The script works with a fixed list of election years. This is used by the
+// dropdown, the previous/next buttons, and the active year state.
 const YEARS = [
     1946, 1949, 
     1951, 1954, 1955, 1958, 
@@ -75,11 +88,18 @@ const YEARS = [
     2022, 2025
 ];
 
-// Data will be loaded on-demand since makeDataset is async
+// Cache data after it has been fetched once so the browser does not have to
+// reload the same JSON files every time the user changes views.
 const DATA_BY_YEAR = new Map();
 const DATA_BY_DIVISION = new Map();
 
-// ---------- SVG + layout ----------
+// -----------------------------------------------------------------------------
+// SVG + LAYOUT
+// The chart is drawn inside the existing HTML element with id "chart". D3
+// selects it and then creates a group for each layer: grid, frame, arrows, points,
+// and labels. The ternary triangle is drawn using simple coordinates instead of
+// a true charting library, which is why the geometry is defined manually here.
+// -----------------------------------------------------------------------------
 const svg = d3.select("#chart");
 const tooltip = d3.select("#tooltip");
 
@@ -89,7 +109,8 @@ const totalHeight = svg.node().getBoundingClientRect().height;
 const W = totalWidth - margin.left - margin.right;
 const H = totalHeight - margin.top - margin.bottom;
 
-// Equilateral triangle geometry (base width W, height = W*sqrt(3)/2)
+// A ternary plot uses an equilateral triangle. The width and height of the
+// triangle are calculated here so the points can be positioned correctly.
 const triW = Math.min(W, 740);
 const triH = triW * Math.sqrt(3) / 2;
 
@@ -109,14 +130,21 @@ svg.append("image")
   .attr("preserveAspectRatio", "none")
   .lower();
 
-// Barycentric -> 2D projection for a+b+c=1
+// Each point in the data represents a composition of three percentages that sum to 1:
+// Labor (a), Coalition (b), and Others (c). This conversion turns those ternary
+// coordinates into screen coordinates for plotting on the triangle.
 function projectTernary(d) {
   const x = d.a * A.x + d.b * B.x + d.c * C.x;
   const y = d.a * A.y + d.b * B.y + d.c * C.y;
   return { x, y };
 }
 
-// Layers
+// Group layers help keep the chart organised:
+// - grid: faint ternary guides
+// - frame: the triangle border and labels
+// - arrows: movement between years for a single division
+// - points: all election results plotted as circles
+// - labels: text like "Labor", "Coalition", "Others"
 const g = svg.append("g");
 const gGrid = g.append("g");
 const gFrame = g.append("g");
@@ -160,9 +188,13 @@ g.append("rect")
     await update(currentYear); 
   });
 
-// ---------- Draw triangle + simple grid ----------
+// -----------------------------------------------------------------------------
+// FRAME DRAWING
+// This function draws the triangle boundary, the guide lines, and the corner labels.
+// These are static, so they are created once at startup and then left in place.
+// -----------------------------------------------------------------------------
 function drawFrame() {
-  // Triangle outline
+  // Triangle outline: the base of the ternary chart.
   gFrame.append("path")
     .attr("class", "triangle")
     .attr("d", `M${A.x},${A.y} L${B.x},${B.y} L${C.x},${C.y} Z`);
@@ -204,7 +236,12 @@ function drawFrame() {
 }
 drawFrame();
 
-// ---------- UI: year dropdown ----------
+// -----------------------------------------------------------------------------
+// USER INTERFACE STATE
+// This area manages the current selected year and whether the chart is in a regular
+// year view or a division-history view. The variables below are shared by the UI
+// controls and the rendering functions.
+// -----------------------------------------------------------------------------
 const yearSelect = d3.select("#yearSelect");
 yearSelect.selectAll("option")
   .data(YEARS)
@@ -227,7 +264,11 @@ yearSelect.on("change", async (event) => {
   }
 });
 
-// ---------- Navigation buttons ----------
+// -----------------------------------------------------------------------------
+// PREVIOUS / NEXT YEAR CONTROLS
+// These buttons move through the election years in order. They also disable
+// themselves at the start and end of the available timeline.
+// -----------------------------------------------------------------------------
 const prevButton = d3.select("#prevYear");
 const nextButton = d3.select("#nextYear");
 
@@ -272,8 +313,11 @@ nextButton.on("click", async () => {
 // Initialize button states
 updateButtonStates();
 
-// ---------- Tooltip helpers ----------
-
+// -----------------------------------------------------------------------------
+// TOOLTIP HELPERS
+// Tooltips are generated from the loaded JSON and shown when the user hovers over a
+// point or arrow. They display the election details for that electorate.
+// -----------------------------------------------------------------------------
 function showTooltip(event, d) {
   const rows = (d.tooltip.rows || []).map(p =>
     `<tr>
@@ -311,10 +355,15 @@ function hideTooltip(event, d) {
   tooltip.style("opacity", 0);
 }
 
-// ---------- Update / render with transitions ----------
+// -----------------------------------------------------------------------------
+// YEAR VIEW RENDERER
+// This is the main chart update for a single election year. It fetches the data,
+// removes the division-history arrows, and redraws all electorate points for that
+// selected year with animated entrances and exits.
+// -----------------------------------------------------------------------------
 async function update(year) {
   try {
-    // Load data if not already cached
+    // Load data only once per year and cache it in memory.
     if (!DATA_BY_YEAR.has(year)) {
       const data = await makeDataset(year);
       DATA_BY_YEAR.set(year, data);
@@ -322,10 +371,10 @@ async function update(year) {
     
     const data = DATA_BY_YEAR.get(year);
 
-    // Clear arrows in year mode
+    // Clear arrows in year mode because this view is not showing a path through time.
     gArrows.selectAll("*").remove();
 
-    // Data join with key for smooth transitions
+    // Data join with key for smooth transitions.
     const sel = gPoints.selectAll("circle")
       .data(data, d => d.id);
 
@@ -379,9 +428,15 @@ async function update(year) {
   }
 }
 
+// -----------------------------------------------------------------------------
+// DIVISION HISTORY RENDERER
+// When a user clicks a point, this function switches the chart into a historical
+// view for that one electorate. It draws the path over time and highlights the
+// current year as the focus point.
+// -----------------------------------------------------------------------------
 async function updateDivision(division) {
   try {
-    // Load data if not already cached
+    // Load and cache the full time series for this electorate.
     if (!DATA_BY_DIVISION.has(division)) {
       const data = await makeDatasetByDivision(division);
       DATA_BY_DIVISION.set(division, data);
@@ -389,10 +444,10 @@ async function updateDivision(division) {
     
     const data = DATA_BY_DIVISION.get(division);
     
-    // Sort data by year to create chronological arrows
+    // Sort by year so the arrows move forward chronologically.
     const sortedData = [...data].sort((a, b) => a.year - b.year);
     
-    // Create arrows between consecutive years
+    // Build line segments between each consecutive election year for this division.
     const arrowData = [];
     for (let i = 0; i < sortedData.length - 1; i++) {
       const current = sortedData[i];
